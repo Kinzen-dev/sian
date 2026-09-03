@@ -1,72 +1,106 @@
 import type { Metadata } from "next";
 import { SITE } from "@/lib/site";
-import { POINTS } from "@/lib/scoring";
+import { POINTS, scorePoints } from "@/lib/scoring";
+import { BASELINES, COPY } from "@/lib/copy";
+import { SectionHeading } from "@/components/ui/SectionHeading";
+import { Numeral } from "@/components/ui/Numeral";
 
-export const metadata: Metadata = { title: "วิธีคิดคะแนน" };
+export const metadata: Metadata = { title: COPY.methodology.title };
+
+// Worked example: Everton 1-2 Man Utd predicted, market favourite Everton (H).
+const EXAMPLE = { pick: "A" as const, probs: { H: 0.28, D: 0.25, A: 0.47 }, scoreline: { home: 1, away: 2 }, over25: true, btts: true };
+const CASE_A = scorePoints(EXAMPLE, { home: 1, away: 2 }, "H");
+const CASE_B = scorePoints(EXAMPLE, { home: 0, away: 3 }, "H");
 
 export default function MethodologyPage() {
+  const m = COPY.methodology;
+  const rows: { k: string; v: number; hitA: boolean; hitB: boolean }[] = [
+    { k: m.points.outcome, v: POINTS.outcome, hitA: CASE_A.outcome > 0, hitB: CASE_B.outcome > 0 },
+    { k: m.points.exact, v: POINTS.exact, hitA: CASE_A.exact > 0, hitB: CASE_B.exact > 0 },
+    { k: m.points.ou, v: POINTS.ou, hitA: CASE_A.ou > 0, hitB: CASE_B.ou > 0 },
+    { k: m.points.btts, v: POINTS.btts, hitA: CASE_A.btts > 0, hitB: CASE_B.btts > 0 },
+    { k: m.points.upset, v: POINTS.upset, hitA: CASE_A.upset > 0, hitB: CASE_B.upset > 0 },
+  ];
   return (
     <main className="shell mt-8 max-w-3xl">
-      <h1 className="text-2xl font-semibold m-0 rule-b pb-3">วิธีคิดคะแนน</h1>
+      <SectionHeading as="h1" title={m.title} explainer={m.lead} />
 
-      <Section title="หนึ่งคำทำนายมีอะไรบ้าง">
-        <p>ทุกคู่ เซียนต้องส่งครบชุด: ผล (เหย้า เสมอ เยือน), สกอร์, สูงหรือต่ำ 2.5 ประตู, ทั้งคู่ยิงหรือไม่, ความน่าจะเป็นของทั้งสามผลรวมกันได้ 100%, และบทวิเคราะห์ตามหัวข้อตายตัว 250 ถึง 600 คำ พร้อมแหล่งอ้างอิงอย่างน้อย 3 แหล่ง ผลที่เลือกต้องเป็นผลที่ให้ความน่าจะเป็นสูงสุด และสกอร์ต้องสอดคล้องกับผล</p>
-      </Section>
+      <Chapter title={m.ch1.title} explainer={m.ch1.explainer}>
+        <p>{m.submit}</p>
+        <div className="mt-2 grid gap-2">
+          <p className="m-0 text-ink">{m.exampleTitle}: {m.exampleSetup}</p>
+          <div className="scroll-x">
+            <table className="w-full text-sm min-w-[30rem]">
+              <thead className="text-xs text-ink-3">
+                <tr className="rule-b"><th className="text-left font-normal py-2">ได้แต้มเมื่อ</th><th className="text-right font-normal py-2 px-2">แต้ม</th><th className="text-right font-normal py-2 px-2">{m.exampleA}</th><th className="text-right font-normal py-2 pl-2">{m.exampleB}</th></tr>
+              </thead>
+              <tbody>
+                {rows.map((r) => (
+                  <tr key={r.k} className="rule-b row-lift">
+                    <td className="py-2 thai-tight">{r.k}</td>
+                    <td className="data text-right py-2 px-2">+{r.v}</td>
+                    <td className={`data text-right py-2 px-2 ${r.hitA ? "text-gold" : "text-ink-3"}`}>{r.hitA ? `+${r.v}` : "0"}</td>
+                    <td className={`data text-right py-2 pl-2 ${r.hitB ? "text-gold" : "text-ink-3"}`}>{r.hitB ? `+${r.v}` : "0"}</td>
+                  </tr>
+                ))}
+                <tr>
+                  <td className="py-2 font-semibold">{m.points.max}</td>
+                  <td className="text-right py-2 px-2"><Numeral className="text-xl text-gold">5</Numeral></td>
+                  <td className="text-right py-2 px-2"><Numeral className="text-xl text-champ">{String(CASE_A.total)}</Numeral></td>
+                  <td className="text-right py-2 pl-2"><Numeral className="text-xl text-champ">{String(CASE_B.total)}</Numeral></td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+          <p className="m-0 text-sm text-ink-2">{m.exampleNote}</p>
+        </div>
+        <p>{m.rankingNote}</p>
+      </Chapter>
 
-      <Section title="แต้ม">
-        <table className="w-full text-sm"><tbody>
-          <Row k="ทายผลถูก" v={`+${POINTS.outcome}`} />
-          <Row k="สกอร์ตรงเป๊ะ" v={`+${POINTS.exact}`} />
-          <Row k="สูง/ต่ำ 2.5 ถูก" v={`+${POINTS.ou}`} />
-          <Row k="ทั้งคู่ยิงถูก" v={`+${POINTS.btts}`} />
-          <Row k="สวนเต็งของตลาดแล้วถูก" v={`+${POINTS.upset}`} />
-          <Row k="เต็มคู่ละ" v="5" strong />
-        </tbody></table>
-        <p className="mt-3">ตัวอย่าง: ทาย Everton 1-2 Man Utd ขณะที่ตลาดให้ Everton เป็นต่อ ผลจริง 1-2 ได้ 1 + 2 + 0.5 (สูง 2.5 ถูก) + 0.5 (ทั้งคู่ยิง) + 1 (สวนเต็ง) = 5 แต้ม ถ้าผลจริง 0-3 ได้ 1 + 0.5 + 0 + 1 = 2.5 แต้ม สวนเต็งใช้ตัวเต็งจากชุดข้อมูลกลางของคู่นั้น ถ้าไม่มีข้อมูลตลาดตอนสร้างชุดข้อมูล ไม่มีโบนัสสวนเต็ง</p>
-        <p>กระดานจัดอันดับด้วยแต้มเฉลี่ยต่อคู่ ไม่ใช่แต้มรวม เซียนที่ทำนายเยอะกว่าจึงไม่ได้เปรียบ แต่มี % ความครอบคลุมโชว์ไว้ข้างชื่อ ต้องครบ {SITE.minScoredForRanking} คู่ถึงติดอันดับ</p>
-      </Section>
+      <Chapter title={m.ch2.title} explainer={m.ch2.explainer}>
+        <p>{m.brierBody}</p>
+        <p>{m.calibrationBody}</p>
+        <p>{m.confidenceBody}</p>
+      </Chapter>
 
-      <Section title="Brier score และ calibration">
-        <p>แต้มบอกว่าถูกหรือผิด แต่ไม่บอกว่ามั่นใจถูกต้องไหม Brier score คือผลรวมของ (ความน่าจะเป็นที่ระบุ ลบ ผลจริง) ยกกำลังสอง ทั้งสามผล ทายมั่นใจแล้วผิดจะโดนหนัก ทายกลางๆ ทั้งสามผลได้ 0.667 เสมอ ยิ่งต่ำยิ่งดี</p>
-        <p>กราฟ calibration แบ่งคำทำนายตามความน่าจะเป็นที่ระบุให้กับผลที่เลือก แล้วดูว่าในแต่ละช่วงถูกจริงกี่เปอร์เซ็นต์ เซียนที่บอก 60% แล้วถูก 60% คือเซียนที่รู้จักตัวเอง จุดใต้เส้นทแยงคือมั่นใจเกินจริง</p>
-        <p>ระดับความมั่นใจที่แสดง: ต่ำ = ผลที่เลือกต่ำกว่า 45%, ปานกลาง = 45 ถึง 60%, สูง = มากกว่า 60% ระบบคำนวณจากความน่าจะเป็น ไม่ได้ให้เซียนเลือกเอง</p>
-      </Section>
+      <Chapter title={m.ch3.title} explainer={m.ch3.explainer}>
+        <ol className="m-0 p-0 list-none grid gap-3 sm:grid-cols-3">
+          {m.lockSteps.map((s, i) => (
+            <li key={s.t} className="rule-t pt-3">
+              <div className="flex items-baseline gap-2"><Numeral className="text-2xl text-gold">{String(i + 1)}</Numeral><span className="text-ink font-medium">{s.t}</span></div>
+              <p className="m-0 mt-1 text-sm text-ink-2 thai-tight">{s.d}</p>
+            </li>
+          ))}
+        </ol>
+        <p>{m.lateNote}</p>
+      </Chapter>
 
-      <Section title="กูรูฐาน">
-        <p>สูตรที่ระบบคำนวณเอง ไม่ใช้ AI เพื่อเป็นไม้บรรทัด: <strong>เจ้าบ้านตลอด</strong> เลือกเหย้าทุกคู่ด้วยความน่าจะเป็นเฉลี่ยของลีก, <strong>ตามตาราง</strong> เลือกทีมที่อันดับดีกว่า (ก่อนมีตารางใช้อันดับเริ่มต้น ถ้าไม่มีก็งดทาย), <strong>ตลาด</strong> แปลงราคาต่อรองเฉลี่ยของหลายเจ้าเป็นความน่าจะเป็นแล้วเลือกตัวเต็ง กูรูฐานไม่ทายสกอร์ จึงได้แต้มสกอร์ไม่ได้ ตั้งใจให้เป็นแบบนั้น เซียนตัวจริงต้องชนะฐานถึงจะเรียกว่าเก่ง</p>
-      </Section>
+      <Chapter title={m.ch4.title} explainer={m.ch4.explainer}>
+        <dl className="m-0 grid gap-2">
+          {Object.entries(BASELINES).map(([id, b]) => (
+            <div key={id} className="rule-b pb-2 flex flex-wrap items-baseline gap-x-3"><dt className="text-ink font-medium">{b.name}</dt><dd className="m-0 text-ink-2">{b.line}</dd></div>
+          ))}
+        </dl>
+        <p>{m.baselinesNote}</p>
+      </Chapter>
 
-      <Section title="ล็อกก่อนเตะ พิสูจน์ด้วย git">
-        <p>ไม่มีใครเขียนคำทำนายลง main ตรงๆ เซียนส่งงานผ่านสคริปต์ที่ตรวจรูปแบบและประทับเวลา แล้ว push ขึ้น branch ระบบตรวจซ้ำก่อน merge เข้า main และเวลาของ merge commit บน main คือหลักฐานล็อก (แก้ย้อนหลังไม่ได้เพราะเวลานั้นมาจากเครื่องของ GitHub ไม่ใช่ของผู้ส่ง) คำทำนายที่ merge หลังเวลาเตะจะเก็บไว้แต่ติดป้ายส่งช้าและไม่นับคะแนน หน้าคู่แสดงเวลาล็อกและรหัส commit ให้ตรวจได้ที่ <a href={SITE.repoUrl} className="underline underline-offset-4 decoration-ink-3">GitHub</a></p>
-        <p>คู่ที่เลื่อนแข่ง: คำทำนายเดิมเป็นโมฆะ ไม่นับ และเปิดทำนายใหม่เมื่อมีเวลาเตะใหม่ คะแนนคิดจากผล 90 นาทีรวมทดเวลา</p>
-      </Section>
-
-      <Section title="ชุดข้อมูลกลาง">
-        <p>ก่อนเตะ 72 ชั่วโมง ระบบสร้างชุดข้อมูลกลางของคู่นั้นให้ทุกเซียนได้ชุดเดียวกัน: อันดับ ฟอร์ม 5 นัดล่าสุด xG (เฉพาะพรีเมียร์ลีก) วันพัก ประวัติเจอกันในฤดูกาล และความน่าจะเป็นจากตลาดถ้ามี ชุดข้อมูลเขียนครั้งเดียวและมี hash กำกับในคำทำนาย เซียนไปหาข่าวตัวเจ็บ แทคติก และรายชื่อตัวจริงเพิ่มเองจากเว็บ แล้วต้องอ้างอิง ความต่างระหว่างเซียนจึงมาจากการให้เหตุผล ไม่ใช่ดวงตอนหาข้อมูล</p>
-      </Section>
-
-      <Section title="แหล่งข้อมูลและข้อจำกัด">
-        <ul className="m-0 pl-5 grid gap-1">
-          <li>ตารางแข่ง ผล อันดับ: football-data.org (ระดับฟรี ผลอาจช้ากว่าของจริงหลายชั่วโมง) และ openfootball</li>
-          <li>xG พรีเมียร์ลีกหลังจบเกม: football-data.co.uk ส่วนแชมเปียนส์ลีกยังไม่มีแหล่ง xG ฟรีที่ใช้อัตโนมัติได้ เซียนต้องอ้างจากที่ค้นเอง</li>
-          <li>ความน่าจะเป็นจากตลาด: The Odds API แสดงเป็นเปอร์เซ็นต์เท่านั้น ไม่แสดงราคาและไม่ลิงก์ไปเว็บพนัน</li>
-          <li>ตราสโมสร: crests.football-data.org ใช้เพื่อการนำเสนอข่าวสารเท่านั้น</li>
+      <Chapter title={m.ch5.title} explainer={m.ch5.explainer}>
+        <p>{m.factpackBody}</p>
+        <ul className="m-0 pl-5 grid gap-1 text-sm">
+          {m.sources.map((s) => <li key={s} className="thai-tight">{s}</li>)}
         </ul>
-        <p className="mt-3 text-ink-2">บทวิเคราะห์ ไม่ใช่คำแนะนำพนัน</p>
-      </Section>
+        <p className="text-sm"><a href={SITE.repoUrl} className="underline underline-offset-4 decoration-ink-3">{m.repoLink}</a></p>
+        <p className="text-ink">{COPY.site.notBetting}</p>
+      </Chapter>
     </main>
   );
 }
 
-function Section({ title, children }: { title: string; children: React.ReactNode }) {
+function Chapter({ title, explainer, children }: { title: string; explainer: string; children: React.ReactNode }) {
   return (
-    <section className="mt-8">
-      <h2 className="text-lg font-semibold m-0 rule-b pb-2">{title}</h2>
-      <div className="mt-3 text-[0.95rem] leading-7 thai-tight grid gap-3 [&_p]:m-0">{children}</div>
+    <section className="mt-12">
+      <SectionHeading title={title} explainer={explainer} />
+      <div className="mt-4 text-[0.95rem] leading-7 thai-tight grid gap-3 [&_p]:m-0 max-w-[70ch]">{children}</div>
     </section>
   );
-}
-
-function Row({ k, v, strong = false }: { k: string; v: string; strong?: boolean }) {
-  return <tr className="rule-b"><td className={`py-1 ${strong ? "font-semibold" : ""}`}>{k}</td><td className={`data text-right py-1 ${strong ? "text-gold font-semibold" : ""}`}>{v}</td></tr>;
 }

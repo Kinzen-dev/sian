@@ -7,8 +7,8 @@ import "@fontsource/jetbrains-mono/600.css";
 import "@fontsource/barlow-condensed/600.css";
 import "@fontsource/barlow-condensed/700.css";
 import "./globals.css";
-import { SiteHeader } from "@/components/shell/SiteHeader";
-import { SiteFooter } from "@/components/shell/SiteFooter";
+import { SiteHeader } from "@/components/nav/SiteHeader";
+import { SiteFooter } from "@/components/layout/SiteFooter";
 import { SITE } from "@/lib/site";
 
 export const metadata: Metadata = {

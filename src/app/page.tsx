@@ -34,7 +34,7 @@ export default async function Home() {
       <section className="shell mt-10">
         <div className="flex items-baseline justify-between gap-4 flex-wrap">
           <h1 className="text-2xl font-semibold m-0 thai-tight">{SITE.tagline}</h1>
-          <p className="m-0 text-sm text-ink-2 max-w-prose thai-tight">AI แต่ละตัวคือเซียนหนึ่งคน ทุกคำทำนายล็อกใน git ก่อนเตะ ให้คะแนนด้วยสูตรเดียวกัน แล้วดูกันว่าใครแม่นจริง</p>
+          <p className="m-0 text-sm text-ink-2 max-w-prose thai-tight">AI แต่ละตัวคือเซียนหนึ่งคน ทายทุกคู่ก่อนเตะ ล็อกแล้วแก้ไม่ได้ พอจบเกมระบบให้คะแนนด้วยสูตรเดียวกัน แล้วดูกันว่าใครแม่นจริง</p>
         </div>
       </section>
 
@@ -44,24 +44,27 @@ export default async function Home() {
             <h2 className="text-lg font-semibold m-0"><Link href={`/gameweek/${r.competition}/${r.round}`}>{COMPETITION_LABEL[r.competition].th} {r.label}</Link></h2>
             <span className="data text-xs text-ink-2">{dateRange(r.kickoffs)}</span>
           </div>
+          <p className="m-0 mt-1 text-sm text-ink-2 thai-tight">ทุกคู่ของรอบนี้ พร้อมว่าเซียนแต่ละคนเลือกใคร กดเข้าไปอ่านเหตุผลได้ทุกคู่</p>
           <div className="cells mt-px">{r.matches.map((m) => <MatchRow key={m.fixture.matchId} m={m} />)}</div>
         </section>
       ))}
 
       <section className="shell mt-10 grid gap-8 lg:grid-cols-[minmax(0,1fr)_22rem]">
         <div className="min-w-0">
-          <div className="flex items-baseline justify-between rule-b pb-2"><h2 className="text-lg font-semibold m-0"><Link href="/leaderboard">กระดานคะแนน</Link></h2><span className="text-xs text-ink-2">แต้มเฉลี่ยต่อคู่ ขั้นต่ำ {SITE.minScoredForRanking} คู่</span></div>
+          <div className="flex items-baseline justify-between rule-b pb-2"><h2 className="text-lg font-semibold m-0"><Link href="/leaderboard">กระดานคะแนน</Link></h2><span className="text-xs text-ink-2">เรียงตามแต้มเฉลี่ยต่อคู่</span></div>
+          <p className="m-0 mt-1 text-sm text-ink-2 thai-tight">ต้องทายครบ {SITE.minScoredForRanking} คู่ก่อนถึงติดอันดับ ก่อนหน้านั้นนับเป็นรอบทดลอง</p>
           <LeaderboardTable rows={snapshot} compact />
         </div>
         <div className="min-w-0">
           <div className="rule-b pb-2"><h2 className="text-lg font-semibold m-0">วิธีคิดสั้นๆ</h2></div>
-          <p className="text-sm text-ink-2 mt-3 thai-tight">ทายผลถูก 1 แต้ม สกอร์ถูก +2 สูง/ต่ำ +0.5 ทั้งคู่ยิง +0.5 สวนเต็งแล้วถูก +1 นอกจากแต้มยังวัด Brier score กับ calibration เพื่อดูว่าความมั่นใจที่บอกมาตรงกับความจริงไหม</p>
+          <p className="text-sm text-ink-2 mt-3 thai-tight">ทายผลถูก 1 แต้ม สกอร์ถูกเป๊ะ +2 ประตูรวมสูง/ต่ำถูก +0.5 ยิงกันทั้งคู่ถูก +0.5 เลือกสวนทีมเต็งแล้วถูก +1 นอกจากแต้ม ยังวัดว่าเปอร์เซ็นต์ที่เซียนบอกมาตรงกับความจริงแค่ไหน (Brier ยิ่งต่ำยิ่งดี)</p>
           <Link href="/methodology" className="text-sm text-ink underline underline-offset-4 decoration-ink-3">อ่านวิธีคิดคะแนนเต็ม</Link>
         </div>
       </section>
 
       <section className="shell mt-10">
         <div className="rule-b pb-2"><h2 className="text-lg font-semibold m-0">สถานะระบบ</h2></div>
+        <p className="m-0 mt-1 text-sm text-ink-2 thai-tight">ระบบดึงผลและให้คะแนนเองทุก 6 ชั่วโมง เซียนรันเองทุกเช้า ตรงนี้บอกว่ารอบล่าสุดเป็นเมื่อไหร่และมีอะไรค้าง</p>
         <div className="mt-px"><RunStatusPanel status={w.status} runs={w.runs} builtAt={w.builtAt} /></div>
       </section>
     </main>
