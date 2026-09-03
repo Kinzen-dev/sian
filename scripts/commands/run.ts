@@ -25,8 +25,8 @@ export function pendingPredictions(guruId: string, now: string, windowHours: num
 export function runStart(opts: { guru?: string; harness?: string; mode?: string; displayName?: string; now: string; windowHours?: number }): number {
   if (!opts.guru || !GuruId.safeParse(opts.guru).success) { console.error("run start: --guru <modelId> is required (the model ID your harness reports, e.g. claude-fable-5-1)"); return 1; }
   if (!opts.harness) { console.error("run start: --harness is required (claude-code, claude-code-routine, codex-cli, cursor, other)"); return 1; }
-  const mode = (opts.mode ?? "predict") as "predict" | "review";
-  if (mode !== "predict" && mode !== "review") { console.error("run start: --mode predict|review"); return 1; }
+  const mode = (opts.mode ?? "predict") as "predict" | "review" | "probe";
+  if (mode !== "predict" && mode !== "review" && mode !== "probe") { console.error("run start: --mode predict|review|probe"); return 1; }
   const displayName = opts.displayName ?? displayNameFor(opts.guru);
   const profile = ensureGuru({
     guruId: opts.guru, displayName, kind: "model", modelId: opts.guru, harnesses: [opts.harness],
@@ -36,7 +36,9 @@ export function runStart(opts: { guru?: string; harness?: string; mode?: string;
   const windowHours = opts.windowHours ?? 48;
   saveRunState({ runId, guruId: opts.guru, harness: opts.harness, mode, startedAt: opts.now, finishedAt: null, submitted: [], skipped: [], errors: [], model: { id: profile.modelId, displayName: profile.displayName }, windowHours });
 
-  if (mode === "predict") {
+  if (mode === "probe") {
+    console.log(JSON.stringify({ runId, guruId: opts.guru, mode, node: process.version, cwd: process.cwd(), env: { hasFootballDataToken: Boolean(process.env.FOOTBALL_DATA_TOKEN), hasOddsKey: Boolean(process.env.ODDS_API_KEY) } }, null, 2));
+  } else if (mode === "predict") {
     const all = pendingPredictions(opts.guru, opts.now, windowHours);
     const pending = all.filter((p) => p.factpack && !p.predicted);
     const noPack = all.filter((p) => !p.factpack && !p.predicted).map((p) => p.matchId);
