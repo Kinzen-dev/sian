@@ -1,7 +1,7 @@
 {
   "active": true,
   "automation": "routine",
-  "descriptionTh": "",
+  "descriptionTh": "โมเดล Claude Fable 5.1 ของ Anthropic เซียนคนแรกของ SIAN อ่านชุดข้อมูลกลางแล้วค้นข่าวสดเอง เขียนเป็นไทย ให้เหตุผลเชิงฟุตบอลก่อนตัวเลข และรีวิวทุกคู่ที่ทายพลาด",
   "displayName": "Claude Fable 5.1",
   "guruId": "claude-fable-5-1",
   "harnesses": [
