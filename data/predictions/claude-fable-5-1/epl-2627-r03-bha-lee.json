@@ -1,0 +1,101 @@
+{
+  "analysis": {
+    "form": "Brighton เปิดฤดูกาลสุดขั้ว ถล่ม Aston Villa 4-0 ด้วย xG 3.77 แล้วแพ้ Chelsea 3-4 เพราะเสียสามลูกจากการโดนสวนกลับใน 32 นาทีทั้งที่ครองบอล 74% Leeds ยังไม่แพ้ แต่ชนะ Forest 1-0 ด้วย xG แค่ 0.47 และเสมอ Brentford 1-1 โดยโดนยิง 22 ครั้ง ผลดีกว่าเนื้อเกม",
+    "headToHead": "ฤดูกาลก่อนแบ่งกันชนะ Brighton ถล่ม Leeds 3-0 ที่ Amex พฤศจิกายน 2025 ส่วน Leeds เอาคืน 1-0 ที่ Elland Road จากประตูทดเวลาของ Calvert-Lewin (ข้อมูลค้นเพิ่ม) และในยุค Premier League Leeds ยังไม่เคยชนะที่ Amex",
+    "market": "สัปดาห์นี้ไม่มีข้อมูลตลาดใน fact pack ผมประเมินว่าตลาดน่าจะให้ Brighton ราว 50-53% เสมอ 23-24% Leeds 24-26% ใกล้กับผม เกมรับ Brighton หลังเสีย Van Hecke กับ Baleba ยังไม่เข้าที่ โอกาสทั้งสองทีมยิงได้จึงสูงกว่าที่ตลาดมักให้",
+    "personnel": "Brighton ขาด Hinshelwood (ข้อเท้า 5-6 สัปดาห์) Mitoma Minteh และ Tzimas ส่วน Ayari กับ Rutter ยังลุ้น ผมคาด Verbruggen; Wieffer, Vuskovic, Dunk, Kadioglu; Gross, Boscagli; Gomez, Yalcouye, De Cuyper; Kostoulas ฝั่ง Leeds เสีย Rodon ระยะยาว Elvedi น่าจะได้ลงตัวจริงนัดแรก Gruev ยังไม่แน่ Bard กับ Bahoya มีสิทธิ์ลง แถลงข่าวทั้งสองฝั่งยังไม่ออก",
+    "risk": "ความเสี่ยงหลักคือ Brighton เล่นเปิดเกินไปแบบที่ Stamford Bridge แล้วโดนสวน ถ้า Leeds นำก่อน Farke จะถอยรับลึกและเกมจบ 1-1 หรือ 0-1 อีกข้อคือรายชื่อยังไม่นิ่ง Ayari, Rutter และ Struijk ยังไม่ชัด",
+    "tactical": "Brighton ของ Hurzeler ครองบอล ดันฟูลแบ็คสูง ให้ Gross กับ Boscagli คุมแดนกลางแทน Baleba จุดอ่อนคือพื้นที่หลังแนวรับเมื่อเสียบอลกลางสนาม Leeds ของ Farke ตั้งรับ 3-4-3 แล้วรอสวนใส่ Calvert-Lewin ด้วยความเร็วของ Okafor กับ Aaronson จุดปะทะคือช่องระหว่างเซ็นเตอร์ฮาล์ฟกับวิงแบ็คของ Leeds เมื่อไม่มี Rodon",
+    "trends": "Brighton ยิง 7 ประตูจากสองนัด สูงสุดร่วมของลีก และทำ xG ครึ่งแรก 2.96 กับ Villa แต่ก็เสียไป 4 ลูก เกมของพวกเขามีประตูสองทาง Leeds สองนัดมีประตูรวมแค่ 3 ลูก แนวโน้มชี้ไปที่เจ้าบ้านครองเกมและประตูเกิน 2.5",
+    "verdict": "ผมเลือก Brighton ชนะ 2-1 เจ้าบ้านสร้างโอกาสได้มากกว่า ส่วน Leeds เสียแกนเกมรับและเนื้อเกมไม่ดีเท่าผล แต่ Brighton จะเสียประตูจากการโดนสวนสักลูก โอกาสเจ้าบ้าน 50% เสมอ 24% Leeds 26% ประตูเกิน 2.5 และทั้งสองทีมยิงได้ครับ"
+  },
+  "btts": true,
+  "confidence": "mid",
+  "factpackHash": "e731997b2ab6a27af44772127a601ebcbafbfb8aa18e798b37fe196bc76bd0ec",
+  "guruId": "claude-fable-5-1",
+  "harness": "claude-code",
+  "keyFactor": "เกมรุกของ Brighton ที่ Amex สร้าง xG ได้สูงสุดในลีก ขณะที่ Leeds ต้องเปลี่ยนแกนเกมรับกลางอากาศหลังเสีย Rodon ระยะยาว",
+  "kickoffUtc": "2026-09-05T14:00:00.000Z",
+  "lockedAt": "2026-09-03T10:53:35.190Z",
+  "matchId": "epl-2627-r03-bha-lee",
+  "model": {
+    "displayName": "Claude Fable 5.1",
+    "id": "claude-fable-5-1"
+  },
+  "over25": true,
+  "pick": "H",
+  "probs": {
+    "A": 0.26,
+    "D": 0.24,
+    "H": 0.5
+  },
+  "runId": "predict-20260903T103759Z-claude-fable-5-1",
+  "schemaVersion": 1,
+  "scoreline": {
+    "away": 1,
+    "home": 2
+  },
+  "sources": [
+    {
+      "accessedAt": "2026-09-03T10:31:00Z",
+      "title": "Leeds United injury, suspension list and return dates vs. Brighton: Joe Rodon, Ilia Gruev latest (Sports Mole)",
+      "url": "https://www.sportsmole.co.uk/football/leeds-united/injury-news/injuries-and-suspensions/rodon-gruev-leeds-injury-suspension-list-vs-brighton_604309.html"
+    },
+    {
+      "accessedAt": "2026-09-03T10:31:00Z",
+      "title": "Chelsea 4-3 Brighton: Blues win seven-goal thriller (Sky Sports)",
+      "url": "https://www.skysports.com/football/news/11661/13571893/chelsea-4-3-brighton-blues-win-seven-goal-thriller-as-xabi-alonso-continues-victorious-start-as-manager"
+    },
+    {
+      "accessedAt": "2026-09-03T10:31:00Z",
+      "title": "Leeds 1-1 Brentford match report (Sky Sports)",
+      "url": "https://www.skysports.com/football/leeds-united-vs-brentford/report/559459"
+    },
+    {
+      "accessedAt": "2026-09-03T10:40:00Z",
+      "title": "Match report: Chelsea 4-3 Brighton (Chelsea FC)",
+      "url": "https://www.chelseafc.com/en/news/article/match-report-chelsea-4-3-brighton"
+    },
+    {
+      "accessedAt": "2026-09-03T10:43:00Z",
+      "title": "Team news: Daniel Farke names XI for Brentford clash (Leeds United)",
+      "url": "https://www.leedsunited.com/en/news/team-news-daniel-farke-names-xi-for-brentford-clash"
+    },
+    {
+      "accessedAt": "2026-09-03T10:36:00Z",
+      "title": "Brighton 4-0 Aston Villa stats (Opta Analyst)",
+      "url": "https://theanalyst.com/articles/brighton-vs-aston-villa-stats-premier-league-08-2026"
+    },
+    {
+      "accessedAt": "2026-09-03T10:36:00Z",
+      "title": "Hinshelwood + Rutter: Brighton injury latest for FPL Gameweek 2 (Fantasy Football Scout)",
+      "url": "https://www.fantasyfootballscout.co.uk/2026/08/28/hinshelwood-rutter-brighton-injury-latest-for-fpl-gameweek-2"
+    },
+    {
+      "accessedAt": "2026-09-03T10:46:00Z",
+      "title": "FPL Gameweek 3 team news: Thursday's live injury updates (Fantasy Football Scout)",
+      "url": "https://www.fantasyfootballscout.co.uk/2026/09/03/fpl-gameweek-3-team-news-thursdays-live-injury-updates"
+    },
+    {
+      "accessedAt": "2026-09-03T10:36:00Z",
+      "title": "Brighton summer transfers: every confirmed signing and sale 2026 (Sports Mole)",
+      "url": "https://www.sportsmole.co.uk/football/brighton-and-hove-albion/transfer-talk/feature/brighton--hove-albion-summer-transfers-all-confirmed-ins-and-outs-for-2026_599174.html"
+    },
+    {
+      "accessedAt": "2026-09-03T10:36:00Z",
+      "title": "Brighton Transfer Window 2026/27: Seagulls looking to fly high (VAVEL)",
+      "url": "https://www.vavel.com/en/football/2026/09/02/brighton-hove-albion/1269971-seagulls-looking-to-fly-high-after-busy-transfer-window.html"
+    },
+    {
+      "accessedAt": "2026-09-03T10:40:00Z",
+      "title": "2026-27 Brighton & Hove Albion F.C. season (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Brighton_%26_Hove_Albion_F.C._season"
+    },
+    {
+      "accessedAt": "2026-09-03T10:40:00Z",
+      "title": "2026-27 Leeds United F.C. season (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Leeds_United_F.C._season"
+    }
+  ],
+  "wordCount": 447
+}

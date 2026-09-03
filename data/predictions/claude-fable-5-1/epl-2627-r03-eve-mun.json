@@ -1,0 +1,106 @@
+{
+  "analysis": {
+    "form": "Everton เก็บ 4 แต้มแต่ตัวเลขไม่สวย ชนะ Crystal Palace 2-0 ทั้งที่แพ้ xG 1.12 ต่อ 1.96 และเสมอ Bournemouth 1-1 จากลูกตั้งเตะทดเวลา รวมสร้าง xG 2.96 เสีย 4.11 ฝั่ง Man Utd แพ้ Hull 0-2 ทั้งที่ชนะ xG 1.83 ต่อ 1.01 ก่อนถล่ม Ipswich 5-2 ด้วย 33 ช็อต xG 4.56 แต่เกมรับยังเสีย xG 2.01 ให้ทีมน้องใหม่",
+    "headToHead": "แฟกต์แพ็กไม่มีข้อมูล จากการค้นเพิ่ม สองนัดล่าสุดจบ 1-0 ทั้งคู่ Everton ชนะที่ Old Trafford เมื่อพฤศจิกายน 2025 ด้วยสิบคน ส่วนที่ Hill Dickinson เมื่อกุมภาพันธ์ 2026 Sesko ลงจากสำรองมายิงชัย ทั้งสองเกมรัดกุม ตัดสินกันจังหวะเดียว",
+    "market": "สัปดาห์นี้ไม่มีข้อมูลตลาด ถ้าประเมินเอง ตลาดน่าจะให้ Man Utd ราว 48 เปอร์เซ็นต์ เสมอ 25 Everton 27 ผมมองใกล้เคียง แต่ให้ประตูรวมสูงกว่าที่ตลาดมักให้เกมของ Moyes เพราะแนวรับ United ยังรั่ว",
+    "personnel": "Everton ตลาดยับเยิน ขาย Ndiaye ให้ Man City ปล่อย Beto และ Iroegbunam ได้เพียง Maitland-Niles กับ Grealish ยืมตัว Nørgaard เจ็บยาว Hackney ยังไม่แน่ คาดว่า Barry นำหน้าโดยมี Dewsbury-Hall Johnson และ Grealish หนุน ฝั่ง Man Utd ขาด Baleba Ugarte Diallo de Ligt Mount และ Heaton แต่ตัวจริงชัดจากเกม Ipswich โดยมี Sesko เป็นตัวเปลี่ยนเกม ยังไม่มีรายชื่อยืนยัน",
+    "risk": "สองนัดหลังจบ 1-0 ทั้งคู่ ถ้า Moyes ล็อกเกมสำเร็จและ Pickford เล่นดี 0-0 หรือ 1-1 เกิดได้จริง และหาก Tarkowski ยิงลูกนิ่งได้ก่อน United ต้องเจาะบล็อกต่ำแบบที่ล้มเหลวที่ Hull",
+    "tactical": "Moyes ยืน 4-2-3-1 ตั้งรับลึก พึ่งลูกตั้งเตะกับสวนกลับ Tarkowski กับ Branthwaite คือภัยลูกนิ่งที่ตรงจุดอ่อน Man Utd ซึ่งเสียสองลูกตั้งเตะให้ Hull Carrick ใช้ 4-2-3-1 Tielemans กับ Mainoo คุมแดนกลาง Fernandes ถอยมาเชื่อมเกมให้ Mbeumo Rashford และ Cunha จุดปะทะคือแบ็กซ้าย Shaw ที่โดน Ipswich ทะลวงซ้ำ ส่วนแบ็กขวา Everton หลัง Patterson ย้ายออกคือช่องให้ United เล่น",
+    "trends": "Everton ที่ Hill Dickinson ฤดูกาลที่แล้วชนะ 6 เสมอ 5 แพ้ 8 ไม่ใช่ป้อมปราการ Man Utd จบอันดับ 3 ด้วย 71 แต้ม และเก็บคลีนชีตที่นี่เมื่อกุมภาพันธ์ Barry ยิง 4 ประตูรวมทุกรายการ วันพักไม่ต่างกัน United มี Sabah วันพฤหัส แต่เป็นคู่แข่งอ่อนสุด ไม่ต้องหมุนตัว",
+    "verdict": "Man Utd ชนะ 1-2 เกมรุกที่สร้าง xG เกิน 3 ต่อนัดจะเจาะแนวรับที่เสียโอกาสมากทุกเกม Everton ได้ประตูจากลูกตั้งเตะ แต่ไม่พอเมื่อขาด Ndiaye"
+  },
+  "btts": true,
+  "confidence": "mid",
+  "factpackHash": "cf2079f04543bf007860cf3e636471605beab1b788edbedaa3d62e14c501c983",
+  "guruId": "claude-fable-5-1",
+  "harness": "claude-code",
+  "keyFactor": "เกมรุก Man Utd ที่สร้าง xG 6.39 ในสองนัดเจอแนวรับ Everton ที่เสีย xG เกิน 1.9 ทุกนัดและเพิ่งเสีย Ndiaye คนสร้างเกมสวนกลับไป",
+  "kickoffUtc": "2026-09-06T13:00:00.000Z",
+  "lockedAt": "2026-09-03T10:49:12.031Z",
+  "matchId": "epl-2627-r03-eve-mun",
+  "model": {
+    "displayName": "Claude Fable 5.1",
+    "id": "claude-fable-5-1"
+  },
+  "over25": true,
+  "pick": "A",
+  "probs": {
+    "A": 0.47,
+    "D": 0.25,
+    "H": 0.28
+  },
+  "runId": "predict-20260903T103759Z-claude-fable-5-1",
+  "schemaVersion": 1,
+  "scoreline": {
+    "away": 2,
+    "home": 1
+  },
+  "sources": [
+    {
+      "accessedAt": "2026-09-03T10:36:00Z",
+      "title": "Everton vs Manchester United predicted lineup, injuries (updated 2 Sept 2026) - Starting11",
+      "url": "https://starting11.com/fixtures/everton-vs-manchester-united"
+    },
+    {
+      "accessedAt": "2026-09-03T10:40:00Z",
+      "title": "Manchester United complete late transfer after Deadline Day as deal confirmed - Yahoo Sports (3 Sept 2026)",
+      "url": "https://sports.yahoo.com/articles/manchester-united-complete-transfer-deadline-150908624.html"
+    },
+    {
+      "accessedAt": "2026-09-03T10:40:00Z",
+      "title": "Everton fans 'in open revolt' after Deadline Day transfer chaos - FootballTransfers (2 Sept 2026)",
+      "url": "https://www.footballtransfers.com/en/transfer-news/uk-premier-league/2026/09/everton-fans-in-open-revolt-after-deadline-day-transfer-chaos"
+    },
+    {
+      "accessedAt": "2026-09-03T10:40:00Z",
+      "title": "Everton set for contract talks with Harrison Armstrong - The Hard Tackle (3 Sept 2026)",
+      "url": "https://thehardtackle.com/transfer-news/2026/09/03/everton-set-for-contract-talks-with-harrison-armstrong/"
+    },
+    {
+      "accessedAt": "2026-09-03T10:43:00Z",
+      "title": "ToffeeWeb news archive 30 Aug to 3 Sept 2026 (Ndiaye, Beto, Patterson, Grealish, Maitland-Niles)",
+      "url": "https://www.toffeeweb.com/season/26-27/news/"
+    },
+    {
+      "accessedAt": "2026-09-03T10:38:00Z",
+      "title": "Man United 5-2 Ipswich game analysis - ESPN (30 Aug 2026)",
+      "url": "https://www.espn.com/soccer/report/_/gameId/401879293"
+    },
+    {
+      "accessedAt": "2026-09-03T10:40:00Z",
+      "title": "Manchester United 5 v 2 Ipswich Town lineup and stats - MUFCInfo (30 Aug 2026)",
+      "url": "https://www.mufcinfo.com/manupag/match_data/match_sql.php?my_match_date=2026-08-30"
+    },
+    {
+      "accessedAt": "2026-09-03T10:38:00Z",
+      "title": "Hull City 2-0 Man Utd: Carrick's side stunned by set pieces - Sky Sports (23 Aug 2026)",
+      "url": "https://www.skysports.com/football/hull-city-vs-manchester-united/559447"
+    },
+    {
+      "accessedAt": "2026-09-03T10:38:00Z",
+      "title": "Bournemouth 1-1 Everton: What Moyes and Tarkowski said - Yahoo Sports (29 Aug 2026)",
+      "url": "https://sports.yahoo.com/articles/bournemouth-1-1-everton-moyes-170241788.html"
+    },
+    {
+      "accessedAt": "2026-09-03T10:38:00Z",
+      "title": "Manchester United injury list: latest updates and return dates - Global Goal Post (26 Aug 2026)",
+      "url": "https://www.globalgoalpost.com/news/manchester-united/manchester-united-injury-list-latest-updates-and-return-dates"
+    },
+    {
+      "accessedAt": "2026-09-03T10:43:00Z",
+      "title": "Everton 0-1 Man United game analysis, 23 Feb 2026 - ESPN",
+      "url": "https://www.espn.com/soccer/report/_/gameId/740856"
+    },
+    {
+      "accessedAt": "2026-09-03T10:43:00Z",
+      "title": "2025-26 Everton F.C. season (home record) - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2025%E2%80%9326_Everton_F.C._season"
+    },
+    {
+      "accessedAt": "2026-09-03T10:43:00Z",
+      "title": "2026-27 Manchester United F.C. season (squad, fixtures, Champions League) - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Manchester_United_F.C._season"
+    }
+  ],
+  "wordCount": 461
+}

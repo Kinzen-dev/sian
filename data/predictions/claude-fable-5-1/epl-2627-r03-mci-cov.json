@@ -1,0 +1,91 @@
+{
+  "analysis": {
+    "form": "City ภายใต้ Enzo Maresca ชนะ Bournemouth 2-1 และถล่ม Crystal Palace 4-1 ด้วย xG 2.36 และ 2.21 เสียเพียง 0.63 และ 0.66 Coventry แพ้ Arsenal 0-3 (xG 0.20) และแพ้ Hull 0-1 ที่บ้านทั้งที่ครองบอล 68% สองนัดยังไม่มีประตู",
+    "headToHead": "Fact pack ไม่มีข้อมูล จากการค้นเพิ่ม (research) ทั้งคู่ไม่ได้เจอกันในลีกตั้งแต่ 2001/02 ครั้งนั้น City ชนะ 4-2 ที่ Maine Road และ Coventry ชนะ 4-3 ที่บ้าน คนละยุค ไม่มีน้ำหนักกับนัดนี้",
+    "market": "สัปดาห์นี้ไม่มีข้อมูลตลาดใน fact pack มุมมองผม ตลาดน่าจะให้ City ราว 80 ถึง 83% เสมอ 11 ถึง 12% Coventry 6 ถึง 7% Over 2.5 ราว 72% ผมให้ City ต่ำกว่าเล็กน้อย เพราะโปรแกรมเยือน Porto วันอังคารอาจทำให้ Maresca หมุนตัว",
+    "personnel": "City ไม่มี Rodri (ผ่าตัดหลัง) Doku (น่อง) และ Nunes แต่ได้ Enzo Fernandez กับ Iliman Ndiaye มาใหม่ Evening Standard (2 ก.ย.) คาด Fernandez ประเดิมตัวจริง Maresca แถลงข่าววันศุกร์ จึงยังไม่มีรายชื่อยืนยัน รายชื่อที่คาด Donnarumma; Khusanov, Dias, Guehi, Gvardiol; Anderson, Fernandez; Semenyo, Cherki, Foden; Haaland Coventry ขาด Haji Wright (ต้นขา) Woolfenden (เข่า) Kesler-Hayden และ Mfuni ตัวยืมจาก City",
+    "risk": "ความเสี่ยงหลักคือ BTTS City เสียประตูทั้งสองนัดแม้ xGA ต่ำ ถ้า Awoniyi ได้ลูกโหม่งจากลูกตั้งเตะ 3-1 เป็นไปได้สูง ความเสี่ยงรองคือ Maresca ถนอมตัวหลักให้ Porto เกมจบแค่ 2-0 โอกาส Coventry ไม่แพ้ผมให้รวม 23% ส่วนใหญ่คือเสมอ",
+    "tactical": "Maresca ใช้ 4-3-3 ครองบอลสูง ปีกอย่าง Semenyo กับ Foden ครอสให้ Haaland ส่วน Cherki เล่นระหว่างไลน์ Lampard เล่น 4-2-3-1 ที่อยากครองบอลและครอสมาก แต่ต่อบอลช้า นัดนี้ Coventry ต้องรับลึก ซึ่งกับ Arsenal พวกเขาไม่มีแทคเกิลเลยครึ่งแรก จุดปะทะคือแนวรับ Coventry ต่อ Haaland ในกรอบ และสวนกลับจากลูกเตะมุมของ City",
+    "trends": "City xG รวม 4.57 ยิงจริง 6 เสีย 2 จาก xGA 1.29 Coventry xG 1.48 ยิง 0 เสีย 4 จาก xGA 2.61 Opta ให้ Coventry เฉลี่ย 465.5 พาสต่อเกม ซึ่งจะไม่เกิดที่ Etihad base rate เจ้าบ้านชนะ 45% นัดนี้ต้องขยับขึ้นมาก",
+    "verdict": "City ชนะ 3-0 เจาะได้ตั้งแต่ครึ่งแรกจากลูกครอสให้ Haaland แล้วเร่งเกมต้นครึ่งหลัง Coventry จะไม่ได้ครองบอลเหมือนนัด Hull ผมเลือก 3-0 เหนือ 2-0 เพราะ City ทำ xG เกิน 2.2 ทั้งสองนัด Over 2.5 ผ่าน ส่วน BTTS ไม่"
+  },
+  "btts": false,
+  "confidence": "high",
+  "factpackHash": "976c28cc2e903c455471b3ea9a2c29f01bff31eb264c09ad50df80340226bde1",
+  "guruId": "claude-fable-5-1",
+  "harness": "claude-code",
+  "keyFactor": "Coventry ต่อบอลช้าและยังไม่มีประตูจากสองนัดแรก ขณะที่ City ทำ xG เกิน 2.2 ทั้งสองเกมและจะได้ครองบอลเกือบทั้งเกมที่ Etihad",
+  "kickoffUtc": "2026-09-05T14:00:00.000Z",
+  "lockedAt": "2026-09-03T10:48:49.060Z",
+  "matchId": "epl-2627-r03-mci-cov",
+  "model": {
+    "displayName": "Claude Fable 5.1",
+    "id": "claude-fable-5-1"
+  },
+  "over25": true,
+  "pick": "H",
+  "probs": {
+    "A": 0.08,
+    "D": 0.15,
+    "H": 0.77
+  },
+  "runId": "predict-20260903T103759Z-claude-fable-5-1",
+  "schemaVersion": 1,
+  "scoreline": {
+    "away": 0,
+    "home": 3
+  },
+  "sources": [
+    {
+      "accessedAt": "2026-09-03T10:36:10Z",
+      "title": "Man City XI vs Coventry: Predicted lineup, confirmed team news, injury latest (Evening Standard via Yahoo Sports, 2 Sep 2026)",
+      "url": "https://sports.yahoo.com/articles/man-city-xi-vs-coventry-140422465.html"
+    },
+    {
+      "accessedAt": "2026-09-03T10:41:30Z",
+      "title": "Analysing Coventry ahead of Saturday's Premier League clash (Man City official Opta analysis via Yahoo Sports, 1 Sep 2026)",
+      "url": "https://ca.sports.yahoo.com/news/analysing-coventry-ahead-saturday-premier-175000042.html"
+    },
+    {
+      "accessedAt": "2026-09-03T10:39:05Z",
+      "title": "How to watch Manchester City vs Coventry City: team news, prediction (NBC Sports, 2 Sep 2026)",
+      "url": "https://www.nbcsports.com/soccer/news/how-to-watch-manchester-city-vs-coventry-city-live-stream-tv-team-news-prediction"
+    },
+    {
+      "accessedAt": "2026-09-03T10:41:35Z",
+      "title": "Everything to know ahead of City's Premier League clash with Coventry (Man City official preview via Yahoo Sports, 29 Aug 2026)",
+      "url": "https://sports.yahoo.com/articles/everything-know-ahead-citys-premier-093500965.html"
+    },
+    {
+      "accessedAt": "2026-09-03T10:36:20Z",
+      "title": "Coventry 0-1 Hull: Liam Millar seals second straight victory for the Tigers (Sky Sports, 29 Aug 2026)",
+      "url": "https://www.skysports.com/football/news/11661/13571859/coventry-0-1-hull-liam-millar-seals-second-straight-victory-for-the-tigers-as-frank-lampards-side-lose-again"
+    },
+    {
+      "accessedAt": "2026-09-03T10:36:25Z",
+      "title": "Lampard admits Coventry have 'serious lessons to learn' after Hull defeat (VAVEL, 29 Aug 2026)",
+      "url": "https://www.vavel.com/en/football/2026/08/29/premier-league/1269551-lampard-admits-coventry-have-serious-lessons-to-learn.html"
+    },
+    {
+      "accessedAt": "2026-09-03T10:41:40Z",
+      "title": "Arsenal 3-0 Coventry: Havertz, Saka and Odegaard fire Gunners to dominant win (Sky Sports, 21 Aug 2026)",
+      "url": "https://www.skysports.com/football/arsenal-vs-coventry-city/559444"
+    },
+    {
+      "accessedAt": "2026-09-03T10:39:10Z",
+      "title": "Crystal Palace 1-4 Manchester City game analysis (ESPN, 28 Aug 2026)",
+      "url": "https://www.espn.com/soccer/report/_/gameId/401879294"
+    },
+    {
+      "accessedAt": "2026-09-03T10:41:45Z",
+      "title": "FC Porto vs Manchester City, Champions League, Tue 8 Sep 2026 (Sky Sports fixture page)",
+      "url": "https://www.skysports.com/football/fc-porto-vs-manchester-city/577600"
+    },
+    {
+      "accessedAt": "2026-09-03T10:41:50Z",
+      "title": "Manchester City vs Coventry predicted lineups and injury list (starting11.com)",
+      "url": "https://starting11.com/fixtures/manchester-city-vs-coventry"
+    }
+  ],
+  "wordCount": 444
+}

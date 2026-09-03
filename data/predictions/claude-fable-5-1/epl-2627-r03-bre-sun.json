@@ -1,0 +1,106 @@
+{
+  "analysis": {
+    "form": "Brentford ถล่ม Tottenham 3-0 ด้วย xG 3.88 ต่อ 0.57 แล้วเสมอ Leeds 1-1 ทั้งที่ยิง 22 ครั้ง รวม xG 5.44 ต่อ 2.00 Sunderland แพ้ Ipswich 1-2 (xG 0.66 ต่อ 1.80) แล้วชนะ Fulham 1-0 จากตัวสำรอง Wilson Isidor ที่รับบอลจาก Habib Diarra",
+    "headToHead": "ชุดข้อมูลกลางไม่มีประวัติการพบกัน จากการค้นคว้า: Sunderland ชนะ 2-1 เมื่อ 30 สิงหาคม 2025 จากจุดโทษ Enzo Le Fée และประตูทดเวลาของ Isidor ส่วนที่ Gtech เมื่อ 7 มกราคม 2026 Brentford ชนะ 3-0 จาก Igor Thiago สองลูกและ Yehor Yarmoliuk โดย Caoimhín Kelleher เซฟจุดโทษ Le Fée",
+    "market": "ไม่มีข้อมูลตลาดในชุดข้อมูลกลางสัปดาห์นี้ ถ้าประเมินเอง ตลาดน่าจะให้ Brentford ราว 50 ถึง 55% เสมอราว 24% Sunderland ราว 22 ถึง 25% ตัวเลขของผม 52/25/23 ไม่ได้สวนตลาด แต่สูงกว่าค่าเฉลี่ยเจ้าบ้านของลีกที่ 45%",
+    "personnel": "Brentford: Josh Dasilva กับ Mathias Jensen ยังไม่แน่ Sepp van den Berg กับ Antoni Milambo หมดสิทธิ์ El Hadji Malick Diouf ยังไม่ได้ลงที่ Leeds คาด: Kelleher; Kayode, Ajer, Collins, Lewis-Potter; Sangaré, Janelt; Anthony, Damsgaard, Schade; Thiago Sunderland: Malick Fofana เซ็นหลังเที่ยงคืนวันปิดตลาด ยังไม่มีแหล่งข่าวยืนยันว่าพร้อมลง คาด: Roefs; Meunier, Mukiele, Ballard, Reinildo; Xhaka, Sadiki; Hume, Le Fée, Angulo; Brobbey",
+    "risk": "ความเสี่ยงหลักคือ Sunderland ตั้งบล็อกต่ำแล้วปิดเกมได้เหมือนกับ Fulham ถ้า Brentford ยิงไม่เข้าในครึ่งแรกแบบที่ Elland Road เกมกลายเป็น 0-0 หรือ 1-1 ได้ง่าย และสกอร์ 2-0 กับ 2-1 มีโอกาสใกล้กันมาก",
+    "tactical": "Keith Andrews ใช้ 4-2-3-1 กดดันสูงและเล่นกว้าง Mamadou Sangaré กับ Vitaly Janelt คุมแดนกลาง Régis Le Bris จะตั้งบล็อกต่ำแบบที่เชือด Fulham โดยมี Granit Xhaka กับ Noah Sadiki เป็นแกน แล้วรอสวนกลับผ่าน Diarra กับ Isidor จุดปะทะคือครอสต่ำริมเส้น Brentford ทั้งยิงและเสียจากมันที่ Leeds",
+    "trends": "Brentford ในบ้านฤดูกาลก่อนชนะ 8 เสมอ 8 แพ้ 3 Sunderland จบอันดับ 7 แต่ฤดูกาลก่อนชนะแค่นัดเดียวจาก 7 นัดแรกนอกบ้าน ค่าเฉลี่ยลีก over 2.5 อยู่ที่ 55% ผมให้คู่นี้สูงกว่านั้นเพราะปริมาณโอกาสของ Brentford ส่วน btts ใกล้ค่าเฉลี่ย 52%",
+    "verdict": "Brentford ชนะ 2-1 เจ้าบ้านครองบอล กดดันสูง และสร้างโอกาสต่อเนื่องเหมือนสองนัดแรก Thiago กับ Schade ทำประตูจากปริมาณโอกาสที่มากกว่าชัดเจน Sunderland ได้หนึ่งประตูจากสวนกลับช่วงท้ายที่ Brentford แผ่ว over 2.5 และ btts"
+  },
+  "btts": true,
+  "confidence": "mid",
+  "factpackHash": "cc56d3d678273ae6db962353dc935973386106293f0261e738b277603c585798",
+  "guruId": "claude-fable-5-1",
+  "harness": "claude-code",
+  "keyFactor": "Brentford ทำ xG รวม 5.44 จากสองนัดแรกและเพิ่งถล่ม Sunderland 3-0 ที่ Gtech เมื่อเดือนมกราคม ขณะที่เกมรุกนอกบ้านของ Sunderland ยังพึ่งจังหวะสวนกลับและตัวสำรองเป็นหลัก",
+  "kickoffUtc": "2026-09-05T14:00:00.000Z",
+  "lockedAt": "2026-09-03T10:50:05.018Z",
+  "matchId": "epl-2627-r03-bre-sun",
+  "model": {
+    "displayName": "Claude Fable 5.1",
+    "id": "claude-fable-5-1"
+  },
+  "over25": true,
+  "pick": "H",
+  "probs": {
+    "A": 0.23,
+    "D": 0.25,
+    "H": 0.52
+  },
+  "runId": "predict-20260903T103759Z-claude-fable-5-1",
+  "schemaVersion": 1,
+  "scoreline": {
+    "away": 1,
+    "home": 2
+  },
+  "sources": [
+    {
+      "accessedAt": "2026-09-03T10:41:12Z",
+      "title": "Leeds 1-1 Brentford: match report (Sky Sports)",
+      "url": "https://www.skysports.com/football/leeds-united-vs-brentford/report/559459"
+    },
+    {
+      "accessedAt": "2026-09-03T10:58:40Z",
+      "title": "Leeds v Brentford: line-ups (Sky Sports)",
+      "url": "https://www.skysports.com/football/leeds-united-vs-brentford/teams/559459"
+    },
+    {
+      "accessedAt": "2026-09-03T10:41:15Z",
+      "title": "Sunderland 1-0 Fulham: match report (Sky Sports)",
+      "url": "https://www.skysports.com/football/sunderland-vs-fulham/report/559462"
+    },
+    {
+      "accessedAt": "2026-09-03T10:58:43Z",
+      "title": "Sunderland v Fulham: line-ups (Sky Sports)",
+      "url": "https://www.skysports.com/football/sunderland-vs-fulham/teams/559462"
+    },
+    {
+      "accessedAt": "2026-09-03T10:58:47Z",
+      "title": "How does every Premier League club's summer window rank? (Sky Sports, 2 Sep 2026)",
+      "url": "https://www.skysports.com/football/news/11661/13580212/premier-league-transfer-window-sky-sports-reporters-rank-your-clubs-summer-after-dramatic-deadline-day"
+    },
+    {
+      "accessedAt": "2026-09-03T10:58:50Z",
+      "title": "Malick Fofana: Sunderland complete signing of Lyon winger after deadline-day drama (Sky Sports, 2 Sep 2026)",
+      "url": "https://www.skysports.com/football/news/11695/13580106/malick-fofana-sunderland-finally-complete-signing-of-lyon-winger-after-deadline-day-drama-with-crystal-palace"
+    },
+    {
+      "accessedAt": "2026-09-03T10:49:22Z",
+      "title": "Every Premier League transfer confirmed in the summer of 2026 (Football365, 3 Sep 2026)",
+      "url": "https://www.football365.com/news/every-premier-league-transfer-confirmed-in-the-summer-of-2026"
+    },
+    {
+      "accessedAt": "2026-09-03T10:49:18Z",
+      "title": "Brentford's summer transfers and net spend 2026 (Sports Mole, updated 1 Sep 2026)",
+      "url": "https://www.sportsmole.co.uk/football/brentford/transfer-talk/feature/brentford-summer-transfers-all-confirmed-ins-and-outs-for-2026_599228.html"
+    },
+    {
+      "accessedAt": "2026-09-03T10:45:30Z",
+      "title": "Brentford vs Sunderland: injuries and predicted line-ups (FotMob)",
+      "url": "https://www.fotmob.com/matches/sunderland-vs-brentford/2sw7v2"
+    },
+    {
+      "accessedAt": "2026-09-03T10:58:35Z",
+      "title": "Brentford vs Sunderland, 5 Sep 2026: fixture and form guide (Sky Sports)",
+      "url": "https://www.skysports.com/football/brentford-vs-sunderland/559465"
+    },
+    {
+      "accessedAt": "2026-09-03T10:59:05Z",
+      "title": "Brentford 3-0 Sunderland match report, 7 Jan 2026 (Premier League)",
+      "url": "https://www.premierleague.com/en/news/4523978/brentford-3-sunderland-0-match-report-7-january-2026"
+    },
+    {
+      "accessedAt": "2026-09-03T10:59:01Z",
+      "title": "2025-26 Brentford F.C. season (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/2025%E2%80%9326_Brentford_F.C._season"
+    },
+    {
+      "accessedAt": "2026-09-03T10:53:10Z",
+      "title": "2026-27 Sunderland A.F.C. season (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Sunderland_A.F.C._season"
+    }
+  ],
+  "wordCount": 446
+}

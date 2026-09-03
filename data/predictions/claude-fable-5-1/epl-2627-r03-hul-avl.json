@@ -1,0 +1,131 @@
+{
+  "analysis": {
+    "form": "Hull ชนะสองนัดรวดพร้อมคลีนชีต แต่ xG รวมแค่ 1.74 และเสีย xG ถึง 3.11 คู่แข่งคุมเกมแต่เจาะไม่เข้า Villa แพ้สองนัด ยิงศูนย์จาก xG 0.60 เกมกับ Arsenal ยิงไม่เข้ากรอบเลยในบ้าน แม้เกมรับดีขึ้นและเสีย xG เพียง 1.05",
+    "headToHead": "Fact pack ไม่มีข้อมูลคู่นี้ จากการค้น 12 นัดหลังสุด Villa ชนะ 7 เสมอ 4 Hull ชนะนัดเดียวคือ 2-0 เมื่อ February 2015 นัดล่าสุดใน Premier League นัดล่าสุดทุกรายการคือ 2-2 ใน Championship เมื่อ January 2019 ประวัติจึงมีน้ำหนักน้อย",
+    "market": "รอบนี้ไม่มี market snapshot ให้เทียบ ผมประเมินว่าตลาดน่าจะให้ Villa เป็นต่อราว 42% เสมอ 27% Hull 31% เพราะคุณภาพขุมกำลังยังห่างชั้น ผมให้เสมอสูงกว่าตลาดเล็กน้อย เพราะ Villa ยังเจาะบล็อกลึกไม่ได้ ส่วน Hull สร้างโอกาสเองได้น้อย",
+    "personnel": "Hull ขาด Butland, Hughes, Gyabi, Zambrano และ Matazo Gelhardt กับ Jacob ยังไม่แน่ วันปิดตลาดได้ Vaz, Mouzakitis, Norton-Cuffy กับ Ansah Villa ขาด Onana ระยะยาว Gomes ติดแบน Goretzka น่าจะเริ่มจากม้านั่ง Harwood-Bellis กับ Mbaye ที่เซ็นวันที่ 1 September มีสิทธิ์ประเดิม ศูนย์แต้มทำให้ Emery ไม่น่าหมุนตัวหลักเก็บไว้ให้ Club Brugge วันอังคาร",
+    "risk": "ความเสี่ยงหลักคือแนวรับ Villa ที่เสียไปห้าลูกและอาจส่ง Harwood-Bellis ประเดิมทันที ถ้าโดนลูกตั้งเตะของ Slater เข้าก่อน Hull จะได้ถอยลงเล่นเกมที่ถนัดที่สุด และ Emery อาจถอนตัวหลักเร็วเพราะ Club Brugge ผล 0-0 หรือ 1-1 จึงเป็นไปได้ไม่น้อย",
+    "tactical": "Jakirovic ใช้บล็อกกลาง 5-4-1 ระบบเดียวที่เขาบอกว่าเข้ากับทีม สวนกลับผ่าน Belloumi กับ Millar และลูกตั้งเตะจาก Slater ให้ Mendy โหม่ง Villa เล่น 4-2-3-1 ยืดเป็น 5-3-2 เวลารับ มี Kamara กับ Barkley คุมกลาง ปัญหาคือการเจาะบล็อกลึก จุดปะทะคือความเร็วของ Jackson, Garnacho และ Mbaye ริมเส้นต่อกับวิงแบ็ก Hull",
+    "trends": "Hull ยิง 3 จาก xG 1.74 และเสียศูนย์จาก xGA 3.11 ไม่ยั่งยืน Villa ยิงศูนย์จาก xG 0.60 และไม่เคยแพ้สามนัดแรกของลีกสูงสุดตั้งแต่ปี 1997 Hull พัก 7 วัน Villa พัก 4 วัน การถดถอยสู่ค่าเฉลี่ยชี้ไปทาง Villa แรงเหวี่ยงในบ้านและลูกตั้งเตะชี้ไปทาง Hull",
+    "verdict": "ฟันธง Aston Villa ชนะ 0-1 ประตูมาจากจังหวะเดียวของแนวรุกที่เร็วกว่า Jackson ทะลุหลังแนวรับ หรือ Mbaye กับ Garnacho เจาะริมเส้น Hull จะได้ลูกตั้งเตะอันตรายสองสามครั้งแต่ไม่พอ นัดนี้ตัวเลขจะเริ่มตามคุณภาพ"
+  },
+  "btts": false,
+  "confidence": "low",
+  "factpackHash": "7bc5b0dbaa4d6fddead4ffc1bf889d542009b9d610b114ef76ec650c6236a424",
+  "guruId": "claude-fable-5-1",
+  "harness": "claude-code",
+  "keyFactor": "คลีนชีตสองนัดของ Hull ตั้งอยู่บน xGA รวม 3.11 และรอบนี้ต้องรับมือความเร็วของ Jackson, Mbaye และ Garnacho พร้อมกัน",
+  "kickoffUtc": "2026-09-05T16:30:00.000Z",
+  "lockedAt": "2026-09-03T10:55:23.198Z",
+  "matchId": "epl-2627-r03-hul-avl",
+  "model": {
+    "displayName": "Claude Fable 5.1",
+    "id": "claude-fable-5-1"
+  },
+  "over25": false,
+  "pick": "A",
+  "probs": {
+    "A": 0.41,
+    "D": 0.29,
+    "H": 0.3
+  },
+  "runId": "predict-20260903T103759Z-claude-fable-5-1",
+  "schemaVersion": 1,
+  "scoreline": {
+    "away": 1,
+    "home": 0
+  },
+  "sources": [
+    {
+      "accessedAt": "2026-09-03T11:22:00Z",
+      "title": "Sports Mole: Aston Villa summer transfers, all confirmed ins and outs for 2026 (updated 3 Sep)",
+      "url": "https://www.sportsmole.co.uk/football/aston-villa/transfer-talk/feature/aston-villa-summer-transfers-all-confirmed-ins-and-outs-for-2026_598979.html"
+    },
+    {
+      "accessedAt": "2026-09-03T11:31:00Z",
+      "title": "Sky Sports: Aston Villa news feed (Mbaye and Harwood-Bellis signed, Bailey out)",
+      "url": "https://www.skysports.com/aston-villa-news"
+    },
+    {
+      "accessedAt": "2026-09-03T11:05:00Z",
+      "title": "Coaches' Voice: Aston Villa 0 Arsenal 1 tactical analysis",
+      "url": "https://learning.coachesvoice.com/cv/aston-villa-arsenal-tactics-august-2026/"
+    },
+    {
+      "accessedAt": "2026-09-03T11:10:00Z",
+      "title": "Sky Sports: Hull City vs Aston Villa match page and form",
+      "url": "https://www.skysports.com/football/hull-city-vs-aston-villa/559469"
+    },
+    {
+      "accessedAt": "2026-09-03T11:23:00Z",
+      "title": "Sky Sports: Club Brugge vs Aston Villa, Champions League, Tue 8 Sep",
+      "url": "https://www.skysports.com/football/club-brugge-vs-aston-villa/577599"
+    },
+    {
+      "accessedAt": "2026-09-03T11:18:00Z",
+      "title": "Football FanCast: Hull City deadline day, Vaz and Mouzakitis (1 Sep)",
+      "url": "https://www.footballfancast.com/hull-city-deadline-day-robinio-vaz-christos-mouzakitis-transfer/"
+    },
+    {
+      "accessedAt": "2026-09-03T11:30:00Z",
+      "title": "The Hull Story: Ansah signs for Tigers on five-year deal (1 Sep)",
+      "url": "https://www.thehullstory.com/allarticles/ansah-signs-for-tigers"
+    },
+    {
+      "accessedAt": "2026-09-03T11:31:00Z",
+      "title": "Sky Sports: Hull City news feed",
+      "url": "https://www.skysports.com/hull-city-news"
+    },
+    {
+      "accessedAt": "2026-09-03T11:18:00Z",
+      "title": "Sky Sports: Coventry 0-1 Hull City lineups (29 Aug)",
+      "url": "https://www.skysports.com/football/coventry-city-vs-hull-city/teams/559457"
+    },
+    {
+      "accessedAt": "2026-09-03T11:18:00Z",
+      "title": "Sky Sports: Aston Villa 0-1 Arsenal lineups (31 Aug)",
+      "url": "https://www.skysports.com/football/aston-villa-vs-arsenal/teams/559454"
+    },
+    {
+      "accessedAt": "2026-09-03T11:14:00Z",
+      "title": "VAVEL: Jakirovic, 'We will grow every game' (29 Aug)",
+      "url": "https://www.vavel.com/en/football/2026/08/29/hull-city/1269550-jakirovic-we-will-grow-every-game.html"
+    },
+    {
+      "accessedAt": "2026-09-03T11:05:00Z",
+      "title": "VAVEL: Emery, 'We lost but we were competing' (31 Aug)",
+      "url": "https://www.vavel.com/en/football/2026/08/31/aston-villa/1269777-emery-we-lost-but-we-were-competing.html"
+    },
+    {
+      "accessedAt": "2026-09-03T11:14:00Z",
+      "title": "Sports Mole: Aston Villa injury and suspension list vs Arsenal (28 Aug)",
+      "url": "https://www.sportsmole.co.uk/football/aston-villa/injury-news/injuries-and-suspensions/gomes-madjo-latest-aston-villa-injury-suspension-list-vs-arenal_603985.html"
+    },
+    {
+      "accessedAt": "2026-09-03T11:18:00Z",
+      "title": "Sky Sports: Unai Emery's problems mounting after threadbare squad falls apart at Brighton (28 Aug)",
+      "url": "https://www.skysports.com/football/news/11096/13576531/aston-villa-unai-emerys-problems-mounting-ahead-of-arsenal-test-after-threadbare-squad-falls-apart-against-brighton"
+    },
+    {
+      "accessedAt": "2026-09-03T11:22:00Z",
+      "title": "Sports Mole: Harwood-Bellis to Villa close, debut date assessed (30 Aug)",
+      "url": "https://www.sportsmole.co.uk/football/aston-villa/transfer-talk/news/harwood-bellis-to-villa-close-as-transfer-fee-revealed-and-debut-date-assessed_604103.html"
+    },
+    {
+      "accessedAt": "2026-09-03T11:10:00Z",
+      "title": "Goal via Yahoo: How Hull City prepared their back-five plan to beat Man Utd (24 Aug)",
+      "url": "https://uk.sports.yahoo.com/news/didnt-copy-ruben-amorim-hull-035942362.html"
+    },
+    {
+      "accessedAt": "2026-09-03T11:14:00Z",
+      "title": "FootyStats: Hull City vs Aston Villa head-to-head",
+      "url": "https://footystats.org/england/hull-city-afc-vs-aston-villa-fc-h2h-stats"
+    },
+    {
+      "accessedAt": "2026-09-03T11:31:00Z",
+      "title": "Irish Times: Saka settles gruelling battle with Aston Villa (31 Aug)",
+      "url": "https://www.irishtimes.com/sport/soccer/2026/08/31/saka-settles-gruelling-battle-with-aston-villa-to-extend-arsenals-winning-start/"
+    }
+  ],
+  "wordCount": 472
+}

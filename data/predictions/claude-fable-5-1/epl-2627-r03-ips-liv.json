@@ -1,0 +1,96 @@
+{
+  "analysis": {
+    "form": "Ipswich ชนะ Sunderland 2-1 ด้วย xG 1.80 ต่อ 0.66 แล้วไปนำก่อนที่ Old Trafford ก่อนแพ้ Manchester United 2-5 โดน xG ถึง 4.56 ส่วน Liverpool ยุค Andoni Iraola เสมอ 2-2 สองนัดติดกับ Newcastle และ Nottingham Forest ทั้งคู่ต้องไล่ตีเสมอช่วงท้าย เกมรุกดี (xG 2.98 ที่ Newcastle) แต่เกมรับหลุด โดน Forest สร้าง xG 2.3",
+    "headToHead": "Fact pack ไม่มีข้อมูลการพบกัน จากที่ผมค้นเพิ่ม สองนัดล่าสุดในฤดูกาล 2024-25 Liverpool ชนะทั้งคู่ 2-0 ที่ Portman Road และ 4-1 ที่ Anfield แต่ผู้จัดการทีมเปลี่ยนทั้งสองฝั่งแล้ว ใช้ได้แค่เป็นภาพกว้าง",
+    "market": "รอบนี้ไม่มีข้อมูลตลาดใน fact pack ถ้ามี ผมคาดว่าตลาดจะให้ Liverpool ชนะราว 60-63% เสมอ 22% Ipswich ราว 16% ผมให้ Ipswich มากกว่านั้นเล็กน้อย เพราะเกมรับของ Iraola โดนบอลยาวและสวนกลับเจาะได้ทุกนัด",
+    "personnel": "Liverpool ขาด Ekitike, Leoni, Bradley ระยะยาว Gomez และ Chiesa ไม่ทัน Barcola น่าจะเริ่มจากม้านั่งสำรอง XI ที่คาด Alisson; Frimpong, Jacquet, Van Dijk, Kerkez; Mac Allister, Szoboszlai; Gakpo, Wirtz, Munoz; Isak ฝั่ง Ipswich หนักกว่า ขาด Matusiwa, Taylor, Philogene ส่วน Luis และกองหน้า Emersonn (เข่า) ไม่แน่ Akpom น่าจะยืนหน้าเป้า XI ที่คาด Scherpen; O'Shea, Diop, Greaves, Davis; Nunez, Lukic; Fatawu, Enciso, Maeda; Akpom ทั้งคู่ยังไม่ยืนยัน",
+    "risk": "ความเสี่ยงหลักคือเกมรับ Liverpool หลุดในครึ่งแรกเหมือนสองนัดก่อน ถ้า Ipswich นำก่อนและ Scherpen เซฟได้แบบที่ Old Trafford ผลเสมอเป็นไปได้จริง อีกจุดคือ Barcola ลงตัวจริงทั้งที่ไม่ได้เล่นตั้งแต่กรกฎาคม",
+    "tactical": "จุดปะทะหลักคือแนวรับสูงของ Iraola กับปีกความเร็วของ Ipswich Iraola กดดันสูงแบบประกบตัว เปิดพื้นที่หลังแนวรับเสมอ Forest เพิ่งเจาะด้วยบอลยาวจาก Sels ถึง Ndoye Ipswich มี Fatawu กับ Maeda ที่วิ่งหลังแนวรับเก่ง และ Enciso ที่จ่ายบอลสุดท้ายดี กลับกัน เกมกับ United แสดงว่าพอโดนกดต่อเนื่อง แนวรับ Ipswich พังเป็นชุด ขณะที่ Isak, Wirtz และ Munoz กดได้ทั้ง 90 นาที",
+    "trends": "Liverpool เสีย 2 ประตูทุกนัด Ipswich ยิงได้ 2 ประตูทุกนัด xG ของ Ipswich เฉลี่ยราว 1.9 สูงสำหรับทีมน้องใหม่ แต่เสียเฉลี่ย 2.6 Liverpool สร้าง xG เฉลี่ยกว่า 2.3 และมีเบรกทีมชาติรอหลังนัดนี้ ไม่ต้องหมุนตัว ผมมองประตูรวมเกิน 2.5 และทั้งสองทีมยิงได้",
+    "verdict": "ผมเลือก Liverpool ชนะ 2-1 คุณภาพของ Isak, Wirtz และ Munoz จะได้สองประตูจากแนวรับที่เพิ่งเสียห้าลูก แต่ Ipswich จะได้ประตูจากสวนกลับอย่างน้อยหนึ่งลูกครับ"
+  },
+  "btts": true,
+  "confidence": "mid",
+  "factpackHash": "d4381b393fc12270614eb3e96bcc8208b26ef158d6ebf37c3863f3a46dd853eb",
+  "guruId": "claude-fable-5-1",
+  "harness": "claude-code",
+  "keyFactor": "เกมรุกของ Isak, Wirtz และ Munoz จะกดแนวรับ Ipswich ที่เพิ่งพังเป็นชุดที่ Old Trafford ได้ต่อเนื่องกว่าที่ปีก Ipswich จะลงโทษแนวรับสูงของ Iraola",
+  "kickoffUtc": "2026-09-04T19:00:00.000Z",
+  "lockedAt": "2026-09-03T10:48:35.020Z",
+  "matchId": "epl-2627-r03-ips-liv",
+  "model": {
+    "displayName": "Claude Fable 5.1",
+    "id": "claude-fable-5-1"
+  },
+  "over25": true,
+  "pick": "A",
+  "probs": {
+    "A": 0.55,
+    "D": 0.23,
+    "H": 0.22
+  },
+  "runId": "predict-20260903T103759Z-claude-fable-5-1",
+  "schemaVersion": 1,
+  "scoreline": {
+    "away": 2,
+    "home": 1
+  },
+  "sources": [
+    {
+      "accessedAt": "2026-09-03T10:31:00Z",
+      "title": "Sports Mole: Liverpool injury, suspension list and return dates for Ipswich Town",
+      "url": "https://www.sportsmole.co.uk/football/liverpool/injuries-and-suspensions/will-chiesa-be-back-liverpool-injury-suspension-list-vs-ipswich_604247.html"
+    },
+    {
+      "accessedAt": "2026-09-03T10:31:00Z",
+      "title": "Yahoo Sports: Premier League news conferences, Liverpool's Iraola speaks before Ipswich game",
+      "url": "https://sports.yahoo.com/articles/premier-league-news-conferences-liverpools-081020643.html"
+    },
+    {
+      "accessedAt": "2026-09-03T10:34:00Z",
+      "title": "Sports Mole: Predicted Ipswich XI vs Liverpool",
+      "url": "https://www.sportsmole.co.uk/football/ipswich-town/predicted-lineups/one-major-change-for-the-tractor-boys-predicted-ipswich-xi-vs-liverpool_604313.html"
+    },
+    {
+      "accessedAt": "2026-09-03T10:34:00Z",
+      "title": "Sports Mole: Predicted Liverpool XI vs Ipswich, Barcola debut decision",
+      "url": "https://www.sportsmole.co.uk/football/liverpool/predicted-lineups/barcola-to-make-reds-debut-predicted-liverpool-xi-vs-ipswich_604314.html"
+    },
+    {
+      "accessedAt": "2026-09-03T10:38:00Z",
+      "title": "Sports Mole: Preview Ipswich Town vs Liverpool, team news and lineups",
+      "url": "https://www.sportsmole.co.uk/football/ipswich-town/preview/ipswich-vs-liverpool-prediction-team-news-lineups_604300.html"
+    },
+    {
+      "accessedAt": "2026-09-03T10:38:00Z",
+      "title": "DaveOCKOP: Gary O'Neil injury update on Ipswich striker ahead of Liverpool clash",
+      "url": "https://www.daveockop.com/latest-news/gary-oneil-provides-injury-update-on-ipswich-town-striker-ahead-of-liverpool-clash/"
+    },
+    {
+      "accessedAt": "2026-09-03T10:38:00Z",
+      "title": "Sky Sports: Man Utd 5-2 Ipswich, Bruno Fernandes hat-trick",
+      "url": "https://www.skysports.com/football/news/11661/13571902/man-utd-5-2-ipswich-bruno-fernandes-scores-hat-trick-to-help-united-come-from-behind-to-win-at-old-trafford"
+    },
+    {
+      "accessedAt": "2026-09-03T10:34:00Z",
+      "title": "Opta Analyst: Liverpool 2-2 Nottingham Forest stats",
+      "url": "https://theanalyst.com/articles/liverpool-vs-nottingham-forest-stats-premier-league-08-2026"
+    },
+    {
+      "accessedAt": "2026-09-03T10:34:00Z",
+      "title": "Sky Sports: Liverpool 2-2 Nottingham Forest match report",
+      "url": "https://www.skysports.com/football/liverpool-vs-nottingham-forest/559460"
+    },
+    {
+      "accessedAt": "2026-09-03T10:31:00Z",
+      "title": "Liverpool FC: Andoni Iraola's press conference ahead of Ipswich v Liverpool",
+      "url": "https://www.liverpoolfc.com/news/live-now-watch-andoni-iraolas-press-conference-ahead-ipswich-v-liverpool"
+    },
+    {
+      "accessedAt": "2026-09-03T10:41:00Z",
+      "title": "ESPN: Ipswich 0-2 Liverpool, 17 Aug 2024 match report",
+      "url": "https://www.espn.com/soccer/report/_/gameId/704280"
+    }
+  ],
+  "wordCount": 462
+}

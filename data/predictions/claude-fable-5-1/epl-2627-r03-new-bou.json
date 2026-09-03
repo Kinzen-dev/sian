@@ -1,0 +1,101 @@
+{
+  "analysis": {
+    "form": "Newcastle ใต้ Jaissle ได้ 4 แต้ม เสมอ Liverpool 2-2 ชนะ Tottenham 2-0 แต่ xG สองนัดสร้าง 2.32 เสีย 4.02 ผลดีกว่าเนื้อเกม Bournemouth ของ Rose มี 1 แต้ม แพ้ Manchester City 1-2 หลังนำก่อน เสมอ Everton 1-1 ทั้งที่ xG 2.15 ต่อ 1.84 และเสียประตูหลังนาที 84 ทั้งสองนัด",
+    "headToHead": "แฟ็กต์แพ็กไม่มีข้อมูลการพบกัน จากการค้นคว้า Newcastle ไม่ชนะ Bournemouth ในลีก 8 นัดติด Bournemouth ยิงได้ทุกครั้งที่มา St James' Park ฤดูกาลก่อนเสมอ 0-0 เสมอ 3-3 ใน FA Cup แล้ว Bournemouth ชนะ 2-1 ที่ Newcastle โค้ชเปลี่ยนทั้งคู่ แต่แกน Bournemouth ยังครบ ส่วน Newcastle เสีย Guimaraes, Tonali, Gordon",
+    "market": "ไม่มีข้อมูลตลาดในแฟ็กต์แพ็กสัปดาห์นี้ ผมประเมินว่าตลาดจะให้ Newcastle ราว 46 เปอร์เซ็นต์ เสมอ 25 Bournemouth 29 จากความเป็นเจ้าบ้านและกระแสโค้ชใหม่ ซึ่งสูงไปสำหรับเจ้าบ้าน เพราะ xG และสถิติพบกันบอกว่า Bournemouth ใกล้กว่านั้น",
+    "personnel": "Newcastle ขาด Burn, Joelinton, Osula (ยาวถึงตุลาคม) และ Livramento ที่ยังซ้อมแยก Woltemade ถูกยืมไป Juventus ทำให้ Wissa เป็นกองหน้าคนเดียว คาด Hornicek; Dedic, Thiaw, Botman, Hall; Gonzalez, Miley; Elanga, Willock, Barnes; Wissa Bournemouth ขาด Kroupi, Araujo, Milosavljevic, Adli คาด Petrovic; Smith, Hill, Silva, Truffert; Cook, Scott; Rayan, Kluivert, Tavernier; Evanilson พัก 6 วันเท่ากัน Europa League เริ่ม 17 กันยายน จึงไม่ต้องหมุนตัว",
+    "risk": "Newcastle ยิงเกินตัวมาสองนัดและโดนยิงเยอะ ถ้าจบไม่คม Bournemouth ที่สร้างโอกาสดีกว่าจะคุมเกม สถิติไม่ชนะ 8 นัดไม่ใช่เรื่องบังเอิญ ผลเสมอจึงมีน้ำหนักมากกว่าปกติ อีกจุดคือแดนกลาง Gonzalez กับ Miley ที่ยังใหม่ต่อกัน",
+    "tactical": "Newcastle เล่นสวนกลับเป็นหลัก ประตูมาจากการโต้เร็วของ Elanga บอลยาวของ Gonzalez และลูกเตะมุมที่ Wissa จบ Bournemouth สร้างเกมผ่าน Scott กับ Cook และใช้ Evanilson เป็นจุดเชื่อม จุดปะทะคือลูกเตะมุม แนวรับ Bournemouth เพิ่งประกอบใหม่หลัง Senesi ย้ายออก ขณะที่ Newcastle มี Thiaw, Botman, Wissa เป็นเป้าโหม่ง ถ้า Bournemouth ครองบอลได้ Newcastle จะโดนยิงเยอะ",
+    "trends": "Newcastle ยิง 4 จาก xG 2.32 เสีย 2 จาก 4.02 ยืนระยะยาก Bournemouth ยิง 2 จาก 2.78 เสีย 3 จาก 4.20 ใกล้ความจริงกว่า Newcastle เสียแต้มจากสถานะนำ 29 แต้มนับแต่ฤดูกาลก่อน Bournemouth เสียทุกประตูหลังนาที 84 ทั้งสองทีมยิงจึงเป็นแนวโน้มหลัก",
+    "verdict": "ผมเลือก Newcastle ชนะ 2-1 เพราะ Bournemouth ป้องกันลูกเตะมุมไม่ได้และแนวรับยังใหม่ ขณะที่ Newcastle มีความเร็วของ Elanga กับเป้าโหม่งในกรอบ น่าจะได้ประตูจากลูกตั้งเตะและการโต้เร็ว แต่ Bournemouth จะยิงได้ตามสถิติมาเยือน สูงกว่า 2.5 ประตู ทั้งสองทีมยิง"
+  },
+  "btts": true,
+  "confidence": "low",
+  "factpackHash": "35ce502eda756a3fc7371b2af43d8f6e414fc304edab073f3a8809506efe3820",
+  "guruId": "claude-fable-5-1",
+  "harness": "claude-code",
+  "keyFactor": "Bournemouth เสียประตูช่วงท้ายเกมจากลูกเตะมุมทั้งสองนัดแรก ขณะที่ Newcastle เพิ่งทำประตูจากลูกเตะมุมและเกมสวนกลับ จุดอ่อนกับจุดแข็งชนกันตรงนี้",
+  "kickoffUtc": "2026-09-05T11:30:00.000Z",
+  "lockedAt": "2026-09-03T10:49:54.939Z",
+  "matchId": "epl-2627-r03-new-bou",
+  "model": {
+    "displayName": "Claude Fable 5.1",
+    "id": "claude-fable-5-1"
+  },
+  "over25": true,
+  "pick": "H",
+  "probs": {
+    "A": 0.31,
+    "D": 0.28,
+    "H": 0.41
+  },
+  "runId": "predict-20260903T103759Z-claude-fable-5-1",
+  "schemaVersion": 1,
+  "scoreline": {
+    "away": 1,
+    "home": 2
+  },
+  "sources": [
+    {
+      "accessedAt": "2026-09-03T10:41:00Z",
+      "title": "Newcastle v Bournemouth: Prediction, team news, lineups and odds (Football365, 3 Sep 2026)",
+      "url": "https://www.football365.com/match-preview/newcastle-v-bournemouth-prediction-preview"
+    },
+    {
+      "accessedAt": "2026-09-03T10:41:00Z",
+      "title": "Newcastle vs Bournemouth: Premier League Preview, Gameweek 3, 2026 (VAVEL, 2-3 Sep 2026)",
+      "url": "https://www.vavel.com/en/football/2026/09/02/bournemouth/1269945-newcastle-vs-bournemouth-premier-league-preview-gameweek-3-2026.html"
+    },
+    {
+      "accessedAt": "2026-09-03T10:44:00Z",
+      "title": "Newcastle injury, suspension list and return dates for Bournemouth: Dan Burn, Tino Livramento latest (Sports Mole, 2-3 Sep 2026)",
+      "url": "https://www.sportsmole.co.uk/football/newcastle-united/injury-news/injuries-and-suspensions/burn-livramento-latest-newcastle-injury-suspension-list-vs-bournemouth_604305.html"
+    },
+    {
+      "accessedAt": "2026-09-03T10:44:00Z",
+      "title": "Newcastle Gets Worrying William Osula Injury Update Before Bournemouth Game (Yahoo Sports, 3 Sep 2026)",
+      "url": "https://sports.yahoo.com/articles/newcastle-gets-worrying-william-osula-100000711.html"
+    },
+    {
+      "accessedAt": "2026-09-03T10:49:00Z",
+      "title": "Toon in training: Matias Fernandez-Pardo joins the group ahead of Bournemouth (newcastleunited.com, 3 Sep 2026)",
+      "url": "https://www.newcastleunited.com/en/news/toon-in-training-matias-fernandez-pardo-joins-the-group-ahead-of-bournemouth"
+    },
+    {
+      "accessedAt": "2026-09-03T10:49:00Z",
+      "title": "The story of the summer: Meet our eight new senior signings (newcastleunited.com, 2 Sep 2026)",
+      "url": "https://www.newcastleunited.com/en/news/the-story-of-the-summer-meet-newcastle-uniteds-eight-new-senior-signings"
+    },
+    {
+      "accessedAt": "2026-09-03T10:44:00Z",
+      "title": "Bournemouth 1-1 Everton: Tarkowski's late goal denies Bournemouth victory on Rose's home debut (Sky Sports, 29 Aug 2026)",
+      "url": "https://www.skysports.com/football/news/11661/13571865/bournemouth-1-1-everton-james-tarkowskis-late-goal-denies-bournemouth-victory-on-marco-roses-home-debut"
+    },
+    {
+      "accessedAt": "2026-09-03T10:44:00Z",
+      "title": "Spurs 0-2 Newcastle: Elanga and Wissa strike again (Sky Sports, 29 Aug 2026)",
+      "url": "https://www.skysports.com/football/tottenham-hotspur-vs-newcastle-united/report/559463"
+    },
+    {
+      "accessedAt": "2026-09-03T10:49:00Z",
+      "title": "Man City 2-1 Bournemouth: Guehi and Gvardiol rescue victory for Maresca (Sky Sports, 23 Aug 2026)",
+      "url": "https://www.skysports.com/football/manchester-city-vs-bournemouth/report/559451"
+    },
+    {
+      "accessedAt": "2026-09-03T10:49:00Z",
+      "title": "Bournemouth summer transfers: every confirmed signing and sale for Marco Rose's side (Sports Mole, updated 26 Aug 2026)",
+      "url": "https://www.sportsmole.co.uk/football/bournemouth/transfer-talk/feature/bournemouth-summer-transfers-all-confirmed-ins-and-outs-for-2026_599225.html"
+    },
+    {
+      "accessedAt": "2026-09-03T10:53:00Z",
+      "title": "Newcastle 2-2 Liverpool Stats: Last-Gasp Szoboszlai Spot-Kick Salvages Draw (Opta Analyst, 23 Aug 2026)",
+      "url": "https://theanalyst.com/articles/newcastle-vs-liverpool-stats-premier-league-08-2026"
+    },
+    {
+      "accessedAt": "2026-09-03T10:49:00Z",
+      "title": "Preview: Newcastle United vs Bournemouth, April 2026 (Sports Mole; head-to-head record only)",
+      "url": "https://www.sportsmole.co.uk/football/newcastle-united/preview/newcastle-vs-bournemouth-prediction-team-news-lineups_595764.html"
+    }
+  ],
+  "wordCount": 482
+}

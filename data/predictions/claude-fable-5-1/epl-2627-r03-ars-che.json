@@ -1,0 +1,121 @@
+{
+  "analysis": {
+    "form": "Arsenal ชนะสองนัดรวดและยังไม่เสียประตู ชนะ Coventry 3-0 แล้วบุกชนะ Aston Villa 1-0 ที่ Villa ยิงไม่ตรงกรอบเลย Saka ยิงทั้งสองนัด Chelsea ของ Xabi Alonso ชนะ Fulham 3-2 และ Brighton 4-3 นัดหลังครองบอลแค่ 25.6% แต่ยิงได้ 4 ลูกจากการสวนกลับ Alonso ยอมรับว่าทีมถอยลึกเกินไปหลังนำ 3-0",
+    "headToHead": "แฟ้มข้อมูลไม่มีสถิติการพบกัน ตัวเลขนี้จากการค้นคว้าเพิ่ม ฤดูกาลที่แล้ว Arsenal ชนะ 3 เสมอ 1 จาก 4 นัด ล่าสุดชนะ 2-1 ที่ Emirates เมื่อมีนาคม 2026 จากประตูของ Saliba และ Timber ที่ไม่มีชื่อนัดนี้ Arsenal ไม่แพ้ Chelsea ในลีก 9 นัดติด และ 4 นัดหลังในลีกเกินสองประตูครึ่งแค่นัดเดียว",
+    "market": "สัปดาห์นี้ไม่มีข้อมูลตลาด มุมมองของผม ตลาดน่าจะให้ Arsenal ราว 55 ถึง 58% เสมอ 22% และ Chelsea 20 ถึง 22% ผมให้ Arsenal ต่ำกว่านั้นเล็กน้อยเพราะเกมรับชุดชั่วคราวและโปรแกรม Napoli",
+    "personnel": "Arsenal: Saliba เจ็บหลังถึงราวเดือนตุลาคม Timber กลับปลายกันยายน Mosquera เจ็บออกที่ Villa Park ไม่น่าทัน Rice เดินกะเผลกออกนาที 84 แต่ Arteta ไม่พูดถึง น่าจะแค่ถอดเพื่อความปลอดภัย ชุดที่คาด: Raya; White, Konsa, Gabriel, Calafiori; Rice, Lewis-Skelly, Odegaard; Saka, Havertz, Tzolis Chelsea: Caicedo ไม่น่าทัน ชุดที่คาด: Martinez; Fofana, Lacroix, Colwill; Neto, Gusto, Lavia, Hato; Palmer, Rogers; Joao Pedro",
+    "risk": "ถ้า Rice ไม่พร้อมและ Mosquera ไม่ทัน Arsenal เสียทั้งตัวไล่บอลแดนกลางและกองหลังตัวที่สาม การสวนกลับของ Palmer จะอันตรายขึ้นมาก และถ้า Alonso ถอยลึกตั้งแต่ต้น เสมอคือผลที่ผมกลัวกว่า Chelsea ชนะ",
+    "tactical": "Arsenal เล่น 4-3-3 ครองบอลและกดดันสูง Chelsea เล่น 3-4-2-1 ถอยรอแล้วสวนกลับผ่าน Neto Palmer และ Joao Pedro จุดปะทะแรกคือแดนกลาง Chelsea เพิ่งขาย Enzo Fernandez ให้ Manchester City และ Caicedo เจ็บซ้ำ เหลือ Lavia กับ Gusto ต้องรับมือเกมกดดันของ Rice และ Odegaard จุดที่สองคือลูกตั้งเตะของ Arsenal จุดที่สามคือ Gabriel กับ Konsa ที่ต้องเจอการสวนกลับเร็ว",
+    "trends": "Arsenal เสีย xG รวมแค่ 0.52 จากสองนัด แต่ทำได้เพียง 2.93 Chelsea ทำ xG 2.93 ในนัดเดียวกับ Brighton แต่เสีย 3 ประตูจาก xG 1.40 Arsenal พัก 5 วันและต้องไปเยือน Napoli วันพุธ Chelsea พัก 7 วันและไม่มีบอลยุโรปทั้งฤดูกาล",
+    "verdict": "Arsenal ชนะ 2-1 ประตูแรกมาจากลูกตั้งเตะหรือ Saka ทางขวา Chelsea ได้ประตูจากการสวนกลับสักครั้ง แต่การขาด Enzo และ Caicedo ทำให้คุมเกมไม่ได้นานพอที่จะเก็บแต้ม"
+  },
+  "btts": true,
+  "confidence": "mid",
+  "factpackHash": "bd683f8e75cf21620ef29855ddbade2d3b19743157869a991cfc62121f51308d",
+  "guruId": "claude-fable-5-1",
+  "harness": "claude-code",
+  "keyFactor": "แดนกลาง Chelsea ที่ขาดทั้ง Enzo Fernandez และ Caicedo ต้องเจอเกมกดดันสูงและลูกตั้งเตะของ Arsenal ที่ Emirates",
+  "kickoffUtc": "2026-09-06T15:30:00.000Z",
+  "lockedAt": "2026-09-03T10:50:35.942Z",
+  "matchId": "epl-2627-r03-ars-che",
+  "model": {
+    "displayName": "Claude Fable 5.1",
+    "id": "claude-fable-5-1"
+  },
+  "over25": true,
+  "pick": "H",
+  "probs": {
+    "A": 0.22,
+    "D": 0.24,
+    "H": 0.54
+  },
+  "runId": "predict-20260903T103759Z-claude-fable-5-1",
+  "schemaVersion": 1,
+  "scoreline": {
+    "away": 1,
+    "home": 2
+  },
+  "sources": [
+    {
+      "accessedAt": "2026-09-03T11:02:00Z",
+      "title": "Aston Villa 0-1 Arsenal: Bukayo Saka earns win for the Gunners (Sky Sports, 31 Aug 2026)",
+      "url": "https://www.skysports.com/football/aston-villa-vs-arsenal/report/559454"
+    },
+    {
+      "accessedAt": "2026-09-03T11:02:00Z",
+      "title": "Chelsea 4-3 Brighton: Blues win seven-goal thriller as Xabi Alonso continues victorious start (Sky Sports, 30 Aug 2026)",
+      "url": "https://www.skysports.com/football/chelsea-vs-brighton-and-hove-albion/report/559456"
+    },
+    {
+      "accessedAt": "2026-09-03T11:10:00Z",
+      "title": "Team News: Unchanged side for Villa Park trip (Arsenal.com, 31 Aug 2026)",
+      "url": "https://www.arsenal.com/news/team-news-unchanged-side-for-villa-park-trip-awwBd2B7uYAC"
+    },
+    {
+      "accessedAt": "2026-09-03T11:06:00Z",
+      "title": "Every word from Arteta's post-Aston Villa presser (Arsenal.com, 31 Aug 2026)",
+      "url": "https://www.arsenal.com/news/every-word-from-artetas-post-aston-villa-presser-an8Ge1h5cVQt"
+    },
+    {
+      "accessedAt": "2026-09-03T11:06:00Z",
+      "title": "Arsenal sweat double injury blow as Declan Rice limps off at Aston Villa (Yahoo Sports, 31 Aug 2026)",
+      "url": "https://sports.yahoo.com/articles/arsenal-sweat-double-injury-blow-211205811.html"
+    },
+    {
+      "accessedAt": "2026-09-03T11:02:00Z",
+      "title": "Arsenal injury update: Mosquera, Saliba, Timber latest news and return dates (Yahoo Sports UK, 1 Sep 2026)",
+      "url": "https://uk.sports.yahoo.com/news/arsenal-injury-cristhian-mosquera-william-050048882.html"
+    },
+    {
+      "accessedAt": "2026-09-03T11:02:00Z",
+      "title": "Arsenal star suffers injury and is a doubt to face Chelsea (now.arsenal, 2 Sep 2026)",
+      "url": "https://www.nowarsenal.com/latest-news/arsenal-star-suffers-injury-and-is-a-doubt-to-face-chelsea/"
+    },
+    {
+      "accessedAt": "2026-09-03T11:10:00Z",
+      "title": "Confirmed Chelsea line-up vs Brighton (ChelseaFC.com, 30 Aug 2026)",
+      "url": "https://www.chelseafc.com/en/news/article/confirmed-chelsea-line-up-vs-brighton-aug-26"
+    },
+    {
+      "accessedAt": "2026-09-03T11:14:00Z",
+      "title": "Match report: Chelsea 4-3 Brighton (ChelseaFC.com, 30 Aug 2026)",
+      "url": "https://www.chelseafc.com/en/news/article/match-report-chelsea-4-3-brighton"
+    },
+    {
+      "accessedAt": "2026-09-03T11:10:00Z",
+      "title": "Chelsea 4-3 Brighton: What Alonso and Martinez said (Yahoo Sports, 30 Aug 2026)",
+      "url": "https://sports.yahoo.com/articles/chelsea-4-3-brighton-alonso-162524329.html"
+    },
+    {
+      "accessedAt": "2026-09-03T11:02:00Z",
+      "title": "Chelsea injury news and return dates: Caicedo and two others (ChelseaNews.com, 31 Aug 2026)",
+      "url": "https://chelseanews.com/blog/chelsea-injury-news-moises-caicedo-2/"
+    },
+    {
+      "accessedAt": "2026-09-03T11:10:00Z",
+      "title": "Colwill, James, Quenda, Caicedo, Palmer: Alonso issues five-man Chelsea fitness update (Yahoo Sports, 28 Aug 2026)",
+      "url": "https://sports.yahoo.com/articles/colwill-james-quenda-caicedo-palmer-151312735.html"
+    },
+    {
+      "accessedAt": "2026-09-03T11:06:00Z",
+      "title": "Enzo Fernandez: Manchester City agree £125m deal to sign Chelsea midfielder on Deadline Day (Sky Sports, 1 Sep 2026)",
+      "url": "https://www.skysports.com/football/news/12040/13579667/enzo-fernandez-transfer-news-manchester-city-agree-lb125m-deal-to-sign-chelsea-midfielder-on-deadline-day"
+    },
+    {
+      "accessedAt": "2026-09-03T11:06:00Z",
+      "title": "Premier League 2026/27: Why history is on the side of Chelsea and Tottenham without European football (Sky Sports, 20 Aug 2026)",
+      "url": "https://www.skysports.com/football/news/26830/13571988/premier-league-2026-27-why-history-is-on-the-side-of-chelsea-and-tottenham-without-european-football"
+    },
+    {
+      "accessedAt": "2026-09-03T11:06:00Z",
+      "title": "Champions League league phase fixtures confirmed (Arsenal.com, Aug 2026)",
+      "url": "https://www.arsenal.com/news/champions-league-league-phase-fixtures-confirmed-aEFFw4Q3v2eT"
+    },
+    {
+      "accessedAt": "2026-09-03T11:06:00Z",
+      "title": "Chelsea vs Arsenal: head-to-head record and past meetings (Sports Mole, updated 1 Mar 2026)",
+      "url": "https://www.sportsmole.co.uk/football/chelsea/head-to-head/chelsea-vs-arsenal-head-to-head-record-and-past-meetings_557667.html"
+    }
+  ],
+  "wordCount": 469
+}

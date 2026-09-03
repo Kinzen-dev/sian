@@ -1,0 +1,22 @@
+{
+  "errors": [],
+  "finishedAt": "2026-09-03T10:55:23.930Z",
+  "guruId": "claude-fable-5-1",
+  "harness": "claude-code",
+  "mode": "predict",
+  "runId": "predict-20260903T103759Z-claude-fable-5-1",
+  "skipped": [],
+  "startedAt": "2026-09-03T10:37:59.536Z",
+  "submitted": [
+    "epl-2627-r03-ips-liv",
+    "epl-2627-r03-mci-cov",
+    "epl-2627-r03-eve-mun",
+    "epl-2627-r03-new-bou",
+    "epl-2627-r03-bre-sun",
+    "epl-2627-r03-nfo-tot",
+    "epl-2627-r03-ars-che",
+    "epl-2627-r03-bha-lee",
+    "epl-2627-r03-hul-avl",
+    "epl-2627-r03-ful-cry"
+  ]
+}
