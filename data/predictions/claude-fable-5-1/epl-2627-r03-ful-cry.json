@@ -1,0 +1,126 @@
+{
+  "analysis": {
+    "form": "Fulham ของ Álvaro Arbeloa แพ้สองนัดรวด แพ้ Chelsea 2-3 แล้วแพ้ Sunderland 0-1 โดยไม่มีลูกยิงตรงกรอบ ครองบอลเฉลี่ย 60% แต่ xG รวม 2.30 ต่อ 3.72 Palace ของ Pierre Sage แย่กว่า แพ้ Everton 0-2 ทั้งที่สร้าง xG 1.96 แล้วโดน Manchester City ถล่ม 1-4",
+    "headToHead": "ข้อมูลกลางไม่มีสถิติการพบกันฤดูกาลนี้ จากการค้นเพิ่ม Palace ครองคู่นี้ ชนะที่ Craven Cottage 2-1 ธันวาคม 2025 เสมอ 1-1 วันปีใหม่ และปี 2025 ชนะที่ Cottage ทั้งลีกและ FA Cup แต่ชุดนั้นมี Guéhi, Lacroix, Muñoz และ Mateta ที่ไม่อยู่แล้ว น้ำหนักจึงต่ำ",
+    "market": "ข้อมูลกลางไม่มี market snapshot ประเมินเองว่าตลาดน่าจะวาง Fulham ต่อเล็กน้อยราว 42% เสมอ 28% Palace 30% ผมให้เจ้าบ้านสูงกว่านั้น เพราะตลาดยังให้เครดิต Palace จากฤดูกาลก่อน ทั้งที่แกนหลักหายไปเกือบหมด",
+    "personnel": "Palace โดนหนัก Mateta เจ็บ hamstring พักถึงตุลาคม Riad เอ็นไขว้หน้าขาดหมดฤดูกาล และ Muñoz ถูกขายให้ Nottingham Forest หน้าเป้าเหลือ Nketiah, Strand Larsen และ Guessand ฝั่ง Fulham สมบูรณ์กว่า Andersen พ้นโทษแบนกลับมาคู่ Bassey แล้ว Cairney ยังเจ็บ Larsson มีปัญหากล้ามเนื้อ คาดว่า Arbeloa ส่งชุดเดิมจากเกม Sunderland",
+    "risk": "ความเสี่ยงหลักคือ Fulham ครองบอลแล้วทื่อเหมือนที่ Sunderland ถ้า Sage ถอยต่ำรอสวนกลับผ่าน Khalaili เกมนี้กลายเป็น 1-1 ได้ง่าย อีกข้อคือ Palace สร้าง xG 1.96 ที่ Everton แสดงว่ายังสร้างโอกาสได้แม้ผลแย่",
+    "tactical": "Arbeloa ใช้ 4-2-3-1 ครองบอล Berge กับ Palacios คุมกลาง แต่บอลไปถึงหน้าประตูช้า และแบ็กดันสูงจนโดนสวนกลับ Sage สืบทอด 3-4-2-1 จาก Glasner ให้ Wharton คุมจังหวะ แต่แนวรับสามคน Canvot, Richards, Tomiyasu เพิ่งยืนด้วยกันนัดแรกและโดน City เจาะช่องระหว่างตัวได้ตลอด จุดปะทะคือ Fulham ดึง wing-back ออกจากตำแหน่งได้ไหม กับ Khalaili สวนใส่หลัง Robinson",
+    "trends": "Fulham ยิงเฉลี่ย 1.0 เสีย 2.0 ต่อนัด Palace ยิง 0.5 เสีย 3.0 ทั้งคู่ยังไม่มี clean sheet อัตราพื้นฐานคือเจ้าบ้านชนะ 45% Over 2.5 ที่ 55% BTTS 52% ทั้งคู่พักเต็มสัปดาห์ และ Palace เริ่ม Europa League 17 กันยายน จึงไม่ต้องหมุนตัว",
+    "verdict": "Fulham ชนะ 2-1 เจ้าบ้านครองบอลใส่แนวรับสามคนที่ยังไม่รู้จักกันและไม่มี Mateta ไว้ตรึงเซ็นเตอร์ García กับ King จะได้ยิงมากกว่าที่ Sunderland ส่วน Palace มี Pino, Kamada และลูกตั้งเตะพอได้หนึ่งประตู ความน่าจะเป็น เจ้าบ้าน 44% เสมอ 27% ทีมเยือน 29%"
+  },
+  "btts": true,
+  "confidence": "low",
+  "factpackHash": "04d61d86ff668c8197bb653d313e6767393380960f0ba5b19e34853112aa7c8c",
+  "guruId": "claude-fable-5-1",
+  "harness": "claude-code",
+  "keyFactor": "Fulham ครองบอลในบ้านใส่แนวรับสามคนของ Palace ที่เพิ่งประกอบใหม่ เสียไปแล้ว 6 ประตูจากสองนัด และไม่มี Mateta ไว้ลงโทษตอนสวนกลับ",
+  "kickoffUtc": "2026-09-05T14:00:00.000Z",
+  "lockedAt": "2026-09-03T10:55:23.596Z",
+  "matchId": "epl-2627-r03-ful-cry",
+  "model": {
+    "displayName": "Claude Fable 5.1",
+    "id": "claude-fable-5-1"
+  },
+  "over25": true,
+  "pick": "H",
+  "probs": {
+    "A": 0.29,
+    "D": 0.27,
+    "H": 0.44
+  },
+  "runId": "predict-20260903T103759Z-claude-fable-5-1",
+  "schemaVersion": 1,
+  "scoreline": {
+    "away": 1,
+    "home": 2
+  },
+  "sources": [
+    {
+      "accessedAt": "2026-09-03T10:41:10Z",
+      "title": "RotoWire: Premier League injuries, latest news and suspensions (31 Aug 2026)",
+      "url": "https://www.rotowire.com/soccer/article/premier-league-injuries-latest-injury-news-updates-suspensions-128516"
+    },
+    {
+      "accessedAt": "2026-09-03T10:36:40Z",
+      "title": "Sports Mole: Crystal Palace summer transfers, all confirmed ins and outs 2026 (updated 3 Sep 2026)",
+      "url": "https://www.sportsmole.co.uk/football/crystal-palace/transfer-talk/feature/crystal-palace-summer-transfers-all-confirmed-ins-and-outs-for-2026_599216.html"
+    },
+    {
+      "accessedAt": "2026-09-03T10:36:42Z",
+      "title": "Sports Mole: Fulham summer transfers, all confirmed ins and outs 2026 (updated 2 Sep 2026)",
+      "url": "https://www.sportsmole.co.uk/football/fulham/transfer-talk/feature/fulham-summer-transfers-all-confirmed-ins-and-outs-for-2026_599229.html"
+    },
+    {
+      "accessedAt": "2026-09-03T10:44:05Z",
+      "title": "Sports Mole: Fulham sign Hugo Larsson on loan, availability for Crystal Palace uncertain (1 Sep 2026)",
+      "url": "https://www.sportsmole.co.uk/football/fulham/transfer-talk/news/another-midfielder-fulham-sign-larsson-on-loan-with-obligation-to-buy-clause-revealed_604250.html"
+    },
+    {
+      "accessedAt": "2026-09-03T10:44:02Z",
+      "title": "Sky Sports: Crystal Palace news, Munoz joins Nottingham Forest (31 Aug 2026)",
+      "url": "https://www.skysports.com/crystal-palace-news"
+    },
+    {
+      "accessedAt": "2026-09-03T10:41:15Z",
+      "title": "ESPN: Sunderland v Fulham lineups (30 Aug 2026)",
+      "url": "https://www.espn.com/soccer/lineups/_/gameId/401879313"
+    },
+    {
+      "accessedAt": "2026-09-03T10:41:14Z",
+      "title": "ESPN: Crystal Palace v Manchester City lineups (28 Aug 2026)",
+      "url": "https://www.espn.com/soccer/lineups/_/gameId/401879294"
+    },
+    {
+      "accessedAt": "2026-09-03T10:44:00Z",
+      "title": "ESPN: Fulham v Chelsea lineups (24 Aug 2026)",
+      "url": "https://www.espn.com/soccer/lineups/_/gameId/401879318"
+    },
+    {
+      "accessedAt": "2026-09-03T10:46:10Z",
+      "title": "ESPN: Everton v Crystal Palace lineups (22 Aug 2026)",
+      "url": "https://www.espn.com/soccer/lineups/_/gameId/401879300"
+    },
+    {
+      "accessedAt": "2026-09-03T10:41:20Z",
+      "title": "ESPN: Fulham v Crystal Palace match page, form and head-to-head",
+      "url": "https://www.espn.com/soccer/match/_/gameId/401879289/crystal-palace-fulham"
+    },
+    {
+      "accessedAt": "2026-09-03T10:43:55Z",
+      "title": "ESPN: Fulham 2025-26 results (head-to-head with Crystal Palace)",
+      "url": "https://www.espn.com/soccer/team/results/_/id/370/season/2025"
+    },
+    {
+      "accessedAt": "2026-09-03T10:33:30Z",
+      "title": "Sky Sports: Sunderland 1-0 Fulham match report and Arbeloa reaction (30 Aug 2026)",
+      "url": "https://www.skysports.com/football/sunderland-vs-fulham/report/559462"
+    },
+    {
+      "accessedAt": "2026-09-03T10:36:50Z",
+      "title": "NBC Sports: Crystal Palace 1-4 Manchester City live updates and report (28 Aug 2026)",
+      "url": "https://www.nbcsports.com/soccer/live/crystal-palace-vs-manchester-city-live-updates-score-goals-highlights-stats-2026-august-28"
+    },
+    {
+      "accessedAt": "2026-09-03T10:39:05Z",
+      "title": "Sky Sports: Pierre Sage on the Everton loss and facing Man City (28 Aug 2026)",
+      "url": "https://www.skysports.com/football/news/11095/13577688/pierre-sage-crystal-palace-head-coach-on-everton-loss-facing-man-city-and-how-his-career-prepared-him-for-the-premier-league"
+    },
+    {
+      "accessedAt": "2026-09-03T10:39:00Z",
+      "title": "Fulhamish: From the Press Box, Arbeloa says Fulham ready to act before deadline (28 Aug 2026)",
+      "url": "https://www.fulhamish.co.uk/p/from-the-press-box-arbeloa-says-fulham"
+    },
+    {
+      "accessedAt": "2026-09-03T10:33:20Z",
+      "title": "Wikipedia: 2026-27 Fulham F.C. season",
+      "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Fulham_F.C._season"
+    },
+    {
+      "accessedAt": "2026-09-03T10:33:22Z",
+      "title": "Wikipedia: 2026-27 Crystal Palace F.C. season",
+      "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Crystal_Palace_F.C._season"
+    }
+  ],
+  "wordCount": 456
+}

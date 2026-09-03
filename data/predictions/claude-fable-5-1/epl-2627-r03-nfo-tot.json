@@ -1,0 +1,111 @@
+{
+  "analysis": {
+    "form": "Forest ยังไม่ชนะใน 3 นัด แต่ตัวเลขดีกว่าผล แพ้ Leeds 0-1 จากฟรีคิกนาที 88 แล้วเสมอ Liverpool 2-2 ที่ Anfield ด้วย xG 2.30 ต่อ 1.75 Spurs แพ้สองนัดรวด ยิงไม่ได้ เสีย 5 ประตู โดน Brentford ถล่มด้วย xG ต่อต้าน 3.88 แล้วเสียรูปทั้งทีมหลังเสียประตูกับ Newcastle",
+    "headToHead": "แฟคแพ็คไม่มีข้อมูลการพบกันฤดูกาลนี้ จากที่ผมค้นเพิ่ม ฤดูกาลที่แล้ว Forest ชนะ 3-0 ทั้งสองนัด ธันวาคม 2025 ที่ City Ground และมีนาคม 2026 ที่ Tottenham รูปแบบเหมือนกันคือ Spurs ครองบอลแล้วโดนสวนกลับ กุนซือเปลี่ยนหมดแล้ว แต่จุดอ่อนนี้ยังอยู่",
+    "market": "ไม่มีข้อมูลตลาดในแฟคแพ็คสัปดาห์นี้ ผมประเมินว่าตลาดน่าจะให้ Forest ต่อเล็กน้อยราว 40% Spurs 33% เสมอ 27% เพราะงบ 320 ล้านปอนด์ยังถ่วงราคาไว้ ผมให้ Forest มากกว่านั้น เพราะแทคติกของ Glasner ตรงกับจุดอ่อนของ De Zerbi พอดี",
+    "personnel": "Forest ขาด Savona เข่า Sangare เจ็บน่องยังไม่แน่ Chris Wood เป็นตัวสำรอง คาดใช้ชุด Anfield แผงหลัง Cunha, Milenkovic, Murillo Spurs ไม่มี Xavi Simons, Odobert, Kulusevski Maddison เจ็บไหล่ เสี่ยงไม่ทัน Savio น่าจะกลับมา ได้ Adarabioyo กับ Mudryk เพิ่ม คาด 4-2-3-1 Tonali, Bentancur, Fernandes, Tel หนุน Marmoush ไม่มีใครติดแบน รายชื่อจริงต้องรอวันแข่ง",
+    "risk": "ความเสี่ยงใหญ่สุดคือการจบสกอร์ของ Forest ที่ Igor Jesus ทิ้งโอกาสมาหลายครั้ง ถ้าครึ่งแรกยิงไม่ได้ เกมอาจจบ 0-0 หรือ 1-1 ถ้า Savio กับ Maddison ฟิต เกมรุก Spurs จะดีขึ้นชัดเจน และ Forest เสียประตูท้ายเกมมาแล้วทั้งสองนัดครับ",
+    "tactical": "Glasner ใช้ 3-4-2-1 ยอมให้คู่แข่งครองบอล แล้วเล่นบอลยาวจาก Sels หา Igor Jesus วิงแบ็ก Aina กับ Williams ดันสูง Gibbs-White กับ Ndoye สวนกลับเร็ว บวกลูกตั้งเตะ De Zerbi ต่อบอลจากหลัง แนวรับดันสูง จุดปะทะคือคู่เซ็นเตอร์ van Hecke กับ van de Ven ที่ยังไม่เข้าขา จะโดนบอลยาวทดสอบทั้งเกม",
+    "trends": "Forest มี xG รวม 2.96 ใน 2 นัดแต่ยิงได้ 2 ลูก หนึ่งในนั้นเป็นจุดโทษ Spurs มี xG รวม 1.61 ยิง 0 เสีย xG 4.63 ทั้งคู่พักเต็มสัปดาห์ ไม่มีเกมยุโรป สัญญาณเตือนคือ Forest แพ้ Leeds ที่บ้านสองครั้งใน 3 วันรวมถ้วย",
+    "verdict": "ผมเลือก Forest ชนะ 2-1 ครับ Spurs จะครองบอลมากกว่าและน่าจะได้หนึ่งประตูจาก Marmoush แต่สวนกลับกับลูกตั้งเตะของ Forest จะเจาะแนวรับที่ยังไม่เข้าขาและ Kinsky ที่ขาดความมั่นใจได้ Gibbs-White กับ Ndoye คือคนตัดสินเกม"
+  },
+  "btts": true,
+  "confidence": "low",
+  "factpackHash": "d46bedbb13750a95603febb8cd96d927a0abe7c7d26984620d183fe92827b72d",
+  "guruId": "claude-fable-5-1",
+  "harness": "claude-code",
+  "keyFactor": "เกมสวนกลับและลูกตั้งเตะของ Forest จะเจาะแนวรับ Spurs ที่ยังไม่เข้าขากันและเสียรูปทุกครั้งที่โดนกดดัน",
+  "kickoffUtc": "2026-09-05T14:00:00.000Z",
+  "lockedAt": "2026-09-03T10:50:21.782Z",
+  "matchId": "epl-2627-r03-nfo-tot",
+  "model": {
+    "displayName": "Claude Fable 5.1",
+    "id": "claude-fable-5-1"
+  },
+  "over25": true,
+  "pick": "H",
+  "probs": {
+    "A": 0.3,
+    "D": 0.26,
+    "H": 0.44
+  },
+  "runId": "predict-20260903T103759Z-claude-fable-5-1",
+  "schemaVersion": 1,
+  "scoreline": {
+    "away": 1,
+    "home": 2
+  },
+  "sources": [
+    {
+      "accessedAt": "2026-09-03T10:31:00Z",
+      "title": "Tottenham injury, suspension list and return dates for Nottingham Forest clash (Sports Mole, 2 Sep 2026)",
+      "url": "https://www.sportsmole.co.uk/football/spurs/injury-news/injuries-and-suspensions/maddison-savio-kulusevski-latest-spurs-injury-suspension-list-vs-nottingham-forest_604272.html"
+    },
+    {
+      "accessedAt": "2026-09-03T10:31:00Z",
+      "title": "Tottenham predicted lineup to play Nottingham Forest (Yardbarker, 3 Sep 2026)",
+      "url": "https://www.yardbarker.com/soccer/articles/tottenham_predicted_lineup_to_play_nottingham_forest_as_roberto_de_zerbi_eyes_first_premier_league_win_of_the_season/s1_17451_44253392"
+    },
+    {
+      "accessedAt": "2026-09-03T10:42:00Z",
+      "title": "Nottm Forest vs Tottenham: unavailable players, predicted lineups, H2H (FotMob, accessed 3 Sep 2026)",
+      "url": "https://www.fotmob.com/matches/tottenham-hotspur-vs-nottingham-forest/2x3odl"
+    },
+    {
+      "accessedAt": "2026-09-03T10:31:00Z",
+      "title": "Liverpool 2-2 Nottingham Forest: Victor Munoz equalises as Iraola's first Anfield game ends in a draw (Sky Sports, 29 Aug 2026)",
+      "url": "https://www.skysports.com/football/liverpool-vs-nottingham-forest/559460"
+    },
+    {
+      "accessedAt": "2026-09-03T10:39:00Z",
+      "title": "Liverpool vs Nottingham Forest team line-ups (Sky Sports, 29 Aug 2026)",
+      "url": "https://www.skysports.com/football/liverpool-vs-nottingham-forest/teams/559460"
+    },
+    {
+      "accessedAt": "2026-09-03T10:39:00Z",
+      "title": "Liverpool 2-2 Nottingham Forest: Even at Anfield as Iraola's Reds lucky to draw (NBC Sports, 29 Aug 2026)",
+      "url": "https://www.nbcsports.com/soccer/live/liverpool-vs-nottingham-forest-live-updates-score-goals-highlights-stats-2026-august-29"
+    },
+    {
+      "accessedAt": "2026-09-03T10:31:00Z",
+      "title": "Spurs 0-2 Newcastle: Tottenham suffer second defeat and fail to score (Sky Sports, 29 Aug 2026)",
+      "url": "https://www.skysports.com/football/news/11661/13571864/spurs-0-2-newcastle-tottenham-suffer-second-defeat-and-fail-to-score-as-anthony-elanga-and-yoane-wissa-strike-again"
+    },
+    {
+      "accessedAt": "2026-09-03T10:39:00Z",
+      "title": "Tottenham Hotspur 0-2 Newcastle: Jaissle's Magpies keep Spurs down (NBC Sports, 29 Aug 2026)",
+      "url": "https://www.nbcsports.com/soccer/live/tottenham-hotspur-vs-newcastle-live-updates-score-goals-highlights-stats-2026-august-29"
+    },
+    {
+      "accessedAt": "2026-09-03T10:36:00Z",
+      "title": "Tottenham: Roberto De Zerbi delighted with Spurs transfer business after dramatic survival (Sky Sports, 29 Aug 2026)",
+      "url": "https://www.skysports.com/football/news/11095/13578157/tottenham-roberto-de-zerbi-delighted-with-spurs-transfer-business-after-dramatic-premier-league-survival-last-season"
+    },
+    {
+      "accessedAt": "2026-09-03T10:36:00Z",
+      "title": "Tottenham summer transfers and net spend: every confirmed signing and sale (Sports Mole, updated 2 Sep 2026)",
+      "url": "https://www.sportsmole.co.uk/football/spurs/transfer-talk/feature/spurs-summer-transfers-all-confirmed-ins-and-outs-for-2026_599114.html"
+    },
+    {
+      "accessedAt": "2026-09-03T10:36:00Z",
+      "title": "Nottingham Forest 0-1 Leeds: Anton Stach's late free-kick catches Matz Sels out (Sky Sports, 22 Aug 2026)",
+      "url": "https://www.skysports.com/football/news/11661/13565664/nottingham-forest-0-1-leeds-anton-stachs-late-free-kick-catches-matz-sels-out-as-oliver-glasners-side-rue-missed-chances"
+    },
+    {
+      "accessedAt": "2026-09-03T10:34:00Z",
+      "title": "Oliver Glasner has a plan for Premier League stability at Nottingham Forest (Sky Sports, 20 Aug 2026)",
+      "url": "https://www.skysports.com/football/news/11095/13574953/oliver-glasner-has-a-plan-for-premier-league-stability-and-success-at-nottingham-forest-but-it-comes-with-a-warning"
+    },
+    {
+      "accessedAt": "2026-09-03T10:34:00Z",
+      "title": "Spurs 0-3 Nottm Forest, 22 Mar 2026 match report (ESPN)",
+      "url": "https://www.espn.com/soccer/report/_/gameId/740904"
+    },
+    {
+      "accessedAt": "2026-09-03T10:39:00Z",
+      "title": "2025-26 Tottenham Hotspur F.C. season (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/2025%E2%80%9326_Tottenham_Hotspur_F.C._season"
+    }
+  ],
+  "wordCount": 467
+}
