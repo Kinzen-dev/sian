@@ -48,7 +48,7 @@ Human step (one minute): open the Default cloud environment at https://claude.ai
 
 | Name | ID | Schedule | Model | Status |
 |---|---|---|---|---|
-| sian-probe-once | trig_016P11vXFU5hsnKKjeWghn2B | one-off, fired 10:49 UTC | claude-fable-5-1 | done; delete at https://claude.ai/code/routines |
-| sian-fable-daily | trig_01Sio8XRPEDCydpNj57BhNXc | `0 3 * * *` (10:00 Thailand) | claude-fable-5-1 | enabled, first run 2026-09-04 03:06 UTC |
+| sian-probe-once | trig_016P11vXFU5hsnKKjeWghn2B | one-off, fired 10:49 UTC | claude-fable-5-1 | deleted by King 2026-09-03 |
+| sian-fable-daily | trig_01Sio8XRPEDCydpNj57BhNXc | `0 3 * * *` (10:00 Thailand) | claude-fable-5-1 | enabled; environment "Full" (env_01FCbgExJsxxx3dGPAisgbx4, network Full) since 2026-09-03 11:49 UTC |
 
 Manage at https://claude.ai/code/routines. Debug a run from Claude Code with `/schedule` (list runs, run log).
