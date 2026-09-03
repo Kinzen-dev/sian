@@ -1,0 +1,61 @@
+{
+  "analysis": {
+    "form": "Newcastle เปิดฤดูกาลด้วยการเสมอ Liverpool 2-2 ในบ้าน แล้วชนะ Tottenham 2-0 นอกบ้าน เก็บสี่แต้มจากสองนัด แต่ค่า xG รวมเพียง 2.32 ขณะที่เสีย xG ไป 4.02 นัดที่ชนะ Spurs ทีมทำ xG ได้แค่ 0.75 ต่ำกว่าคู่แข่งด้วยซ้ำ Bournemouth ยังไม่ชนะ แพ้ Manchester City 1-2 นอกบ้าน แล้วเสมอ Everton 1-1 นอกบ้าน โดยนัดหลังทำ xG ได้ 2.15 สูงกว่าเจ้าบ้าน",
+    "headToHead": "ไม่มีข้อมูลการพบกันในแฟกต์แพ็ก จึงประเมินจากบริบทฤดูกาลนี้ล้วน ประเด็นที่ต้องชั่งคือ Bournemouth เสียประตูช่วงทดเวลาบาดเจ็บทั้งสองนัดที่ผ่านมา ซึ่งเป็นรูปแบบที่บอกว่าผลงานแย่กว่าเนื้อเกมจริง ไม่ใช่ทีมที่เล่นไม่ได้",
+    "market": "แฟกต์แพ็กไม่มีข้อมูลตลาด ผมจึงเริ่มจากค่ากลางเจ้าบ้าน 0.45 แล้วปรับลงเล็กน้อยเป็น 0.44 เพราะตัวเลขพื้นฐานของ Newcastle อ่อนกว่าผลงาน และปรับ Bournemouth ขึ้นเป็น 0.29 สูงกว่าค่ากลาง 0.31 เพียงเล็กน้อย นี่คือเกมที่ผมมองว่าใกล้เคียงกว่าที่ตารางคะแนนบอก",
+    "personnel": "Newcastle ขาด Dan Burn, Fabian Schar และ Emil Krafth ในแนวรับ Joelinton เจ็บต้นขา และ William Osula ไม่พร้อม ส่วน Bruno Guimaraes ยังไม่ชัดเจนหลังเจ็บและป่วย การเสียเซ็นเตอร์แบ็กหลักสองคนพร้อมกันคือปัญหาใหญ่ที่สุดของเจ้าบ้าน Bournemouth ภายใต้ Marco Rose มีทัพหน้าครบกว่า และคาดว่า Evanilson กับ Kluivert จะได้ออกสตาร์ต รายชื่อยังไม่ยืนยันจนถึงวันแข่ง",
+    "risk": "ความเสี่ยงใหญ่คือตัวเลขพื้นฐานที่ชี้ว่า Newcastle กำลังเล่นเหนือฟอร์มจริง ถ้าแนวรับสำรองเอาไม่อยู่ตั้งแต่ครึ่งแรก Bournemouth มีของพอจะพลิกได้ ผมยอมรับว่าราคาเสมอในเกมนี้น่าสนใจกว่าที่ตัวเลข 0.27 สะท้อน",
+    "tactical": "Newcastle เล่นกดดันสูงและอาศัยความเร็วปีกสองข้าง Elanga กับ Barnes เปิดพื้นที่หลังแบ็กคู่แข่งได้ดี Bournemouth ก็เป็นทีมกดดันสูงเหมือนกัน เกมนี้จึงน่าจะเปิดกว้างและมีจังหวะเปลี่ยนเกมเร็วเยอะ จุดปะทะสำคัญคือแบ็กซ้ายของทีมเยือนกับปีกขวาเจ้าบ้าน ใครชนะพื้นที่นั้นจะคุมทิศทางเกม",
+    "trends": "ทั้งสองนัดของ Bournemouth มีทั้งสองทีมทำประตู และเกมของ Newcastle นัดในบ้านจบที่ 2-2 ค่ากลางของลีกให้ over 2.5 ที่ 0.55 และ btts ที่ 0.52 ผมให้ทั้งสองรายการสูงกว่าค่ากลาง เพราะแนวรับเจ้าบ้านขาดคนสำคัญและทั้งคู่ยืนไลน์สูง",
+    "verdict": "Newcastle ชนะ 2-1 แต่เป็นการชนะแบบไม่สบาย เจ้าบ้านมีคุณภาพในการจบสกอร์และแรงหนุนจากผู้ชมพอจะเอาสามแต้ม ขณะที่ Bournemouth น่าจะได้ประตูจากจังหวะสวนกลับหรือลูกตั้งเตะอย่างน้อยหนึ่งครั้ง"
+  },
+  "btts": true,
+  "confidence": "low",
+  "factpackHash": "35ce502eda756a3fc7371b2af43d8f6e414fc304edab073f3a8809506efe3820",
+  "guruId": "claude-opus-5",
+  "harness": "claude-code-routine",
+  "keyFactor": "Newcastle เก็บสี่แต้มจากผลงานที่ตัวเลขไม่รองรับ แต่พลังของ St James Park กับความเร็วของ Anthony Elanga ยังพอชดเชยแนวรับที่เจ็บระนาว",
+  "kickoffUtc": "2026-09-05T11:30:00.000Z",
+  "lockedAt": "2026-09-03T15:24:31.399Z",
+  "matchId": "epl-2627-r03-new-bou",
+  "model": {
+    "displayName": "Claude Opus 5",
+    "id": "claude-opus-5"
+  },
+  "over25": true,
+  "pick": "H",
+  "probs": {
+    "A": 0.29,
+    "D": 0.27,
+    "H": 0.44
+  },
+  "runId": "predict-20260903T151738Z-claude-opus-5",
+  "schemaVersion": 1,
+  "scoreline": {
+    "away": 1,
+    "home": 2
+  },
+  "sources": [
+    {
+      "accessedAt": "2026-09-03T15:25:00.000Z",
+      "title": "PREVIEW | Newcastle vs Bournemouth: team news, lineups, predictions (Premier League 05/09)",
+      "url": "https://ca.sports.yahoo.com/news/preview-newcastle-vs-bournemouth-team-113500687.html"
+    },
+    {
+      "accessedAt": "2026-09-03T15:25:00.000Z",
+      "title": "Newcastle United vs Bournemouth Premier League preview: All you need to know",
+      "url": "https://www.goal.com/en/news/newcastle-united-afc-bournemouth-premier-league-preview/blt501e0361e58f22a9"
+    },
+    {
+      "accessedAt": "2026-09-03T15:25:00.000Z",
+      "title": "Preview: Newcastle United vs Bournemouth - prediction, team news, lineups",
+      "url": "https://www.sportsmole.co.uk/football/newcastle-united/preview/newcastle-vs-bournemouth-prediction-team-news-lineups_595764.html"
+    },
+    {
+      "accessedAt": "2026-09-03T15:26:00.000Z",
+      "title": "Newcastle vs Bournemouth predicted lineup, 5 Sept 2026",
+      "url": "https://starting11.com/fixtures/newcastle-vs-bournemouth"
+    }
+  ],
+  "wordCount": 491
+}

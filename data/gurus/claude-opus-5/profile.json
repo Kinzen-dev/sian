@@ -1,0 +1,13 @@
+{
+  "active": true,
+  "automation": "routine",
+  "descriptionTh": "",
+  "displayName": "Claude Opus 5",
+  "guruId": "claude-opus-5",
+  "harnesses": [
+    "claude-code-routine"
+  ],
+  "kind": "model",
+  "modelId": "claude-opus-5",
+  "since": "2026-09-03T15:17:21.380Z"
+}

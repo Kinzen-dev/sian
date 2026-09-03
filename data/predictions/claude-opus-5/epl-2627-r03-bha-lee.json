@@ -1,0 +1,61 @@
+{
+  "analysis": {
+    "form": "Brighton ยิงไปแล้วเจ็ดประตูจากสองนัด เปิดหัวด้วยการถล่ม Aston Villa 4-0 ในบ้าน โดยทำ xG ได้ถึง 3.77 แล้วแพ้ Chelsea 3-4 นอกบ้านในเกมที่เสีย xG 2.93 สรุปคือเกมรุกร้อนแรงแต่เกมรับเปิดช่อง Leeds เก็บสี่แต้ม ชนะ Nottingham Forest 1-0 นอกบ้าน แล้วเสมอ Brentford 1-1 ในบ้าน ยิงแค่สองประตูและเสียหนึ่ง ตัวเลข xG ของทีมต่ำมากทั้งสองนัด คือ 0.47 และ 1.43",
+    "headToHead": "แฟกต์แพ็กไม่มีสถิติการพบกัน แต่ข้อมูลสาธารณะระบุว่านัดล่าสุดที่ทั้งคู่เจอกัน Leeds เป็นฝ่ายชนะ 1-0 ซึ่งสอดคล้องกับภาพของทีมที่เล่นเกมรับเป็นระบบและรอจังหวะเดียว อย่างไรก็ตามเกมนั้นไม่ได้อยู่ที่ Amex ซึ่งเป็นสนามที่ Brighton เล่นเกมบุกได้เต็มที่กว่า",
+    "market": "ไม่มีข้อมูลตลาดในแฟกต์แพ็ก ผมประเมินเองที่ 0.50 สำหรับเจ้าบ้าน สูงกว่าค่ากลาง 0.45 เพราะช่องว่างด้านการสร้างโอกาสกว้างจริง แต่ไม่สูงไปกว่านั้นเพราะ Leeds มีวินัยเกมรับและเพิ่งเก็บผลดีจากเกมนอกบ้านมาแล้ว",
+    "personnel": "Leeds ได้ Willy Gnonto และ Gabriel Gudmundsson กลับมาซ้อม แต่ Gnonto เพิ่งฟื้นจากการผ่าตัดไส้เลื่อนจึงยังไม่พร้อมออกสตาร์ต ทีมเสริม Melvin Bard เข้ามาช่วงปิดตลาด ฝั่ง Brighton คาดว่า Verbruggen เฝ้าเสา Dunk กับ Vuskovic ยืนกลาง และ Kostoulas นำแนวรุก รายชื่อที่ว่ามาเป็นการคาดการณ์จากสื่อ ยังไม่มีการยืนยันจากสโมสร",
+    "risk": "ความเสี่ยงคือเกมรับ Brighton ที่เสียสี่ลูกให้ Chelsea ถ้าเปิดเกมแล้วโดนสวนขึ้นนำก่อน แผนของ Leeds จะทำงานทันที และเกมจะกลายเป็นการทุบกำแพงเก้าสิบนาที นอกจากนี้การจบสกอร์ของเจ้าบ้านยังผันผวนตามฟอร์มกองหน้าอายุน้อย",
+    "tactical": "Brighton ใช้การครองบอลดันสูง หมุนบอลหาช่องระหว่างไลน์ และเติมแบ็กสองข้างเข้ามาในสนามเพื่อสร้างความได้เปรียบแดนกลาง Leeds ของ Daniel Farke จะตั้งบล็อกกลางถึงต่ำ ปิดพื้นที่ครึ่งสนามตัวเอง แล้วออกบอลเร็วผ่านปีก จุดปะทะอยู่ที่การที่ Brighton ต้องเจาะกล่องที่มีคนยืนแน่น และความเสี่ยงเวลาเสียบอลแล้วโดนสวน",
+    "trends": "เกมของ Brighton มีประตูรวมเจ็ดและเจ็ดลูกในสองนัด สูงกว่าค่ากลางลีกมาก ส่วน Leeds มีประตูรวมแค่สามลูกสองนัด เมื่อชนกัน ผมยังเอนไปทางเกมที่มีประตู เพราะ Brighton เป็นฝ่ายกำหนดจังหวะในบ้าน ค่าพื้นฐานลีกให้ over 2.5 ที่ 0.55 และ btts ที่ 0.52 ผมให้ทั้งสองรายการสูงกว่านั้นเล็กน้อย",
+    "verdict": "Brighton ชนะ 2-1 ปริมาณและคุณภาพของโอกาสในบ้านต่างกันมากพอ Leeds จะยืนได้สักช่วงหนึ่งแต่ไม่ตลอดเกม และจะได้ประตูตอบแทนจากลูกตั้งเตะหรือการสวนกลับ"
+  },
+  "btts": true,
+  "confidence": "mid",
+  "factpackHash": "e731997b2ab6a27af44772127a601ebcbafbfb8aa18e798b37fe196bc76bd0ec",
+  "guruId": "claude-opus-5",
+  "harness": "claude-code-routine",
+  "keyFactor": "Brighton สร้างโอกาสในบ้านได้มหาศาลจนแนวรับที่แน่นของ Leeds ก็ยากจะปิดครบเก้าสิบนาที",
+  "kickoffUtc": "2026-09-05T14:00:00.000Z",
+  "lockedAt": "2026-09-03T15:24:32.120Z",
+  "matchId": "epl-2627-r03-bha-lee",
+  "model": {
+    "displayName": "Claude Opus 5",
+    "id": "claude-opus-5"
+  },
+  "over25": true,
+  "pick": "H",
+  "probs": {
+    "A": 0.24,
+    "D": 0.26,
+    "H": 0.5
+  },
+  "runId": "predict-20260903T151738Z-claude-opus-5",
+  "schemaVersion": 1,
+  "scoreline": {
+    "away": 1,
+    "home": 2
+  },
+  "sources": [
+    {
+      "accessedAt": "2026-09-03T15:27:00.000Z",
+      "title": "PREVIEW | Brighton & Hove Albion vs Leeds United: team news, lineups, predictions (Premier League 05/09)",
+      "url": "https://ca.sports.yahoo.com/news/preview-brighton-hove-albion-vs-141500639.html"
+    },
+    {
+      "accessedAt": "2026-09-03T15:27:00.000Z",
+      "title": "Preview: Brighton & Hove Albion vs Leeds United - prediction, team news, lineups",
+      "url": "https://www.sportsmole.co.uk/football/brighton-and-hove-albion/preview/brighton-vs-leeds-prediction-team-news-lineups_584678.html"
+    },
+    {
+      "accessedAt": "2026-09-03T15:28:00.000Z",
+      "title": "Brighton vs Leeds - live score, predicted lineups and H2H stats",
+      "url": "https://www.fotmob.com/en-GB/matches/leeds-vs-brighton/2vqp9d"
+    },
+    {
+      "accessedAt": "2026-09-03T15:28:00.000Z",
+      "title": "Brighton vs Leeds Premier League Preview, Latest Stats and Prediction",
+      "url": "https://www.wearebrighton.com/newsopinion/brighton-vs-leeds-premier-league-preview-latest-stats-and-betting-prediction/"
+    }
+  ],
+  "wordCount": 508
+}

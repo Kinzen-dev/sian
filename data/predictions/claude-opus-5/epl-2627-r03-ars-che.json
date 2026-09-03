@@ -1,0 +1,61 @@
+{
+  "analysis": {
+    "form": "ทั้งคู่เก็บหกแต้มเต็ม แต่คนละแบบสิ้นเชิง Arsenal ชนะ Coventry 3-0 ในบ้าน แล้วบุกชนะ Aston Villa 1-0 จากประตูของ Bukayo Saka เก็บคลีนชีตทั้งสองนัดและเสีย xG รวมเพียง 0.52 ซึ่งเป็นตัวเลขเกมรับที่ดีที่สุดในลีก Chelsea ภายใต้ Xabi Alonso ชนะ Fulham 3-2 นอกบ้าน แล้วชนะ Brighton 4-3 ในบ้าน ยิงเจ็ดเสียห้า เป็นทีมที่สนุกแต่เปิดช่องเยอะ",
+    "headToHead": "แฟกต์แพ็กไม่มีสถิติในชุดข้อมูล รายงานสาธารณะระบุว่า Arsenal ชนะสามจากห้านัดหลังสุดที่พบกัน และนัดล่าสุดที่ Emirates เมื่อเดือนมีนาคม 2026 จบด้วยชัยชนะ 2-1 ของเจ้าบ้าน รูปแบบนี้สอดคล้องกับภาพเกมที่ Arsenal คุมพื้นที่ได้ดีกว่าเมื่อเล่นในบ้าน",
+    "market": "ไม่มีข้อมูลตลาดในแฟกต์แพ็ก ผมให้เจ้าบ้าน 0.48 สูงกว่าค่ากลาง 0.45 เล็กน้อย และให้ทีมเยือนกับผลเสมอเท่ากันที่ 0.26 นี่เป็นเกมที่ผมไม่กล้าให้ความมั่นใจสูง เพราะทั้งสองทีมยังชนะรวดและตัวอย่างเพียงสองนัดยังน้อยเกินกว่าจะสรุปคุณภาพจริง",
+    "personnel": "Arsenal ขาด William Saliba และ Jurrien Timber ในแนวรับ และมีเครื่องหมายคำถามที่ Cristhian Mosquera หลังถูกเปลี่ยนออกในเกมที่พบ Aston Villa โดยมี Ezri Konsa เป็นทางเลือก การเสียเซ็นเตอร์แบ็กตัวหลักคือความเสี่ยงจริงเมื่อเจอเกมรุกแบบ Chelsea ฝั่งทีมเยือน Moises Caicedo เป็นเครื่องหมายคำถามหนักหลังลงมาได้เพียงสิบสี่นาทีแล้วต้องออก ส่วน Jordan Henderson ยังไม่ฟิตจากอาการเจ็บข้อมือ",
+    "risk": "ความเสี่ยงคือแนวรับ Arsenal ที่ขาด Saliba และ Timber ถ้า Mosquera ไม่พร้อมด้วย คู่เซ็นเตอร์แบ็กจะเป็นตัวสำรองล้วนเมื่อเจอแนวรุกที่ยิงเจ็ดลูกในสองนัด นอกจากนั้นเกมดาร์บี้ระดับนี้มักจบด้วยผลเสมอบ่อยกว่าที่ตัวเลข 0.26 สะท้อน",
+    "tactical": "Arsenal เล่นโครงสร้างแน่น ควบคุมจังหวะเกม ใช้ลูกตั้งเตะเป็นอาวุธหลักและกดดันสูงทันทีที่เสียบอล Chelsea เล่นเปิดกว่ามาก ดันแบ็กสูงและเปลี่ยนเกมเร็วผ่าน Palmer กับ Neto ซึ่งทำให้เกิดช่องหลังแนวรับ จุดปะทะคือพื้นที่หลังแบ็กของทีมเยือนที่ Saka จะได้เล่นตัวต่อตัว และแดนกลางที่ Chelsea ขาดตัวคุมจังหวะ",
+    "trends": "เกมของ Chelsea มีประตูรวมห้าและเจ็ดลูก ส่วนเกมของ Arsenal มีสามและหนึ่ง ค่าพื้นฐานลีกให้ over 2.5 ที่ 0.55 และ btts ที่ 0.52 ผมให้ทั้งสองรายการสูงกว่าค่ากลางเล็กน้อย เพราะแนวรับ Arsenal ขาดคนและ Chelsea ทำประตูได้ทุกนัด แต่ไม่สูงมากเพราะเจ้าบ้านคุมจังหวะเกมได้ดีกว่าคู่แข่งที่ Chelsea เพิ่งเจอ",
+    "verdict": "Arsenal ชนะ 2-1 คุณภาพเกมรับกับลูกตั้งเตะของเจ้าบ้านคือข้อได้เปรียบที่ชัดที่สุดในเกมนี้ Chelsea จะสร้างโอกาสได้และน่าจะยิงได้หนึ่งลูก แต่การเปิดช่องแบบที่เจอกับ Brighton จะแพงกว่ามากเมื่อเจอ Arsenal ที่ Emirates"
+  },
+  "btts": true,
+  "confidence": "mid",
+  "factpackHash": "bd683f8e75cf21620ef29855ddbade2d3b19743157869a991cfc62121f51308d",
+  "guruId": "claude-opus-5",
+  "harness": "claude-code-routine",
+  "keyFactor": "Arsenal เสีย xG รวมเพียง 0.52 จากสองนัดในขณะที่ Chelsea เสียไปแล้วห้าประตูทั้งที่ชนะทั้งคู่",
+  "kickoffUtc": "2026-09-06T15:30:00.000Z",
+  "lockedAt": "2026-09-03T15:29:47.986Z",
+  "matchId": "epl-2627-r03-ars-che",
+  "model": {
+    "displayName": "Claude Opus 5",
+    "id": "claude-opus-5"
+  },
+  "over25": true,
+  "pick": "H",
+  "probs": {
+    "A": 0.26,
+    "D": 0.26,
+    "H": 0.48
+  },
+  "runId": "predict-20260903T151738Z-claude-opus-5",
+  "schemaVersion": 1,
+  "scoreline": {
+    "away": 1,
+    "home": 2
+  },
+  "sources": [
+    {
+      "accessedAt": "2026-09-03T15:20:00.000Z",
+      "title": "Arsenal vs Chelsea Premier League preview: Everything you need to know",
+      "url": "https://www.goal.com/en/news/arsenal-chelsea-premier-league-preview/bltf175cccc670a3c06"
+    },
+    {
+      "accessedAt": "2026-09-03T15:40:00.000Z",
+      "title": "Arsenal vs Chelsea predicted lineups, possible XI's, team news ahead of huge clash",
+      "url": "https://sports.yahoo.com/articles/arsenal-vs-chelsea-predicted-lineups-130805257.html"
+    },
+    {
+      "accessedAt": "2026-09-03T15:40:00.000Z",
+      "title": "Arsenal vs Chelsea predicted lineups, team news, possible XI's",
+      "url": "https://www.nbcsports.com/soccer/news/arsenal-vs-chelsea-predicted-lineups-team-news-possible-xis"
+    },
+    {
+      "accessedAt": "2026-09-03T15:41:00.000Z",
+      "title": "Arsenal v Chelsea: Prediction, team news, lineups and odds",
+      "url": "https://www.football365.com/match-preview/arsenal-v-chelsea-prediction-preview"
+    }
+  ],
+  "wordCount": 535
+}
