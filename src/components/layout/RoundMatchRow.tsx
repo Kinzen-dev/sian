@@ -1,7 +1,7 @@
 import Link from "next/link";
 import type { MatchView } from "@/lib/view";
 import { fmtKickoff } from "@/lib/format";
-import { COPY, baselineLine } from "@/lib/copy";
+import { BASELINES, BASELINE_PREFIX, COPY, baselineLine } from "@/lib/copy";
 import { Crest } from "@/components/team/TeamMark";
 import { Numeral } from "@/components/ui/Numeral";
 import { PickChip } from "@/components/match/PickChip";
@@ -56,9 +56,10 @@ export function RoundMatchRow({ m }: { m: MatchView }) {
               ))}
               {baselines.length > 0 && (
                 <span className="basis-full inline-flex flex-wrap items-center gap-x-3 gap-y-1 text-ink-3 border-l border-rule pl-3">
+                  <span className="text-[0.7rem] text-ink-3">{BASELINE_PREFIX}:</span>
                   {baselines.map((p) => (
                     <span key={p.guruId} className="inline-flex items-center gap-1.5" title={baselineLine(p.guruId) ?? undefined}>
-                      <span>{p.guruName}</span>
+                      <span>{BASELINES[p.guruId]?.short ?? p.guruName}</span>
                       <PickChip pick={p.pick} home={m.home} away={m.away} />
                     </span>
                   ))}

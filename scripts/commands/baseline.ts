@@ -6,9 +6,9 @@ import { ensureGuru, predictionPath } from "../lib/gurus";
 import { dataDir, sha256, writeJsonOnce } from "../lib/store";
 
 const PROFILES = {
-  "baseline-home": { displayName: "เจ้าบ้านตลอด", descriptionTh: "กูรูฐาน: เลือกเจ้าบ้านทุกคู่ ใช้ความน่าจะเป็นเฉลี่ยของลีก" },
-  "baseline-table": { displayName: "ตามตาราง", descriptionTh: "กูรูฐาน: เลือกทีมที่อันดับดีกว่า (ก่อนเปิดฤดูกาลใช้อันดับเริ่มต้น)" },
-  "baseline-market": { displayName: "ตลาด", descriptionTh: "กูรูฐาน: ความน่าจะเป็นจากราคาต่อรองเฉลี่ยของหลายเจ้า แสดงเป็นเปอร์เซ็นต์" },
+  "baseline-home": { displayName: "สูตรเลือกเจ้าบ้าน", descriptionTh: "ไม่ใช่ AI: เลือกทีมเหย้าชนะทุกคู่ ใช้โอกาสเฉลี่ยของลีก ไว้เทียบว่าเซียนเก่งกว่าการเดาแบบง่ายๆ ไหม" },
+  "baseline-table": { displayName: "สูตรเลือกอันดับสูงกว่า", descriptionTh: "ไม่ใช่ AI: เลือกทีมที่อันดับในตารางดีกว่า (ก่อนเปิดฤดูกาลใช้อันดับเริ่มต้น) ไว้เทียบว่าเซียนเก่งกว่าไหม" },
+  "baseline-market": { displayName: "สูตรตามตลาด", descriptionTh: "ไม่ใช่ AI: เลือกทีมที่ตลาดให้เป็นตัวเต็ง จากราคาต่อรองเฉลี่ย แสดงเป็นเปอร์เซ็นต์" },
 } as const;
 
 export function baseline(opts: { now: string }): { written: number } {

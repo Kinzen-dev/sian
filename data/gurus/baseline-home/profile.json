@@ -1,8 +1,8 @@
 {
   "active": true,
   "automation": "bot",
-  "descriptionTh": "กูรูฐาน: เลือกเจ้าบ้านทุกคู่ ใช้ความน่าจะเป็นเฉลี่ยของลีก",
-  "displayName": "เจ้าบ้านตลอด",
+  "descriptionTh": "ไม่ใช่ AI: เลือกทีมเหย้าชนะทุกคู่ ใช้โอกาสเฉลี่ยของลีก ไว้เทียบว่าเซียนเก่งกว่าการเดาแบบง่ายๆ ไหม",
+  "displayName": "สูตรเลือกเจ้าบ้าน",
   "guruId": "baseline-home",
   "harnesses": [
     "bot"

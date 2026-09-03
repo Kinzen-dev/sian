@@ -22,10 +22,11 @@ export const GLOSSARY = {
 } as const;
 export type GlossaryKey = keyof typeof GLOSSARY;
 
-export const BASELINES: Record<string, { name: string; line: string }> = {
-  "baseline-home": { name: "เจ้าบ้านตลอด", line: "เลือกเจ้าบ้านทุกคู่" },
-  "baseline-table": { name: "ตามตาราง", line: "เลือกทีมอันดับดีกว่า" },
-  "baseline-market": { name: "ตลาด", line: "โอกาสจากราคาต่อรองเฉลี่ย แสดงเป็น %" },
+export const BASELINE_PREFIX = "สูตรง่ายๆ ไว้เทียบ (ไม่ใช่ AI)";
+export const BASELINES: Record<string, { name: string; short: string; line: string }> = {
+  "baseline-home": { name: "สูตรเลือกเจ้าบ้าน", short: "เลือกเจ้าบ้าน", line: "ไม่ใช่ AI: เลือกทีมเหย้าชนะทุกคู่ ไว้เทียบว่าเซียนเก่งกว่าการเดาแบบง่ายๆ ไหม" },
+  "baseline-table": { name: "สูตรเลือกอันดับสูงกว่า", short: "อันดับสูงกว่า", line: "ไม่ใช่ AI: เลือกทีมที่อันดับในตารางดีกว่า ไว้เทียบว่าเซียนเก่งกว่าไหม" },
+  "baseline-market": { name: "สูตรตามตลาด", short: "ตามตลาด", line: "ไม่ใช่ AI: เลือกทีมที่ตลาดให้เป็นตัวเต็ง จากราคาต่อรองเฉลี่ย แสดงเป็นเปอร์เซ็นต์" },
 };
 export function baselineLine(guruId: string): string | null {
   return BASELINES[guruId]?.line ?? null;
