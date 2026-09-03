@@ -1,0 +1,641 @@
+{
+  "teams": [
+    {
+      "teamId": "arsenal",
+      "name": "Arsenal FC",
+      "shortName": "Arsenal",
+      "nameTh": "อาร์เซนอล",
+      "tla": "ARS",
+      "slug": "arsenal",
+      "crestUrl": "https://crests.football-data.org/57.png",
+      "country": "ENG",
+      "competitions": [
+        "epl",
+        "ucl"
+      ]
+    },
+    {
+      "teamId": "aston-villa",
+      "name": "Aston Villa FC",
+      "shortName": "Aston Villa",
+      "nameTh": "แอสตัน วิลลา",
+      "tla": "AVL",
+      "slug": "aston-villa",
+      "crestUrl": "https://crests.football-data.org/58.png",
+      "country": "ENG",
+      "competitions": [
+        "epl",
+        "ucl"
+      ]
+    },
+    {
+      "teamId": "bournemouth",
+      "name": "AFC Bournemouth",
+      "shortName": "Bournemouth",
+      "nameTh": "บอร์นมัธ",
+      "tla": "BOU",
+      "slug": "bournemouth",
+      "crestUrl": "https://crests.football-data.org/1044.png",
+      "country": "ENG",
+      "competitions": [
+        "epl"
+      ]
+    },
+    {
+      "teamId": "brentford",
+      "name": "Brentford FC",
+      "shortName": "Brentford",
+      "nameTh": "เบรนท์ฟอร์ด",
+      "tla": "BRE",
+      "slug": "brentford",
+      "crestUrl": "https://crests.football-data.org/402.png",
+      "country": "ENG",
+      "competitions": [
+        "epl"
+      ]
+    },
+    {
+      "teamId": "brighton",
+      "name": "Brighton & Hove Albion FC",
+      "shortName": "Brighton",
+      "nameTh": "ไบรท์ตัน",
+      "tla": "BHA",
+      "slug": "brighton",
+      "crestUrl": "https://crests.football-data.org/397.png",
+      "country": "ENG",
+      "competitions": [
+        "epl"
+      ]
+    },
+    {
+      "teamId": "chelsea",
+      "name": "Chelsea FC",
+      "shortName": "Chelsea",
+      "nameTh": "เชลซี",
+      "tla": "CHE",
+      "slug": "chelsea",
+      "crestUrl": "https://crests.football-data.org/61.png",
+      "country": "ENG",
+      "competitions": [
+        "epl"
+      ]
+    },
+    {
+      "teamId": "coventry",
+      "name": "Coventry City FC",
+      "shortName": "Coventry",
+      "nameTh": "โคเวนทรี",
+      "tla": "COV",
+      "slug": "coventry",
+      "crestUrl": "https://crests.football-data.org/1076.png",
+      "country": "ENG",
+      "competitions": [
+        "epl"
+      ]
+    },
+    {
+      "teamId": "crystal-palace",
+      "name": "Crystal Palace FC",
+      "shortName": "Crystal Palace",
+      "nameTh": "คริสตัล พาเลซ",
+      "tla": "CRY",
+      "slug": "crystal-palace",
+      "crestUrl": "https://crests.football-data.org/354.png",
+      "country": "ENG",
+      "competitions": [
+        "epl"
+      ]
+    },
+    {
+      "teamId": "everton",
+      "name": "Everton FC",
+      "shortName": "Everton",
+      "nameTh": "เอฟเวอร์ตัน",
+      "tla": "EVE",
+      "slug": "everton",
+      "crestUrl": "https://crests.football-data.org/62.png",
+      "country": "ENG",
+      "competitions": [
+        "epl"
+      ]
+    },
+    {
+      "teamId": "fulham",
+      "name": "Fulham FC",
+      "shortName": "Fulham",
+      "nameTh": "ฟูแล่ม",
+      "tla": "FUL",
+      "slug": "fulham",
+      "crestUrl": "https://crests.football-data.org/63.png",
+      "country": "ENG",
+      "competitions": [
+        "epl"
+      ]
+    },
+    {
+      "teamId": "hull",
+      "name": "Hull City AFC",
+      "shortName": "Hull",
+      "nameTh": "ฮัลล์ ซิตี้",
+      "tla": "HUL",
+      "slug": "hull",
+      "crestUrl": "https://crests.football-data.org/322.png",
+      "country": "ENG",
+      "competitions": [
+        "epl"
+      ]
+    },
+    {
+      "teamId": "ipswich",
+      "name": "Ipswich Town FC",
+      "shortName": "Ipswich",
+      "nameTh": "อิปสวิช",
+      "tla": "IPS",
+      "slug": "ipswich",
+      "crestUrl": "https://crests.football-data.org/349.png",
+      "country": "ENG",
+      "competitions": [
+        "epl"
+      ]
+    },
+    {
+      "teamId": "leeds",
+      "name": "Leeds United FC",
+      "shortName": "Leeds",
+      "nameTh": "ลีดส์",
+      "tla": "LEE",
+      "slug": "leeds",
+      "crestUrl": "https://crests.football-data.org/341.png",
+      "country": "ENG",
+      "competitions": [
+        "epl"
+      ]
+    },
+    {
+      "teamId": "liverpool",
+      "name": "Liverpool FC",
+      "shortName": "Liverpool",
+      "nameTh": "ลิเวอร์พูล",
+      "tla": "LIV",
+      "slug": "liverpool",
+      "crestUrl": "https://crests.football-data.org/64.png",
+      "country": "ENG",
+      "competitions": [
+        "epl",
+        "ucl"
+      ]
+    },
+    {
+      "teamId": "man-city",
+      "name": "Manchester City FC",
+      "shortName": "Man City",
+      "nameTh": "แมนฯ ซิตี้",
+      "tla": "MCI",
+      "slug": "man-city",
+      "crestUrl": "https://crests.football-data.org/65.png",
+      "country": "ENG",
+      "competitions": [
+        "epl",
+        "ucl"
+      ]
+    },
+    {
+      "teamId": "man-utd",
+      "name": "Manchester United FC",
+      "shortName": "Man Utd",
+      "nameTh": "แมนฯ ยูไนเต็ด",
+      "tla": "MUN",
+      "slug": "man-utd",
+      "crestUrl": "https://crests.football-data.org/66.png",
+      "country": "ENG",
+      "competitions": [
+        "epl",
+        "ucl"
+      ]
+    },
+    {
+      "teamId": "newcastle",
+      "name": "Newcastle United FC",
+      "shortName": "Newcastle",
+      "nameTh": "นิวคาสเซิล",
+      "tla": "NEW",
+      "slug": "newcastle",
+      "crestUrl": "https://crests.football-data.org/67.png",
+      "country": "ENG",
+      "competitions": [
+        "epl"
+      ]
+    },
+    {
+      "teamId": "nottm-forest",
+      "name": "Nottingham Forest FC",
+      "shortName": "Nott'm Forest",
+      "nameTh": "น็อตติงแฮม ฟอเรสต์",
+      "tla": "NFO",
+      "slug": "nottm-forest",
+      "crestUrl": "https://crests.football-data.org/351.png",
+      "country": "ENG",
+      "competitions": [
+        "epl"
+      ]
+    },
+    {
+      "teamId": "sunderland",
+      "name": "Sunderland AFC",
+      "shortName": "Sunderland",
+      "nameTh": "ซันเดอร์แลนด์",
+      "tla": "SUN",
+      "slug": "sunderland",
+      "crestUrl": "https://crests.football-data.org/71.png",
+      "country": "ENG",
+      "competitions": [
+        "epl"
+      ]
+    },
+    {
+      "teamId": "tottenham",
+      "name": "Tottenham Hotspur FC",
+      "shortName": "Spurs",
+      "nameTh": "สเปอร์ส",
+      "tla": "TOT",
+      "slug": "tottenham",
+      "crestUrl": "https://crests.football-data.org/73.png",
+      "country": "ENG",
+      "competitions": [
+        "epl"
+      ]
+    },
+    {
+      "teamId": "aek-athens",
+      "name": "AEK Athens FC",
+      "shortName": "AEK",
+      "nameTh": "เออีเค เอเธนส์",
+      "tla": "AEK",
+      "slug": "aek-athens",
+      "country": "GRE",
+      "competitions": [
+        "ucl"
+      ]
+    },
+    {
+      "teamId": "lask",
+      "name": "LASK",
+      "shortName": "LASK",
+      "nameTh": "ลาสค์",
+      "tla": "LAS",
+      "slug": "lask",
+      "country": "AUT",
+      "competitions": [
+        "ucl"
+      ]
+    },
+    {
+      "teamId": "club-brugge",
+      "name": "Club Brugge KV",
+      "shortName": "Club Brugge",
+      "nameTh": "คลับ บรูช",
+      "tla": "CLB",
+      "slug": "club-brugge",
+      "country": "BEL",
+      "competitions": [
+        "ucl"
+      ]
+    },
+    {
+      "teamId": "dortmund",
+      "name": "Borussia Dortmund",
+      "shortName": "Dortmund",
+      "nameTh": "ดอร์ทมุนด์",
+      "tla": "BVB",
+      "slug": "dortmund",
+      "country": "GER",
+      "competitions": [
+        "ucl"
+      ]
+    },
+    {
+      "teamId": "villarreal",
+      "name": "Villarreal CF",
+      "shortName": "Villarreal",
+      "nameTh": "บียาร์เรอัล",
+      "tla": "VIL",
+      "slug": "villarreal",
+      "country": "ESP",
+      "competitions": [
+        "ucl"
+      ]
+    },
+    {
+      "teamId": "porto",
+      "name": "FC Porto",
+      "shortName": "Porto",
+      "nameTh": "ปอร์โต",
+      "tla": "POR",
+      "slug": "porto",
+      "country": "POR",
+      "competitions": [
+        "ucl"
+      ]
+    },
+    {
+      "teamId": "lille",
+      "name": "Lille OSC",
+      "shortName": "Lille",
+      "nameTh": "ลีลล์",
+      "tla": "LIL",
+      "slug": "lille",
+      "country": "FRA",
+      "competitions": [
+        "ucl"
+      ]
+    },
+    {
+      "teamId": "real-betis",
+      "name": "Real Betis Balompié",
+      "shortName": "Betis",
+      "nameTh": "เรอัล เบติส",
+      "tla": "BET",
+      "slug": "real-betis",
+      "country": "ESP",
+      "competitions": [
+        "ucl"
+      ]
+    },
+    {
+      "teamId": "real-madrid",
+      "name": "Real Madrid CF",
+      "shortName": "Real Madrid",
+      "nameTh": "เรอัล มาดริด",
+      "tla": "RMA",
+      "slug": "real-madrid",
+      "country": "ESP",
+      "competitions": [
+        "ucl"
+      ]
+    },
+    {
+      "teamId": "inter",
+      "name": "FC Internazionale Milano",
+      "shortName": "Inter",
+      "nameTh": "อินเตอร์ มิลาน",
+      "tla": "INT",
+      "slug": "inter",
+      "country": "ITA",
+      "competitions": [
+        "ucl"
+      ]
+    },
+    {
+      "teamId": "barcelona",
+      "name": "FC Barcelona",
+      "shortName": "Barcelona",
+      "nameTh": "บาร์เซโลนา",
+      "tla": "BAR",
+      "slug": "barcelona",
+      "country": "ESP",
+      "competitions": [
+        "ucl"
+      ]
+    },
+    {
+      "teamId": "feyenoord",
+      "name": "Feyenoord Rotterdam",
+      "shortName": "Feyenoord",
+      "nameTh": "เฟเยนูร์ด",
+      "tla": "FEY",
+      "slug": "feyenoord",
+      "country": "NED",
+      "competitions": [
+        "ucl"
+      ]
+    },
+    {
+      "teamId": "stuttgart",
+      "name": "VfB Stuttgart",
+      "shortName": "Stuttgart",
+      "nameTh": "สตุตต์การ์ท",
+      "tla": "STU",
+      "slug": "stuttgart",
+      "country": "GER",
+      "competitions": [
+        "ucl"
+      ]
+    },
+    {
+      "teamId": "viking",
+      "name": "Viking FK",
+      "shortName": "Viking",
+      "nameTh": "ไวกิง",
+      "tla": "VIK",
+      "slug": "viking",
+      "country": "NOR",
+      "competitions": [
+        "ucl"
+      ]
+    },
+    {
+      "teamId": "atletico-madrid",
+      "name": "Club Atlético de Madrid",
+      "shortName": "Atlético",
+      "nameTh": "แอตเลติโก มาดริด",
+      "tla": "ATM",
+      "slug": "atletico-madrid",
+      "country": "ESP",
+      "competitions": [
+        "ucl"
+      ]
+    },
+    {
+      "teamId": "psg",
+      "name": "Paris Saint-Germain FC",
+      "shortName": "PSG",
+      "nameTh": "เปแอสเช",
+      "tla": "PSG",
+      "slug": "psg",
+      "country": "FRA",
+      "competitions": [
+        "ucl"
+      ]
+    },
+    {
+      "teamId": "slovan-bratislava",
+      "name": "ŠK Slovan Bratislava",
+      "shortName": "Slovan",
+      "nameTh": "สโลวาน บราติสลาวา",
+      "tla": "SLB",
+      "slug": "slovan-bratislava",
+      "country": "SVK",
+      "competitions": [
+        "ucl"
+      ]
+    },
+    {
+      "teamId": "sporting-cp",
+      "name": "Sporting Clube de Portugal",
+      "shortName": "Sporting",
+      "nameTh": "สปอร์ติง ลิสบอน",
+      "tla": "SCP",
+      "slug": "sporting-cp",
+      "country": "POR",
+      "competitions": [
+        "ucl"
+      ]
+    },
+    {
+      "teamId": "galatasaray",
+      "name": "Galatasaray SK",
+      "shortName": "Galatasaray",
+      "nameTh": "กาลาตาซาราย",
+      "tla": "GAL",
+      "slug": "galatasaray",
+      "country": "TUR",
+      "competitions": [
+        "ucl"
+      ]
+    },
+    {
+      "teamId": "napoli",
+      "name": "SSC Napoli",
+      "shortName": "Napoli",
+      "nameTh": "นาโปลี",
+      "tla": "NAP",
+      "slug": "napoli",
+      "country": "ITA",
+      "competitions": [
+        "ucl"
+      ]
+    },
+    {
+      "teamId": "fenerbahce",
+      "name": "Fenerbahçe SK",
+      "shortName": "Fenerbahçe",
+      "nameTh": "เฟเนร์บาห์เช",
+      "tla": "FEN",
+      "slug": "fenerbahce",
+      "country": "TUR",
+      "competitions": [
+        "ucl"
+      ]
+    },
+    {
+      "teamId": "roma",
+      "name": "AS Roma",
+      "shortName": "Roma",
+      "nameTh": "โรมา",
+      "tla": "ROM",
+      "slug": "roma",
+      "country": "ITA",
+      "competitions": [
+        "ucl"
+      ]
+    },
+    {
+      "teamId": "psv",
+      "name": "PSV",
+      "shortName": "PSV",
+      "nameTh": "พีเอสวี",
+      "tla": "PSV",
+      "slug": "psv",
+      "country": "NED",
+      "competitions": [
+        "ucl"
+      ]
+    },
+    {
+      "teamId": "shakhtar",
+      "name": "FK Shakhtar Donetsk",
+      "shortName": "Shakhtar",
+      "nameTh": "ชัคตาร์ โดเนตสค์",
+      "tla": "SHK",
+      "slug": "shakhtar",
+      "country": "UKR",
+      "competitions": [
+        "ucl"
+      ]
+    },
+    {
+      "teamId": "como",
+      "name": "Como 1907",
+      "shortName": "Como",
+      "nameTh": "โคโม",
+      "tla": "COM",
+      "slug": "como",
+      "country": "ITA",
+      "competitions": [
+        "ucl"
+      ]
+    },
+    {
+      "teamId": "rb-leipzig",
+      "name": "RB Leipzig",
+      "shortName": "Leipzig",
+      "nameTh": "ไลป์ซิก",
+      "tla": "RBL",
+      "slug": "rb-leipzig",
+      "country": "GER",
+      "competitions": [
+        "ucl"
+      ]
+    },
+    {
+      "teamId": "bayern",
+      "name": "FC Bayern München",
+      "shortName": "Bayern",
+      "nameTh": "บาเยิร์น มิวนิก",
+      "tla": "BAY",
+      "slug": "bayern",
+      "country": "GER",
+      "competitions": [
+        "ucl"
+      ]
+    },
+    {
+      "teamId": "bodo-glimt",
+      "name": "FK Bodø/Glimt",
+      "shortName": "Bodø/Glimt",
+      "nameTh": "โบโด/กลิมท์",
+      "tla": "BOD",
+      "slug": "bodo-glimt",
+      "country": "NOR",
+      "competitions": [
+        "ucl"
+      ]
+    },
+    {
+      "teamId": "sabah",
+      "name": "Sabah FK",
+      "shortName": "Sabah",
+      "nameTh": "ซาบาห์",
+      "tla": "SAB",
+      "slug": "sabah",
+      "country": "AZE",
+      "competitions": [
+        "ucl"
+      ]
+    },
+    {
+      "teamId": "slavia-praha",
+      "name": "SK Slavia Praha",
+      "shortName": "Slavia",
+      "nameTh": "สลาเวีย ปราก",
+      "tla": "SLA",
+      "slug": "slavia-praha",
+      "country": "CZE",
+      "competitions": [
+        "ucl"
+      ]
+    },
+    {
+      "teamId": "lens",
+      "name": "RC Lens",
+      "shortName": "Lens",
+      "nameTh": "ล็องส์",
+      "tla": "LEN",
+      "slug": "lens",
+      "country": "FRA",
+      "competitions": [
+        "ucl"
+      ]
+    }
+  ]
+}

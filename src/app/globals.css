@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+:root {
+  color-scheme: dark;
+  --surface-canvas: #07090d;
+  --ink-primary: #f2f4f7;
+  --font-body: "IBM Plex Sans Thai", system-ui, sans-serif;
+  --font-data: "JetBrains Mono", ui-monospace, monospace;
+  --font-display: "Barlow Condensed", "Arial Narrow", sans-serif;
+}
+
+@theme inline {
+  --color-background: var(--surface-canvas);
+  --color-foreground: var(--ink-primary);
+  --font-sans: var(--font-body);
+  --font-mono: var(--font-data);
+}
+
+html { background: var(--surface-canvas); }
+body { margin: 0; color: var(--ink-primary); font-family: var(--font-body); line-height: 1.65; }

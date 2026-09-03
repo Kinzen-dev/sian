@@ -1,0 +1,26 @@
+{
+  "provenance": "manual-uefa-release",
+  "source": "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures/",
+  "timeZone": "Europe/Paris",
+  "round": 1,
+  "matches": [
+    { "date": "2026-09-08", "time": "18:45", "home": "AEK Athens", "away": "LASK" },
+    { "date": "2026-09-08", "time": "18:45", "home": "Club Brugge", "away": "Aston Villa" },
+    { "date": "2026-09-08", "time": "21:00", "home": "Dortmund", "away": "Villarreal" },
+    { "date": "2026-09-08", "time": "21:00", "home": "Porto", "away": "Man City" },
+    { "date": "2026-09-08", "time": "21:00", "home": "Lille", "away": "Real Betis" },
+    { "date": "2026-09-08", "time": "21:00", "home": "Real Madrid", "away": "Inter" },
+    { "date": "2026-09-09", "time": "18:45", "home": "Barcelona", "away": "Feyenoord" },
+    { "date": "2026-09-09", "time": "18:45", "home": "Stuttgart", "away": "Viking" },
+    { "date": "2026-09-09", "time": "21:00", "home": "Liverpool", "away": "Atlético Madrid" },
+    { "date": "2026-09-09", "time": "21:00", "home": "Paris Saint-Germain", "away": "Slovan Bratislava" },
+    { "date": "2026-09-09", "time": "21:00", "home": "Sporting CP", "away": "Galatasaray" },
+    { "date": "2026-09-09", "time": "21:00", "home": "Napoli", "away": "Arsenal" },
+    { "date": "2026-09-10", "time": "18:45", "home": "Fenerbahçe", "away": "Roma" },
+    { "date": "2026-09-10", "time": "18:45", "home": "PSV", "away": "Shakhtar Donetsk" },
+    { "date": "2026-09-10", "time": "21:00", "home": "Como", "away": "Leipzig" },
+    { "date": "2026-09-10", "time": "21:00", "home": "Bayern München", "away": "Bodø/Glimt" },
+    { "date": "2026-09-10", "time": "21:00", "home": "Man Utd", "away": "Sabah" },
+    { "date": "2026-09-10", "time": "21:00", "home": "Slavia Praha", "away": "Lens" }
+  ]
+}
