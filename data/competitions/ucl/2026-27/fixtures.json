@@ -4,12 +4,14 @@
     {
       "awayTeamId": "lask",
       "competition": "ucl",
-      "externalIds": {},
-      "fetchedAt": "2026-09-03T11:40:53.101Z",
+      "externalIds": {
+        "footballData": 575324
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
       "homeTeamId": "aek-athens",
       "kickoffUtc": "2026-09-08T16:45:00.000Z",
       "matchId": "ucl-2627-r01-aek-las",
-      "provenance": "manual-uefa-release",
+      "provenance": "football-data.org",
       "round": 1,
       "score": null,
       "season": "2627",
@@ -19,12 +21,14 @@
     {
       "awayTeamId": "aston-villa",
       "competition": "ucl",
-      "externalIds": {},
-      "fetchedAt": "2026-09-03T11:40:53.101Z",
+      "externalIds": {
+        "footballData": 575323
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
       "homeTeamId": "club-brugge",
       "kickoffUtc": "2026-09-08T16:45:00.000Z",
       "matchId": "ucl-2627-r01-clb-avl",
-      "provenance": "manual-uefa-release",
+      "provenance": "football-data.org",
       "round": 1,
       "score": null,
       "season": "2627",
@@ -34,12 +38,14 @@
     {
       "awayTeamId": "villarreal",
       "competition": "ucl",
-      "externalIds": {},
-      "fetchedAt": "2026-09-03T11:40:53.101Z",
+      "externalIds": {
+        "footballData": 575327
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
       "homeTeamId": "dortmund",
       "kickoffUtc": "2026-09-08T19:00:00.000Z",
       "matchId": "ucl-2627-r01-bvb-vil",
-      "provenance": "manual-uefa-release",
+      "provenance": "football-data.org",
       "round": 1,
       "score": null,
       "season": "2627",
@@ -49,12 +55,14 @@
     {
       "awayTeamId": "real-betis",
       "competition": "ucl",
-      "externalIds": {},
-      "fetchedAt": "2026-09-03T11:40:53.101Z",
+      "externalIds": {
+        "footballData": 575328
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
       "homeTeamId": "lille",
       "kickoffUtc": "2026-09-08T19:00:00.000Z",
       "matchId": "ucl-2627-r01-lil-bet",
-      "provenance": "manual-uefa-release",
+      "provenance": "football-data.org",
       "round": 1,
       "score": null,
       "season": "2627",
@@ -64,12 +72,14 @@
     {
       "awayTeamId": "man-city",
       "competition": "ucl",
-      "externalIds": {},
-      "fetchedAt": "2026-09-03T11:40:53.101Z",
+      "externalIds": {
+        "footballData": 575326
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
       "homeTeamId": "porto",
       "kickoffUtc": "2026-09-08T19:00:00.000Z",
       "matchId": "ucl-2627-r01-por-mci",
-      "provenance": "manual-uefa-release",
+      "provenance": "football-data.org",
       "round": 1,
       "score": null,
       "season": "2627",
@@ -79,12 +89,14 @@
     {
       "awayTeamId": "inter",
       "competition": "ucl",
-      "externalIds": {},
-      "fetchedAt": "2026-09-03T11:40:53.101Z",
+      "externalIds": {
+        "footballData": 575325
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
       "homeTeamId": "real-madrid",
       "kickoffUtc": "2026-09-08T19:00:00.000Z",
       "matchId": "ucl-2627-r01-rma-int",
-      "provenance": "manual-uefa-release",
+      "provenance": "football-data.org",
       "round": 1,
       "score": null,
       "season": "2627",
@@ -94,12 +106,14 @@
     {
       "awayTeamId": "feyenoord",
       "competition": "ucl",
-      "externalIds": {},
-      "fetchedAt": "2026-09-03T11:40:53.101Z",
+      "externalIds": {
+        "footballData": 575329
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
       "homeTeamId": "barcelona",
       "kickoffUtc": "2026-09-09T16:45:00.000Z",
       "matchId": "ucl-2627-r01-bar-fey",
-      "provenance": "manual-uefa-release",
+      "provenance": "football-data.org",
       "round": 1,
       "score": null,
       "season": "2627",
@@ -109,12 +123,14 @@
     {
       "awayTeamId": "viking",
       "competition": "ucl",
-      "externalIds": {},
-      "fetchedAt": "2026-09-03T11:40:53.101Z",
+      "externalIds": {
+        "footballData": 575330
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
       "homeTeamId": "stuttgart",
       "kickoffUtc": "2026-09-09T16:45:00.000Z",
       "matchId": "ucl-2627-r01-stu-vik",
-      "provenance": "manual-uefa-release",
+      "provenance": "football-data.org",
       "round": 1,
       "score": null,
       "season": "2627",
@@ -124,12 +140,14 @@
     {
       "awayTeamId": "atletico-madrid",
       "competition": "ucl",
-      "externalIds": {},
-      "fetchedAt": "2026-09-03T11:40:53.101Z",
+      "externalIds": {
+        "footballData": 575331
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
       "homeTeamId": "liverpool",
       "kickoffUtc": "2026-09-09T19:00:00.000Z",
       "matchId": "ucl-2627-r01-liv-atm",
-      "provenance": "manual-uefa-release",
+      "provenance": "football-data.org",
       "round": 1,
       "score": null,
       "season": "2627",
@@ -139,12 +157,14 @@
     {
       "awayTeamId": "arsenal",
       "competition": "ucl",
-      "externalIds": {},
-      "fetchedAt": "2026-09-03T11:40:53.101Z",
+      "externalIds": {
+        "footballData": 575333
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
       "homeTeamId": "napoli",
       "kickoffUtc": "2026-09-09T19:00:00.000Z",
       "matchId": "ucl-2627-r01-nap-ars",
-      "provenance": "manual-uefa-release",
+      "provenance": "football-data.org",
       "round": 1,
       "score": null,
       "season": "2627",
@@ -154,12 +174,14 @@
     {
       "awayTeamId": "slovan-bratislava",
       "competition": "ucl",
-      "externalIds": {},
-      "fetchedAt": "2026-09-03T11:40:53.101Z",
+      "externalIds": {
+        "footballData": 575332
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
       "homeTeamId": "psg",
       "kickoffUtc": "2026-09-09T19:00:00.000Z",
       "matchId": "ucl-2627-r01-psg-slb",
-      "provenance": "manual-uefa-release",
+      "provenance": "football-data.org",
       "round": 1,
       "score": null,
       "season": "2627",
@@ -169,12 +191,14 @@
     {
       "awayTeamId": "galatasaray",
       "competition": "ucl",
-      "externalIds": {},
-      "fetchedAt": "2026-09-03T11:40:53.101Z",
+      "externalIds": {
+        "footballData": 575334
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
       "homeTeamId": "sporting-cp",
       "kickoffUtc": "2026-09-09T19:00:00.000Z",
       "matchId": "ucl-2627-r01-scp-gal",
-      "provenance": "manual-uefa-release",
+      "provenance": "football-data.org",
       "round": 1,
       "score": null,
       "season": "2627",
@@ -184,12 +208,14 @@
     {
       "awayTeamId": "roma",
       "competition": "ucl",
-      "externalIds": {},
-      "fetchedAt": "2026-09-03T11:40:53.101Z",
+      "externalIds": {
+        "footballData": 575335
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
       "homeTeamId": "fenerbahce",
       "kickoffUtc": "2026-09-10T16:45:00.000Z",
       "matchId": "ucl-2627-r01-fen-rom",
-      "provenance": "manual-uefa-release",
+      "provenance": "football-data.org",
       "round": 1,
       "score": null,
       "season": "2627",
@@ -199,12 +225,14 @@
     {
       "awayTeamId": "shakhtar",
       "competition": "ucl",
-      "externalIds": {},
-      "fetchedAt": "2026-09-03T11:40:53.101Z",
+      "externalIds": {
+        "footballData": 575336
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
       "homeTeamId": "psv",
       "kickoffUtc": "2026-09-10T16:45:00.000Z",
       "matchId": "ucl-2627-r01-psv-shk",
-      "provenance": "manual-uefa-release",
+      "provenance": "football-data.org",
       "round": 1,
       "score": null,
       "season": "2627",
@@ -214,12 +242,14 @@
     {
       "awayTeamId": "bodo-glimt",
       "competition": "ucl",
-      "externalIds": {},
-      "fetchedAt": "2026-09-03T11:40:53.101Z",
+      "externalIds": {
+        "footballData": 575337
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
       "homeTeamId": "bayern",
       "kickoffUtc": "2026-09-10T19:00:00.000Z",
       "matchId": "ucl-2627-r01-bay-bod",
-      "provenance": "manual-uefa-release",
+      "provenance": "football-data.org",
       "round": 1,
       "score": null,
       "season": "2627",
@@ -229,12 +259,14 @@
     {
       "awayTeamId": "rb-leipzig",
       "competition": "ucl",
-      "externalIds": {},
-      "fetchedAt": "2026-09-03T11:40:53.101Z",
+      "externalIds": {
+        "footballData": 575339
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
       "homeTeamId": "como",
       "kickoffUtc": "2026-09-10T19:00:00.000Z",
       "matchId": "ucl-2627-r01-com-rbl",
-      "provenance": "manual-uefa-release",
+      "provenance": "football-data.org",
       "round": 1,
       "score": null,
       "season": "2627",
@@ -244,12 +276,14 @@
     {
       "awayTeamId": "sabah",
       "competition": "ucl",
-      "externalIds": {},
-      "fetchedAt": "2026-09-03T11:40:53.101Z",
+      "externalIds": {
+        "footballData": 575338
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
       "homeTeamId": "man-utd",
       "kickoffUtc": "2026-09-10T19:00:00.000Z",
       "matchId": "ucl-2627-r01-mun-sab",
-      "provenance": "manual-uefa-release",
+      "provenance": "football-data.org",
       "round": 1,
       "score": null,
       "season": "2627",
@@ -259,13 +293,2157 @@
     {
       "awayTeamId": "lens",
       "competition": "ucl",
-      "externalIds": {},
-      "fetchedAt": "2026-09-03T11:40:53.101Z",
+      "externalIds": {
+        "footballData": 575340
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
       "homeTeamId": "slavia-praha",
       "kickoffUtc": "2026-09-10T19:00:00.000Z",
       "matchId": "ucl-2627-r01-sla-len",
-      "provenance": "manual-uefa-release",
+      "provenance": "football-data.org",
       "round": 1,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "sporting-cp",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575341
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "lens",
+      "kickoffUtc": "2026-10-13T16:45:00.000Z",
+      "matchId": "ucl-2627-r02-len-scp",
+      "provenance": "football-data.org",
+      "round": 2,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "slavia-praha",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575342
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "sabah",
+      "kickoffUtc": "2026-10-13T16:45:00.000Z",
+      "matchId": "ucl-2627-r02-sab-sla",
+      "provenance": "football-data.org",
+      "round": 2,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "lille",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575346
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "arsenal",
+      "kickoffUtc": "2026-10-13T19:00:00.000Z",
+      "matchId": "ucl-2627-r02-ars-lil",
+      "provenance": "football-data.org",
+      "round": 2,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "man-utd",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575345
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "atletico-madrid",
+      "kickoffUtc": "2026-10-13T19:00:00.000Z",
+      "matchId": "ucl-2627-r02-atm-mun",
+      "provenance": "football-data.org",
+      "round": 2,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "barcelona",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575344
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "galatasaray",
+      "kickoffUtc": "2026-10-13T19:00:00.000Z",
+      "matchId": "ucl-2627-r02-gal-bar",
+      "provenance": "football-data.org",
+      "round": 2,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "club-brugge",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575343
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "inter",
+      "kickoffUtc": "2026-10-13T19:00:00.000Z",
+      "matchId": "ucl-2627-r02-int-clb",
+      "provenance": "football-data.org",
+      "round": 2,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "psv",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575348
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "rb-leipzig",
+      "kickoffUtc": "2026-10-13T19:00:00.000Z",
+      "matchId": "ucl-2627-r02-rbl-psv",
+      "provenance": "football-data.org",
+      "round": 2,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "bayern",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575347
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "viking",
+      "kickoffUtc": "2026-10-13T19:00:00.000Z",
+      "matchId": "ucl-2627-r02-vik-bay",
+      "provenance": "football-data.org",
+      "round": 2,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "napoli",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575349
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "villarreal",
+      "kickoffUtc": "2026-10-13T19:00:00.000Z",
+      "matchId": "ucl-2627-r02-vil-nap",
+      "provenance": "football-data.org",
+      "round": 2,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "como",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575351
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "feyenoord",
+      "kickoffUtc": "2026-10-14T16:45:00.000Z",
+      "matchId": "ucl-2627-r02-fey-com",
+      "provenance": "football-data.org",
+      "round": 2,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "liverpool",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575350
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "lask",
+      "kickoffUtc": "2026-10-14T16:45:00.000Z",
+      "matchId": "ucl-2627-r02-las-liv",
+      "provenance": "football-data.org",
+      "round": 2,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "fenerbahce",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575355
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "aston-villa",
+      "kickoffUtc": "2026-10-14T19:00:00.000Z",
+      "matchId": "ucl-2627-r02-avl-fen",
+      "provenance": "football-data.org",
+      "round": 2,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "porto",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575356
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "real-betis",
+      "kickoffUtc": "2026-10-14T19:00:00.000Z",
+      "matchId": "ucl-2627-r02-bet-por",
+      "provenance": "football-data.org",
+      "round": 2,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "dortmund",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575354
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "bodo-glimt",
+      "kickoffUtc": "2026-10-14T19:00:00.000Z",
+      "matchId": "ucl-2627-r02-bod-bvb",
+      "provenance": "football-data.org",
+      "round": 2,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "psg",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575353
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "man-city",
+      "kickoffUtc": "2026-10-14T19:00:00.000Z",
+      "matchId": "ucl-2627-r02-mci-psg",
+      "provenance": "football-data.org",
+      "round": 2,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "real-madrid",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575352
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "roma",
+      "kickoffUtc": "2026-10-14T19:00:00.000Z",
+      "matchId": "ucl-2627-r02-rom-rma",
+      "provenance": "football-data.org",
+      "round": 2,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "aek-athens",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575357
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "shakhtar",
+      "kickoffUtc": "2026-10-14T19:00:00.000Z",
+      "matchId": "ucl-2627-r02-shk-aek",
+      "provenance": "football-data.org",
+      "round": 2,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "stuttgart",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575358
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "slovan-bratislava",
+      "kickoffUtc": "2026-10-14T19:00:00.000Z",
+      "matchId": "ucl-2627-r02-slb-stu",
+      "provenance": "football-data.org",
+      "round": 2,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "slavia-praha",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575360
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "fenerbahce",
+      "kickoffUtc": "2026-10-20T16:45:00.000Z",
+      "matchId": "ucl-2627-r03-fen-sla",
+      "provenance": "football-data.org",
+      "round": 3,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "dortmund",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575359
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "sabah",
+      "kickoffUtc": "2026-10-20T16:45:00.000Z",
+      "matchId": "ucl-2627-r03-sab-bvb",
+      "provenance": "football-data.org",
+      "round": 3,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "villarreal",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575363
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "liverpool",
+      "kickoffUtc": "2026-10-20T19:00:00.000Z",
+      "matchId": "ucl-2627-r03-liv-vil",
+      "provenance": "football-data.org",
+      "round": 3,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "aek-athens",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575361
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "man-city",
+      "kickoffUtc": "2026-10-20T19:00:00.000Z",
+      "matchId": "ucl-2627-r03-mci-aek",
+      "provenance": "football-data.org",
+      "round": 3,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "bodo-glimt",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575366
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "napoli",
+      "kickoffUtc": "2026-10-20T19:00:00.000Z",
+      "matchId": "ucl-2627-r03-nap-bod",
+      "provenance": "football-data.org",
+      "round": 3,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "psv",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575365
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "porto",
+      "kickoffUtc": "2026-10-20T19:00:00.000Z",
+      "matchId": "ucl-2627-r03-por-psv",
+      "provenance": "football-data.org",
+      "round": 3,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "barcelona",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575367
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "psg",
+      "kickoffUtc": "2026-10-20T19:00:00.000Z",
+      "matchId": "ucl-2627-r03-psg-bar",
+      "provenance": "football-data.org",
+      "round": 3,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "slovan-bratislava",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575364
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "roma",
+      "kickoffUtc": "2026-10-20T19:00:00.000Z",
+      "matchId": "ucl-2627-r03-rom-slb",
+      "provenance": "football-data.org",
+      "round": 3,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "atletico-madrid",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575362
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "stuttgart",
+      "kickoffUtc": "2026-10-20T19:00:00.000Z",
+      "matchId": "ucl-2627-r03-stu-atm",
+      "provenance": "football-data.org",
+      "round": 3,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "man-utd",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575368
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "como",
+      "kickoffUtc": "2026-10-21T16:45:00.000Z",
+      "matchId": "ucl-2627-r03-com-mun",
+      "provenance": "football-data.org",
+      "round": 3,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "galatasaray",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575369
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "lille",
+      "kickoffUtc": "2026-10-21T16:45:00.000Z",
+      "matchId": "ucl-2627-r03-lil-gal",
+      "provenance": "football-data.org",
+      "round": 3,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "viking",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575374
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "aston-villa",
+      "kickoffUtc": "2026-10-21T19:00:00.000Z",
+      "matchId": "ucl-2627-r03-avl-vik",
+      "provenance": "football-data.org",
+      "round": 3,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "arsenal",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575372
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "bayern",
+      "kickoffUtc": "2026-10-21T19:00:00.000Z",
+      "matchId": "ucl-2627-r03-bay-ars",
+      "provenance": "football-data.org",
+      "round": 3,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "feyenoord",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575376
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "real-betis",
+      "kickoffUtc": "2026-10-21T19:00:00.000Z",
+      "matchId": "ucl-2627-r03-bet-fey",
+      "provenance": "football-data.org",
+      "round": 3,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "lens",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575373
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "club-brugge",
+      "kickoffUtc": "2026-10-21T19:00:00.000Z",
+      "matchId": "ucl-2627-r03-clb-len",
+      "provenance": "football-data.org",
+      "round": 3,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "shakhtar",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575371
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "inter",
+      "kickoffUtc": "2026-10-21T19:00:00.000Z",
+      "matchId": "ucl-2627-r03-int-shk",
+      "provenance": "football-data.org",
+      "round": 3,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "rb-leipzig",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575370
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "real-madrid",
+      "kickoffUtc": "2026-10-21T19:00:00.000Z",
+      "matchId": "ucl-2627-r03-rma-rbl",
+      "provenance": "football-data.org",
+      "round": 3,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "lask",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575375
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "sporting-cp",
+      "kickoffUtc": "2026-10-21T19:00:00.000Z",
+      "matchId": "ucl-2627-r03-scp-las",
+      "provenance": "football-data.org",
+      "round": 3,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "stuttgart",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575378
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "galatasaray",
+      "kickoffUtc": "2026-11-03T17:45:00.000Z",
+      "matchId": "ucl-2627-r04-gal-stu",
+      "provenance": "football-data.org",
+      "round": 4,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "sporting-cp",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575377
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "shakhtar",
+      "kickoffUtc": "2026-11-03T17:45:00.000Z",
+      "matchId": "ucl-2627-r04-shk-scp",
+      "provenance": "football-data.org",
+      "round": 4,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "bayern",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575381
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "atletico-madrid",
+      "kickoffUtc": "2026-11-03T20:00:00.000Z",
+      "matchId": "ucl-2627-r04-atm-bay",
+      "provenance": "football-data.org",
+      "round": 4,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "aston-villa",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575380
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "barcelona",
+      "kickoffUtc": "2026-11-03T20:00:00.000Z",
+      "matchId": "ucl-2627-r04-bar-avl",
+      "provenance": "football-data.org",
+      "round": 4,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "lille",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575384
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "bodo-glimt",
+      "kickoffUtc": "2026-11-03T20:00:00.000Z",
+      "matchId": "ucl-2627-r04-bod-lil",
+      "provenance": "football-data.org",
+      "round": 4,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "inter",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575379
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "feyenoord",
+      "kickoffUtc": "2026-11-03T20:00:00.000Z",
+      "matchId": "ucl-2627-r04-fey-int",
+      "provenance": "football-data.org",
+      "round": 4,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "slovan-bratislava",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575385
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "lask",
+      "kickoffUtc": "2026-11-03T20:00:00.000Z",
+      "matchId": "ucl-2627-r04-las-slb",
+      "provenance": "football-data.org",
+      "round": 4,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "roma",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575383
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "man-utd",
+      "kickoffUtc": "2026-11-03T20:00:00.000Z",
+      "matchId": "ucl-2627-r04-mun-rom",
+      "provenance": "football-data.org",
+      "round": 4,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "psg",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575382
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "villarreal",
+      "kickoffUtc": "2026-11-03T20:00:00.000Z",
+      "matchId": "ucl-2627-r04-vil-psg",
+      "provenance": "football-data.org",
+      "round": 4,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "real-madrid",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575386
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "aek-athens",
+      "kickoffUtc": "2026-11-04T17:45:00.000Z",
+      "matchId": "ucl-2627-r04-aek-rma",
+      "provenance": "football-data.org",
+      "round": 4,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "liverpool",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575387
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "fenerbahce",
+      "kickoffUtc": "2026-11-04T17:45:00.000Z",
+      "matchId": "ucl-2627-r04-fen-liv",
+      "provenance": "football-data.org",
+      "round": 4,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "real-betis",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575391
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "dortmund",
+      "kickoffUtc": "2026-11-04T20:00:00.000Z",
+      "matchId": "ucl-2627-r04-bvb-bet",
+      "provenance": "football-data.org",
+      "round": 4,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "como",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575393
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "lens",
+      "kickoffUtc": "2026-11-04T20:00:00.000Z",
+      "matchId": "ucl-2627-r04-len-com",
+      "provenance": "football-data.org",
+      "round": 4,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "napoli",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575392
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "porto",
+      "kickoffUtc": "2026-11-04T20:00:00.000Z",
+      "matchId": "ucl-2627-r04-por-nap",
+      "provenance": "football-data.org",
+      "round": 4,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "club-brugge",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575390
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "psv",
+      "kickoffUtc": "2026-11-04T20:00:00.000Z",
+      "matchId": "ucl-2627-r04-psv-clb",
+      "provenance": "football-data.org",
+      "round": 4,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "man-city",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575388
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "rb-leipzig",
+      "kickoffUtc": "2026-11-04T20:00:00.000Z",
+      "matchId": "ucl-2627-r04-rbl-mci",
+      "provenance": "football-data.org",
+      "round": 4,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "arsenal",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575389
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "slavia-praha",
+      "kickoffUtc": "2026-11-04T20:00:00.000Z",
+      "matchId": "ucl-2627-r04-sla-ars",
+      "provenance": "football-data.org",
+      "round": 4,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "sabah",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575394
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "viking",
+      "kickoffUtc": "2026-11-04T20:00:00.000Z",
+      "matchId": "ucl-2627-r04-vik-sab",
+      "provenance": "football-data.org",
+      "round": 4,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "lask",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575396
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "bodo-glimt",
+      "kickoffUtc": "2026-11-24T17:45:00.000Z",
+      "matchId": "ucl-2627-r05-bod-las",
+      "provenance": "football-data.org",
+      "round": 5,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "aston-villa",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575395
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "galatasaray",
+      "kickoffUtc": "2026-11-24T17:45:00.000Z",
+      "matchId": "ucl-2627-r05-gal-avl",
+      "provenance": "football-data.org",
+      "round": 5,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "dortmund",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575399
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "arsenal",
+      "kickoffUtc": "2026-11-24T20:00:00.000Z",
+      "matchId": "ucl-2627-r05-ars-bvb",
+      "provenance": "football-data.org",
+      "round": 5,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "aek-athens",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575403
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "como",
+      "kickoffUtc": "2026-11-24T20:00:00.000Z",
+      "matchId": "ucl-2627-r05-com-aek",
+      "provenance": "football-data.org",
+      "round": 5,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "porto",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575400
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "feyenoord",
+      "kickoffUtc": "2026-11-24T20:00:00.000Z",
+      "matchId": "ucl-2627-r05-fey-por",
+      "provenance": "football-data.org",
+      "round": 5,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "napoli",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575398
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "man-city",
+      "kickoffUtc": "2026-11-24T20:00:00.000Z",
+      "matchId": "ucl-2627-r05-mci-nap",
+      "provenance": "football-data.org",
+      "round": 5,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "lens",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575402
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "rb-leipzig",
+      "kickoffUtc": "2026-11-24T20:00:00.000Z",
+      "matchId": "ucl-2627-r05-rbl-len",
+      "provenance": "football-data.org",
+      "round": 5,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "psv",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575397
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "real-madrid",
+      "kickoffUtc": "2026-11-24T20:00:00.000Z",
+      "matchId": "ucl-2627-r05-rma-psv",
+      "provenance": "football-data.org",
+      "round": 5,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "real-betis",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575401
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "slovan-bratislava",
+      "kickoffUtc": "2026-11-24T20:00:00.000Z",
+      "matchId": "ucl-2627-r05-slb-bet",
+      "provenance": "football-data.org",
+      "round": 5,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "barcelona",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575404
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "sabah",
+      "kickoffUtc": "2026-11-25T17:45:00.000Z",
+      "matchId": "ucl-2627-r05-sab-bar",
+      "provenance": "football-data.org",
+      "round": 5,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "villarreal",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575405
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "slavia-praha",
+      "kickoffUtc": "2026-11-25T17:45:00.000Z",
+      "matchId": "ucl-2627-r05-sla-vil",
+      "provenance": "football-data.org",
+      "round": 5,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "viking",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575407
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "atletico-madrid",
+      "kickoffUtc": "2026-11-25T20:00:00.000Z",
+      "matchId": "ucl-2627-r05-atm-vik",
+      "provenance": "football-data.org",
+      "round": 5,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "liverpool",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575409
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "club-brugge",
+      "kickoffUtc": "2026-11-25T20:00:00.000Z",
+      "matchId": "ucl-2627-r05-clb-liv",
+      "provenance": "football-data.org",
+      "round": 5,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "stuttgart",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575406
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "inter",
+      "kickoffUtc": "2026-11-25T20:00:00.000Z",
+      "matchId": "ucl-2627-r05-int-stu",
+      "provenance": "football-data.org",
+      "round": 5,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "bayern",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575410
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "lille",
+      "kickoffUtc": "2026-11-25T20:00:00.000Z",
+      "matchId": "ucl-2627-r05-lil-bay",
+      "provenance": "football-data.org",
+      "round": 5,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "roma",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575408
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "psg",
+      "kickoffUtc": "2026-11-25T20:00:00.000Z",
+      "matchId": "ucl-2627-r05-psg-rom",
+      "provenance": "football-data.org",
+      "round": 5,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "man-utd",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575411
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "sporting-cp",
+      "kickoffUtc": "2026-11-25T20:00:00.000Z",
+      "matchId": "ucl-2627-r05-scp-mun",
+      "provenance": "football-data.org",
+      "round": 5,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "fenerbahce",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575412
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "shakhtar",
+      "kickoffUtc": "2026-11-25T20:00:00.000Z",
+      "matchId": "ucl-2627-r05-shk-fen",
+      "provenance": "football-data.org",
+      "round": 5,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "feyenoord",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575414
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "viking",
+      "kickoffUtc": "2026-12-08T17:45:00.000Z",
+      "matchId": "ucl-2627-r06-vik-fey",
+      "provenance": "football-data.org",
+      "round": 6,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "sabah",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575413
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "villarreal",
+      "kickoffUtc": "2026-12-08T17:45:00.000Z",
+      "matchId": "ucl-2627-r06-vil-sab",
+      "provenance": "football-data.org",
+      "round": 6,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "galatasaray",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575421
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "aek-athens",
+      "kickoffUtc": "2026-12-08T20:00:00.000Z",
+      "matchId": "ucl-2627-r06-aek-gal",
+      "provenance": "football-data.org",
+      "round": 6,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "psg",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575416
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "aston-villa",
+      "kickoffUtc": "2026-12-08T20:00:00.000Z",
+      "matchId": "ucl-2627-r06-avl-psg",
+      "provenance": "football-data.org",
+      "round": 6,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "man-city",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575415
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "barcelona",
+      "kickoffUtc": "2026-12-08T20:00:00.000Z",
+      "matchId": "ucl-2627-r06-bar-mci",
+      "provenance": "football-data.org",
+      "round": 6,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "slavia-praha",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575417
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "bayern",
+      "kickoffUtc": "2026-12-08T20:00:00.000Z",
+      "matchId": "ucl-2627-r06-bay-sla",
+      "provenance": "football-data.org",
+      "round": 6,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "rb-leipzig",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575420
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "man-utd",
+      "kickoffUtc": "2026-12-08T20:00:00.000Z",
+      "matchId": "ucl-2627-r06-mun-rbl",
+      "provenance": "football-data.org",
+      "round": 6,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "club-brugge",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575418
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "napoli",
+      "kickoffUtc": "2026-12-08T20:00:00.000Z",
+      "matchId": "ucl-2627-r06-nap-clb",
+      "provenance": "football-data.org",
+      "round": 6,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "sporting-cp",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575419
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "roma",
+      "kickoffUtc": "2026-12-08T20:00:00.000Z",
+      "matchId": "ucl-2627-r06-rom-scp",
+      "provenance": "football-data.org",
+      "round": 6,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "como",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575422
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "real-betis",
+      "kickoffUtc": "2026-12-09T17:45:00.000Z",
+      "matchId": "ucl-2627-r06-bet-com",
+      "provenance": "football-data.org",
+      "round": 6,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "shakhtar",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575423
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "slovan-bratislava",
+      "kickoffUtc": "2026-12-09T17:45:00.000Z",
+      "matchId": "ucl-2627-r06-slb-shk",
+      "provenance": "football-data.org",
+      "round": 6,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "real-madrid",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575280
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "arsenal",
+      "kickoffUtc": "2026-12-09T20:00:00.000Z",
+      "matchId": "ucl-2627-r06-ars-rma",
+      "provenance": "football-data.org",
+      "round": 6,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "inter",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575286
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "dortmund",
+      "kickoffUtc": "2026-12-09T20:00:00.000Z",
+      "matchId": "ucl-2627-r06-bvb-int",
+      "provenance": "football-data.org",
+      "round": 6,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "fenerbahce",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575317
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "lask",
+      "kickoffUtc": "2026-12-09T20:00:00.000Z",
+      "matchId": "ucl-2627-r06-las-fen",
+      "provenance": "football-data.org",
+      "round": 6,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "bodo-glimt",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575315
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "lens",
+      "kickoffUtc": "2026-12-09T20:00:00.000Z",
+      "matchId": "ucl-2627-r06-len-bod",
+      "provenance": "football-data.org",
+      "round": 6,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "porto",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575295
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "liverpool",
+      "kickoffUtc": "2026-12-09T20:00:00.000Z",
+      "matchId": "ucl-2627-r06-liv-por",
+      "provenance": "football-data.org",
+      "round": 6,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "atletico-madrid",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575290
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "psv",
+      "kickoffUtc": "2026-12-09T20:00:00.000Z",
+      "matchId": "ucl-2627-r06-psv-atm",
+      "provenance": "football-data.org",
+      "round": 6,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "lille",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575322
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "stuttgart",
+      "kickoffUtc": "2026-12-09T20:00:00.000Z",
+      "matchId": "ucl-2627-r06-stu-lil",
+      "provenance": "football-data.org",
+      "round": 6,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "atletico-madrid",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575292
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "bodo-glimt",
+      "kickoffUtc": "2027-01-19T17:45:00.000Z",
+      "matchId": "ucl-2627-r07-bod-atm",
+      "provenance": "football-data.org",
+      "round": 7,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "feyenoord",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575318
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "galatasaray",
+      "kickoffUtc": "2027-01-19T17:45:00.000Z",
+      "matchId": "ucl-2627-r07-gal-fey",
+      "provenance": "football-data.org",
+      "round": 7,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "roma",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575307
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "aek-athens",
+      "kickoffUtc": "2027-01-19T20:00:00.000Z",
+      "matchId": "ucl-2627-r07-aek-rom",
+      "provenance": "football-data.org",
+      "round": 7,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "dortmund",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575303
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "aston-villa",
+      "kickoffUtc": "2027-01-19T20:00:00.000Z",
+      "matchId": "ucl-2627-r07-avl-bvb",
+      "provenance": "football-data.org",
+      "round": 7,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "liverpool",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575285
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "inter",
+      "kickoffUtc": "2027-01-19T20:00:00.000Z",
+      "matchId": "ucl-2627-r07-int-liv",
+      "provenance": "football-data.org",
+      "round": 7,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "slovan-bratislava",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575321
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "lille",
+      "kickoffUtc": "2027-01-19T20:00:00.000Z",
+      "matchId": "ucl-2627-r07-lil-slb",
+      "provenance": "football-data.org",
+      "round": 7,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "slavia-praha",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575308
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "porto",
+      "kickoffUtc": "2027-01-19T20:00:00.000Z",
+      "matchId": "ucl-2627-r07-por-sla",
+      "provenance": "football-data.org",
+      "round": 7,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "lask",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575282
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "real-madrid",
+      "kickoffUtc": "2027-01-19T20:00:00.000Z",
+      "matchId": "ucl-2627-r07-rma-las",
+      "provenance": "football-data.org",
+      "round": 7,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "club-brugge",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575302
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "stuttgart",
+      "kickoffUtc": "2027-01-19T20:00:00.000Z",
+      "matchId": "ucl-2627-r07-stu-clb",
+      "provenance": "football-data.org",
+      "round": 7,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "villarreal",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575314
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "fenerbahce",
+      "kickoffUtc": "2027-01-20T17:45:00.000Z",
+      "matchId": "ucl-2627-r07-fen-vil",
+      "provenance": "football-data.org",
+      "round": 7,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "napoli",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575320
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "sabah",
+      "kickoffUtc": "2027-01-20T17:45:00.000Z",
+      "matchId": "ucl-2627-r07-sab-nap",
+      "provenance": "football-data.org",
+      "round": 7,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "arsenal",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575297
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "real-betis",
+      "kickoffUtc": "2027-01-20T20:00:00.000Z",
+      "matchId": "ucl-2627-r07-bet-ars",
+      "provenance": "football-data.org",
+      "round": 7,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "psg",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575294
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "como",
+      "kickoffUtc": "2027-01-20T20:00:00.000Z",
+      "matchId": "ucl-2627-r07-com-psg",
+      "provenance": "football-data.org",
+      "round": 7,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "man-city",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575284
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "lens",
+      "kickoffUtc": "2027-01-20T20:00:00.000Z",
+      "matchId": "ucl-2627-r07-len-mci",
+      "provenance": "football-data.org",
+      "round": 7,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "bayern",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575300
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "man-utd",
+      "kickoffUtc": "2027-01-20T20:00:00.000Z",
+      "matchId": "ucl-2627-r07-mun-bay",
+      "provenance": "football-data.org",
+      "round": 7,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "shakhtar",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575313
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "rb-leipzig",
+      "kickoffUtc": "2027-01-20T20:00:00.000Z",
+      "matchId": "ucl-2627-r07-rbl-shk",
+      "provenance": "football-data.org",
+      "round": 7,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "barcelona",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575288
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "sporting-cp",
+      "kickoffUtc": "2027-01-20T20:00:00.000Z",
+      "matchId": "ucl-2627-r07-scp-bar",
+      "provenance": "football-data.org",
+      "round": 7,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "psv",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575312
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "viking",
+      "kickoffUtc": "2027-01-20T20:00:00.000Z",
+      "matchId": "ucl-2627-r07-vik-psv",
+      "provenance": "football-data.org",
+      "round": 7,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "sabah",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575298
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "arsenal",
+      "kickoffUtc": "2027-01-27T20:00:00.000Z",
+      "matchId": "ucl-2627-r08-ars-sab",
+      "provenance": "football-data.org",
+      "round": 8,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "fenerbahce",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575291
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "atletico-madrid",
+      "kickoffUtc": "2027-01-27T20:00:00.000Z",
+      "matchId": "ucl-2627-r08-atm-fen",
+      "provenance": "football-data.org",
+      "round": 8,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "como",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575289
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "barcelona",
+      "kickoffUtc": "2027-01-27T20:00:00.000Z",
+      "matchId": "ucl-2627-r08-bar-com",
+      "provenance": "football-data.org",
+      "round": 8,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "real-betis",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575299
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "bayern",
+      "kickoffUtc": "2027-01-27T20:00:00.000Z",
+      "matchId": "ucl-2627-r08-bay-bet",
+      "provenance": "football-data.org",
+      "round": 8,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "aek-athens",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575304
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "dortmund",
+      "kickoffUtc": "2027-01-27T20:00:00.000Z",
+      "matchId": "ucl-2627-r08-bvb-aek",
+      "provenance": "football-data.org",
+      "round": 8,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "bodo-glimt",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575301
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "club-brugge",
+      "kickoffUtc": "2027-01-27T20:00:00.000Z",
+      "matchId": "ucl-2627-r08-clb-bod",
+      "provenance": "football-data.org",
+      "round": 8,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "rb-leipzig",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575316
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "feyenoord",
+      "kickoffUtc": "2027-01-27T20:00:00.000Z",
+      "matchId": "ucl-2627-r08-fey-rbl",
+      "provenance": "football-data.org",
+      "round": 8,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "porto",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575309
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "lask",
+      "kickoffUtc": "2027-01-27T20:00:00.000Z",
+      "matchId": "ucl-2627-r08-las-por",
+      "provenance": "football-data.org",
+      "round": 8,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "lens",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575296
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "liverpool",
+      "kickoffUtc": "2027-01-27T20:00:00.000Z",
+      "matchId": "ucl-2627-r08-liv-len",
+      "provenance": "football-data.org",
+      "round": 8,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "sporting-cp",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575283
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "man-city",
+      "kickoffUtc": "2027-01-27T20:00:00.000Z",
+      "matchId": "ucl-2627-r08-mci-scp",
+      "provenance": "football-data.org",
+      "round": 8,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "viking",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575319
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "napoli",
+      "kickoffUtc": "2027-01-27T20:00:00.000Z",
+      "matchId": "ucl-2627-r08-nap-vik",
+      "provenance": "football-data.org",
+      "round": 8,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "galatasaray",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575293
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "psg",
+      "kickoffUtc": "2027-01-27T20:00:00.000Z",
+      "matchId": "ucl-2627-r08-psg-gal",
+      "provenance": "football-data.org",
+      "round": 8,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "stuttgart",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575311
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "psv",
+      "kickoffUtc": "2027-01-27T20:00:00.000Z",
+      "matchId": "ucl-2627-r08-psv-stu",
+      "provenance": "football-data.org",
+      "round": 8,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "lille",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575306
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "roma",
+      "kickoffUtc": "2027-01-27T20:00:00.000Z",
+      "matchId": "ucl-2627-r08-rom-lil",
+      "provenance": "football-data.org",
+      "round": 8,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "real-madrid",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575281
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "shakhtar",
+      "kickoffUtc": "2027-01-27T20:00:00.000Z",
+      "matchId": "ucl-2627-r08-shk-rma",
+      "provenance": "football-data.org",
+      "round": 8,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "aston-villa",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575305
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "slavia-praha",
+      "kickoffUtc": "2027-01-27T20:00:00.000Z",
+      "matchId": "ucl-2627-r08-sla-avl",
+      "provenance": "football-data.org",
+      "round": 8,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "inter",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575287
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "slovan-bratislava",
+      "kickoffUtc": "2027-01-27T20:00:00.000Z",
+      "matchId": "ucl-2627-r08-slb-int",
+      "provenance": "football-data.org",
+      "round": 8,
+      "score": null,
+      "season": "2627",
+      "status": "TIMED",
+      "xg": null
+    },
+    {
+      "awayTeamId": "man-utd",
+      "competition": "ucl",
+      "externalIds": {
+        "footballData": 575310
+      },
+      "fetchedAt": "2026-09-03T11:42:44.903Z",
+      "homeTeamId": "villarreal",
+      "kickoffUtc": "2027-01-27T20:00:00.000Z",
+      "matchId": "ucl-2627-r08-vil-mun",
+      "provenance": "football-data.org",
+      "round": 8,
       "score": null,
       "season": "2627",
       "status": "TIMED",
@@ -273,5 +2451,5 @@
     }
   ],
   "season": "2627",
-  "updatedAt": "2026-09-03T11:40:53.101Z"
+  "updatedAt": "2026-09-03T11:42:44.903Z"
 }

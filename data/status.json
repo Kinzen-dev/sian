@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-03T11:40:57.071Z",
-  "lastRefreshAt": "2026-09-03T11:40:53.101Z",
+  "generatedAt": "2026-09-03T11:42:49.088Z",
+  "lastRefreshAt": "2026-09-03T11:42:44.903Z",
   "lastScoreAt": null,
   "pending": {
     "factpacks": 0,
@@ -9,26 +9,26 @@
   },
   "sources": {
     "football-data.co.uk": {
-      "at": "2026-09-03T11:40:53.101Z",
+      "at": "2026-09-03T11:42:44.903Z",
       "note": "20 matches with xG",
       "ok": true
     },
     "football-data.org:epl": {
-      "at": "2026-09-03T11:40:53.101Z",
+      "at": "2026-09-03T11:42:44.903Z",
       "note": "380 matches",
       "ok": true
     },
     "football-data.org:ucl": {
-      "at": "2026-09-03T11:40:53.101Z",
-      "note": "Error: unmatched team name for football-data.org: \"PAE AEK\" (add it to data/teams/aliases.json)",
-      "ok": false
+      "at": "2026-09-03T11:42:44.903Z",
+      "note": "144 matches",
+      "ok": true
     },
     "manual-uefa-release": {
-      "at": "2026-09-03T11:40:53.101Z",
+      "at": "2026-09-03T11:42:44.903Z",
       "ok": true
     },
     "openfootball": {
-      "at": "2026-09-03T11:40:53.101Z",
+      "at": "2026-09-03T11:42:44.903Z",
       "ok": true
     }
   }
