@@ -52,3 +52,5 @@ Human step (one minute): open the Default cloud environment at https://claude.ai
 | sian-fable-daily | trig_01Sio8XRPEDCydpNj57BhNXc | `0 3 * * *` (10:00 Thailand) | claude-fable-5-1 | enabled; environment "Full" (env_01FCbgExJsxxx3dGPAisgbx4, network Full) since 2026-09-03 11:49 UTC |
 
 Manage at https://claude.ai/code/routines. Debug a run from Claude Code with `/schedule` (list runs, run log).
+
+| sian-opus-daily | trig_01BDJNbktHo2HNPwBec55VoD | `0 3 * * *` (10:00 Thailand) | claude-opus-5 | enabled; environment "Full"; first run fired manually 2026-09-03 15:16 UTC with `--window 96h` to cover MW3 |
