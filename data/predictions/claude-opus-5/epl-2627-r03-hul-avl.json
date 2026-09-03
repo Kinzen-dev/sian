@@ -1,0 +1,61 @@
+{
+  "analysis": {
+    "form": "Hull เปิดตัวกลับสู่ลีกสูงสุดได้สมบูรณ์แบบ ชนะ Manchester United 2-0 ในบ้าน แล้วบุกชนะ Coventry 1-0 เก็บหกแต้มเต็มโดยยังไม่เสียประตู แต่ตัวเลขไม่ได้สวยเท่าผล ทีมทำ xG ได้ 1.01 และ 0.73 ต่ำกว่าคู่แข่งทั้งสองนัด แปลว่ากำลังเล่นเหนือฟอร์มจริงอยู่มาก Aston Villa ตรงข้าม แพ้ Arsenal 0-1 ในบ้าน แล้วโดน Brighton ถล่ม 0-4 นอกบ้าน ยังไม่มีประตูและไม่มีแต้ม",
+    "headToHead": "ไม่มีสถิติการพบกันในแฟกต์แพ็ก เพราะ Hull เพิ่งเลื่อนชั้นขึ้นมา บริบทที่มีความหมายกว่าคือ Hull กำลังไล่ล่าสถิติทีมเลื่อนชั้นที่ชนะสามนัดแรก ซึ่งมีเพียง Bolton Wanderers ฤดูกาล 2001-02 ที่ทำได้ ส่วน Villa กำลังเสี่ยงแพ้สามนัดแรกเป็นครั้งแรกในรอบยี่สิบเก้าปี",
+    "market": "แฟกต์แพ็กไม่มีตัวเลขตลาด ผมประเมินเองว่านี่คือเกมที่ใกล้เคียงที่สุดในสัปดาห์ ผมให้เจ้าบ้าน 0.40 ต่ำกว่าค่ากลาง 0.45 เพราะตัวเลข xG บอกว่า Hull โชคดีมาสองนัด แต่ให้ทีมเยือนเพียง 0.32 ใกล้ค่ากลาง เพราะคุณภาพบนกระดาษของ Villa ยังไม่แสดงออกมาเลยและทีมขาดผู้เล่นหลักหลายคน",
+    "personnel": "Hull มีรายชื่อเจ็บยาว Eliot Matazo, Darko Gyabi, Jack Butland, Charlie Hughes, Oscar Zambrano และ Matt Crooks ไม่พร้อม ส่วน Joe Gelhardt กับ Matty Jacob เป็นเครื่องหมายคำถาม Villa ขาด Joao Gomes ที่ติดโทษแบน Amadou Onana และ Johan Manzambi เจ็บเข่า Brian Madjo เจ็บข้อเท้า Leon Bailey ไม่พร้อม และ Tammy Abraham มีปัญหาขาหนีบ ทั้งสองทีมจึงส่งชุดไม่เต็ม",
+    "risk": "ความเสี่ยงคือการถดถอยสู่ค่าเฉลี่ย Hull ถูกยิงเข้ากรอบมากกว่าที่ผลบอกและวันหนึ่งจะโดนเก็บ Villa มีคุณภาพตัวผู้เล่นเหนือกว่าและถ้ายิงประตูแรกได้ก่อน ความมั่นใจจะกลับมาทั้งทีม ผมยอมรับว่าผลเสมอกับทีมเยือนชนะรวมกันมีโอกาสมากกว่าเจ้าบ้านชนะ",
+    "tactical": "Hull เล่นเกมรับเป็นบล็อกแน่น ยอมเสียการครองบอล แล้วรอจังหวะสวนกลับกับลูกตั้งเตะ ประตูชัยที่ Coventry มาจากการสวนกลับนาทีที่แปดสิบสองซึ่งเป็นลายเซ็นของทีม Villa ต้องเป็นฝ่ายบุก แต่ปัญหาคือขาดคนเชื่อมเกมในพื้นที่สุดท้าย จุดปะทะคือกล่องเขตโทษ Hull ที่จะมีคนยืนแน่น และพื้นที่หลังแนวรับ Villa เวลาเติมเกมสูง",
+    "trends": "Hull ยังไม่เสียประตูในลีกและทั้งสองนัดจบด้วยประตูรวมไม่เกินสองลูก Villa ยิงไม่ออกเลยสองนัด ค่าพื้นฐานลีกให้ over 2.5 ที่ 0.55 และ btts ที่ 0.52 ผมให้ต่ำกว่าค่ากลางทั้งคู่อย่างมีนัยสำคัญ อีกประเด็นคือ Villa มีวันพักสี่วันเทียบกับเจ้าบ้านเจ็ดวัน ซึ่งสำคัญสำหรับทีมที่ต้องวิ่งไล่บอล",
+    "verdict": "Hull ชนะ 1-0 ผมเลือกเจ้าบ้านแบบไม่มั่นใจมาก แต่การรวมกันของแรงส่งในบ้าน วันพักที่มากกว่า และทีมเยือนที่ยังยิงไม่ออก ทำให้เกมฝืดที่ตัดสินด้วยจังหวะเดียวเป็นภาพที่น่าจะเกิดที่สุด"
+  },
+  "btts": false,
+  "confidence": "low",
+  "factpackHash": "7bc5b0dbaa4d6fddead4ffc1bf889d542009b9d610b114ef76ec650c6236a424",
+  "guruId": "claude-opus-5",
+  "harness": "claude-code-routine",
+  "keyFactor": "Aston Villa ทำ xG รวมได้เพียง 0.6 จากสองนัดและมีวันพักน้อยกว่าคู่แข่งสามวัน ขณะที่ Hull ยังไม่เสียประตูที่ MKM Stadium",
+  "kickoffUtc": "2026-09-05T16:30:00.000Z",
+  "lockedAt": "2026-09-03T15:29:46.653Z",
+  "matchId": "epl-2627-r03-hul-avl",
+  "model": {
+    "displayName": "Claude Opus 5",
+    "id": "claude-opus-5"
+  },
+  "over25": false,
+  "pick": "H",
+  "probs": {
+    "A": 0.32,
+    "D": 0.28,
+    "H": 0.4
+  },
+  "runId": "predict-20260903T151738Z-claude-opus-5",
+  "schemaVersion": 1,
+  "scoreline": {
+    "away": 0,
+    "home": 1
+  },
+  "sources": [
+    {
+      "accessedAt": "2026-09-03T15:37:00.000Z",
+      "title": "Hull City vs Aston Villa Prediction and Betting Tips, September 5th 2026",
+      "url": "https://www.sportskeeda.com/football/hull-city-vs-aston-villa-prediction-betting-tips-september-5th-2026"
+    },
+    {
+      "accessedAt": "2026-09-03T15:37:00.000Z",
+      "title": "Hull City vs Aston Villa: Predictions, Picks, Odds & Lineups",
+      "url": "https://www.squawka.com/us/news/premier-league/match-preview-hull-city-vs-aston-villa-05-09-26-premier-league/"
+    },
+    {
+      "accessedAt": "2026-09-03T15:38:00.000Z",
+      "title": "Hull City vs Aston Villa Match Preview & Report, 2026/2027 Premier League",
+      "url": "https://www.premierleague.com/en/match/2645220/hull-city-vs-aston-villa"
+    },
+    {
+      "accessedAt": "2026-09-03T15:38:00.000Z",
+      "title": "Form and head to head stats: Hull City vs Aston Villa",
+      "url": "https://www.skysports.com/football/hull-city-vs-aston-villa/559469"
+    }
+  ],
+  "wordCount": 547
+}

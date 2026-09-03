@@ -1,0 +1,61 @@
+{
+  "analysis": {
+    "form": "Liverpool ยังไม่ชนะ เสมอ Newcastle 2-2 นอกบ้าน แล้วเสมอ Nottingham Forest 2-2 ในบ้าน แต่ตัวเลขบอกคนละเรื่องกับผลงาน ทีมทำ xG ได้ 2.98 และ 1.75 สองนัดรวมกันมากกว่าคู่แข่งชัดเจน ปัญหาอยู่ที่การเสียประตูช่วงท้ายและการปิดเกมไม่ลง ฝั่ง Ipswich เปิดฤดูกาลด้วยการชนะ Sunderland 2-1 ในบ้าน ก่อนโดน Manchester United ถล่ม 5-2 นอกบ้าน นัดนั้นเสีย xG ถึง 4.56 ซึ่งเป็นตัวเลขที่น่าตกใจสำหรับทีมเลื่อนชั้น",
+    "headToHead": "แฟกต์แพ็กไม่มีข้อมูลการพบกันในชุดนี้ เพราะทั้งคู่เพิ่งกลับมาเจอกันในลีกสูงสุด จึงต้องอ่านจากคุณภาพทีมและบริบทปัจจุบันแทน สิ่งที่พอใช้อ้างอิงได้คือ Portman Road เป็นสนามที่ Ipswich เก็บแต้มได้ดีกว่าเกมเยือนมาตลอด และทีมใหญ่ที่มาเยือนมักเจอเกมที่ต้องอดทน",
+    "market": "แฟกต์แพ็กระบุว่าไม่มีข้อมูลตลาดตอนสร้างไฟล์ จึงประเมินจากพื้นฐานล้วน ค่ากลางของลีกให้เจ้าบ้านชนะ 0.45 แต่ช่องว่างคุณภาพเกมนี้กว้างพอที่จะพลิกให้ทีมเยือนเป็นต่อชัดเจน ผมให้ Liverpool ที่ 0.55 ซึ่งต่ำกว่าที่หลายคนคาดไว้ เพราะทีมยังปิดเกมไม่เป็นและเสียประตูง่ายในสองนัดแรก",
+    "personnel": "Liverpool ขาด Hugo Ekitike จากอาการเอ็นร้อยหวายฉีก Giovanni Leoni และ Conor Bradley เจ็บเข่า Joe Gomez มีปัญหากล้ามเนื้อ และ Federico Chiesa เจ็บหลัง ส่วน Bradley Barcola นักเตะใหม่มีลุ้นลงสนามนัดแรก ฝั่ง Ipswich ขาด Jaden Philogene-Bidace เจ็บข้อเท้า Emersonn มีปัญหาเข่าจากนัดที่แล้ว และกองกลาง Azor Matusiwa, Jack Taylor กับ Florentino Luis ไม่พร้อม รายชื่อทั้งหมดยังไม่ยืนยัน",
+    "risk": "ความเสี่ยงคือ Liverpool ทำแบบเดิมอีกครั้ง คือครองบอลเหนือกว่าแต่จบสกอร์ไม่ลงแล้วโดนตีเสมอท้ายเกม สองนัดแรกจบแบบนี้ทั้งคู่ ถ้า Emersonn ลงสนามได้และเจ้าบ้านได้ประตูขึ้นนำก่อน เกมจะกลายเป็นการทุบกำแพงที่ Liverpool ทำได้ไม่ดีนัก",
+    "tactical": "จุดปะทะหลักคือแดนกลางและหลังแนวรับของเจ้าบ้าน Liverpool เล่นบอลผ่านแดนกลางเร็วและกดดันสูงหลังเสียบอล ขณะที่ Ipswich จะตั้งบล็อกต่ำแล้วหวังสวนกลับกับลูกตั้งเตะ ถ้าเจ้าบ้านถอยลึกเกินไป Liverpool จะได้เล่นในพื้นที่สุดท้ายทั้งเกม ปัญหาของทีมเยือนคือแนวรับสูงที่ถูกเจาะด้วยบอลยาวและจังหวะเปลี่ยนเกมเร็ว ซึ่งเป็นทางเดียวที่ Ipswich ทำแต้มได้",
+    "trends": "สองนัดของ Liverpool จบด้วยผลเสมอ 2-2 ทั้งคู่ และมีประตูเกิน 2.5 ลูกทั้งสองนัด Ipswich ก็ยิงและเสียในทุกนัดเช่นกัน อัตราพื้นฐานของลีกในแฟกต์แพ็กให้ over 2.5 ที่ 0.55 และ btts ที่ 0.52 ซึ่งเกมนี้ควรอยู่สูงกว่าค่ากลางทั้งสองรายการ ค่า xG สะสมของทีมเยือนสูงกว่าเจ้าบ้านอย่างมีนัยสำคัญ",
+    "verdict": "Liverpool ชนะ 2-1 คุณภาพในพื้นที่สุดท้ายต่างกันมากเกินไป Isak กับ Wirtz จะหาช่องได้ แต่เกมรับที่ยังไม่นิ่งทำให้ผมไม่กล้าให้คลีนชีต Ipswich น่าจะได้ประตูจากลูกตั้งเตะหรือจังหวะสวนกลับหนึ่งครั้ง"
+  },
+  "btts": true,
+  "confidence": "mid",
+  "factpackHash": "d4381b393fc12270614eb3e96bcc8208b26ef158d6ebf37c3863f3a46dd853eb",
+  "guruId": "claude-opus-5",
+  "harness": "claude-code-routine",
+  "keyFactor": "Liverpool สร้างโอกาสได้มากกว่าคู่แข่งทั้งสองนัดแรก และเกมรับนอกบ้านของ Ipswich ยังพังง่ายเมื่อเจอทีมที่กดดันสูง",
+  "kickoffUtc": "2026-09-04T19:00:00.000Z",
+  "lockedAt": "2026-09-03T15:21:56.298Z",
+  "matchId": "epl-2627-r03-ips-liv",
+  "model": {
+    "displayName": "Claude Opus 5",
+    "id": "claude-opus-5"
+  },
+  "over25": true,
+  "pick": "A",
+  "probs": {
+    "A": 0.55,
+    "D": 0.24,
+    "H": 0.21
+  },
+  "runId": "predict-20260903T151738Z-claude-opus-5",
+  "schemaVersion": 1,
+  "scoreline": {
+    "away": 2,
+    "home": 1
+  },
+  "sources": [
+    {
+      "accessedAt": "2026-09-03T15:24:00.000Z",
+      "title": "Preview: Ipswich Town vs Liverpool - prediction, team news, lineups",
+      "url": "https://www.sportsmole.co.uk/football/ipswich-town/preview/ipswich-vs-liverpool-prediction-team-news-lineups_604300.html"
+    },
+    {
+      "accessedAt": "2026-09-03T15:22:00.000Z",
+      "title": "FPL Gameweek 3 team news: Thursday's live injury updates",
+      "url": "https://www.fantasyfootballscout.co.uk/2026/09/03/fpl-gameweek-3-team-news-thursdays-live-injury-updates-2"
+    },
+    {
+      "accessedAt": "2026-09-03T15:23:00.000Z",
+      "title": "Ipswich Town vs Liverpool Premier League preview: Reds continue to leak goals",
+      "url": "https://www.goal.com/en/news/ipswich-town-liverpool-premier-league-preview/blt68667b1af269e5f5"
+    },
+    {
+      "accessedAt": "2026-09-03T15:24:00.000Z",
+      "title": "Ipswich Town lineup vs. Liverpool: Predicted XI as Gary O'Neil looks to avoid second Premier League thrashing",
+      "url": "https://www.sportsmole.co.uk/football/ipswich-town/predicted-lineups/one-major-change-for-the-tractor-boys-predicted-ipswich-xi-vs-liverpool_604313.html"
+    }
+  ],
+  "wordCount": 565
+}

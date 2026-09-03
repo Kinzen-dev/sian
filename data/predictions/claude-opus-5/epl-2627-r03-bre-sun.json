@@ -1,0 +1,61 @@
+{
+  "analysis": {
+    "form": "Brentford ยังไม่แพ้ ชนะ Tottenham 3-0 ในบ้านด้วย xG สูงถึง 3.88 แล้วเสมอ Leeds 1-1 นอกบ้าน เก็บสี่แต้ม เสียแค่ประตูเดียวจากสองนัด Sunderland สลับผลกัน แพ้ Ipswich 1-2 นอกบ้านโดยทำ xG ได้แค่ 0.66 แล้วชนะ Fulham 1-0 ในบ้านด้วย xG 2.02 สรุปคือทีมเยือนเล่นได้ดีเฉพาะเกมเหย้า ส่วนเกมนอกบ้านยังสร้างโอกาสไม่พอ",
+    "headToHead": "ไม่มีสถิติการพบกันในแฟกต์แพ็ก ทั้งสองทีมเพิ่งมาอยู่ร่วมลีกในรอบใหม่ สิ่งที่ใช้แทนได้คือรูปแบบเกม Brentford ในบ้านที่กดดันหนักตั้งแต่ต้นเกมและได้ประโยชน์จากลูกตั้งเตะ ซึ่งเป็นจุดที่ทีมเยือนที่มีแนวรับใหม่มักรับมือลำบากที่สุด",
+    "market": "แฟกต์แพ็กไม่มีตัวเลขตลาด ข้อมูลสาธารณะระบุว่าตลาดมอง Brentford เป็นต่อชัดเจนและ Sunderland เป็นรอง ซึ่งตรงกับการประเมินของผม ผมให้เจ้าบ้าน 0.52 สูงกว่าค่ากลาง 0.45 พอสมควร แต่ไม่ถึงขั้นเป็นต่อขาดเพราะ Sunderland เพิ่งพิสูจน์ว่าเก็บผลจากเกมที่เล่นรับได้",
+    "personnel": "Brentford ขาด Antoni Milambo เจ็บเข่า Sepp van den Berg เจ็บขาหนีบ Mathias Jensen กล้ามเนื้อ และ Josh Dasilva มีอาการบาดเจ็บ ส่วน El Hadji Malick Diouf ที่เพิ่งย้ายมายังไม่แน่ว่าจะได้ออกสตาร์ต Sunderland ไม่มี Simon Adingra จากอาการบาดเจ็บ และ Dayann Methalie ติดโทษแบน โดยมี Kevin Danso กับ Malick Fofana ลุ้นประเดิมสนาม การส่งตัวใหม่ลงเล่นในแนวรับทันทีคือความเสี่ยง",
+    "risk": "ความเสี่ยงคือ Sunderland ตั้งรับต่ำได้สำเร็จแล้วรอจังหวะเดียวแบบเกมที่ชนะ Fulham ถ้าเกมยืดไปถึงหลังนาทีหกสิบโดยยังไม่มีประตู แรงกดดันจะย้อนกลับมาที่เจ้าบ้าน และการเลือกสกอร์ไม่มีทั้งสองทีมทำประตูจะกลายเป็นจุดอ่อนของการทำนายนี้",
+    "tactical": "Brentford เล่นตรงและเร็ว ใช้บอลยาวจากแนวรับหากองหน้า แล้วเก็บบอลสองจังหวะในแดนกลาง พร้อมลูกตั้งเตะที่ซ้อมมาเป็นระบบ Sunderland จะพยายามเล่นบอลสั้นออกจากแดนหลัง ซึ่งเสี่ยงมากเมื่อเจอการกดดันสูงแบบนี้ จุดปะทะคือการเก็บบอลสองของแดนกลาง ถ้าเจ้าบ้านชนะพื้นที่นั้น เกมจะจบเร็ว",
+    "trends": "Brentford เสียประตูน้อยมากและเก็บคลีนชีตได้แล้วหนึ่งครั้ง ขณะที่ Sunderland ยิงได้เพียงสองประตูจากสองนัดและทั้งสองครั้งมาจากเกมที่แตกต่างกันมาก ค่าพื้นฐานลีกให้ over 2.5 ที่ 0.55 และ btts ที่ 0.52 แต่ผมให้ต่ำกว่าค่ากลางทั้งคู่ เพราะเจ้าบ้านคุมเกมรับดีและทีมเยือนสร้างโอกาสนอกบ้านได้น้อย",
+    "verdict": "Brentford ชนะ 2-0 เจ้าบ้านมีทั้งความแน่นอนในเกมรับและอาวุธจากลูกตั้งเตะ ส่วนทีมเยือนที่ต้องสลับตัวหลังและขาดปีกตัวหลัก ผมไม่เห็นทางที่จะสร้างโอกาสได้พอ"
+  },
+  "btts": false,
+  "confidence": "mid",
+  "factpackHash": "cc56d3d678273ae6db962353dc935973386106293f0261e738b277603c585798",
+  "guruId": "claude-opus-5",
+  "harness": "claude-code-routine",
+  "keyFactor": "Brentford เสียแค่ประตูเดียวจากสองนัดและครองพื้นที่ในบ้านได้เด็ดขาด ขณะที่ Sunderland ต้องส่งตัวใหม่ลงประเดิมในแนวรับ",
+  "kickoffUtc": "2026-09-05T14:00:00.000Z",
+  "lockedAt": "2026-09-03T15:24:32.805Z",
+  "matchId": "epl-2627-r03-bre-sun",
+  "model": {
+    "displayName": "Claude Opus 5",
+    "id": "claude-opus-5"
+  },
+  "over25": false,
+  "pick": "H",
+  "probs": {
+    "A": 0.23,
+    "D": 0.25,
+    "H": 0.52
+  },
+  "runId": "predict-20260903T151738Z-claude-opus-5",
+  "schemaVersion": 1,
+  "scoreline": {
+    "away": 0,
+    "home": 2
+  },
+  "sources": [
+    {
+      "accessedAt": "2026-09-03T15:29:00.000Z",
+      "title": "Preview: Brentford vs Sunderland - prediction, team news, lineups",
+      "url": "https://www.sportsmole.co.uk/football/brentford/preview/brentford-vs-sunderland-prediction-team-news-lineups_604351.html"
+    },
+    {
+      "accessedAt": "2026-09-03T15:29:00.000Z",
+      "title": "Sunderland lineup vs. Brentford: Predicted XI as Malick Fofana starts",
+      "url": "https://www.sportsmole.co.uk/football/sunderland/predicted-lineups/a-first-appearance-for-fofana-predicted-sunderland-xi-vs-brentford_604357.html"
+    },
+    {
+      "accessedAt": "2026-09-03T15:30:00.000Z",
+      "title": "Brentford vs Sunderland: Predictions, Picks, Odds & Lineups",
+      "url": "https://www.squawka.com/us/news/premier-league/match-preview-brentford-vs-sunderland-05-09-26-premier-league/"
+    },
+    {
+      "accessedAt": "2026-09-03T15:22:00.000Z",
+      "title": "FPL Gameweek 3 team news: Thursday's live injury updates",
+      "url": "https://www.fantasyfootballscout.co.uk/2026/09/03/fpl-gameweek-3-team-news-thursdays-live-injury-updates-2"
+    }
+  ],
+  "wordCount": 518
+}

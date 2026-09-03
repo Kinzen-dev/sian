@@ -1,0 +1,61 @@
+{
+  "analysis": {
+    "form": "Nottingham Forest แพ้ Leeds 0-1 ในบ้าน แล้วไปเสมอ Liverpool 2-2 นอกบ้านด้วย xG 2.3 ซึ่งสูงกว่าเจ้าบ้าน เป็นสัญญาณว่าเกมรุกเริ่มเข้าที่แม้จะยังไม่ชนะ Tottenham แย่กว่ามาก แพ้ Brentford 0-3 นอกบ้านโดยเสีย xG 3.88 แล้วแพ้ Newcastle 0-2 ในบ้าน สองนัดยังไม่มีประตูและไม่มีแต้ม ค่า xG ที่ทำได้คือ 0.57 กับ 1.04 คือสร้างโอกาสน้อยมาก",
+    "headToHead": "แฟกต์แพ็กไม่มีสถิติในชุดข้อมูล แต่รายงานสาธารณะระบุว่า Forest ชนะ Tottenham ในลีกสี่นัดหลังสุดที่พบกัน ซึ่งเป็นรูปแบบที่ยาวพอจะมีความหมาย ไม่ใช่เรื่องบังเอิญนัดเดียว สไตล์ของ Forest ที่เล่นรับแน่นแล้วสวนกลับเร็วเป็นเกมที่ Spurs รับมือได้ไม่ดี",
+    "market": "ไม่มีข้อมูลตลาดในแฟกต์แพ็ก ผมให้เจ้าบ้าน 0.45 เท่ากับค่ากลางของลีกพอดี ซึ่งอาจดูอนุรักษ์นิยมสำหรับทีมที่เจอคู่แข่งไร้ประตู แต่ Forest เองก็ยังไม่ชนะและมีแค่หนึ่งแต้ม ผมจึงไม่ดันตัวเลขให้สูงกว่านี้ และให้เสมอที่ 0.28 สูงกว่าค่ากลาง",
+    "personnel": "Forest ขาด Nicolo Savona และ Ibrahim Sangare ส่วน Daniel Munoz ที่เพิ่งย้ายมามีลุ้นประเดิมตัวจริงในตำแหน่งวิงแบ็กขวา Tottenham หนักกว่ามาก Wilson Odobert และ Xavi Simons เจ็บเข่า Dejan Kulusevski ยังไม่พร้อม ส่วน Savio และ James Maddison มีเครื่องหมายคำถาม โดยมี Mudryk กับ Adarabioyo ลุ้นลงสนามนัดแรก การขาดตัวสร้างสรรค์เกมพร้อมกันหลายคนคือรากของปัญหาการทำประตู",
+    "risk": "ความเสี่ยงชัดเจนคือ Spurs ต้องยิงประตูสักนัด และทีมที่มีนักเตะระดับนี้ไม่น่าไร้ประตูสามนัดติด ถ้า Maddison พร้อมลงสนามและ Kudus กลับมาเต็มตัว คุณภาพในพื้นที่สุดท้ายจะต่างจากสองนัดแรกทันที การเลือกสกอร์ 1-0 จึงเปราะบางกว่าการเลือกผลเสมอ",
+    "tactical": "Forest ใช้ระบบสามเซ็นเตอร์แบ็กกับวิงแบ็ก ตั้งบล็อกกลางแล้วเปลี่ยนเกมเร็วผ่าน Gibbs-White และ Ndoye ไปหา Igor Jesus Tottenham ภายใต้ Roberto De Zerbi พยายามครองบอลและดึงคู่แข่งออกมากดดัน แต่ยังทำไม่สำเร็จเพราะขาดคนเชื่อมเกมที่พร้อมสนาม จุดปะทะคือพื้นที่หลังแบ็กของทีมเยือนเวลาเสียบอลในแดนกลาง",
+    "trends": "สองนัดของ Spurs ไม่มีประตูของตัวเองเลย และเกมของ Forest มีประตูรวมสองและสี่ลูก ค่าพื้นฐานลีกให้ over 2.5 ที่ 0.55 และ btts ที่ 0.52 ผมให้ต่ำกว่าค่ากลางทั้งสองรายการ เพราะทีมเยือนยิงไม่ออกจริง และเจ้าบ้านก็ยิงได้เพียงสองลูกจากสองนัด",
+    "verdict": "Nottingham Forest ชนะ 1-0 เกมนี้จะฝืดและตัดสินด้วยจังหวะเดียว เจ้าบ้านมีความเร็วในการเปลี่ยนเกมและได้เล่นในสนามที่คู่แข่งไม่ชอบ ผมเลือกคลีนชีตเพราะ Spurs ยังไม่แสดงให้เห็นว่าจบสกอร์ได้"
+  },
+  "btts": false,
+  "confidence": "mid",
+  "factpackHash": "d46bedbb13750a95603febb8cd96d927a0abe7c7d26984620d183fe92827b72d",
+  "guruId": "claude-opus-5",
+  "harness": "claude-code-routine",
+  "keyFactor": "Tottenham ยังไม่ยิงประตูเลยสองนัดแรกซึ่งเป็นสถิติที่แย่ที่สุดในประวัติศาสตร์สโมสรบนลีกนี้ และ City Ground เป็นสนามที่พวกเขาเก็บผลได้ยากมาโดยตลอด",
+  "kickoffUtc": "2026-09-05T14:00:00.000Z",
+  "lockedAt": "2026-09-03T15:27:11.548Z",
+  "matchId": "epl-2627-r03-nfo-tot",
+  "model": {
+    "displayName": "Claude Opus 5",
+    "id": "claude-opus-5"
+  },
+  "over25": false,
+  "pick": "H",
+  "probs": {
+    "A": 0.27,
+    "D": 0.28,
+    "H": 0.45
+  },
+  "runId": "predict-20260903T151738Z-claude-opus-5",
+  "schemaVersion": 1,
+  "scoreline": {
+    "away": 0,
+    "home": 1
+  },
+  "sources": [
+    {
+      "accessedAt": "2026-09-03T15:20:00.000Z",
+      "title": "Preview: Nottingham Forest vs Tottenham Hotspur - prediction, team news, lineups",
+      "url": "https://www.sportsmole.co.uk/football/spurs/preview/nottm-forest-vs-spurs-prediction-team-news-lineups_604360.html"
+    },
+    {
+      "accessedAt": "2026-09-03T15:35:00.000Z",
+      "title": "Nottingham Forest lineup vs. Tottenham: Predicted XI as Daniel Munoz starts",
+      "url": "https://www.sportsmole.co.uk/football/nottingham-forest/predicted-lineups/munoz-makes-the-xi-predicted-nottingham-forest-lineup-vs-tottenham_604363.html"
+    },
+    {
+      "accessedAt": "2026-09-03T15:35:00.000Z",
+      "title": "Nottingham Forest vs. Tottenham in the Premier League: Preview, kick-off time, prediction and latest team news",
+      "url": "https://www.yardbarker.com/soccer/articles/nottingham_forest_vs_tottenham_in_the_premier_league_preview_kick_off_time_prediction_and_latest_team_news/s1_17451_44254049"
+    },
+    {
+      "accessedAt": "2026-09-03T15:36:00.000Z",
+      "title": "Nottm Forest vs Tottenham - live score, predicted lineups and H2H stats",
+      "url": "https://www.fotmob.com/matches/tottenham-hotspur-vs-nottingham-forest/2x3odl"
+    }
+  ],
+  "wordCount": 510
+}

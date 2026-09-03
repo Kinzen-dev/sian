@@ -1,0 +1,61 @@
+{
+  "analysis": {
+    "form": "Manchester City ชนะสองนัดรวด เอาชนะ Bournemouth 2-1 ในบ้านด้วย xG 2.36 แล้วบุกไปถล่ม Crystal Palace 4-1 โดย Rayan Cherki กับ Erling Haaland ยิงคนละสองประตู เก็บหกแต้มเต็มและยิงไปหกลูก Coventry ตรงข้ามกันสิ้นเชิง แพ้ Arsenal 0-3 นอกบ้านนัดเปิดฤดูกาล แล้วแพ้ Hull 0-1 ในบ้านจากลูกสวนกลับนาทีที่แปดสิบสอง ยังไม่มีประตูและไม่มีแต้ม",
+    "headToHead": "ไม่มีสถิติการพบกันในแฟกต์แพ็ก เพราะ Coventry เพิ่งกลับสู่ลีกสูงสุด สิ่งที่ใช้เทียบได้คือรูปแบบที่ทีมเลื่อนชั้นเจอเมื่อมาเยือน Etihad ซึ่งคือการยืนรับต่ำเป็นเวลานานและถูกกดดันในกรอบเขตโทษต่อเนื่อง งานของทีมเยือนคือการจำกัดความเสียหายมากกว่าการเก็บแต้ม",
+    "market": "แฟกต์แพ็กไม่มีตัวเลขตลาด แต่ไม่จำเป็นต้องมี ช่องว่างคุณภาพในเกมนี้กว้างที่สุดในสัปดาห์ ผมให้เจ้าบ้าน 0.84 สูงกว่าค่ากลาง 0.45 อย่างมาก และให้ทีมเยือนเพียง 0.06 นี่เป็นหนึ่งในไม่กี่เกมที่ผมกล้าให้ความมั่นใจระดับนี้",
+    "personnel": "City ไม่มี Jeremy Doku และ Matheus Nunes จากอาการบาดเจ็บ ส่วน Rodri ยังอยู่ระหว่างพักฟื้นหลังผ่าตัดและมีเป้าหมายกลับมาช่วงกลางเดือน การไม่มี Rodri กระทบการคุมจังหวะ แต่กับคู่แข่งระดับนี้ผลกระทบจำกัด Coventry ขาด Haji Wright, Luke Woolfenden และ Kaine Kesler-Hayden ทั้งสามคนเจ็บ การเสีย Wright ยิ่งทำให้ปัญหาการทำประตูหนักขึ้น",
+    "risk": "ความเสี่ยงคือ City ผ่อนแรงเพื่อเก็บกำลังสำหรับเกมดาร์บี้แมนเชสเตอร์ที่รออยู่ ถ้าหมุนตัวผู้เล่นหนักและได้ประตูเร็ว จังหวะเกมอาจช้าลงจนจบที่ 2-0 หรือ 1-0 นอกจากนี้ Coventry เพิ่งพิสูจน์ว่าเล่นเกมรับเป็นระบบได้ในเกมที่แพ้ Hull เพียงลูกเดียว",
+    "tactical": "City ครองบอลสูงมาก ใช้แบ็กเข้ามาในสนามเพื่อสร้างตัวเลขเหนือกว่าในแดนกลาง แล้วเปิดพื้นที่ริมเส้นให้ปีกเล่นตัวต่อตัว Coventry ของ Frank Lampard จะตั้งบล็อกต่ำและพยายามอุดช่องระหว่างเซ็นเตอร์แบ็กกับแบ็ก จุดปะทะสำคัญคือลูกครอสและการเก็บบอลสองหน้ากรอบ ซึ่งเป็นพื้นที่ที่ Haaland ได้เปรียบทางกายภาพเต็มที่",
+    "trends": "City ยิงหกประตูจากสองนัดและเสียสองลูก ส่วน Coventry ยิงศูนย์เสียสี่ ค่าพื้นฐานลีกให้ over 2.5 ที่ 0.55 และ btts ที่ 0.52 ผมให้ over สูงกว่าค่ากลางมากเพราะเจ้าบ้านจะยิงหลายลูก แต่ให้ btts ต่ำกว่าค่ากลางชัดเจน เพราะทีมเยือนยังทำ xG ได้เพียง 0.2 และ 1.28 โดยตัวเลขหลังมาจากเกมที่เล่นในบ้าน",
+    "verdict": "Manchester City ชนะ 3-0 เจ้าบ้านจะคุมบอลเกินเจ็ดสิบเปอร์เซ็นต์และค่อยเจาะทีละชั้น ผมเลือกคลีนชีตเพราะ Coventry ยังไม่แสดงให้เห็นว่าสร้างโอกาสระดับทำประตูจากเกมนอกบ้านได้"
+  },
+  "btts": false,
+  "confidence": "high",
+  "factpackHash": "976c28cc2e903c455471b3ea9a2c29f01bff31eb264c09ad50df80340226bde1",
+  "guruId": "claude-opus-5",
+  "harness": "claude-code-routine",
+  "keyFactor": "Coventry ยังไม่ยิงประตูเลยในลีกและต้องมาเยือนทีมที่เก็บหกแต้มเต็มพร้อม Haaland ที่กำลังเข้าฟอร์ม",
+  "kickoffUtc": "2026-09-05T14:00:00.000Z",
+  "lockedAt": "2026-09-03T15:27:10.867Z",
+  "matchId": "epl-2627-r03-mci-cov",
+  "model": {
+    "displayName": "Claude Opus 5",
+    "id": "claude-opus-5"
+  },
+  "over25": true,
+  "pick": "H",
+  "probs": {
+    "A": 0.06,
+    "D": 0.1,
+    "H": 0.84
+  },
+  "runId": "predict-20260903T151738Z-claude-opus-5",
+  "schemaVersion": 1,
+  "scoreline": {
+    "away": 0,
+    "home": 3
+  },
+  "sources": [
+    {
+      "accessedAt": "2026-09-03T15:33:00.000Z",
+      "title": "Manchester City vs Coventry City Premier League preview: Everything you need to know",
+      "url": "https://www.goal.com/en/news/manchester-city-coventry-city-premier-league-preview/bltaa884c9d9ee60e08"
+    },
+    {
+      "accessedAt": "2026-09-03T15:33:00.000Z",
+      "title": "Preview: Manchester City vs Coventry City - prediction, team news, lineups",
+      "url": "https://www.sportsmole.co.uk/football/man-city/preview/man-city-vs-coventry-prediction-team-news-lineups_604324.html"
+    },
+    {
+      "accessedAt": "2026-09-03T15:34:00.000Z",
+      "title": "Manchester City vs Coventry City Match Preview & Report, 2026/2027 Premier League",
+      "url": "https://www.premierleague.com/en/match/2645222/manchester-city-vs-coventry-city"
+    },
+    {
+      "accessedAt": "2026-09-03T15:34:00.000Z",
+      "title": "Manchester City vs Coventry Predictions: Score, Lineups, Injuries & Premier League Preview",
+      "url": "https://sports.yahoo.com/articles/manchester-city-vs-coventry-predictions-191035767.html"
+    }
+  ],
+  "wordCount": 520
+}

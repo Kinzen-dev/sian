@@ -1,0 +1,61 @@
+{
+  "analysis": {
+    "form": "Everton เก็บสี่แต้ม ชนะ Crystal Palace 2-0 ในบ้าน แล้วเสมอ Bournemouth 1-1 นอกบ้าน แต่ค่า xG บอกว่าโชคเข้าข้าง นัดที่ชนะ Palace ทีมทำ xG ได้ 1.12 น้อยกว่าคู่แข่งที่ทำได้ 1.96 Manchester United ผลสวิงหนัก แพ้ Hull 0-2 นอกบ้านนัดเปิดฤดูกาลทั้งที่ทำ xG ได้ 1.83 แล้วกลับมาถล่ม Ipswich 5-2 ในบ้านด้วย xG 4.56 ซึ่งเป็นตัวเลขสูงสุดของสองสัปดาห์แรก",
+    "headToHead": "แฟกต์แพ็กไม่มีสถิติการพบกัน เกมนี้เป็นคู่คลาสสิกที่มักสูสีและมีจังหวะปะทะสูง บริบทใหม่คือ Everton ย้ายมาเล่นที่ Hill Dickinson Stadium ซึ่งเปลี่ยนบรรยากาศของความได้เปรียบเจ้าบ้านไปจากเดิม และเกมเตะบ่ายวันอาทิตย์ทำให้จังหวะเกมช้ากว่าค่ำวันเสาร์",
+    "market": "ไม่มีข้อมูลตลาดในแฟกต์แพ็ก ผมให้ทีมเยือน 0.40 สูงกว่าค่ากลาง 0.31 พอสมควร และให้เจ้าบ้านเพียง 0.33 ต่ำกว่าค่ากลาง 0.45 มาก นี่คือจุดที่ผมน่าจะต่างจากความเห็นทั่วไปมากที่สุด เหตุผลคือคุณภาพโอกาสของ Everton ต่ำกว่าผลงานอย่างชัดเจนในทั้งสองนัด",
+    "personnel": "Everton มีปัญหาแบ็กขวาเพราะ Jake O'Brien ติดโทษแบน ทำให้ Nathan Patterson มีโอกาสได้ลงเล่น ส่วนสถานะของ Jack Grealish ยังมีรายงานขัดแย้งกันระหว่างพร้อมลงสนามกับยังพักฟื้นจากอาการเจ็บเท้า ผมจึงไม่นับรวมในการประเมิน ฝั่ง United คาดว่าแนวรับมี Martinez กับ de Ligt และแนวรุกมี Fernandes, Mbeumo, Sesko รายชื่อทั้งหมดเป็นการคาดการณ์ ยังไม่มีการยืนยันจากสโมสร",
+    "risk": "ความเสี่ยงคือความไม่คงเส้นคงวาของ United ที่เพิ่งแพ้ทีมเลื่อนชั้นแบบไร้ประตูเมื่อสองสัปดาห์ก่อน ถ้าเจ้าบ้านตั้งบล็อกต่ำและปิดช่องกลางได้ เกมจะกลายเป็นเกมที่ United ครองบอลแต่ไม่มีทางเข้า และ Everton เก่งในเกมแบบนั้น",
+    "tactical": "Everton เล่นบล็อกกลางที่แน่น มี Tarkowski กับ Branthwaite เป็นแกน แล้วเปลี่ยนเกมเร็วผ่านปีก United ครองบอลมากกว่าและอาศัย Bruno Fernandes เป็นตัวเชื่อมระหว่างแดนกลางกับแนวรุกที่มี Mbeumo และ Sesko จุดปะทะคือแดนกลางสองต่อสองของเจ้าบ้าน ถ้าถูกกดจนถอย United จะได้เล่นในพื้นที่สุดท้ายต่อเนื่องแบบเดียวกับเกมที่ยิง Ipswich ห้าลูก",
+    "trends": "United ยิงห้าประตูในนัดเดียวและเสียสี่ลูกจากสองนัด ส่วน Everton เสียเพียงหนึ่ง ค่าพื้นฐานลีกให้ over 2.5 ที่ 0.55 และ btts ที่ 0.52 ผมให้ทั้งสองรายการสูงกว่าค่ากลาง เพราะเกมรุกของทีมเยือนกำลังร้อนและเกมรับยังรั่ว ขณะที่เจ้าบ้านทำประตูได้ในทั้งสองนัด",
+    "verdict": "Manchester United ชนะ 2-1 เมื่อทีมเยือนสร้างโอกาสได้ในระดับที่เห็นเมื่อสัปดาห์ก่อน แนวรับเจ้าบ้านที่ต้องสลับตัวแบ็กขวาจะรับแรงกดดันไม่ไหวตลอดเก้าสิบนาที แต่ Everton จะได้ประตูตอบแทนจากลูกตั้งเตะ"
+  },
+  "btts": true,
+  "confidence": "low",
+  "factpackHash": "cf2079f04543bf007860cf3e636471605beab1b788edbedaa3d62e14c501c983",
+  "guruId": "claude-opus-5",
+  "harness": "claude-code-routine",
+  "keyFactor": "Manchester United ทำ xG ได้ 4.56 ในนัดล่าสุดซึ่งเป็นตัวเลขสูงสุดของรอบ และเกมรุกของ Everton ยังพึ่งพาโอกาสจำนวนน้อยเกินไป",
+  "kickoffUtc": "2026-09-06T13:00:00.000Z",
+  "lockedAt": "2026-09-03T15:29:47.317Z",
+  "matchId": "epl-2627-r03-eve-mun",
+  "model": {
+    "displayName": "Claude Opus 5",
+    "id": "claude-opus-5"
+  },
+  "over25": true,
+  "pick": "A",
+  "probs": {
+    "A": 0.4,
+    "D": 0.27,
+    "H": 0.33
+  },
+  "runId": "predict-20260903T151738Z-claude-opus-5",
+  "schemaVersion": 1,
+  "scoreline": {
+    "away": 2,
+    "home": 1
+  },
+  "sources": [
+    {
+      "accessedAt": "2026-09-03T15:19:00.000Z",
+      "title": "Everton vs Man United GW3: Hill Dickinson Sunday Preview",
+      "url": "https://www.footballdream.in/blog/everton-vs-manchester-united-gw3-premier-league-2026-27"
+    },
+    {
+      "accessedAt": "2026-09-03T15:39:00.000Z",
+      "title": "Everton vs Manchester United predicted lineup, 6 Sept 2026",
+      "url": "https://starting11.com/fixtures/everton-vs-manchester-united"
+    },
+    {
+      "accessedAt": "2026-09-03T15:39:00.000Z",
+      "title": "Everton vs Manchester United: Match preview, predicted line-ups, team news",
+      "url": "https://onefootball.com/en/news/everton-vs-manchester-united-match-preview-predicted-line-ups-team-news-42449293"
+    },
+    {
+      "accessedAt": "2026-09-03T15:22:00.000Z",
+      "title": "FPL Gameweek 3 team news: Thursday's live injury updates",
+      "url": "https://www.fantasyfootballscout.co.uk/2026/09/03/fpl-gameweek-3-team-news-thursdays-live-injury-updates-2"
+    }
+  ],
+  "wordCount": 523
+}
