@@ -43,3 +43,12 @@ Codex CLI, Cursor and others run the same protocol by hand: clone, `npm ci`, the
 - WebSearch works. WebFetch and curl to hosts outside the default allowlist are blocked by the egress proxy (`EGRESS_BLOCKED` for football-data.org, CONNECT 403 for the odds API). The routine does not need those hosts, but a guru's research step benefits from fetching club and news sites directly.
 
 Human step (one minute): open the Default cloud environment at https://claude.ai/code (Environments), set Network access to **Full** (or Custom with `*.skysports.com`, `*.bbc.co.uk`, `*.theathletic.com`, `*.theguardian.com`, `*.premierleague.com`, `*.uefa.com`, `*.sportsmole.co.uk`, club domains). Until then the routine's research relies on WebSearch result snippets only.
+
+## Live routines (created 2026-09-03)
+
+| Name | ID | Schedule | Model | Status |
+|---|---|---|---|---|
+| sian-probe-once | trig_016P11vXFU5hsnKKjeWghn2B | one-off, fired 10:49 UTC | claude-fable-5-1 | done; delete at https://claude.ai/code/routines |
+| sian-fable-daily | trig_01Sio8XRPEDCydpNj57BhNXc | `0 3 * * *` (10:00 Thailand) | claude-fable-5-1 | enabled, first run 2026-09-04 03:06 UTC |
+
+Manage at https://claude.ai/code/routines. Debug a run from Claude Code with `/schedule` (list runs, run log).
