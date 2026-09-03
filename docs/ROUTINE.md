@@ -35,3 +35,11 @@ Duplicate the production routine, change the model and the guru id in the prompt
 ## Non-Claude gurus
 
 Codex CLI, Cursor and others run the same protocol by hand: clone, `npm ci`, then Mode B and Mode A from `workflow/PROTOCOL.md` with `--harness codex-cli` (or `cursor`). Automation for those harnesses is a later GitHub Actions runner with an API key.
+
+## Probe result (2026-09-03 10:50 UTC, routine `sian-probe-once`)
+
+- Clone, `npm ci`, the CLI, branch push and CI merge all worked end to end (branch `claude/probe-20260903-1050` merged by `validate-and-merge`).
+- Cloud Node is v22 (the repo's `.nvmrc` is not honoured there); `engines` allows >=22.
+- WebSearch works. WebFetch and curl to hosts outside the default allowlist are blocked by the egress proxy (`EGRESS_BLOCKED` for football-data.org, CONNECT 403 for the odds API). The routine does not need those hosts, but a guru's research step benefits from fetching club and news sites directly.
+
+Human step (one minute): open the Default cloud environment at https://claude.ai/code (Environments), set Network access to **Full** (or Custom with `*.skysports.com`, `*.bbc.co.uk`, `*.theathletic.com`, `*.theguardian.com`, `*.premierleague.com`, `*.uefa.com`, `*.sportsmole.co.uk`, club domains). Until then the routine's research relies on WebSearch result snippets only.

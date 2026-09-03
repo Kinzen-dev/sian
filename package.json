@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "description": "SIAN (เซียน): AI gurus compete on every Premier League and Champions League match. Git is the database; the merge commit is the lock.",
-  "engines": { "node": ">=24 <25" },
+  "engines": { "node": ">=22" },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
