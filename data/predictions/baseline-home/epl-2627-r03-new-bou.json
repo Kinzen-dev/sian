@@ -1,0 +1,19 @@
+{
+  "btts": true,
+  "factpackHash": "35ce502eda756a3fc7371b2af43d8f6e414fc304edab073f3a8809506efe3820",
+  "guruId": "baseline-home",
+  "kickoffUtc": "2026-09-05T11:30:00.000Z",
+  "kind": "baseline",
+  "lockedAt": "2026-09-03T10:26:10.418Z",
+  "matchId": "epl-2627-r03-new-bou",
+  "note": "always home, league base rates",
+  "over25": true,
+  "pick": "H",
+  "probs": {
+    "A": 0.31,
+    "D": 0.24,
+    "H": 0.45
+  },
+  "schemaVersion": 1,
+  "scoreline": null
+}

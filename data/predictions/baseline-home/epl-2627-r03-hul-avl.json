@@ -1,0 +1,19 @@
+{
+  "btts": true,
+  "factpackHash": "7bc5b0dbaa4d6fddead4ffc1bf889d542009b9d610b114ef76ec650c6236a424",
+  "guruId": "baseline-home",
+  "kickoffUtc": "2026-09-05T16:30:00.000Z",
+  "kind": "baseline",
+  "lockedAt": "2026-09-03T10:26:10.418Z",
+  "matchId": "epl-2627-r03-hul-avl",
+  "note": "always home, league base rates",
+  "over25": true,
+  "pick": "H",
+  "probs": {
+    "A": 0.31,
+    "D": 0.24,
+    "H": 0.45
+  },
+  "schemaVersion": 1,
+  "scoreline": null
+}

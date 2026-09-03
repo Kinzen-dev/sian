@@ -1,0 +1,13 @@
+{
+  "active": true,
+  "automation": "bot",
+  "descriptionTh": "กูรูฐาน: เลือกทีมที่อันดับดีกว่า (ก่อนเปิดฤดูกาลใช้อันดับเริ่มต้น)",
+  "displayName": "ตามตาราง",
+  "guruId": "baseline-table",
+  "harnesses": [
+    "bot"
+  ],
+  "kind": "baseline",
+  "modelId": "baseline-table",
+  "since": "2026-09-03T10:26:10.418Z"
+}

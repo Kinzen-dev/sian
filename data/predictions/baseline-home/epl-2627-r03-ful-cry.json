@@ -1,0 +1,19 @@
+{
+  "btts": true,
+  "factpackHash": "04d61d86ff668c8197bb653d313e6767393380960f0ba5b19e34853112aa7c8c",
+  "guruId": "baseline-home",
+  "kickoffUtc": "2026-09-05T14:00:00.000Z",
+  "kind": "baseline",
+  "lockedAt": "2026-09-03T10:26:10.418Z",
+  "matchId": "epl-2627-r03-ful-cry",
+  "note": "always home, league base rates",
+  "over25": true,
+  "pick": "H",
+  "probs": {
+    "A": 0.31,
+    "D": 0.24,
+    "H": 0.45
+  },
+  "schemaVersion": 1,
+  "scoreline": null
+}

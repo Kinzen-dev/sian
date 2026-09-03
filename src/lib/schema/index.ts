@@ -291,3 +291,22 @@ export const Review = z.object({
   bodyTh: z.string().min(1),
 });
 export type Review = z.infer<typeof Review>;
+
+export const BaselinePrediction = z.object({
+  schemaVersion: z.literal(1),
+  kind: z.literal("baseline"),
+  matchId: MatchId,
+  guruId: GuruId,
+  lockedAt: IsoDate,
+  kickoffUtc: IsoDate,
+  factpackHash: z.string().regex(/^[a-f0-9]{64}$/),
+  pick: Outcome,
+  probs: Probs,
+  scoreline: z.null(),
+  over25: z.boolean(),
+  btts: z.boolean(),
+  note: z.string(),
+});
+export type BaselinePrediction = z.infer<typeof BaselinePrediction>;
+export const AnyPrediction = z.union([Prediction, BaselinePrediction]);
+export type AnyPrediction = z.infer<typeof AnyPrediction>;

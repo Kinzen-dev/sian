@@ -1,0 +1,19 @@
+{
+  "btts": true,
+  "factpackHash": "d46bedbb13750a95603febb8cd96d927a0abe7c7d26984620d183fe92827b72d",
+  "guruId": "baseline-table",
+  "kickoffUtc": "2026-09-05T14:00:00.000Z",
+  "kind": "baseline",
+  "lockedAt": "2026-09-03T10:26:10.418Z",
+  "matchId": "epl-2627-r03-nfo-tot",
+  "note": "table positions 15 v 20",
+  "over25": true,
+  "pick": "H",
+  "probs": {
+    "A": 0.24,
+    "D": 0.26,
+    "H": 0.5
+  },
+  "schemaVersion": 1,
+  "scoreline": null
+}

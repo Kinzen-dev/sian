@@ -1,0 +1,157 @@
+{
+  "away": {
+    "formAll": [
+      {
+        "competition": "epl",
+        "date": "2026-08-29T14:00:00.000Z",
+        "goalsAgainst": 1,
+        "goalsFor": 0,
+        "matchId": "epl-2627-r02-cov-hul",
+        "opponentId": "hull",
+        "result": "L",
+        "venue": "H",
+        "xgAgainst": 0.73,
+        "xgFor": 1.28
+      },
+      {
+        "competition": "epl",
+        "date": "2026-08-21T19:00:00.000Z",
+        "goalsAgainst": 3,
+        "goalsFor": 0,
+        "matchId": "epl-2627-r01-ars-cov",
+        "opponentId": "arsenal",
+        "result": "L",
+        "venue": "A",
+        "xgAgainst": 1.88,
+        "xgFor": 0.2
+      }
+    ],
+    "formComp": [
+      {
+        "competition": "epl",
+        "date": "2026-08-29T14:00:00.000Z",
+        "goalsAgainst": 1,
+        "goalsFor": 0,
+        "matchId": "epl-2627-r02-cov-hul",
+        "opponentId": "hull",
+        "result": "L",
+        "venue": "H",
+        "xgAgainst": 0.73,
+        "xgFor": 1.28
+      },
+      {
+        "competition": "epl",
+        "date": "2026-08-21T19:00:00.000Z",
+        "goalsAgainst": 3,
+        "goalsFor": 0,
+        "matchId": "epl-2627-r01-ars-cov",
+        "opponentId": "arsenal",
+        "result": "L",
+        "venue": "A",
+        "xgAgainst": 1.88,
+        "xgFor": 0.2
+      }
+    ],
+    "restDays": 7,
+    "standing": {
+      "drawn": 0,
+      "ga": 4,
+      "gd": -4,
+      "gf": 0,
+      "lost": 2,
+      "played": 2,
+      "pos": 17,
+      "pts": 0,
+      "won": 0
+    },
+    "teamId": "coventry"
+  },
+  "baseRates": {
+    "A": 0.31,
+    "D": 0.24,
+    "H": 0.45,
+    "btts": 0.52,
+    "over25": 0.55
+  },
+  "builtAt": "2026-09-03T10:26:09.940Z",
+  "competition": "epl",
+  "h2h": [],
+  "home": {
+    "formAll": [
+      {
+        "competition": "epl",
+        "date": "2026-08-28T19:00:00.000Z",
+        "goalsAgainst": 1,
+        "goalsFor": 4,
+        "matchId": "epl-2627-r02-cry-mci",
+        "opponentId": "crystal-palace",
+        "result": "W",
+        "venue": "A",
+        "xgAgainst": 0.66,
+        "xgFor": 2.21
+      },
+      {
+        "competition": "epl",
+        "date": "2026-08-23T13:00:00.000Z",
+        "goalsAgainst": 1,
+        "goalsFor": 2,
+        "matchId": "epl-2627-r01-mci-bou",
+        "opponentId": "bournemouth",
+        "result": "W",
+        "venue": "H",
+        "xgAgainst": 0.63,
+        "xgFor": 2.36
+      }
+    ],
+    "formComp": [
+      {
+        "competition": "epl",
+        "date": "2026-08-28T19:00:00.000Z",
+        "goalsAgainst": 1,
+        "goalsFor": 4,
+        "matchId": "epl-2627-r02-cry-mci",
+        "opponentId": "crystal-palace",
+        "result": "W",
+        "venue": "A",
+        "xgAgainst": 0.66,
+        "xgFor": 2.21
+      },
+      {
+        "competition": "epl",
+        "date": "2026-08-23T13:00:00.000Z",
+        "goalsAgainst": 1,
+        "goalsFor": 2,
+        "matchId": "epl-2627-r01-mci-bou",
+        "opponentId": "bournemouth",
+        "result": "W",
+        "venue": "H",
+        "xgAgainst": 0.63,
+        "xgFor": 2.36
+      }
+    ],
+    "restDays": 7,
+    "standing": {
+      "drawn": 0,
+      "ga": 2,
+      "gd": 4,
+      "gf": 6,
+      "lost": 0,
+      "played": 2,
+      "pos": 1,
+      "pts": 6,
+      "won": 2
+    },
+    "teamId": "man-city"
+  },
+  "kickoffUtc": "2026-09-05T14:00:00.000Z",
+  "market": null,
+  "matchId": "epl-2627-r03-mci-cov",
+  "notes": [
+    "market: unavailable (no odds key at build time)",
+    "xG: EPL post-match figures from football-data.co.uk where available"
+  ],
+  "round": 3,
+  "schemaVersion": 1,
+  "season": "2627",
+  "seedRank": null
+}

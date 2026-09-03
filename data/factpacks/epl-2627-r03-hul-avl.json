@@ -1,0 +1,157 @@
+{
+  "away": {
+    "formAll": [
+      {
+        "competition": "epl",
+        "date": "2026-08-31T19:00:00.000Z",
+        "goalsAgainst": 1,
+        "goalsFor": 0,
+        "matchId": "epl-2627-r02-avl-ars",
+        "opponentId": "arsenal",
+        "result": "L",
+        "venue": "H",
+        "xgAgainst": 1.05,
+        "xgFor": 0.32
+      },
+      {
+        "competition": "epl",
+        "date": "2026-08-23T13:00:00.000Z",
+        "goalsAgainst": 4,
+        "goalsFor": 0,
+        "matchId": "epl-2627-r01-bha-avl",
+        "opponentId": "brighton",
+        "result": "L",
+        "venue": "A",
+        "xgAgainst": 3.77,
+        "xgFor": 0.28
+      }
+    ],
+    "formComp": [
+      {
+        "competition": "epl",
+        "date": "2026-08-31T19:00:00.000Z",
+        "goalsAgainst": 1,
+        "goalsFor": 0,
+        "matchId": "epl-2627-r02-avl-ars",
+        "opponentId": "arsenal",
+        "result": "L",
+        "venue": "H",
+        "xgAgainst": 1.05,
+        "xgFor": 0.32
+      },
+      {
+        "competition": "epl",
+        "date": "2026-08-23T13:00:00.000Z",
+        "goalsAgainst": 4,
+        "goalsFor": 0,
+        "matchId": "epl-2627-r01-bha-avl",
+        "opponentId": "brighton",
+        "result": "L",
+        "venue": "A",
+        "xgAgainst": 3.77,
+        "xgFor": 0.28
+      }
+    ],
+    "restDays": 4,
+    "standing": {
+      "drawn": 0,
+      "ga": 5,
+      "gd": -5,
+      "gf": 0,
+      "lost": 2,
+      "played": 2,
+      "pos": 19,
+      "pts": 0,
+      "won": 0
+    },
+    "teamId": "aston-villa"
+  },
+  "baseRates": {
+    "A": 0.31,
+    "D": 0.24,
+    "H": 0.45,
+    "btts": 0.52,
+    "over25": 0.55
+  },
+  "builtAt": "2026-09-03T10:26:09.940Z",
+  "competition": "epl",
+  "h2h": [],
+  "home": {
+    "formAll": [
+      {
+        "competition": "epl",
+        "date": "2026-08-29T14:00:00.000Z",
+        "goalsAgainst": 0,
+        "goalsFor": 1,
+        "matchId": "epl-2627-r02-cov-hul",
+        "opponentId": "coventry",
+        "result": "W",
+        "venue": "A",
+        "xgAgainst": 1.28,
+        "xgFor": 0.73
+      },
+      {
+        "competition": "epl",
+        "date": "2026-08-22T11:30:00.000Z",
+        "goalsAgainst": 0,
+        "goalsFor": 2,
+        "matchId": "epl-2627-r01-hul-mun",
+        "opponentId": "man-utd",
+        "result": "W",
+        "venue": "H",
+        "xgAgainst": 1.83,
+        "xgFor": 1.01
+      }
+    ],
+    "formComp": [
+      {
+        "competition": "epl",
+        "date": "2026-08-29T14:00:00.000Z",
+        "goalsAgainst": 0,
+        "goalsFor": 1,
+        "matchId": "epl-2627-r02-cov-hul",
+        "opponentId": "coventry",
+        "result": "W",
+        "venue": "A",
+        "xgAgainst": 1.28,
+        "xgFor": 0.73
+      },
+      {
+        "competition": "epl",
+        "date": "2026-08-22T11:30:00.000Z",
+        "goalsAgainst": 0,
+        "goalsFor": 2,
+        "matchId": "epl-2627-r01-hul-mun",
+        "opponentId": "man-utd",
+        "result": "W",
+        "venue": "H",
+        "xgAgainst": 1.83,
+        "xgFor": 1.01
+      }
+    ],
+    "restDays": 7,
+    "standing": {
+      "drawn": 0,
+      "ga": 0,
+      "gd": 3,
+      "gf": 3,
+      "lost": 0,
+      "played": 2,
+      "pos": 3,
+      "pts": 6,
+      "won": 2
+    },
+    "teamId": "hull"
+  },
+  "kickoffUtc": "2026-09-05T16:30:00.000Z",
+  "market": null,
+  "matchId": "epl-2627-r03-hul-avl",
+  "notes": [
+    "market: unavailable (no odds key at build time)",
+    "xG: EPL post-match figures from football-data.co.uk where available"
+  ],
+  "round": 3,
+  "schemaVersion": 1,
+  "season": "2627",
+  "seedRank": null
+}

@@ -1,0 +1,157 @@
+{
+  "away": {
+    "formAll": [
+      {
+        "competition": "epl",
+        "date": "2026-08-28T19:00:00.000Z",
+        "goalsAgainst": 4,
+        "goalsFor": 1,
+        "matchId": "epl-2627-r02-cry-mci",
+        "opponentId": "man-city",
+        "result": "L",
+        "venue": "H",
+        "xgAgainst": 2.21,
+        "xgFor": 0.66
+      },
+      {
+        "competition": "epl",
+        "date": "2026-08-22T14:00:00.000Z",
+        "goalsAgainst": 2,
+        "goalsFor": 0,
+        "matchId": "epl-2627-r01-eve-cry",
+        "opponentId": "everton",
+        "result": "L",
+        "venue": "A",
+        "xgAgainst": 1.12,
+        "xgFor": 1.96
+      }
+    ],
+    "formComp": [
+      {
+        "competition": "epl",
+        "date": "2026-08-28T19:00:00.000Z",
+        "goalsAgainst": 4,
+        "goalsFor": 1,
+        "matchId": "epl-2627-r02-cry-mci",
+        "opponentId": "man-city",
+        "result": "L",
+        "venue": "H",
+        "xgAgainst": 2.21,
+        "xgFor": 0.66
+      },
+      {
+        "competition": "epl",
+        "date": "2026-08-22T14:00:00.000Z",
+        "goalsAgainst": 2,
+        "goalsFor": 0,
+        "matchId": "epl-2627-r01-eve-cry",
+        "opponentId": "everton",
+        "result": "L",
+        "venue": "A",
+        "xgAgainst": 1.12,
+        "xgFor": 1.96
+      }
+    ],
+    "restDays": 7,
+    "standing": {
+      "drawn": 0,
+      "ga": 6,
+      "gd": -5,
+      "gf": 1,
+      "lost": 2,
+      "played": 2,
+      "pos": 18,
+      "pts": 0,
+      "won": 0
+    },
+    "teamId": "crystal-palace"
+  },
+  "baseRates": {
+    "A": 0.31,
+    "D": 0.24,
+    "H": 0.45,
+    "btts": 0.52,
+    "over25": 0.55
+  },
+  "builtAt": "2026-09-03T10:26:09.940Z",
+  "competition": "epl",
+  "h2h": [],
+  "home": {
+    "formAll": [
+      {
+        "competition": "epl",
+        "date": "2026-08-30T13:00:00.000Z",
+        "goalsAgainst": 1,
+        "goalsFor": 0,
+        "matchId": "epl-2627-r02-sun-ful",
+        "opponentId": "sunderland",
+        "result": "L",
+        "venue": "A",
+        "xgAgainst": 2.02,
+        "xgFor": 0.95
+      },
+      {
+        "competition": "epl",
+        "date": "2026-08-24T19:00:00.000Z",
+        "goalsAgainst": 3,
+        "goalsFor": 2,
+        "matchId": "epl-2627-r01-ful-che",
+        "opponentId": "chelsea",
+        "result": "L",
+        "venue": "H",
+        "xgAgainst": 1.7,
+        "xgFor": 1.35
+      }
+    ],
+    "formComp": [
+      {
+        "competition": "epl",
+        "date": "2026-08-30T13:00:00.000Z",
+        "goalsAgainst": 1,
+        "goalsFor": 0,
+        "matchId": "epl-2627-r02-sun-ful",
+        "opponentId": "sunderland",
+        "result": "L",
+        "venue": "A",
+        "xgAgainst": 2.02,
+        "xgFor": 0.95
+      },
+      {
+        "competition": "epl",
+        "date": "2026-08-24T19:00:00.000Z",
+        "goalsAgainst": 3,
+        "goalsFor": 2,
+        "matchId": "epl-2627-r01-ful-che",
+        "opponentId": "chelsea",
+        "result": "L",
+        "venue": "H",
+        "xgAgainst": 1.7,
+        "xgFor": 1.35
+      }
+    ],
+    "restDays": 6,
+    "standing": {
+      "drawn": 0,
+      "ga": 4,
+      "gd": -2,
+      "gf": 2,
+      "lost": 2,
+      "played": 2,
+      "pos": 16,
+      "pts": 0,
+      "won": 0
+    },
+    "teamId": "fulham"
+  },
+  "kickoffUtc": "2026-09-05T14:00:00.000Z",
+  "market": null,
+  "matchId": "epl-2627-r03-ful-cry",
+  "notes": [
+    "market: unavailable (no odds key at build time)",
+    "xG: EPL post-match figures from football-data.co.uk where available"
+  ],
+  "round": 3,
+  "schemaVersion": 1,
+  "season": "2627",
+  "seedRank": null
+}

@@ -1,0 +1,13 @@
+{
+  "active": true,
+  "automation": "bot",
+  "descriptionTh": "กูรูฐาน: เลือกเจ้าบ้านทุกคู่ ใช้ความน่าจะเป็นเฉลี่ยของลีก",
+  "displayName": "เจ้าบ้านตลอด",
+  "guruId": "baseline-home",
+  "harnesses": [
+    "bot"
+  ],
+  "kind": "baseline",
+  "modelId": "baseline-home",
+  "since": "2026-09-03T10:26:10.418Z"
+}

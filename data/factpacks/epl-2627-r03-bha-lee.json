@@ -1,0 +1,157 @@
+{
+  "away": {
+    "formAll": [
+      {
+        "competition": "epl",
+        "date": "2026-08-30T13:00:00.000Z",
+        "goalsAgainst": 1,
+        "goalsFor": 1,
+        "matchId": "epl-2627-r02-lee-bre",
+        "opponentId": "brentford",
+        "result": "D",
+        "venue": "H",
+        "xgAgainst": 1.56,
+        "xgFor": 1.43
+      },
+      {
+        "competition": "epl",
+        "date": "2026-08-22T14:00:00.000Z",
+        "goalsAgainst": 0,
+        "goalsFor": 1,
+        "matchId": "epl-2627-r01-nfo-lee",
+        "opponentId": "nottm-forest",
+        "result": "W",
+        "venue": "A",
+        "xgAgainst": 0.66,
+        "xgFor": 0.47
+      }
+    ],
+    "formComp": [
+      {
+        "competition": "epl",
+        "date": "2026-08-30T13:00:00.000Z",
+        "goalsAgainst": 1,
+        "goalsFor": 1,
+        "matchId": "epl-2627-r02-lee-bre",
+        "opponentId": "brentford",
+        "result": "D",
+        "venue": "H",
+        "xgAgainst": 1.56,
+        "xgFor": 1.43
+      },
+      {
+        "competition": "epl",
+        "date": "2026-08-22T14:00:00.000Z",
+        "goalsAgainst": 0,
+        "goalsFor": 1,
+        "matchId": "epl-2627-r01-nfo-lee",
+        "opponentId": "nottm-forest",
+        "result": "W",
+        "venue": "A",
+        "xgAgainst": 0.66,
+        "xgFor": 0.47
+      }
+    ],
+    "restDays": 6,
+    "standing": {
+      "drawn": 1,
+      "ga": 1,
+      "gd": 1,
+      "gf": 2,
+      "lost": 0,
+      "played": 2,
+      "pos": 8,
+      "pts": 4,
+      "won": 1
+    },
+    "teamId": "leeds"
+  },
+  "baseRates": {
+    "A": 0.31,
+    "D": 0.24,
+    "H": 0.45,
+    "btts": 0.52,
+    "over25": 0.55
+  },
+  "builtAt": "2026-09-03T10:26:09.940Z",
+  "competition": "epl",
+  "h2h": [],
+  "home": {
+    "formAll": [
+      {
+        "competition": "epl",
+        "date": "2026-08-30T13:00:00.000Z",
+        "goalsAgainst": 4,
+        "goalsFor": 3,
+        "matchId": "epl-2627-r02-che-bha",
+        "opponentId": "chelsea",
+        "result": "L",
+        "venue": "A",
+        "xgAgainst": 2.93,
+        "xgFor": 1.4
+      },
+      {
+        "competition": "epl",
+        "date": "2026-08-23T13:00:00.000Z",
+        "goalsAgainst": 0,
+        "goalsFor": 4,
+        "matchId": "epl-2627-r01-bha-avl",
+        "opponentId": "aston-villa",
+        "result": "W",
+        "venue": "H",
+        "xgAgainst": 0.28,
+        "xgFor": 3.77
+      }
+    ],
+    "formComp": [
+      {
+        "competition": "epl",
+        "date": "2026-08-30T13:00:00.000Z",
+        "goalsAgainst": 4,
+        "goalsFor": 3,
+        "matchId": "epl-2627-r02-che-bha",
+        "opponentId": "chelsea",
+        "result": "L",
+        "venue": "A",
+        "xgAgainst": 2.93,
+        "xgFor": 1.4
+      },
+      {
+        "competition": "epl",
+        "date": "2026-08-23T13:00:00.000Z",
+        "goalsAgainst": 0,
+        "goalsFor": 4,
+        "matchId": "epl-2627-r01-bha-avl",
+        "opponentId": "aston-villa",
+        "result": "W",
+        "venue": "H",
+        "xgAgainst": 0.28,
+        "xgFor": 3.77
+      }
+    ],
+    "restDays": 6,
+    "standing": {
+      "drawn": 0,
+      "ga": 4,
+      "gd": 3,
+      "gf": 7,
+      "lost": 1,
+      "played": 2,
+      "pos": 9,
+      "pts": 3,
+      "won": 1
+    },
+    "teamId": "brighton"
+  },
+  "kickoffUtc": "2026-09-05T14:00:00.000Z",
+  "market": null,
+  "matchId": "epl-2627-r03-bha-lee",
+  "notes": [
+    "market: unavailable (no odds key at build time)",
+    "xG: EPL post-match figures from football-data.co.uk where available"
+  ],
+  "round": 3,
+  "schemaVersion": 1,
+  "season": "2627",
+  "seedRank": null
+}

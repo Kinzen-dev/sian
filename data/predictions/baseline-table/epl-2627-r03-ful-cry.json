@@ -1,0 +1,19 @@
+{
+  "btts": true,
+  "factpackHash": "04d61d86ff668c8197bb653d313e6767393380960f0ba5b19e34853112aa7c8c",
+  "guruId": "baseline-table",
+  "kickoffUtc": "2026-09-05T14:00:00.000Z",
+  "kind": "baseline",
+  "lockedAt": "2026-09-03T10:26:10.418Z",
+  "matchId": "epl-2627-r03-ful-cry",
+  "note": "table positions 16 v 18",
+  "over25": true,
+  "pick": "H",
+  "probs": {
+    "A": 0.24,
+    "D": 0.26,
+    "H": 0.5
+  },
+  "schemaVersion": 1,
+  "scoreline": null
+}
