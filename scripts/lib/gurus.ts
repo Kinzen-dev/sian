@@ -1,10 +1,10 @@
 import { existsSync } from "node:fs";
 import { join } from "node:path";
 import { GuruProfile } from "@/lib/schema";
-import { DATA, readJson, writeJson } from "./store";
+import { dataDir, readJson, writeJson } from "./store";
 
 export function guruDir(guruId: string): string {
-  return join(DATA, "gurus", guruId);
+  return join(dataDir(), "gurus", guruId);
 }
 
 export function loadGuru(guruId: string): GuruProfile | null {
@@ -25,5 +25,5 @@ export function ensureGuru(profile: GuruProfile): GuruProfile {
 }
 
 export function predictionPath(guruId: string, matchId: string): string {
-  return join(DATA, "predictions", guruId, `${matchId}.json`);
+  return join(dataDir(), "predictions", guruId, `${matchId}.json`);
 }

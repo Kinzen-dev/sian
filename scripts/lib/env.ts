@@ -1,10 +1,10 @@
 import { existsSync, readFileSync } from "node:fs";
 import { join } from "node:path";
-import { ROOT } from "./store";
+import { rootDir } from "./store";
 
 // Minimal .env loader (no dependency). Real env always wins.
 export function loadEnv(): void {
-  const p = join(ROOT, ".env");
+  const p = join(rootDir(), ".env");
   if (!existsSync(p)) return;
   for (const line of readFileSync(p, "utf8").split(/\r?\n/)) {
     const m = /^\s*([A-Z0-9_]+)\s*=\s*(.*)\s*$/.exec(line);

@@ -3,7 +3,7 @@ import { join } from "node:path";
 import type { Competition, Fixture } from "@/lib/schema";
 import { env } from "../lib/env";
 import { applyXg, loadFixtures, mergeFixtures, saveFixtures } from "../lib/fixtures";
-import { DATA, SEASON, readJson } from "../lib/store";
+import { dataDir, SEASON, readJson } from "../lib/store";
 import { loadTeams } from "../lib/teams";
 import { OPENFOOTBALL_EPL_URL, parseOpenfootball } from "../sources/openfootball";
 import { E0_URL, parseE0 } from "../sources/football-data-co-uk";
@@ -49,7 +49,7 @@ export async function refresh(opts: { comps: Competition[]; now: string; fetch?:
     }
 
     if (comp === "ucl") {
-      const seed = readJson<unknown>(join(DATA, "competitions", "ucl", "2026-27", "manual-md1.json"));
+      const seed = readJson<unknown>(join(dataDir(), "competitions", "ucl", "2026-27", "manual-md1.json"));
       fixtures = mergeFixtures(fixtures, parseUefaManual(seed, teams, SEASON, opts.now));
       report["manual-uefa-release"] = { ok: true, at: opts.now };
     }

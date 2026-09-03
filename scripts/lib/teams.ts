@@ -1,6 +1,6 @@
 import { join } from "node:path";
 import { Aliases, Team } from "@/lib/schema";
-import { DATA, readJson } from "./store";
+import { dataDir, readJson } from "./store";
 import { z } from "zod";
 
 export type TeamIndex = {
@@ -9,7 +9,7 @@ export type TeamIndex = {
   resolve: (source: string, alias: string) => Team;
 };
 
-export function loadTeams(root = DATA): TeamIndex {
+export function loadTeams(root: string = dataDir()): TeamIndex {
   const { teams } = z.object({ teams: z.array(Team) }).parse(readJson(join(root, "teams", "index.json")));
   const aliases = Aliases.parse(readJson(join(root, "teams", "aliases.json")));
   return buildTeamIndex(teams, aliases);

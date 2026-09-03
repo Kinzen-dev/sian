@@ -2,8 +2,12 @@ import { createHash } from "node:crypto";
 import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs";
 import { dirname, join } from "node:path";
 
-export const ROOT = process.env.SIAN_ROOT ?? process.cwd();
-export const DATA = join(ROOT, "data");
+export function rootDir(): string {
+  return process.env.SIAN_ROOT ?? process.cwd();
+}
+export function dataDir(): string {
+  return join(rootDir(), "data");
+}
 
 export function readJson<T>(path: string): T {
   return JSON.parse(readFileSync(path, "utf8")) as T;
@@ -43,7 +47,7 @@ function sortKeys(value: unknown): unknown {
 }
 
 export function fixturesPath(competition: string, seasonLabel: string): string {
-  return join(DATA, "competitions", competition, seasonLabel, "fixtures.json");
+  return join(dataDir(), "competitions", competition, seasonLabel, "fixtures.json");
 }
 export const SEASON = "2627";
 export const SEASON_LABEL = "2026-27";

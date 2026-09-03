@@ -43,7 +43,7 @@ async function main(): Promise<number> {
     }
     case "run": {
       const { runStart, runFinish } = await import("./commands/run");
-      if (subcommand === "start") return runStart({ guru: values.guru, harness: values.harness, mode: values.mode, displayName: values["display-name"], now });
+      if (subcommand === "start") return runStart({ guru: values.guru, harness: values.harness, mode: values.mode, displayName: values["display-name"], now, windowHours: values.window ? hours(values.window, 48) : undefined });
       if (subcommand === "finish") return runFinish({ run: values.run, now });
       throw new Error("usage: sian run start|finish");
     }

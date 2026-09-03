@@ -2,7 +2,7 @@ import { join } from "node:path";
 import { FactPack, type Competition, type Fixture, type Market, type SeedRanking } from "@/lib/schema";
 import type { TeamIndex } from "./teams";
 import { computeStandings, headToHead, recentForm, restDays } from "./table";
-import { DATA } from "./store";
+import { dataDir } from "./store";
 
 // Approximate long-run outcome rates used only by baseline gurus. Documented on the methodology page.
 export const BASE_RATES: Record<Competition, FactPack["baseRates"]> = {
@@ -11,7 +11,7 @@ export const BASE_RATES: Record<Competition, FactPack["baseRates"]> = {
 };
 
 export function factpackPath(matchId: string): string {
-  return join(DATA, "factpacks", `${matchId}.json`);
+  return join(dataDir(), "factpacks", `${matchId}.json`);
 }
 
 export function buildFactPack(

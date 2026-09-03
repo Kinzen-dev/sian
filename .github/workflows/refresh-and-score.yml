@@ -1,0 +1,39 @@
+name: refresh-and-score
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: main-writer
+  cancel-in-progress: false
+jobs:
+  bot:
+    runs-on: ubuntu-latest
+    env:
+      FOOTBALL_DATA_TOKEN: ${{ secrets.FOOTBALL_DATA_TOKEN }}
+      ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v7
+        with:
+          node-version-file: .nvmrc
+          cache: npm
+      - run: npm ci
+      - run: npm run sian -- refresh || echo "refresh reported a degraded source"
+      - run: npm run sian -- factpack --window 72h
+      - run: npm run sian -- baseline
+      - run: npm run sian -- locks
+      - run: npm run sian -- score
+      - run: npm run sian -- status
+      - name: Commit data
+        run: |
+          git config user.name "sian-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A data/
+          if git diff --staged --quiet; then echo "no data changes"; exit 0; fi
+          git commit -m "chore(data): refresh, fact packs, baselines, locks, scores"
+          git push origin HEAD:main || (git fetch origin main && git rebase origin/main && git push origin HEAD:main)

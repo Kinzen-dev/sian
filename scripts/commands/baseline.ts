@@ -3,7 +3,7 @@ import { join } from "node:path";
 import { BaselinePrediction, FactPack } from "@/lib/schema";
 import { baselineCalls } from "@/lib/baselines";
 import { ensureGuru, predictionPath } from "../lib/gurus";
-import { DATA, sha256, writeJsonOnce } from "../lib/store";
+import { dataDir, sha256, writeJsonOnce } from "../lib/store";
 
 const PROFILES = {
   "baseline-home": { displayName: "เจ้าบ้านตลอด", descriptionTh: "กูรูฐาน: เลือกเจ้าบ้านทุกคู่ ใช้ความน่าจะเป็นเฉลี่ยของลีก" },
@@ -12,7 +12,7 @@ const PROFILES = {
 } as const;
 
 export function baseline(opts: { now: string }): { written: number } {
-  const dir = join(DATA, "factpacks");
+  const dir = join(dataDir(), "factpacks");
   let written = 0;
   for (const file of readdirSync(dir).filter((f) => f.endsWith(".json")).sort()) {
     const bytes = readFileSync(join(dir, file));
