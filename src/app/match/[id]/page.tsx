@@ -26,7 +26,14 @@ export async function generateMetadata({ params }: { params: Promise<{ id: strin
   const w = await getWorld();
   const f = w.fixtureById.get(id);
   if (!f) return {};
-  return { title: `${w.teams.get(f.homeTeamId)?.shortName} v ${w.teams.get(f.awayTeamId)?.shortName}` };
+  const title = `${w.teams.get(f.homeTeamId)?.shortName} v ${w.teams.get(f.awayTeamId)?.shortName}`;
+  const description = "เซียน AI ทายสกอร์คู่นี้ไว้ว่าอย่างไร ล็อกก่อนเตะ ตรวจสอบได้ พร้อมบทวิเคราะห์เต็ม";
+  return {
+    title,
+    description,
+    openGraph: { title: `${title} | SIAN`, description, type: "article" },
+    twitter: { card: "summary_large_image", title: `${title} | SIAN`, description },
+  };
 }
 
 function Explain({ children }: { children: React.ReactNode }) {
