@@ -1,0 +1,40 @@
+name: notify
+on:
+  workflow_dispatch:
+    inputs:
+      event:
+        description: "predictions or results"
+        required: true
+        default: "predictions"
+      dry_run:
+        description: "true = print only"
+        required: false
+        default: "false"
+permissions:
+  contents: write
+concurrency:
+  group: main-writer
+  cancel-in-progress: false
+jobs:
+  send:
+    runs-on: ubuntu-latest
+    env:
+      LINE_CHANNEL_ACCESS_TOKEN: ${{ secrets.LINE_CHANNEL_ACCESS_TOKEN }}
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v7
+        with:
+          node-version-file: .nvmrc
+          cache: npm
+      - run: npm ci
+      - name: Send the digest
+        run: |
+          if [ "${{ github.event.inputs.dry_run }}" = "true" ]; then npm run sian -- notify --event "${{ github.event.inputs.event }}" --dry-run; else npm run sian -- notify --event "${{ github.event.inputs.event }}"; fi
+          git config user.name "sian-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A data/notify
+          if git diff --staged --quiet; then echo "no notify state"; exit 0; fi
+          git commit -m "chore(notify): ${{ github.event.inputs.event }} digest sent"
+          git push origin main || (git fetch origin main && git rebase origin/main && git push origin main)
