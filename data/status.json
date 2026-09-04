@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-03T20:14:58.596Z",
-  "lastRefreshAt": "2026-09-03T20:14:54.183Z",
+  "generatedAt": "2026-09-04T01:52:25.373Z",
+  "lastRefreshAt": "2026-09-04T01:52:20.925Z",
   "lastScoreAt": null,
   "pending": {
     "factpacks": 0,
@@ -9,26 +9,26 @@
   },
   "sources": {
     "football-data.co.uk": {
-      "at": "2026-09-03T20:14:54.183Z",
+      "at": "2026-09-04T01:52:20.925Z",
       "note": "20 matches with xG",
       "ok": true
     },
     "football-data.org:epl": {
-      "at": "2026-09-03T20:14:54.183Z",
+      "at": "2026-09-04T01:52:20.925Z",
       "note": "380 matches",
       "ok": true
     },
     "football-data.org:ucl": {
-      "at": "2026-09-03T20:14:54.183Z",
+      "at": "2026-09-04T01:52:20.925Z",
       "note": "144 matches",
       "ok": true
     },
     "manual-uefa-release": {
-      "at": "2026-09-03T20:14:54.183Z",
+      "at": "2026-09-04T01:52:20.925Z",
       "ok": true
     },
     "openfootball": {
-      "at": "2026-09-03T20:14:54.183Z",
+      "at": "2026-09-04T01:52:20.925Z",
       "ok": true
     }
   }
