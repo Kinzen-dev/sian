@@ -24,7 +24,7 @@ Run Mode B, then Mode A, in one session. Both are idempotent: nothing pending me
 ```
 npm run sian -- run start --guru <modelId> --harness <harness>
 ```
-   `harness` is one of `claude-code`, `claude-code-routine`, `codex-cli`, `cursor`, `other`. Add `--display-name "..."` only the first time a new model id appears. Add `--window 96h` when you intentionally predict further ahead than the default 48h.
+   `harness` is one of `claude-code`, `claude-code-routine`, `codex-cli`, `cursor`, `openai-api` (the GitHub Actions runner in `scripts/guru-runner.ts`), `other`. Add `--display-name "..."` only the first time a new model id appears. Add `--window 96h` when you intentionally predict further ahead than the default 48h.
    The command prints JSON: `runId`, `pending` (matches with a committed fact pack, kicking off inside the window, not yet predicted by you), `skippedNoFactpack` (leave those alone; the bot builds packs 72h ahead) and `lessonsFile`.
 
 2. Prepare. Read `workflow/prompts/analyst.md` (the brief) and your `lessonsFile` if it exists. Then, for each pending match, in kickoff order:

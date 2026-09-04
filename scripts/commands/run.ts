@@ -30,7 +30,7 @@ export function runStart(opts: { guru?: string; harness?: string; mode?: string;
   const displayName = opts.displayName ?? displayNameFor(opts.guru);
   const profile = ensureGuru({
     guruId: opts.guru, displayName, kind: "model", modelId: opts.guru, harnesses: [opts.harness],
-    automation: opts.harness.includes("routine") ? "routine" : "manual", descriptionTh: "", since: opts.now, active: true,
+    automation: opts.harness.includes("routine") || opts.harness === "openai-api" ? "routine" : "manual", descriptionTh: "", since: opts.now, active: true,
   });
   const runId = makeRunId(mode, opts.guru, opts.now);
   const windowHours = opts.windowHours ?? 48;

@@ -1,0 +1,43 @@
+name: guru-openai
+on:
+  schedule:
+    - cron: "30 3 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: main-writer
+  cancel-in-progress: false
+jobs:
+  predict:
+    runs-on: ubuntu-latest
+    env:
+      OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+      OPENAI_GURU_MODEL: ${{ vars.OPENAI_GURU_MODEL }}
+      OPENAI_MAX_USD_PER_RUN: ${{ vars.OPENAI_MAX_USD_PER_RUN }}
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v7
+        with:
+          node-version-file: .nvmrc
+          cache: npm
+      - run: npm ci
+      - name: Run the guru protocol through the OpenAI Responses API (dry-run without OPENAI_API_KEY)
+        run: npx tsx scripts/guru-runner.ts --push
+      # A GITHUB_TOKEN push never triggers other workflows, so this job merges its own guru
+      # branch the same way validate-and-merge does; the merge commit is still the lock proof.
+      - name: Validate and merge the guru branch into main
+        run: |
+          BR=$(git rev-parse --abbrev-ref HEAD)
+          case "$BR" in guru/*) ;; *) echo "no guru branch pushed (dry-run or nothing pending)"; exit 0;; esac
+          git fetch origin main
+          npm run sian -- validate --base origin/main
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          SHA=$(git rev-parse HEAD)
+          git checkout -B main origin/main
+          git merge --no-ff "$SHA" -m "merge $BR"
+          git push origin main || (git fetch origin main && git rebase origin/main && git push origin main)
+          git push origin --delete "$BR" || true

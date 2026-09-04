@@ -14,6 +14,7 @@ const { values } = parseArgs({
     comp: { type: "string" }, window: { type: "string" }, since: { type: "string" }, guru: { type: "string" }, harness: { type: "string" },
     mode: { type: "string" }, "display-name": { type: "string" }, run: { type: "string" }, match: { type: "string" }, file: { type: "string" },
     text: { type: "string" }, base: { type: "string" }, "alert-window": { type: "string" }, now: { type: "string" },
+    event: { type: "string" }, "dry-run": { type: "boolean" },
   },
   strict: true,
 });
@@ -74,8 +75,15 @@ async function main(): Promise<number> {
       status({ now });
       return 0;
     }
+    case "notify": {
+      const { notify } = await import("./commands/notify");
+      const event = values.event;
+      if (event !== "predictions" && event !== "results") { console.error("usage: sian notify --event predictions|results [--dry-run]"); return 1; }
+      await notify({ event, now, dryRun: values["dry-run"] });
+      return 0;
+    }
     default:
-      console.error("usage: sian <refresh|factpack|baseline|run|submit|validate|score|locks|coverage|status> [--flags]");
+      console.error("usage: sian <refresh|factpack|baseline|run|submit|validate|score|locks|coverage|status|notify> [--flags]");
       return 1;
   }
 }
