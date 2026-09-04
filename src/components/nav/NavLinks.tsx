@@ -5,6 +5,7 @@ import { usePathname } from "next/navigation";
 import { COPY } from "@/lib/copy";
 
 const LINKS = [
+  { href: "/predictions", label: COPY.nav.predictions },
   { href: "/leaderboard", label: COPY.nav.leaderboard },
   { href: "/methodology", label: COPY.nav.rules },
   { href: "/team/man-utd", label: COPY.nav.manutd },

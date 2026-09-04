@@ -175,3 +175,72 @@ tr.row-lift:hover { background: var(--raised); }
 .fx-chip-pick { font-size: 1rem; color: var(--ink); }
 @media (max-width: 640px) { .fx-labels { gap: 0.5rem; } .fx-who { font-size: var(--text-xs); } .fx-open-text { font-size: clamp(3.2rem, 20vw, 6rem); } }
 @media (prefers-reduced-motion: reduce) { .fx-open, .fx-read, .fx-haze, .fx-chip { transition: none; } }
+
+/* ---- predictions board: fixed scroll-driven field behind a legible ledger ---- */
+:root { --verm: #c8402a; }
+.sf-root { position: fixed; inset: 0; z-index: 0; pointer-events: none; overflow: hidden; background: var(--canvas); }
+.sf-haze { position: absolute; inset: 0; background: radial-gradient(60% 50% at 50% 38%, rgba(242, 180, 49, 0.10), transparent 70%), var(--canvas); transition: opacity 0.9s ease; }
+.sf-root[data-fx="on"] .sf-haze { opacity: 0.3; }
+.sf-root canvas { position: absolute; inset: 0; width: 100%; height: 100%; display: block; }
+.board { position: relative; z-index: 1; }
+.board-table { width: 100%; border-collapse: separate; border-spacing: 0; }
+.board-table th { position: sticky; top: 3.5rem; z-index: 5; background: color-mix(in srgb, var(--canvas) 92%, transparent); backdrop-filter: blur(6px); font-weight: 500; font-size: var(--text-xs); color: var(--ink-2); text-align: left; padding: 0.55rem 0.6rem; border-bottom: 1px solid var(--rule-strong); vertical-align: bottom; }
+.board-table th.board-cell { text-align: center; }
+.board-table td { padding: 0.6rem 0.6rem; border-bottom: 1px solid var(--rule); background: color-mix(in srgb, var(--canvas) 66%, transparent); vertical-align: middle; }
+.board-match:hover td { background: color-mix(in srgb, var(--raised) 72%, transparent); }
+.board-match[data-owns] td { background: color-mix(in srgb, var(--raised-2) 60%, transparent); }
+.board-split td:first-child { box-shadow: inset 3px 0 0 var(--verm); }
+.board-when { white-space: nowrap; font-size: var(--text-xs); color: var(--ink-2); width: 9rem; }
+.board-teams a { display: grid; grid-template-columns: 1fr auto 1fr; align-items: center; gap: 0.6rem; min-width: 14rem; }
+.board-real { color: var(--champ); }
+.board-tag { display: inline-block; font-size: 0.62rem; line-height: 1.2; color: var(--verm); border: 1px solid var(--verm); padding: 0.05rem 0.35rem; margin-left: 0.45rem; vertical-align: middle; white-space: nowrap; }
+.board-cell { text-align: center; white-space: nowrap; min-width: 7rem; }
+.board-pick { display: inline-block; width: 8px; height: 8px; margin-right: 0.45rem; vertical-align: 0.25em; }
+.board-score { font-size: 1.65rem; line-height: 0.9; }
+.board-prob { display: block; font-size: var(--text-xs); color: var(--ink-3); margin-top: 0.2rem; }
+.board-pts { display: block; font-size: var(--text-xs); margin-top: 0.1rem; }
+.board-flag { display: inline-block; font-size: 0.62rem; color: var(--ink-3); border: 1px solid var(--rule-strong); padding: 0 0.3rem; margin-top: 0.2rem; }
+td.board-hit { background: color-mix(in srgb, var(--champ) 12%, var(--canvas) 66%); }
+td.board-hit .board-score { color: var(--champ); }
+td.board-miss { background: color-mix(in srgb, var(--verm) 16%, var(--canvas) 66%); }
+td.board-miss .board-score { color: #ff8a78; }
+.board-base { color: var(--ink-3); }
+.board:not(:has(.board-toggle:checked)) .board-base { display: none; }
+.board-toggle-label { display: inline-flex; align-items: center; gap: 0.5rem; cursor: pointer; font-size: var(--text-sm); color: var(--ink-2); }
+.board-toggle { accent-color: var(--gold); width: 1rem; height: 1rem; }
+.board-cell-label { display: none; font-size: var(--text-xs); color: var(--ink-3); margin-bottom: 0.15rem; }
+.board-wait { font-size: var(--text-sm); }
+@media (max-width: 767px) {
+  .board-table thead { display: none; }
+  .board-table, .board-table tbody { display: block; }
+  .board-table tr.board-match { display: grid; grid-template-columns: 1fr 1fr; gap: 0.4rem 0.5rem; padding: 0.75rem 0; border-bottom: 1px solid var(--rule); }
+  .board-table tr.board-match td { display: block; border: 0; background: transparent; padding: 0.15rem 0.25rem; width: auto; }
+  .board-table td.board-when, .board-table td.board-teams, .board-table td.board-wait { grid-column: 1 / -1; }
+  .board-teams a { min-width: 0; }
+  .board-table td.board-cell { border: 1px solid var(--rule); padding: 0.45rem 0.55rem; background: color-mix(in srgb, var(--canvas) 72%, transparent); text-align: left; white-space: normal; min-width: 0; }
+  .board-table td.board-hit { background: color-mix(in srgb, var(--champ) 12%, var(--canvas) 72%); }
+  .board-table td.board-miss { background: color-mix(in srgb, var(--verm) 16%, var(--canvas) 72%); }
+  .board-cell-label { display: block; }
+  .board-score { font-size: 1.4rem; }
+  .board-split td:first-child { box-shadow: none; }
+  .board-split td.board-teams { box-shadow: inset 3px 0 0 var(--verm); padding-left: 0.6rem; }
+  .board-match[data-owns] td { background: transparent; }
+}
+@media (prefers-reduced-motion: reduce) { .sf-haze { transition: none; } }
+
+/* board legibility: headings and intro carry a canvas tint; mobile rows are tinted as a whole, the owning row more */
+.board-head { background: color-mix(in srgb, var(--canvas) 78%, transparent); box-shadow: 0 0 0 0.6rem color-mix(in srgb, var(--canvas) 78%, transparent); border-radius: 1px; }
+@media (max-width: 767px) {
+  .board-table tr.board-match { background: color-mix(in srgb, var(--canvas) 72%, transparent); }
+  .board-match[data-owns] { background: color-mix(in srgb, var(--canvas) 78%, transparent) !important; }
+  .board-table tr.board-match td { background: transparent; }
+  .board-table td.board-cell { background: color-mix(in srgb, var(--raised) 45%, transparent); }
+}
+/* fixed column widths so the display-face swap cannot shift the ledger (CLS) */
+@media (min-width: 768px) {
+  .board-table { table-layout: fixed; }
+  .board-table th.board-when, .board-table td.board-when { width: 9rem; }
+  .board-table th.board-teams, .board-table td.board-teams { width: auto; }
+  .board-table th.board-cell, .board-table td.board-cell { width: 8.5rem; }
+  .board-score { display: inline-block; min-width: 2.2ch; }
+}

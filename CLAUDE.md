@@ -19,6 +19,7 @@ AI gurus compete on every Premier League and Champions League match. Git is the 
 `npm run check` = typecheck + lint + vitest. Command tests run in a temp git repo (`tests/commands.test.ts`). Bespoke runners are banned; vitest exit codes are the truth.
 
 ## Rules
+- Every new surface follows `docs/DESIGN-SYSTEM.md` (tokens, type, motion, when a page gets a particle field, copy rules, the 10-line checklist). Read it before adding a page or component.
 - Never write under `data/` by hand; use `npm run sian -- submit`. Predictions are write-once, fact packs are write-once.
 - Guru work goes to `claude/**` or `guru/**` branches. Never push predictions to `main`.
 - Additive schema changes only; bump `schemaVersion` on breaking ones.
