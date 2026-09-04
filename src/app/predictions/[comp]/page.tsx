@@ -11,7 +11,8 @@ export function generateStaticParams() { return [{ comp: "epl" }, { comp: "ucl" 
 export async function generateMetadata({ params }: { params: Promise<{ comp: string }> }): Promise<Metadata> {
   const { comp } = await params;
   const c = comp as Competition;
-  return { title: `${COPY.board.title} ${COMPETITION_LABEL[c]?.th ?? comp}`, description: COPY.board.lead };
+  const title = `${COPY.board.title} ${COMPETITION_LABEL[c]?.th ?? comp}`;
+  return { title, description: COPY.board.lead, openGraph: { title: `${title} | SIAN`, description: COPY.board.lead }, twitter: { card: "summary_large_image", title: `${title} | SIAN`, description: COPY.board.lead } };
 }
 
 export default async function PredictionsByComp({ params }: { params: Promise<{ comp: string }> }) {

@@ -10,6 +10,7 @@ const nextConfig: NextConfig = {
   images: { unoptimized: true },
   trailingSlash: staticExport,
   turbopack: { root: process.cwd() },
+  agentRules: false,
 };
 
 export default nextConfig;

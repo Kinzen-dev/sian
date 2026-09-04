@@ -239,3 +239,51 @@ export function teamHubView(w: World, teamId: string, now: string): TeamHubView 
 }
 
 export { getWorld };
+
+// ---- results night ----------------------------------------------------------------------------
+import { homeMode as recapHomeMode, latestScoredRound, roundFixtures, roundPoints, roundRecap, type RecapInput, type RecapView, type RoundRef } from "@/lib/recap";
+
+export function recapInput(w: World): RecapInput {
+  return { fixtures: w.fixtures, predictions: w.predictions, scores: w.scores, gurus: w.gurus, factpacks: w.factpacks, teams: w.teams };
+}
+
+export type HomeView = {
+  mode: "results" | "upcoming";
+  round: RoundRef | null;
+  roundLabel: string | null;
+  recap: RecapView | null;
+  featured: MatchView | null; // the finished match the field forms first
+  delta: Record<string, number> | null; // points earned in the celebrated round, per guru
+};
+
+export function homeView(w: World, now: string): HomeView {
+  const input = recapInput(w);
+  const hm = recapHomeMode(input, now);
+  if (hm.mode !== "results" || !hm.round) return { mode: "upcoming", round: null, roundLabel: null, recap: null, featured: null, delta: null };
+  const recap = roundRecap(input, hm.round);
+  const f = recap.featuredMatchId ? w.fixtureById.get(recap.featuredMatchId) : undefined;
+  return {
+    mode: "results",
+    round: hm.round,
+    roundLabel: `${COMPETITION_LABEL[hm.round.competition].th} ${roundLabel(hm.round.competition, hm.round.round)}`,
+    recap,
+    featured: f ? matchView(w, f, now) : null,
+    delta: Object.fromEntries(roundPoints(input, hm.round)),
+  };
+}
+
+// The leaderboard shows "+x.x" next to each guru while the latest scored round is under a week old.
+export function recentRoundDelta(w: World, now: string): { round: RoundRef; label: string; delta: Record<string, number> } | null {
+  const input = recapInput(w);
+  const ref = latestScoredRound(input);
+  if (!ref) return null;
+  const last = roundFixtures(w.fixtures, ref).filter((f) => f.status === "FINISHED").map((f) => f.kickoffUtc).sort().pop();
+  if (!last || new Date(now).getTime() - new Date(last).getTime() > 7 * 86_400_000) return null;
+  return { round: ref, label: `${COMPETITION_LABEL[ref.competition].short} ${roundLabel(ref.competition, ref.round)}`, delta: Object.fromEntries(roundPoints(input, ref)) };
+}
+
+export function roundRecapView(w: World, comp: Competition, round: number): RecapView | null {
+  const input = recapInput(w);
+  const r = roundRecap(input, { competition: comp, round });
+  return r.scoredMatches > 0 ? r : null;
+}

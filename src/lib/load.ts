@@ -4,7 +4,8 @@ import { join } from "node:path";
 import { z } from "zod";
 import { AnyPrediction, Fixture, FactPack, GuruProfile, Lock, Review, Run, Score, Status, Team, type Competition } from "@/lib/schema";
 
-const DATA = join(process.cwd(), "data");
+// SIAN_DATA_DIR lets a preview build read a throwaway copy of data/ (e.g. fake results); default is the repo data.
+const DATA = process.env.SIAN_DATA_DIR ? (process.env.SIAN_DATA_DIR.startsWith("/") ? process.env.SIAN_DATA_DIR : join(process.cwd(), process.env.SIAN_DATA_DIR)) : join(process.cwd(), "data");
 
 export type Lesson = { date: string; matchId: string | null; text: string };
 

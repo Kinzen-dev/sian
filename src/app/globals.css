@@ -244,3 +244,11 @@ td.board-miss .board-score { color: #ff8a78; }
   .board-table th.board-cell, .board-table td.board-cell { width: 8.5rem; }
   .board-score { display: inline-block; min-width: 2.2ch; }
 }
+
+/* ---- results night: recap bars and the one "against" text tone ---- */
+.recap-verm { color: color-mix(in oklab, var(--verm) 78%, var(--ink)); }
+.recap-row { grid-template-columns: minmax(7rem, 12rem) minmax(0, 1fr) 3.5rem; }
+@media (min-width: 640px) { .recap-row { grid-template-columns: minmax(8rem, 14rem) minmax(0, 1fr) 3.5rem 3rem; } }
+.recap-track { position: relative; height: 8px; background: color-mix(in oklab, var(--rule) 60%, var(--canvas)); border-radius: 2px; overflow: hidden; }
+.recap-fill { position: absolute; inset: 0 auto 0 0; border-radius: 2px 4px 4px 2px; }
+@media (prefers-reduced-motion: reduce) { .recap-fill { transform: none !important; } }

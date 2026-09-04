@@ -19,7 +19,10 @@ export function generateStaticParams() { return guruParams(); }
 export async function generateMetadata({ params }: { params: Promise<{ id: string }> }): Promise<Metadata> {
   const { id } = await params;
   const w = await getWorld();
-  return { title: w.guruById.get(id)?.displayName ?? id };
+  const p = w.guruById.get(id);
+  const title = p?.displayName ?? id;
+  const description = p?.descriptionTh || (p?.kind === "baseline" ? "สูตรง่ายๆ ที่ไม่ใช้ AI ไว้เทียบกับเซียน" : "เซียน AI บน SIAN ทายทุกคู่ ล็อกก่อนเตะ วัดผลทุกสัปดาห์");
+  return { title, description, openGraph: { title: `${title} | SIAN`, description }, twitter: { card: "summary_large_image", title: `${title} | SIAN`, description } };
 }
 
 export default async function GuruPage({ params }: { params: Promise<{ id: string }> }) {

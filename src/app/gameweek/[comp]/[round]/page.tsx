@@ -19,7 +19,9 @@ type Params = { comp: string; round: string };
 export async function generateMetadata({ params }: { params: Promise<Params> }): Promise<Metadata> {
   const { comp, round } = await params;
   const c = comp as Competition;
-  return { title: `${COMPETITION_LABEL[c]?.th ?? comp} ${COMPETITION_LABEL[c]?.roundWord ?? ""} ${round}` };
+  const title = `${COMPETITION_LABEL[c]?.th ?? comp} ${COMPETITION_LABEL[c]?.roundWord ?? ""} ${round}`;
+  const description = `คำทายของเซียนทุกคนใน${title} เห็นสกอร์ทุกคู่ในรอบเดียว`;
+  return { title, description, openGraph: { title: `${title} | SIAN`, description }, twitter: { card: "summary_large_image", title: `${title} | SIAN`, description } };
 }
 
 export default async function GameweekPage({ params }: { params: Promise<Params> }) {

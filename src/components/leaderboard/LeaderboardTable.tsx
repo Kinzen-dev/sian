@@ -6,7 +6,7 @@ import { COPY, GLOSSARY, baselineLine } from "@/lib/copy";
 
 // Dense table. The leader glows champagne; baselines are dimmer and carry their one-line rule on hover;
 // gurus still in the trial period sit under a rule. Column headers explain themselves on hover.
-export function LeaderboardTable({ rows, compact = false }: { rows: LeaderboardRow[]; compact?: boolean }) {
+export function LeaderboardTable({ rows, compact = false, delta, deltaLabel }: { rows: LeaderboardRow[]; compact?: boolean; delta?: Record<string, number>; deltaLabel?: string }) {
   const ranked = rows.filter((r) => r.ranked);
   const trial = rows.filter((r) => !r.ranked);
   const c = COPY.leaderboard.columns;
@@ -24,6 +24,7 @@ export function LeaderboardTable({ rows, compact = false }: { rows: LeaderboardR
           <tr className="rule-b">
             <th className="text-left font-normal py-2 pr-2 w-8">{c.rank}</th>
             <th className="text-left font-normal py-2">{c.guru}</th>
+            {delta && th(deltaLabel ?? c.delta, COPY.home.deltaHint)}
             {th(c.scored, GLOSSARY.scored.gloss)}
             {th(c.avgPoints, GLOSSARY.avgPoints.gloss)}
             {th(c.accuracy, GLOSSARY.accuracy.gloss)}
@@ -34,11 +35,11 @@ export function LeaderboardTable({ rows, compact = false }: { rows: LeaderboardR
           </tr>
         </thead>
         <tbody>
-          {ranked.map((r) => <Row key={r.guruId} r={r} compact={compact} leader={r.rank === 1} />)}
+          {ranked.map((r) => <Row key={r.guruId} r={r} compact={compact} leader={r.rank === 1} delta={delta} />)}
           {trial.length > 0 && (
-            <tr><td colSpan={9} className="pt-5 pb-1 text-xs text-ink-3 border-t-2 border-rule-strong"><span className="term" title={GLOSSARY.trial.gloss}>{COPY.leaderboard.trialHeading(SITE.minScoredForRanking)}</span></td></tr>
+            <tr><td colSpan={10} className="pt-5 pb-1 text-xs text-ink-3 border-t-2 border-rule-strong"><span className="term" title={GLOSSARY.trial.gloss}>{COPY.leaderboard.trialHeading(SITE.minScoredForRanking)}</span></td></tr>
           )}
-          {trial.map((r) => <Row key={r.guruId} r={r} compact={compact} leader={false} />)}
+          {trial.map((r) => <Row key={r.guruId} r={r} compact={compact} leader={false} delta={delta} />)}
         </tbody>
       </table>
       </div>
@@ -46,7 +47,7 @@ export function LeaderboardTable({ rows, compact = false }: { rows: LeaderboardR
   );
 }
 
-function Row({ r, compact, leader }: { r: LeaderboardRow; compact: boolean; leader: boolean }) {
+function Row({ r, compact, leader, delta }: { r: LeaderboardRow; compact: boolean; leader: boolean; delta?: Record<string, number> }) {
   const dim = r.profile.kind === "baseline";
   const line = dim ? baselineLine(r.guruId) : null;
   const cell = (v: string, gold = false) => <td className={`data text-right py-2 px-2 last:pr-0 ${gold ? (leader ? "text-champ" : "text-gold") : ""}`}>{v}</td>;
@@ -60,6 +61,7 @@ function Row({ r, compact, leader }: { r: LeaderboardRow; compact: boolean; lead
           {line && <span className="hidden lg:inline text-xs text-ink-3 thai-tight">{line}</span>}
         </Link>
       </td>
+      {delta && (delta[r.guruId] != null ? <td className={`data text-right py-2 px-2 ${leader ? "text-champ" : "text-gold"}`}>{`+${delta[r.guruId].toFixed(1)}`}</td> : <td className="data text-right py-2 px-2 text-ink-3">-</td>)}
       {cell(String(r.scored))}
       {cell(r.scored ? r.avgPoints.toFixed(2) : "-", !dim)}
       {cell(r.scored ? pct(r.accuracy) : "-")}

@@ -23,7 +23,7 @@ export function RollingNumber({ value, digits = 2, className = "", suffix = "" }
     };
     setShown(0);
     raf = requestAnimationFrame(tick);
-    return () => cancelAnimationFrame(raf);
+    return () => { cancelAnimationFrame(raf); done.current = false; };
   }, [value, reduce]);
   return <span className={`num ${className}`}>{shown.toFixed(digits)}{suffix}</span>;
 }

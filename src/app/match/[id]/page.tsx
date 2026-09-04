@@ -16,6 +16,7 @@ import { Numeral } from "@/components/ui/Numeral";
 import { FieldStage, type Opening } from "@/components/fx/FieldStage";
 import { toCalls } from "@/components/hero/BroadcastHero";
 import { CHAMPAGNE, VERMILION, hdrColour, mix } from "@/lib/club-colours";
+import { VerifyNote } from "@/components/match/VerifyNote";
 
 export const dynamicParams = false;
 export function generateStaticParams() { return matchParams(); }
@@ -87,6 +88,14 @@ export default async function MatchPage({ params }: { params: Promise<{ id: stri
         />
       )}
 
+      {m.state === "finished" && (
+        <section className="shell mt-8">
+          <h2 className="text-lg font-semibold m-0">แต้มที่ได้</h2>
+          <Explain>ผลถูก 1 แต้ม สกอร์ถูกเป๊ะ +2 ประตูรวมสูง/ต่ำถูก +0.5 ทายว่ายิงกันทั้งคู่ถูก +0.5 และ +1 ถ้าเลือกสวนทีมเต็งแล้วถูก</Explain>
+          <div className="mt-3"><PointsBreakdown preds={m.predictions} /></div>
+        </section>
+      )}
+
       <section className="shell mt-8">
         <h2 className="text-lg font-semibold m-0">ใครทายอะไร</h2>
         <Explain>เซียนแต่ละคนฟันธงผล สกอร์ และความน่าจะเป็น ล็อกไว้ก่อนเตะทุกคน ส่วน ฐาน คือสูตรง่ายๆ ที่ไม่ใช้ AI เอาไว้เทียบว่าเซียนเก่งกว่าการเดาแค่ไหน</Explain>
@@ -109,15 +118,8 @@ export default async function MatchPage({ params }: { params: Promise<{ id: stri
             ))}
           </div>
         )}
+        {models[0] && <VerifyNote guruId={models[0].guruId} matchId={f.matchId} />}
       </section>
-
-      {m.state === "finished" && (
-        <section className="shell mt-8">
-          <h2 className="text-lg font-semibold m-0">แต้มที่ได้</h2>
-          <Explain>ผลถูก 1 แต้ม สกอร์ถูกเป๊ะ +2 ประตูรวมสูง/ต่ำถูก +0.5 ทายว่ายิงกันทั้งคู่ถูก +0.5 และ +1 ถ้าเลือกสวนทีมเต็งแล้วถูก</Explain>
-          <div className="mt-3"><PointsBreakdown preds={m.predictions} /></div>
-        </section>
-      )}
 
       {m.factpack && (
         <section className="shell mt-8">

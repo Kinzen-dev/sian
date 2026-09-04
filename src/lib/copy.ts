@@ -119,7 +119,8 @@ export const COPY = {
     howToRead: "อ่านตารางยังไง",
     baselinesNote: "กูรูฐานคือไม้บรรทัด ไม่ใช้ AI และไม่ทายสกอร์ จึงไม่มีทางได้แต้มสกอร์ เซียน AI ต้องชนะพวกนี้ถึงจะเรียกว่าเก่งจริง",
     tieNote: "แต้มเท่ากันดู Brier ก่อน แล้วดูจำนวนคู่",
-    columns: { rank: "#", guru: "เซียน", scored: "คู่", avgPoints: "แต้ม/คู่", accuracy: "ผลถูก", exact: "สกอร์ถูก", brier: "Brier", coverage: "ครอบคลุม", streak: "สตรีค" },
+    columns: {
+      delta: "รอบล่าสุด", rank: "#", guru: "เซียน", scored: "คู่", avgPoints: "แต้ม/คู่", accuracy: "ผลถูก", exact: "สกอร์ถูก", brier: "Brier", coverage: "ครอบคลุม", streak: "สตรีค" },
     baseTag: "ฐาน",
   },
   methodology: {
@@ -203,6 +204,13 @@ export const COPY = {
     lockLate: "ส่งช้า ไม่นับแต้ม",
   },
   home: {
+    resultsLead: "ผลออกแล้ว",
+    resultsExplainer: "ฝุ่นทองจับตัวเป็นสกอร์จริงก่อน แล้วคลายเป็นความน่าจะเป็นที่แต่ละเซียนให้ไว้ก่อนเตะ",
+    resultsRight: "ทายผลถูก",
+    resultsWrong: "ทายผลพลาด",
+    nextUp: "คู่ต่อไป",
+    boardLink: "ดูทุกคู่บนกระดาน",
+    deltaHint: "แต้มที่ได้เพิ่มจากรอบล่าสุด",
     heroLead: "คู่ถัดไป",
     countdown: "นับถอยหลังถึงเวลาเตะ",
     thisRound: "รอบนี้",
@@ -210,6 +218,45 @@ export const COPY = {
     statusTitle: "ระบบทำงานล่าสุด",
     intro: "AI แต่ละตัวคือเซียนหนึ่งคน ทายก่อนเตะ ล็อกไว้ให้ตรวจได้ ให้แต้มด้วยกติกาเดียวกัน แล้วดูกันว่าใครแม่นจริง",
   },
+  recap: {
+    title: (label: string) => `สรุป${label}`,
+    explainer: "ใครนำรอบนี้ ใครทายถูกทั้งที่ไม่มีใครคาด ใครพลาดทั้งที่มั่นใจ และแต้มของแต่ละคนจากคู่ที่จบแล้ว",
+    partial: (n: number, m: number) => `จนถึงตอนนี้ ${n} จาก ${m} คู่`,
+    complete: (m: number) => `จบครบ ${m} คู่แล้ว`,
+    leader: "นำรอบนี้",
+    leaderNone: "ยังไม่มีคู่ที่ให้คะแนน",
+    upsetMarket: "ทายสวนเต็งแล้วถูก",
+    upsetBold: "ทายถูกทั้งที่มั่นใจน้อยสุด",
+    upsetNone: "รอบนี้ยังไม่มีใครทายสวนเต็งถูก",
+    miss: "พลาดทั้งที่มั่นใจสุด",
+    missNone: "ยังไม่มีใครพลาด",
+    exact: "สกอร์เป๊ะ",
+    exactNone: "ยังไม่มีใครทายสกอร์เป๊ะ",
+    race: "แต้มรอบนี้",
+    raceExplainer: "รวมแต้มจากทุกคู่ที่จบแล้วในรอบนี้ เต็มคู่ละ 5 แถวสีจางคือสูตรง่ายๆ ไว้เทียบ (ไม่ใช่ AI)",
+    matchesWord: "คู่",
+    pointsWord: "แต้ม",
+    confidence: (p: number) => `มั่นใจ ${Math.round(p * 100)}%`,
+    marketGave: (p: number) => `ตลาดให้แค่ ${Math.round(p * 100)}%`,
+    story: (o: { leader: string; points: number; matches: number; upset: { name: string; label: string; byMarket: boolean } | null; miss: { name: string; label: string; prob: number } | null }) => {
+      const parts = [`${o.leader} นำรอบนี้ ${o.points.toFixed(1)} แต้มจาก ${o.matches} คู่`];
+      if (o.upset) parts.push(`${o.upset.name} ทาย ${o.upset.label} ถูก${o.upset.byMarket ? "ทั้งที่สวนตลาด" : "ทั้งที่ตัวเองก็ไม่มั่นใจ"}`);
+      if (o.miss) parts.push(`ส่วนที่พลาดหนักสุดคือ ${o.miss.name} ที่มั่นใจ ${Math.round(o.miss.prob * 100)}% กับ ${o.miss.label}`);
+      return parts.join(" ");
+    },
+    viewMatch: "ดูคู่นี้",
+    viewBoard: "ดูทุกคู่บนกระดาน",
+    viewRound: "ดูทั้งรอบ",
+  },
+  verify: {
+    link: "ตรวจสอบเอง",
+    linkTitle: "เปิดดู commit บน GitHub ที่ล็อกคำทำนายนี้ เวลาที่เห็นคือเวลาที่ GitHub บันทึกเอง",
+    noteTitle: "ล็อกก่อนเตะ ตรวจได้ยังไง",
+    noteBody: "คำทำนายทุกอันถูกบันทึกลง GitHub ผ่านการรวมโค้ด (merge) ที่ระบบทำให้ ไม่มีใครตั้งเวลาเองได้ กดที่รหัสสีทองแล้วดูเวลาบน GitHub เทียบกับเวลาเตะ ถ้าอยู่ก่อนเตะ = นับ ถ้าหลังเตะ = ระบบติดป้ายส่งช้าและไม่นับแต้ม",
+    cmdLabel: "หรือเปิด repo แล้วรันบรรทัดนี้ในเครื่องคุณเอง",
+    pendingNote: "รอระบบยืนยัน: บอทจะบันทึกรหัส commit ให้ภายใน 6 ชั่วโมงหลังคำทำนายเข้า main",
+  },
+
   board: {
     title: "คำทำนาย",
     lead: "ทุกคู่ที่เซียนทายไว้แล้ว เห็นสกอร์ของทุกคนในบรรทัดเดียว ไม่ต้องกดเข้าไปดูทีละคู่",

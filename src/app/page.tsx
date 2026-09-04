@@ -1,5 +1,7 @@
 import Link from "next/link";
-import { currentRound, featuredMatch, getWorld, leaderboardView, matchView, nextKickoffs, roundView } from "@/lib/view";
+import { currentRound, featuredMatch, getWorld, homeView, leaderboardView, matchView, nextKickoffs, roundView } from "@/lib/view";
+import { ResultsHero } from "@/components/hero/ResultsHero";
+import { RoundRecap } from "@/components/recap/RoundRecap";
 import { COMPETITION_LABEL, SITE, roundLabel } from "@/lib/site";
 import { dateRange, fmtKickoff } from "@/lib/format";
 import { BroadcastHero } from "@/components/hero/BroadcastHero";
@@ -22,13 +24,18 @@ export default async function Home() {
     const r = currentRound(w, c, now);
     return r == null ? null : roundView(w, c, r, now);
   }).filter((r): r is NonNullable<typeof r> => !!r && r.kickoffs.some((k) => new Date(k).getTime() < new Date(now).getTime() + 10 * 86_400_000));
+  const hv = homeView(w, now);
   const lb = leaderboardView(w);
   const snapshot = [...lb.filter((r) => r.ranked).slice(0, 5), ...lb.filter((r) => !r.ranked)].slice(0, 8);
 
   return (
     <main>
-      {hero ? <BroadcastHero m={hero} countdown={countdown} /> : (
+      {hv.mode === "results" && hv.featured ? <ResultsHero m={hv.featured} roundLabel={hv.roundLabel ?? ""} countdown={countdown} /> : hero ? <BroadcastHero m={hero} countdown={countdown} /> : (
         <section className="floodlight rule-b"><div className="shell py-16"><h1 className="text-2xl font-semibold m-0">{SITE.tagline}</h1><p className="text-ink-2 mt-2">ยังไม่มีคู่ถัดไปในระบบ</p></div></section>
+      )}
+
+      {hv.mode === "results" && hv.recap && (
+        <section className="shell mt-10"><RoundRecap recap={hv.recap} roundLabel={hv.roundLabel ?? ""} /></section>
       )}
 
       <section className="shell mt-10">
@@ -53,7 +60,7 @@ export default async function Home() {
         <div className="min-w-0">
           <div className="flex items-baseline justify-between rule-b pb-2"><h2 className="text-lg font-semibold m-0"><Link href="/leaderboard">กระดานคะแนน</Link></h2><span className="text-xs text-ink-2">เรียงตามแต้มเฉลี่ยต่อคู่</span></div>
           <p className="m-0 mt-1 text-sm text-ink-2 thai-tight">ต้องทายครบ {SITE.minScoredForRanking} คู่ก่อนถึงติดอันดับ ก่อนหน้านั้นนับเป็นรอบทดลอง</p>
-          <LeaderboardTable rows={snapshot} compact />
+          <LeaderboardTable rows={snapshot} compact delta={hv.delta ?? undefined} />
         </div>
         <div className="min-w-0">
           <div className="rule-b pb-2"><h2 className="text-lg font-semibold m-0">วิธีคิดสั้นๆ</h2></div>

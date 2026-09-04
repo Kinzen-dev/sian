@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { getWorld, leaderboardView } from "@/lib/view";
+import { getWorld, leaderboardView, recentRoundDelta } from "@/lib/view";
 import { COMPETITION_LABEL, SITE } from "@/lib/site";
 import { COPY } from "@/lib/copy";
 import { LeaderboardTable } from "@/components/leaderboard/LeaderboardTable";
@@ -11,6 +11,9 @@ import type { Competition } from "@/lib/schema";
 export async function LeaderboardView({ comp }: { comp: Competition | null }) {
   const w = await getWorld();
   const rows = leaderboardView(w, comp ?? undefined);
+  const recent = recentRoundDelta(w, w.builtAt);
+  const delta = recent && (!comp || recent.round.competition === comp) ? recent.delta : undefined;
+  const deltaLabel = recent ? `${COPY.leaderboard.columns.delta} (${recent.label})` : undefined;
   const leader = rows.find((r) => r.rank === 1) ?? null;
   const t = COPY.leaderboard;
   const tabs: { href: string; label: string; active: boolean }[] = [
@@ -38,7 +41,7 @@ export async function LeaderboardView({ comp }: { comp: Competition | null }) {
         </section>
       ) : null}
 
-      <div className="mt-6"><LeaderboardTable rows={rows} /></div>
+      <div className="mt-6"><LeaderboardTable rows={rows}  delta={delta} deltaLabel={deltaLabel} /></div>
       <div className="mt-8 grid gap-6 md:grid-cols-[1.4fr_1fr]">
         <HowToRead keys={["avgPoints", "accuracy", "exact", "brier", "coverage", "streak", "trial"]} title={t.howToRead} />
         <div className="text-sm text-ink-2 thai-tight grid gap-2 content-start">
