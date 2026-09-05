@@ -1,0 +1,25 @@
+{
+  "brier": 0.8952,
+  "guruId": "baseline-table",
+  "late": false,
+  "logLoss": 1.4271163556401458,
+  "marketFavourite": null,
+  "matchId": "epl-2627-r03-ips-liv",
+  "points": {
+    "btts": 0,
+    "exact": 0,
+    "ou": 0,
+    "outcome": 0,
+    "total": 0,
+    "upset": 0
+  },
+  "result": {
+    "away": 2,
+    "home": 0,
+    "outcome": "A"
+  },
+  "resultHash": "27e955333e6884ebeb33044da141167a02359c621c4ecdc8eb2f0eadbf8cf61e",
+  "schemaVersion": 1,
+  "scoredAt": "2026-09-05T01:48:43.029Z",
+  "void": null
+}
