@@ -1,0 +1,25 @@
+{
+  "brier": 0.8762,
+  "guruId": "baseline-home",
+  "late": false,
+  "logLoss": 1.4271163556401458,
+  "marketFavourite": null,
+  "matchId": "epl-2627-r03-new-bou",
+  "points": {
+    "btts": 0.5,
+    "exact": 0,
+    "ou": 0.5,
+    "outcome": 0,
+    "total": 1,
+    "upset": 0
+  },
+  "result": {
+    "away": 2,
+    "home": 2,
+    "outcome": "D"
+  },
+  "resultHash": "c539cfa2416f3e93743c22d295f9bd996ee2ab65d2d0b55202586a0ac404b871",
+  "schemaVersion": 1,
+  "scoredAt": "2026-09-05T19:40:05.563Z",
+  "void": null
+}

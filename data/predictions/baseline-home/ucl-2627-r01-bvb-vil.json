@@ -1,0 +1,19 @@
+{
+  "btts": true,
+  "factpackHash": "e37794e3e152c281fd7d6b0ac57674ce6c680337c3371223864692d92b3047ae",
+  "guruId": "baseline-home",
+  "kickoffUtc": "2026-09-08T19:00:00.000Z",
+  "kind": "baseline",
+  "lockedAt": "2026-09-05T19:40:04.848Z",
+  "matchId": "ucl-2627-r01-bvb-vil",
+  "note": "always home, league base rates",
+  "over25": true,
+  "pick": "H",
+  "probs": {
+    "A": 0.3,
+    "D": 0.22,
+    "H": 0.48
+  },
+  "schemaVersion": 1,
+  "scoreline": null
+}

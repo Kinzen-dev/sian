@@ -1,0 +1,25 @@
+{
+  "brier": 0.8762,
+  "guruId": "baseline-home",
+  "late": false,
+  "logLoss": 1.4271163556401458,
+  "marketFavourite": null,
+  "matchId": "epl-2627-r03-bha-lee",
+  "points": {
+    "btts": 0.5,
+    "exact": 0,
+    "ou": 0,
+    "outcome": 0,
+    "total": 0.5,
+    "upset": 0
+  },
+  "result": {
+    "away": 1,
+    "home": 1,
+    "outcome": "D"
+  },
+  "resultHash": "59510d91a04a1af467946ec474bb7593d71a8af45f3dc1911dd5b3cbf62478a2",
+  "schemaVersion": 1,
+  "scoredAt": "2026-09-05T19:40:05.563Z",
+  "void": null
+}

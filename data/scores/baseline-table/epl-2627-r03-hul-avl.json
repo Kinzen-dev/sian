@@ -1,0 +1,25 @@
+{
+  "brier": 0.8552,
+  "guruId": "baseline-table",
+  "late": false,
+  "logLoss": 1.3470736479666092,
+  "marketFavourite": null,
+  "matchId": "epl-2627-r03-hul-avl",
+  "points": {
+    "btts": 0,
+    "exact": 0,
+    "ou": 0,
+    "outcome": 0,
+    "total": 0,
+    "upset": 0
+  },
+  "result": {
+    "away": 0,
+    "home": 0,
+    "outcome": "D"
+  },
+  "resultHash": "22841ea360fc3c3676a38502aa9a90a1ae1fbdac1d937746358efe559d349b6f",
+  "schemaVersion": 1,
+  "scoredAt": "2026-09-05T19:40:05.563Z",
+  "void": null
+}

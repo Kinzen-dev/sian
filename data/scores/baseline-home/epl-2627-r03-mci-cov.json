@@ -1,0 +1,25 @@
+{
+  "brier": 0.45620000000000005,
+  "guruId": "baseline-home",
+  "late": false,
+  "logLoss": 0.7985076962177716,
+  "marketFavourite": null,
+  "matchId": "epl-2627-r03-mci-cov",
+  "points": {
+    "btts": 0,
+    "exact": 0,
+    "ou": 0,
+    "outcome": 1,
+    "total": 1,
+    "upset": 0
+  },
+  "result": {
+    "away": 0,
+    "home": 1,
+    "outcome": "H"
+  },
+  "resultHash": "a302da3294ef556ab933c9b09a7fdebf7ca7bb51868dee1cc24b35dc4e68cf97",
+  "schemaVersion": 1,
+  "scoredAt": "2026-09-05T19:40:05.563Z",
+  "void": null
+}
