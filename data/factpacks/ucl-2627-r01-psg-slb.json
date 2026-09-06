@@ -1,0 +1,57 @@
+{
+  "away": {
+    "formAll": [],
+    "formComp": [],
+    "restDays": null,
+    "standing": {
+      "drawn": 0,
+      "ga": 0,
+      "gd": 0,
+      "gf": 0,
+      "lost": 0,
+      "played": 0,
+      "pos": 32,
+      "pts": 0,
+      "won": 0
+    },
+    "teamId": "slovan-bratislava"
+  },
+  "baseRates": {
+    "A": 0.3,
+    "D": 0.22,
+    "H": 0.48,
+    "btts": 0.55,
+    "over25": 0.6
+  },
+  "builtAt": "2026-09-06T19:42:32.907Z",
+  "competition": "ucl",
+  "h2h": [],
+  "home": {
+    "formAll": [],
+    "formComp": [],
+    "restDays": null,
+    "standing": {
+      "drawn": 0,
+      "ga": 0,
+      "gd": 0,
+      "gf": 0,
+      "lost": 0,
+      "played": 0,
+      "pos": 23,
+      "pts": 0,
+      "won": 0
+    },
+    "teamId": "psg"
+  },
+  "kickoffUtc": "2026-09-09T19:00:00.000Z",
+  "market": null,
+  "matchId": "ucl-2627-r01-psg-slb",
+  "notes": [
+    "market: unavailable (no odds key at build time)",
+    "xG: no structured source for UCL; cite from research"
+  ],
+  "round": 1,
+  "schemaVersion": 1,
+  "season": "2627",
+  "seedRank": null
+}

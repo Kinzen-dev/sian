@@ -1,0 +1,25 @@
+{
+  "brier": 0.31759999999999994,
+  "guruId": "claude-fable-5-1",
+  "late": false,
+  "logLoss": 0.616186139423817,
+  "marketFavourite": null,
+  "matchId": "epl-2627-r03-ars-che",
+  "points": {
+    "btts": 0.5,
+    "exact": 2,
+    "ou": 0.5,
+    "outcome": 1,
+    "total": 4,
+    "upset": 0
+  },
+  "result": {
+    "away": 1,
+    "home": 2,
+    "outcome": "H"
+  },
+  "resultHash": "e2433ac3278279ac90b51abed3d4dd9057d9e1f66541ad9cdfd13762a30e5a43",
+  "schemaVersion": 1,
+  "scoredAt": "2026-09-06T19:42:34.593Z",
+  "void": null
+}
