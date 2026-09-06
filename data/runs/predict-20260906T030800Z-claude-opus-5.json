@@ -1,0 +1,24 @@
+{
+  "errors": [
+    "ucl-2627-r01-aek-las: analysis is 644 words; must be 250-600",
+    "ucl-2627-r01-clb-avl: analysis is 613 words; must be 250-600",
+    "ucl-2627-r01-lil-bet: analysis is 606 words; must be 250-600",
+    "ucl-2627-r01-rma-int: analysis is 611 words; must be 250-600",
+    "ucl-2627-r01-rma-int: analysis is 602 words; must be 250-600"
+  ],
+  "finishedAt": "2026-09-06T03:20:24.733Z",
+  "guruId": "claude-opus-5",
+  "harness": "claude-code-routine",
+  "mode": "predict",
+  "runId": "predict-20260906T030800Z-claude-opus-5",
+  "skipped": [],
+  "startedAt": "2026-09-06T03:08:00.406Z",
+  "submitted": [
+    "ucl-2627-r01-bvb-vil",
+    "ucl-2627-r01-por-mci",
+    "ucl-2627-r01-aek-las",
+    "ucl-2627-r01-clb-avl",
+    "ucl-2627-r01-lil-bet",
+    "ucl-2627-r01-rma-int"
+  ]
+}

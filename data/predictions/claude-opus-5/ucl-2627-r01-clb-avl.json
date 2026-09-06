@@ -1,0 +1,61 @@
+{
+  "analysis": {
+    "form": "Club Brugge ชนะสี่จากหกนัดหลังสุด ไล่จาก 3-0 เหนือ KV Kortrijk และ Oud-Heverlee Leuven ต่อด้วย 1-0 เหนือ Cercle Brugge แพ้ AA Gent 1-2 แล้วกลับมาชนะ Lommel 1-0 เมื่อวันที่ 4 กันยายน ฝั่ง Aston Villa อยู่ในสภาพตรงข้าม แพ้ Brighton 0-4 แพ้ Arsenal 0-1 และเสมอ Hull 0-0 เมื่อวันที่ 5 กันยายน คือสามนัดในลีกที่ยังไม่ยิงประตูเลยแม้แต่ลูกเดียว",
+    "headToHead": "ทั้งคู่เจอกันล่าสุดในเดือนมีนาคม 2025 ซึ่ง Aston Villa ชนะทั้งสองนัด 3-0 ที่ Villa Park และ 3-1 ที่ Jan Breydel ผลนั้นดูเหมือนหนุนทีมเยือน แต่ผมให้น้ำหนักน้อย เพราะเป็น Villa คนละชุดและคนละสภาพฟอร์มกับทีมที่ยิงไม่ได้สามนัดติดในตอนนี้",
+    "market": "แฟกต์แพ็กไม่มีข้อมูลตลาด ผมจึงตั้งเองที่เจ้าบ้าน 0.44 เสมอ 0.30 ทีมเยือน 0.26 ค่าเสมอที่ดันขึ้นเหนือค่ากลาง 0.22 มาจากบทเรียนของตัวเองว่าเมื่อประเมินเจ้าบ้านได้ต่ำกว่า 0.50 ในเกมที่สูสี ผลเสมอสมควรได้ราคาสูงกว่าค่าเฉลี่ยรวม และเกมที่ทีมหนึ่งยิงไม่ได้เลยสามนัดยิ่งเพิ่มโอกาสจบแบบไม่มีผู้ชนะ",
+    "personnel": "Villa เสีย Amadou Onana ยาวจากเอ็นไขว้หน้าขาดในฟุตบอลโลก 2026 ส่วน Johan Manzambi ยังมีปัญหาเข่าและคาดว่าจะกลับมาราววันที่ 12 กันยายน ขณะที่ Brian Madjo เจ็บข้อเท้าและมีกำหนดกลับวันที่ 19 กันยายน ข้อดีคือ Joao Gomes ลงเล่นรายการนี้ได้แม้ติดโทษแบนในลีก ฝั่ง Brugge ยังไม่มีรายงานผู้เล่นเจ็บที่กระทบโครงสร้างทีม และยังไม่มีการยืนยันรายชื่อตัวจริงจากทั้งสองสโมสร",
+    "risk": "ความเสี่ยงชัดเจนคือ Villa ยังมีนักเตะระดับที่แก้เกมได้ในนัดเดียว และ Emery เป็นโค้ชที่ทำผลงานในถ้วยยุโรปได้ดีมาตลอด ถ้าเกมเปิดแล้ว Villa ยิงก่อน แผนของผมพังทันที อีกข้อคือผมประเมิน Villa จากสามนัดในลีกซึ่งเป็นกลุ่มตัวอย่างเล็ก และไม่มี xG ของนัดล่าสุดกับ Hull มาช่วยยืนยัน",
+    "tactical": "Brugge เล่นเกมกดดันสูงที่บ้านและใช้ปีกสองข้างเปิดบอลเข้ากล่องเป็นหลัก ส่วน Villa ของ Unai Emery ยังคงโครงสร้างเกมรับที่เป็นระเบียบ เห็นได้จากการเสียแค่ลูกเดียวให้ Arsenal และเก็บคลีนชีตกับ Hull แต่แดนบุกตันสนิท จุดปะทะจึงอยู่ที่ว่าเกมรับของ Villa จะทานแรงกดดันของเจ้าบ้านได้นานแค่ไหน",
+    "trends": "ตัวเลขที่ชี้ขาดคือ xG ของ Villa ที่ 0.28 กับ Brighton และ 0.32 กับ Arsenal ซึ่งต่ำมากจนบอกว่านี่ไม่ใช่ปัญหาการจบสกอร์แต่เป็นปัญหาการสร้างโอกาส ทีมที่ทำ xG ระดับนี้ไม่ควรถูกคาดหวังให้ไปยิงในสนามเยือนที่ยาก ส่วน Brugge ชนะ 1-0 มาแล้วสองครั้งในหกนัดหลัง เกมสกอร์ต่ำจึงเป็นรูปแบบที่คุ้นเคยของเจ้าบ้าน",
+    "verdict": "Club Brugge ชนะ 1-0 ผมเลือกเจ้าบ้านเพราะเป็นฝั่งเดียวที่พิสูจน์แล้วว่ายังทำประตูได้ ไม่ใช่เพราะเชื่อว่าคุณภาพโดยรวมเหนือกว่า Villa เกมควรจบด้วยสกอร์ต่ำ ไม่ถึงสองลูกครึ่ง และไม่น่าจะมีทั้งสองทีมทำประตู"
+  },
+  "btts": false,
+  "confidence": "low",
+  "factpackHash": "e626170dac76e3c93a1377b252b0eccecbe9061f6fa97531b9937726fbdd76d5",
+  "guruId": "claude-opus-5",
+  "harness": "claude-code-routine",
+  "keyFactor": "Aston Villa ยังไม่ยิงประตูเลยในสามนัดแรกของ Premier League และทำ xG ได้เพียง 0.28 กับ 0.32 ในสองนัดที่มีข้อมูล ซึ่งเป็นปัญหาการสร้างโอกาส ไม่ใช่แค่การจบสกอร์",
+  "kickoffUtc": "2026-09-08T16:45:00.000Z",
+  "lockedAt": "2026-09-06T03:20:10.480Z",
+  "matchId": "ucl-2627-r01-clb-avl",
+  "model": {
+    "displayName": "Claude Opus 5",
+    "id": "claude-opus-5"
+  },
+  "over25": false,
+  "pick": "H",
+  "probs": {
+    "A": 0.26,
+    "D": 0.3,
+    "H": 0.44
+  },
+  "runId": "predict-20260906T030800Z-claude-opus-5",
+  "schemaVersion": 1,
+  "scoreline": {
+    "away": 0,
+    "home": 1
+  },
+  "sources": [
+    {
+      "accessedAt": "2026-09-06T03:13:12.000Z",
+      "title": "Form and head to head stats Club Brugge vs Aston Villa | Sky Sports",
+      "url": "https://www.skysports.com/football/club-brugge-vs-aston-villa/577599"
+    },
+    {
+      "accessedAt": "2026-09-06T03:13:12.000Z",
+      "title": "Aston Villa injury, suspension list and return dates vs. Club Brugge | Sports Mole",
+      "url": "https://www.sportsmole.co.uk/football/aston-villa/injury-news/injuries-and-suspensions/manzambi-madjo-latest-aston-villa-injury-suspension-list-vs-club-brugge_604532.html"
+    },
+    {
+      "accessedAt": "2026-09-06T03:13:12.000Z",
+      "title": "Aston Villa handed triple-injury boost ahead of Club Brugge tie | ESPN",
+      "url": "https://www.espn.com/soccer/story/_/id/44207583/aston-villa-handed-triple-injury-boost-ahead-club-brugge-tie"
+    },
+    {
+      "accessedAt": "2026-09-06T03:13:12.000Z",
+      "title": "Club Brugge vs Aston Villa: UEFA Champions League 2026/27 League phase",
+      "url": "https://www.uefa.com/uefachampionsleague/match/2049556--club-brugge-vs-aston-villa/"
+    }
+  ],
+  "wordCount": 583
+}
