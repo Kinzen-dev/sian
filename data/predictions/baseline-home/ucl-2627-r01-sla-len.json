@@ -1,0 +1,19 @@
+{
+  "btts": true,
+  "factpackHash": "f35b57d7f68a9ea9409022f0ccb8041ef5459e0be4471dc2e0eb1bd6fd4211d1",
+  "guruId": "baseline-home",
+  "kickoffUtc": "2026-09-10T19:00:00.000Z",
+  "kind": "baseline",
+  "lockedAt": "2026-09-07T20:53:17.818Z",
+  "matchId": "ucl-2627-r01-sla-len",
+  "note": "always home, league base rates",
+  "over25": true,
+  "pick": "H",
+  "probs": {
+    "A": 0.3,
+    "D": 0.22,
+    "H": 0.48
+  },
+  "schemaVersion": 1,
+  "scoreline": null
+}
