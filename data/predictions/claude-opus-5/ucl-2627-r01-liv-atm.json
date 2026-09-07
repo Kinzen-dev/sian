@@ -1,0 +1,61 @@
+{
+  "analysis": {
+    "form": "Liverpool เก็บห้าแต้มจากสามนัดแรกของ Premier League เสมอ Newcastle 2-2 นอกบ้าน เสมอ Nottingham Forest 2-2 ในบ้าน แล้วชนะ Ipswich 2-0 นอกบ้านเมื่อวันที่ 4 กันยายน ค่า xG บอกว่าเกมกับ Newcastle ทีมเหนือกว่าชัดเจนที่ 2.98 ต่อ 1.57 แต่เกมกับ Forest กลับเป็นฝ่ายถูกกดที่ 1.75 ต่อ 2.30 ฝั่ง Atletico Madrid ชนะ Malaga 2-0 เสมอ Villarreal 2-2 ชนะ Sevilla 3-1 แล้วแพ้ Athletic Club 0-3 เมื่อวันที่ 5 กันยายน",
+    "headToHead": "แฟกต์แพ็กไม่มีสถิติการพบกัน จากการค้นข้อมูลภายนอก สองทีมพบกันในรอบลีกเฟสฤดูกาลก่อนที่ Anfield และเจ้าบ้านชนะ 3-2 โดยขึ้นนำ 2-0 ตั้งแต่หกนาทีแรกก่อนถูกไล่ตีเสมอ แล้วได้ประตูชัยช่วงทดเวลา เกมนั้นบอกว่าเจ้าบ้านออกตัวแรงได้ และทีมเยือนไม่ยอมแพ้ในเกมลักษณะนี้",
+    "market": "ไม่มีข้อมูลตลาดในแฟกต์แพ็ก ผมให้เจ้าบ้าน 0.49 ใกล้เคียงค่าพื้นฐาน 0.48 และให้ผลเสมอสูงถึง 0.30 นี่คือจุดที่ผมน่าจะต่ำกว่าความเห็นทั่วไปซึ่งมักยกทีมเจ้าบ้านเป็นต่อชัดเจน เหตุผลคือทีมกำลังปรับตัวกับกุนซือใหม่และแนวรับยังไม่นิ่ง ผมทำตามบทเรียนของตัวเองที่ว่าเมื่อประเมินเจ้าบ้านต่ำกว่า 0.50 ต้องให้ผลเสมอไม่น้อยกว่า 0.30",
+    "personnel": "Liverpool ไม่มี Conor Bradley, Giovanni Leoni, Joe Gomez, Federico Chiesa และ Hugo Ekitike ซึ่งกระทบทั้งแบ็กขวาและตัวเลือกแนวรุก ฝั่ง Atletico ขาด Alexander Sorloth จากอาการกล้ามเนื้อ Arnau Ortiz ติดโทษแบน ส่วน Alex Baena มีอาการกล้ามเนื้อระดับเบาที่สโมสรระบุว่าพักราวสองสัปดาห์ จึงน่าจะยังไม่พร้อม รายชื่อตัวจริงทั้งหมดเป็นการคาดการณ์",
+    "risk": "ความเสี่ยงหลักคือผลเสมอ ซึ่งผมให้ไว้ 0.30 และเป็นผลลัพธ์ที่เป็นไปได้จริงมาก ทีมของ Simeone เก่งที่สุดเวลาถูกมองว่าเสียเปรียบ และเพิ่งเจ็บตัวจากการแพ้ 0-3 ซึ่งมักตามด้วยเกมรับที่รัดกุมขึ้น ถ้าเจ้าบ้านยิงไม่ได้ก่อนจบครึ่งแรก โอกาสจบเสมอจะสูงกว่าที่ตัวเลขของผมบอก",
+    "tactical": "บริบทใหม่ที่สำคัญที่สุดคือ Liverpool เปลี่ยนกุนซือ Arne Slot ออกไปเมื่อสิ้นฤดูกาลก่อน และ Andoni Iraola เข้ามาคุมทีม เกมของ Iraola เน้นการกดดันตัวต่อตัวสูงและเปลี่ยนเกมเร็วในแนวตั้ง ซึ่งเป็นรูปแบบที่ Atletico ของ Diego Simeone รับมือได้ดีเมื่อมีเวลาจัดบล็อก จุดปะทะจึงอยู่ที่จังหวะแรกหลังเสียบอล ถ้าเจ้าบ้านบีบคืนได้ทันทีเกมจะเล่นในแดนทีมเยือนตลอด ถ้าไม่ได้ Atletico จะได้พื้นที่สวนกลับที่พวกเขาต้องการพอดี",
+    "trends": "ทั้งสองทีมเสียประตูง่ายในช่วงนี้ เจ้าบ้านเสียสี่ลูกจากสามนัดลีก ทีมเยือนเพิ่งเสียสามลูกในนัดเดียว ค่าพื้นฐาน UCL ให้ over 2.5 ที่ 0.60 และ btts 0.55 ผมให้ทั้งสองรายการเหนือค่ากลางเล็กน้อย เพราะโครงเกมของทั้งคู่ยังไม่นิ่งพอจะคาดหวังเกมที่ปิดสนิท",
+    "verdict": "Liverpool ชนะ 2-1 บรรยากาศของนัดเปิดรายการที่ Anfield บวกกับความเร็วในแนวตั้งของทีมชุดนี้เพียงพอจะเจาะบล็อกของทีมเยือนได้สองครั้ง แต่ผมไม่คาดหวังเกมที่ขาด และเชื่อว่า Atletico จะได้ประตูจากลูกตั้งเตะหรือจังหวะสวนกลับ"
+  },
+  "btts": true,
+  "confidence": "mid",
+  "factpackHash": "04f16084ed3eb1248b500933eab391f20a0dfdeec071016f63e85176f8a452d6",
+  "guruId": "claude-opus-5",
+  "harness": "claude-code-routine",
+  "keyFactor": "Liverpool กำลังปรับตัวกับ Andoni Iraola และเสียประตูสี่ลูกจากสามนัดแรกของลีก ทำให้เกมนี้ใกล้เคียงกว่าที่ชื่อของ Anfield จะบอก",
+  "kickoffUtc": "2026-09-09T19:00:00.000Z",
+  "lockedAt": "2026-09-07T03:21:29.703Z",
+  "matchId": "ucl-2627-r01-liv-atm",
+  "model": {
+    "displayName": "Claude Opus 5",
+    "id": "claude-opus-5"
+  },
+  "over25": true,
+  "pick": "H",
+  "probs": {
+    "A": 0.21,
+    "D": 0.3,
+    "H": 0.49
+  },
+  "runId": "predict-20260907T030439Z-claude-opus-5",
+  "schemaVersion": 1,
+  "scoreline": {
+    "away": 1,
+    "home": 2
+  },
+  "sources": [
+    {
+      "accessedAt": "2026-09-07T03:14:00.000Z",
+      "title": "Liverpool vs Atletico Madrid: form, predicted lineups and unavailable players",
+      "url": "https://www.fotmob.com/matches/liverpool-vs-atletico-madrid/2uigag"
+    },
+    {
+      "accessedAt": "2026-09-07T03:14:00.000Z",
+      "title": "Liverpool FC appoint Andoni Iraola as new head coach",
+      "url": "https://www.liverpoolfc.com/news/liverpool-fc-appoint-andoni-iraola-new-head-coach"
+    },
+    {
+      "accessedAt": "2026-09-07T03:14:00.000Z",
+      "title": "Atletico suffer injury blow as Baena ruled out with low grade muscle injury",
+      "url": "https://www.fotmob.com/es/news/r3x13lzds6i1ag7wfafpxwqt-atletico-suffer-injury-blow-baena-ruled-out-low-grade-muscle-injury"
+    },
+    {
+      "accessedAt": "2026-09-07T03:14:00.000Z",
+      "title": "Liverpool 3-2 Atletico Madrid, another late winner",
+      "url": "https://www.liverpoolfc.com/news/arne-slot-press-conference-liverpool-3-2-atletico-another-late-winner-isak-and-wirtz-displays"
+    }
+  ],
+  "wordCount": 600
+}

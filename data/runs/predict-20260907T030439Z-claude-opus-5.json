@@ -1,0 +1,18 @@
+{
+  "errors": [],
+  "finishedAt": "2026-09-07T03:21:35.293Z",
+  "guruId": "claude-opus-5",
+  "harness": "claude-code-routine",
+  "mode": "predict",
+  "runId": "predict-20260907T030439Z-claude-opus-5",
+  "skipped": [],
+  "startedAt": "2026-09-07T03:04:39.615Z",
+  "submitted": [
+    "ucl-2627-r01-bar-fey",
+    "ucl-2627-r01-stu-vik",
+    "ucl-2627-r01-liv-atm",
+    "ucl-2627-r01-nap-ars",
+    "ucl-2627-r01-psg-slb",
+    "ucl-2627-r01-scp-gal"
+  ]
+}
