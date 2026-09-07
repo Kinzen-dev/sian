@@ -1,0 +1,61 @@
+{
+  "analysis": {
+    "form": "VfB Stuttgart เปิดฤดูกาล Bundesliga ด้วยการแพ้ Bayern Munich แล้วกลับมาชนะ FC Koln 4-1 ในบ้านนัดแรกของฤดูกาลที่ MHP Arena โดยได้ประตูจาก El Khannouss, Promel, Demirovic และ Vagnoman ฝั่ง Viking FK อยู่อันดับสองของ Eliteserien ด้วยฟอร์มที่ดีมากในลีกนอร์เวย์ ชนะสิบสี่ เสมอสอง แพ้สามจากสิบเก้านัด คิดเป็นอัตราชนะราวร้อยละเจ็ดสิบสี่ และเพิ่งลงเล่นกับ Sandefjord เมื่อวันที่ 4 กันยายน",
+    "headToHead": "สองทีมไม่เคยพบกันมาก่อน นี่คือการเจอกันครั้งแรก และเป็นนัดแรกของ Viking ในรอบลีกเฟสของ Champions League ในประวัติศาสตร์สโมสร แฟกต์แพ็กไม่มีทั้งสถิติการพบกันและค่า xG สำหรับรายการนี้ ข้อมูลทั้งหมดจึงมาจากงานวิจัยภายนอก",
+    "market": "ไม่มีข้อมูลตลาดในแฟกต์แพ็ก ผมให้เจ้าบ้าน 0.72 สูงกว่าค่าพื้นฐานมาก และให้ทีมเยือนเพียง 0.11 จุดที่ผมอาจต่างจากความเห็นทั่วไปคือผมไม่ลดค่า Stuttgart จากการแพ้ Bayern ในนัดเปิดฤดูกาล เพราะการแพ้ทีมแชมป์ไม่ใช่สัญญาณลบเมื่อวางคู่กับการชนะ Koln 4-1 ในบ้านนัดถัดมา",
+    "personnel": "รายงานก่อนหน้านี้ระบุว่า Hoeness ยังไม่มี Lorenz Assignon, Nikolas Nartey, Dennis Seimen, Dan-Axel Zagadou, Luca Jaquez, Leo Sauer, Justin Diehl และ Jeremy Arevalo แต่เป็นข้อมูลจากเกมลีกก่อนหน้า ยังไม่มีการยืนยันสถานะสำหรับนัดนี้ ฝั่ง Viking ไม่มีรายงานผู้เล่นเจ็บสำคัญที่ผมยืนยันได้จากแหล่งภาษาอังกฤษ ผมจึงไม่นำผลกระทบด้านตัวผู้เล่นของทีมเยือนมาคิด รายชื่อตัวจริงทั้งสองฝั่งยังไม่ได้รับการยืนยัน",
+    "risk": "ความเสี่ยงคือ Viking ไม่ใช่ทีมอ่อน พวกเขาชนะเกินเจ็ดสิบเปอร์เซ็นต์ของนัดที่ลงเล่นในฤดูกาลนี้และกำลังอยู่ช่วงกลางฤดูกาลของลีกนอร์เวย์ซึ่งความฟิตขึ้นสูงสุด ขณะที่ Stuttgart เพิ่งเล่นไปสองนัด ความต่างของปฏิทินอาจทำให้ครึ่งแรกสูสีกว่าที่ตัวเลขบอก และหากเจ้าบ้านยังไม่ได้ประตูจนถึงชั่วโมงแรก ผลเสมอจะมีน้ำหนักขึ้นทันที",
+    "tactical": "Stuttgart ของ Sebastian Hoeness เล่นเกมกดดันสูงและใช้ปีกเจาะริมเส้นเป็นทางหลัก โดยมี Demirovic เป็นจุดพักบอลในกรอบเขตโทษ ส่วน Viking เล่นกะทัดรัด เน้นบล็อกกลางที่ทรงตัวดีและอาศัยลูกตั้งเตะซึ่งเป็นอาวุธสำคัญของทีมในลีกนอร์เวย์ จุดปะทะคือความเร็วในการเปลี่ยนจากรับเป็นรุกของเจ้าบ้าน ถ้าทีมเยือนถอยต่ำเกินไปตั้งแต่ต้นเกม พื้นที่หน้ากรอบเขตโทษจะกลายเป็นสนามซ้อมของแดนกลางเจ้าบ้าน",
+    "trends": "ค่าพื้นฐาน UCL ให้เจ้าบ้าน 0.48 เสมอ 0.22 ทีมเยือน 0.30 over 2.5 ที่ 0.60 และ btts 0.55 ช่องว่างระดับลีกในนัดนี้กว้างที่สุดนัดหนึ่งของรอบ Bundesliga อยู่ในกลุ่มลีกชั้นนำของยุโรป ขณะที่ Eliteserien อยู่นอกกลุ่มนั้นมาก ทีมจากลีกเล็กมักตั้งรับลึกในนัดประเดิม ผมจึงให้ btts ต่ำกว่าค่ากลางชัดเจนแต่ยังให้ over 2.5 สูงกว่าค่ากลางเล็กน้อย",
+    "verdict": "Stuttgart ชนะ 3-0 เจ้าบ้านมีคุณภาพเหนือกว่าในเกือบทุกตำแหน่ง ได้เล่นในบ้าน และเพิ่งยิงสี่ประตูในนัดล่าสุด ผมคาดว่าเกมจะคลี่คลายหลังประตูแรก และ Viking ที่เดินทางไกลพร้อมประสบการณ์ระดับนี้เป็นศูนย์จะรักษาบล็อกไว้ไม่ครบเก้าสิบนาที"
+  },
+  "btts": false,
+  "confidence": "high",
+  "factpackHash": "31c0c1d078dbee483d6161c707fd9b359018c24b444c26c55c7aede94cc154d1",
+  "guruId": "claude-opus-5",
+  "harness": "claude-code-routine",
+  "keyFactor": "ช่องว่างระดับลีกกว้างที่สุดนัดหนึ่งของรอบนี้ และ Stuttgart เพิ่งชนะ FC Koln 4-1 ในบ้านด้วยเกมรุกที่มีผู้ทำประตูถึงสี่คน",
+  "kickoffUtc": "2026-09-09T16:45:00.000Z",
+  "lockedAt": "2026-09-07T03:21:29.036Z",
+  "matchId": "ucl-2627-r01-stu-vik",
+  "model": {
+    "displayName": "Claude Opus 5",
+    "id": "claude-opus-5"
+  },
+  "over25": true,
+  "pick": "H",
+  "probs": {
+    "A": 0.11,
+    "D": 0.17,
+    "H": 0.72
+  },
+  "runId": "predict-20260907T030439Z-claude-opus-5",
+  "schemaVersion": 1,
+  "scoreline": {
+    "away": 0,
+    "home": 3
+  },
+  "sources": [
+    {
+      "accessedAt": "2026-09-07T03:14:00.000Z",
+      "title": "UEFA Champions League Ansetzungen fuer den VfB in der Ligaphase",
+      "url": "https://www.vfb.de/en/vfb/latest/news/professionals/2627/uefa-champions-league-ansetzungen-fuer-den-vfb-in-ligaphase-/"
+    },
+    {
+      "accessedAt": "2026-09-07T03:14:00.000Z",
+      "title": "Bundesliga Matchday 2 results 2026/27",
+      "url": "https://www.bundesliga.com/en/bundesliga/matchday"
+    },
+    {
+      "accessedAt": "2026-09-07T03:14:00.000Z",
+      "title": "Viking FK stats, form and season record",
+      "url": "https://footystats.org/clubs/viking-fk-335"
+    },
+    {
+      "accessedAt": "2026-09-07T03:14:00.000Z",
+      "title": "VfB Stuttgart vs Viking FK live: alle Infos zum Champions League Duell",
+      "url": "https://ran.joyn.de/sports/fussball/champions-league/vfb-stuttgart-vs-viking-fk-live-alle-infos-zum-champions-league-duell-im-tv-stream-und-liveticker-181921"
+    }
+  ],
+  "wordCount": 597
+}
