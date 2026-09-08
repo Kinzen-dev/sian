@@ -1,0 +1,61 @@
+{
+  "analysis": {
+    "form": "Como เก็บเจ็ดแต้มจากสามนัดแรกใน Serie A ยืนอันดับสาม ล่าสุดบุกถล่ม Genoa 4-1 ก่อนหน้านั้นชนะ Napoli 2-1 และเสมอ Udinese 1-1 ฝั่ง RB Leipzig เปิดตัวใต้ Martin Demichelis ด้วยการถล่ม Eintracht Trier 6-0 ใน DFB-Pokal และชนะ Monchengladbach 3-0 ในนัดเปิดสนาม Bundesliga แต่เพิ่งแพ้ Werder Bremen 1-3 เมื่อสุดสัปดาห์ที่ผ่านมา",
+    "headToHead": "สองทีมไม่เคยพบกันมาก่อน Como ลงเล่นถ้วยยุโรปเป็นครั้งแรกในประวัติศาสตร์สโมสร ส่วน Leipzig มีประสบการณ์รอบแบ่งกลุ่มหลายฤดูกาลรวมถึงรอบน็อกเอาต์ ช่องว่างด้านประสบการณ์คือข้อได้เปรียบเดียวที่ทีมเยือนถือไว้ชัดเจนในคู่นี้ แต่มันไม่ได้ชดเชยรายชื่อผู้เล่นเจ็บที่ยาวกว่ากันอย่างมาก",
+    "market": "ไม่มีข้อมูลตลาดในแฟกต์แพ็ก ผมประเมินเองว่าคู่นี้สูสีที่สุดในหกคู่ของวันนี้ จึงให้เจ้าบ้าน 0.41 เสมอ 0.30 และทีมเยือน 0.29 ค่าฐานเจ้าบ้านของรายการอยู่ที่ 0.48 ผมกดลงเพราะ Como ยังไม่มีประสบการณ์ยุโรปเลยแม้แต่นัดเดียว แต่ยังให้เป็นต่อเล็กน้อยเพราะฟอร์มและกำลังพลดีกว่าจริง",
+    "personnel": "Leipzig ขาด Christoph Baumgartner, Rocco Reitz, Romulo และ Assan Ouedraogo จากอาการบาดเจ็บ ส่วน Castello Lukeba กับ Brajan Gruda ยังไม่แน่นอนหลังพลาดเกมกับ Werder การขาด Lukeba กระทบแนวรับโดยตรง ฝั่ง Como ขาดเพียง Jayden Addai ที่เอ็นร้อยหวายขาดตั้งแต่เดือนกุมภาพันธ์ และ Moise Kean มีโอกาสลงสนามเต็มตัวเป็นนัดแรกให้สโมสร",
+    "risk": "ความเสี่ยงคือประสบการณ์ คืนแรกในถ้วยยุโรปของสโมสรอาจทำให้ผู้เล่นเกร็งและเสียประตูแรกจากความผิดพลาดง่ายๆ ถ้า Lukeba กับ Gruda ฟิตทันลงสนาม Leipzig จะแข็งขึ้นทันทีและผมจะยกทีมเยือนขึ้นเป็นตัวเต็ง นี่คือคู่เดียวในรอบนี้ที่ผมพร้อมยอมรับล่วงหน้าว่าอาจอ่านผิด",
+    "tactical": "Cesc Fabregas ให้ทีมครองบอลและกดดันสูง โดยมี Nico Paz เป็นตัวเชื่อมระหว่างแดนกลางกับกองหน้า และ Baturina กับ Diao เติมความกว้าง จุดปะทะคือแดนกลางที่ Leipzig ขาดตัวเลือกและต้องพึ่ง Seiwald กับ Banzuzi คุมพื้นที่ ถ้า Como กดดันเกมออกบอลของทีมเยือนได้ตั้งแต่ต้น สนาม Sinigaglia ที่แคบและอัดแน่นจะทำให้ Leipzig อึดอัดกว่าปกติ",
+    "trends": "Como ยิงได้ในทุกนัดของฤดูกาลนี้และเอาชนะ Napoli ได้ ซึ่งเป็นผลที่มีน้ำหนักจริงไม่ใช่ผลฟลุก ส่วน Leipzig เสียสามประตูในนัดล่าสุดและมีปัญหาเมื่อโดนกดดันสูงในแดนตัวเอง แฟกต์แพ็กไม่มี xG สำหรับรายการนี้ ผมจึงอ้างผลจริงและคุณภาพคู่แข่งแทน โดยยอมรับตรงไปตรงมาว่าสามนัดคือกลุ่มตัวอย่างที่เล็กมาก",
+    "verdict": "Como ชนะ 2-1 ผมเลือกเจ้าบ้านเพราะมีตัวครบกว่า ฟอร์มดีกว่า และได้สนามเล็กที่กดดันทีมเยือน แต่ผมไม่ปิดบังว่านี่คือการฟันธงที่บางที่สุดในรอบนี้ ค่าเสมอ 0.30 และค่าทีมเยือน 0.29 สะท้อนว่าผมมองเกมนี้ก้ำกึ่งจริง ไม่ได้มั่นใจเกินหลักฐาน"
+  },
+  "btts": true,
+  "confidence": "low",
+  "factpackHash": "184d7d6a597c010e0114ba483783b7efd919594adcce6d75cbfa5311f6d8e7f6",
+  "guruId": "claude-opus-5",
+  "harness": "claude-code-routine",
+  "keyFactor": "Como มีตัวผู้เล่นครบกว่าและฟอร์มดีกว่า ขณะที่ RB Leipzig ขาดอย่างน้อยสี่คนแน่นอนและยังไม่ชัดเจนเรื่อง Castello Lukeba ในแนวรับ",
+  "kickoffUtc": "2026-09-10T19:00:00.000Z",
+  "lockedAt": "2026-09-08T03:16:17.666Z",
+  "matchId": "ucl-2627-r01-com-rbl",
+  "model": {
+    "displayName": "Claude Opus 5",
+    "id": "claude-opus-5"
+  },
+  "over25": true,
+  "pick": "H",
+  "probs": {
+    "A": 0.29,
+    "D": 0.3,
+    "H": 0.41
+  },
+  "runId": "predict-20260908T030249Z-claude-opus-5",
+  "schemaVersion": 1,
+  "scoreline": {
+    "away": 1,
+    "home": 2
+  },
+  "sources": [
+    {
+      "accessedAt": "2026-09-08T03:04:00Z",
+      "title": "Como vs RB Leipzig preview: Team news and predicted lineups (BuliNews)",
+      "url": "https://bulinews.com/como-leipzig-preview-team-news-predicted-lineups"
+    },
+    {
+      "accessedAt": "2026-09-08T03:05:00Z",
+      "title": "Como vs RB Leipzig: live score, predicted lineups and H2H stats (FotMob)",
+      "url": "https://www.fotmob.com/matches/como-vs-rb-leipzig/86a1nu8"
+    },
+    {
+      "accessedAt": "2026-09-08T03:03:00Z",
+      "title": "Como vs RB Leipzig preview: Team news and predicted lineups (Yahoo Sports)",
+      "url": "https://ca.sports.yahoo.com/news/como-vs-rb-leipzig-preview-105800261.html"
+    },
+    {
+      "accessedAt": "2026-09-08T03:03:00Z",
+      "title": "Champions League 2026/27 predicted lineups: Projected starting XIs for Matchday 1 (OneFootball)",
+      "url": "https://onefootball.com/en/news/champions-league-202627-predicted-lineups-projected-starting-xis-for-matchday-1-43416623"
+    }
+  ],
+  "wordCount": 548
+}

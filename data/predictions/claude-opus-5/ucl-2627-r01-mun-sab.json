@@ -1,0 +1,61 @@
+{
+  "analysis": {
+    "form": "Manchester United ยังไม่นิ่ง เปิดฤดูกาลด้วยการแพ้ Hull 0-2 แล้วถล่ม Ipswich 5-2 ก่อนไปเสมอ Everton 2-2 เมื่อ 6 กันยายน ฝั่ง Sabah ผ่านรอบคัดเลือกมาสามรอบ ชนะ AGF Aarhus 4-0 และ Hapoel Beer-Sheva 5-2 ในบ้าน แต่แพ้ทั้งสองนัดที่ต้องออกไปเยือนด้วยสกอร์ 1-2 เท่ากันทั้งคู่",
+    "headToHead": "สองทีมไม่เคยพบกัน Sabah เป็นสโมสรจากอาเซอร์ไบจานทีมที่สองที่เข้าถึงรอบลีกของรายการนี้ต่อจาก Qarabag ส่วน United กลับมาเล่นถ้วยยุโรปหลังจากไม่ได้ไปเลยเมื่อฤดูกาลก่อน สถิติที่มีค่าที่สุดในการอ่านเกมนี้คือผลเกมเยือนของ Sabah ในรอบคัดเลือก ซึ่งแพ้ทั้งสองครั้งกับคู่แข่งที่อ่อนกว่า United หลายระดับ",
+    "market": "ไม่มีข้อมูลตลาดในแฟกต์แพ็ก ผมให้เจ้าบ้าน 0.85 ซึ่งเป็นค่าสูงสุดที่ผมตั้งในรอบนี้ ช่องว่างของคุณภาพผู้เล่นและงบประมาณกว้างมาก และ Sabah แพ้ทั้งสองนัดเยือนในรอบคัดเลือก ผมไม่ดันไปเกิน 0.90 เพราะเกมรับเจ้าบ้านยังพังต่อเนื่อง และเกมนัดแรกของรอบลีกมักมีจังหวะสะดุด",
+    "personnel": "United ขาด Manuel Ugarte จากเอ็นไขว้ขาด Matthijs de Ligt เจ็บหลัง Carlos Baleba เจ็บข้อเท้า Amad Diallo มีปัญหาบาดเจ็บ และ Tom Heaton เจ็บช่องท้อง แนวรับกลางจึงเหลือ Yoro กับ Martinez เป็นคู่หลัก คาดว่า Sesko ยืนเป้าโดยมี Mainoo กับ Tielemans คุมกลาง ฝั่ง Sabah ไม่มีรายงานผู้เล่นบาดเจ็บที่ใช้การไม่ได้",
+    "risk": "ความเสี่ยงคือถ้า Carrick หมุนตัวผู้เล่นหนักเพราะโปรแกรมลีก เกมอาจฝืดและจบแค่ 1-0 หรือ 2-0 ซึ่งทำให้ BTTS พลาด อีกด้านหนึ่ง ถ้า United ระเบิดฟอร์มแบบเกมกับ Ipswich สกอร์อาจไปถึงห้าลูก สกอร์เป๊ะจึงเป็นส่วนที่ผมมั่นใจน้อยที่สุด แต่ผลการแข่งขันคือส่วนที่มั่นใจที่สุดในรอบนี้",
+    "tactical": "Michael Carrick วาง 4-2-3-1 โดยมี Bruno Fernandes เป็นตัวทำเกมหลังกองหน้า และใช้ Mbeumo กับ Dorgu เปิดความกว้างสองข้าง Sabah จะตั้งบล็อกต่ำและหวังสวนกลับผ่าน Veljko Simic ที่ยิงหกประตูในรอบคัดเลือก จุดปะทะอยู่ที่ว่า United เจาะบล็อกต่ำได้เร็วแค่ไหน ถ้าได้ประตูก่อนจบครึ่งแรก เกมจะขาดตั้งแต่นั้น",
+    "trends": "United เสียอย่างน้อยสองประตูในทุกนัดลีกของฤดูกาลนี้ ซึ่งเป็นเหตุผลตรงที่ผมไม่เลือกสกอร์ชนะห่างลูกเดียวและไม่เลือกคลีนชีต ในเกมรุกพวกเขาทำ xG 4.56 ใส่ Ipswich และ 1.83 ที่ Hull ตามข้อมูลในแฟกต์แพ็ก แปลว่าสร้างโอกาสได้เยอะแม้ผลจะสวิง เจอบล็อกต่ำระดับนี้ ตัวเลขนั้นควรแปลงเป็นประตูได้",
+    "verdict": "Manchester United ชนะ 3-1 คุณภาพในพื้นที่สุดท้ายต่างกันเกินไปจนผลลัพธ์อื่นเป็นเรื่องยาก ผมคาดว่าเจ้าบ้านจะยิงได้สองลูกก่อนหมดครึ่งแรกแล้วผ่อนจังหวะ และ Sabah จะได้หนึ่งลูกจากการสวนกลับหรือลูกตั้งเตะ ตามรูปแบบที่ United เสียประตูมาตลอดฤดูกาล"
+  },
+  "btts": true,
+  "confidence": "high",
+  "factpackHash": "9a8cb5b7f177effd062a5efc270421a51140260c72cf80138be934cc750a908d",
+  "guruId": "claude-opus-5",
+  "harness": "claude-code-routine",
+  "keyFactor": "ช่องว่างคุณภาพในพื้นที่สุดท้ายกว้างมาก แต่ Manchester United เสียอย่างน้อยสองประตูในทุกนัดลีกฤดูกาลนี้ ผมจึงไม่เลือกทั้งคลีนชีตและชัยชนะห่างลูกเดียว",
+  "kickoffUtc": "2026-09-10T19:00:00.000Z",
+  "lockedAt": "2026-09-08T03:16:18.540Z",
+  "matchId": "ucl-2627-r01-mun-sab",
+  "model": {
+    "displayName": "Claude Opus 5",
+    "id": "claude-opus-5"
+  },
+  "over25": true,
+  "pick": "H",
+  "probs": {
+    "A": 0.05,
+    "D": 0.1,
+    "H": 0.85
+  },
+  "runId": "predict-20260908T030249Z-claude-opus-5",
+  "schemaVersion": 1,
+  "scoreline": {
+    "away": 1,
+    "home": 3
+  },
+  "sources": [
+    {
+      "accessedAt": "2026-09-08T03:05:00Z",
+      "title": "Man United vs Sabah FK: live score, predicted lineups and H2H stats (FotMob)",
+      "url": "https://www.fotmob.com/matches/manchester-united-vs-sabah-fk/5wn180eq"
+    },
+    {
+      "accessedAt": "2026-09-08T03:06:00Z",
+      "title": "Form and head to head stats: Manchester United vs Sabah (Sky Sports)",
+      "url": "https://www.skysports.com/football/manchester-united-vs-sabah/577612"
+    },
+    {
+      "accessedAt": "2026-09-08T03:03:00Z",
+      "title": "Manchester United-Sabah FK, Champions League 2026/2027 Statistical Preview (WhoScored)",
+      "url": "https://www.whoscored.com/matches/2029172/preview/europe-champions-league-2026-2027-manchester-united-sabah-fk"
+    },
+    {
+      "accessedAt": "2026-09-08T03:01:00Z",
+      "title": "Champions League league phase fixtures by team (UEFA.com)",
+      "url": "https://www.uefa.com/uefachampionsleague/news/02a8-2176fa83582b-d99f0b27f405-1000--champions-league-league-phase-fixtures-by-team/"
+    }
+  ],
+  "wordCount": 553
+}

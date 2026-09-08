@@ -1,0 +1,61 @@
+{
+  "analysis": {
+    "form": "Bayern ชนะสี่จากห้านัดหลัง ยิง 5-1 ใส่ Stuttgart, 4-2 ใส่ Heidenheim, 4-1 ใส่ Osnabruck ใน DFB-Pokal และเฉือน Dortmund 2-1 คว้า DFL-Supercup สะดุดเดียวคือเสมอ Schalke 0-0 เมื่อ 5 กันยายน ส่วน Bodo/Glimt ชนะห้านัดรวด ยิง 15 เสีย 7 ชนะ Fredrikstad 2-1 และ Rosenborg 4-2 พร้อมกำจัด NEC ในรอบคัดเลือก",
+    "headToHead": "สองทีมไม่เคยพบกันมาก่อนในเวทีสโมสรยุโรป จึงไม่มีสถิติตรงให้อ้าง สิ่งที่พอใช้เทียบคือฤดูกาลก่อน Bodo/Glimt เข้าถึงรอบ 16 ทีมของรายการนี้ ซึ่งพิสูจน์ว่าไม่ใช่ทีมที่มาเป็นไม้ประดับ แต่ผลงานเกมเยือนของพวกเขาอ่อนกว่าเกมเหย้าที่ Aspmyra อย่างมีนัยสำคัญ และคืนนี้คือเกมเยือนที่หนักที่สุดเท่าที่เคยเจอ",
+    "market": "แฟกต์แพ็กไม่มีข้อมูลตลาด ผมจึงตั้งราคาเอง โดยให้ Bayern เป็นต่อขาดที่ 0.83 ซึ่งสูงกว่าค่าฐานเจ้าบ้าน 0.48 มาก แต่สมเหตุสมผลเมื่อเทียบระดับงบประมาณ คุณภาพตัวสำรอง และสนาม ผมไม่ดันไปถึง 0.90 เพราะ Bodo/Glimt มีระบบที่ชัดเจนและเพิ่งพิสูจน์ตัวเองในรอบน็อกเอาต์เมื่อฤดูกาลก่อน",
+    "personnel": "Bayern ขาด Serge Gnabry จากอาการเจ็บกล้ามเนื้อต้นขาด้านใน รวมถึง Bryan Zaragoza และ Tarek Buchmann ส่วน Kim Min-jae กับ Sacha Boey ติดโทษแบน ข่าวดีคือ Harry Kane และ Michael Olise ได้พักในเกมกับ Schalke และ Jamal Musiala กลับมาลงสนามแล้ว ฝั่ง Bodo/Glimt ขาด Jostein Gundersen, Hakon Evjen, August Mikkelsen และ Magnus Riisnaes",
+    "risk": "ความเสี่ยงหลักคือถ้า Bayern ยิงได้เร็วแล้วผ่อนเกม สกอร์อาจจบที่สองประตูและทีมเยือนอาจยิงไม่ได้เลย ทำให้ทั้ง BTTS และสกอร์เป๊ะพลาดพร้อมกัน อีกข้อคือ Kane และ Olise เพิ่งกลับจากทัวร์นาเมนต์และถูกพักมาแล้วหนึ่งนัด ถ้าถูกจำกัดเวลาลงสนาม ความคมหน้าประตูจะลดลง",
+    "tactical": "Kompany ใช้แนวรับสูงและกดดันทันทีที่เสียบอล เจอกับ Bodo/Glimt ที่เล่น 4-3-3 เน้นบอลสั้นต่อจากแดนหลังแล้วสวนกลับด้วยความเร็วริมเส้น จุดปะทะคือพื้นที่หลังฟูลแบ็กของ Bayern ทีมนอร์เวย์ทำแบบนี้ได้ผลกับหลายทีมใหญ่ในสองฤดูกาลหลัง แต่ที่ Allianz Arena พวกเขาต้องรับแรงกดดันต่อเนื่องนานกว่าที่เคยเจอมาก",
+    "trends": "Bayern ยิงตั้งแต่สี่ประตูขึ้นไปในสามจากห้านัดหลัง และเกมเหย้าในรายการนี้ของพวกเขาแทบไม่เคยจบต่ำกว่าสามประตูรวม ฝั่ง Bodo/Glimt ยิงได้ทุกนัดในห้าเกมหลังเช่นกัน แต่เสียเฉลี่ยเกือบหนึ่งจุดห้าประตูต่อเกมในช่วงเดียวกัน เมื่อเจอเกมรุกระดับนี้ ตัวเลขนั้นมีแต่จะแย่ลง แฟกต์แพ็กไม่มี xG สำหรับรายการนี้",
+    "verdict": "Bayern ชนะ 3-1 เจ้าบ้านควรยิงได้ตั้งแต่ครึ่งแรกและควบคุมจังหวะเกมได้ตลอด ผมคาดว่าทีมเยือนจะได้ประตูปลอบใจจากจังหวะสวนกลับหรือลูกตั้งเตะ เพราะแนวรับ Bayern ที่ขาด Kim Min-jae จะเปิดช่องให้อย่างน้อยหนึ่งครั้งในเกมที่ดันขึ้นสูงตลอด"
+  },
+  "btts": true,
+  "confidence": "high",
+  "factpackHash": "15e636bf6e160ae604c10f5a81d8f75c5c5485964aaa4ab01fe3c16fb608e73a",
+  "guruId": "claude-opus-5",
+  "harness": "claude-code-routine",
+  "keyFactor": "ช่องว่างคุณภาพระหว่างเกมรุก Bayern ที่ยิงสี่ประตูขึ้นไปในสามจากห้านัดหลัง กับแนวรับ Bodo/Glimt ที่เสียเฉลี่ยเกือบหนึ่งจุดห้าลูกต่อเกมในช่วงเดียวกัน",
+  "kickoffUtc": "2026-09-10T19:00:00.000Z",
+  "lockedAt": "2026-09-08T03:16:16.638Z",
+  "matchId": "ucl-2627-r01-bay-bod",
+  "model": {
+    "displayName": "Claude Opus 5",
+    "id": "claude-opus-5"
+  },
+  "over25": true,
+  "pick": "H",
+  "probs": {
+    "A": 0.06,
+    "D": 0.11,
+    "H": 0.83
+  },
+  "runId": "predict-20260908T030249Z-claude-opus-5",
+  "schemaVersion": 1,
+  "scoreline": {
+    "away": 1,
+    "home": 3
+  },
+  "sources": [
+    {
+      "accessedAt": "2026-09-08T03:02:00Z",
+      "title": "Bayern Munich vs Bodo/Glimt preview: Team news and predicted lineups (Yahoo Sports)",
+      "url": "https://sports.yahoo.com/articles/bayern-munich-vs-bod-glimt-093700136.html"
+    },
+    {
+      "accessedAt": "2026-09-08T03:06:00Z",
+      "title": "Form and head to head stats: Bayern vs Bodo/Glimt (Sky Sports)",
+      "url": "https://www.skysports.com/football/bayern-munich-vs-bodo-glimt/577609"
+    },
+    {
+      "accessedAt": "2026-09-08T03:02:00Z",
+      "title": "Bayern Munich vs Bodo/Glimt Preview: Team News and Predicted Lineups (BuliNews)",
+      "url": "https://bulinews.com/bayern-munich-bodo/glimt-preview-team-news-predicted-lineups"
+    },
+    {
+      "accessedAt": "2026-09-08T03:07:00Z",
+      "title": "Bayern Munchen vs Bodo/Glimt, UEFA Champions League 2026/27 League phase (UEFA.com)",
+      "url": "https://www.uefa.com/uefachampionsleague/match/2049565--bayern-munchen-vs-bodo-glimt/"
+    }
+  ],
+  "wordCount": 556
+}

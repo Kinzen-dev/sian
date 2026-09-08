@@ -1,0 +1,61 @@
+{
+  "analysis": {
+    "form": "Slavia Praha ฟอร์มในประเทศดีมาก ชนะ Brno 4-0 ชนะดาร์บี้เหนือ Sparta Praha 3-0 เสมอ Bohemians 2-2 และยิงได้ต่อเนื่อง 14 นัดติดทุกรายการ ฝั่ง Lens สะดุดใน Ligue 1 แพ้ Lorient 0-1 และแพ้ Strasbourg 1-2 สองนัดติด แม้ก่อนหน้านั้นจะชนะ PSG 1-0 คว้า Trophee des Champions เมื่อ 16 สิงหาคม",
+    "headToHead": "เคยเจอกันครั้งเดียวใน UEFA Cup ฤดูกาล 1995/96 โดย Slavia ผ่านเข้ารอบด้วยผลรวม 1-0 เสมอที่ Prague แล้วไปชนะที่ Lens 1-0 นั่นคือสองนัดเดียวที่ Lens เคยพบทีมจากเช็กในเวทียุโรป นอกจากนี้ Slavia ชนะสี่จากหกนัดหลังสุดที่พบทีมฝรั่งเศสในบ้านตัวเอง ซึ่งเป็นสถิติที่ยังมีน้ำหนักอยู่",
+    "market": "ไม่มีข้อมูลตลาดในแฟกต์แพ็ก ผมตั้งเจ้าบ้าน 0.40 เสมอ 0.32 และทีมเยือน 0.28 ต่ำกว่าค่าฐานเจ้าบ้าน 0.48 เพราะประวัติในรายการนี้ของ Slavia แย่จริงและปฏิเสธไม่ได้ แต่ยังให้เป็นต่อเพราะฟอร์มปัจจุบันและกำลังพลดีกว่า ค่าเสมอที่สูงถึง 0.32 สะท้อนว่าทั้งสองทีมมีเหตุผลเชิงสถิติที่จะไม่ชนะ",
+    "personnel": "Lens คือทีมที่เสียกำลังพลหนักกว่า มีรายงานว่าขาดถึงเจ็ดคน รวม Udol, Titraoui, Nawrocki, Abdulhamid, Chavez, Baidoo และ Kadile ฝั่ง Slavia ขาด Youssoupha Sanyang, Tomas Holes และ Igoh Ogbu ซึ่งกระทบแดนกลางและแนวรับ แต่ยังน้อยกว่าทีมเยือนชัดเจน คาดว่า Markovic เฝ้าเสาและ Chory ยืนเป้าตามระบบเดิม",
+    "risk": "ความเสี่ยงชัดเจนคือสถิติ 19 นัดไร้ชัยชนะของ Slavia ในรายการนี้ไม่ได้เกิดขึ้นโดยบังเอิญทั้งหมด ทีมเช็กมักตันในเกมระดับนี้เมื่อเจอความเร็วและกำลังของทีมลีกใหญ่ ถ้า Lens ตั้งรับลึกแล้วรอสวนกลับด้วย Thauvin ผลเสมอคือทางออกที่ตรงกับสถิติของทั้งคู่มากที่สุด ผมจึงตั้งค่าเสมอไว้สูงถึง 0.32",
+    "tactical": "ทั้งสองทีมมีแนวโน้มใช้ระบบสามกองหลังและดันวิงแบ็กขึ้นสูง Slavia เน้นบอลตรงหา Chory เป็นเป้าและเก็บบอลสองจังหวะรอบกรอบเขตโทษ ส่วน Lens อาศัย Thauvin กับ Edouard ในการเปลี่ยนเกม จุดปะทะคือแดนกลางที่เล่นกันสองต่อสองและพื้นที่จะเปิดง่าย เกมนี้จึงมีแนวโน้มเป็นเกมเปิด ไม่ใช่เกมที่ปิดกันแน่นทั้งสองฝั่ง",
+    "trends": "สถิติระยะยาวของสองข้างขัดกันเอง Slavia ไม่ชนะเลยใน 15 นัดหลังของถ้วยยุโรป และไม่ชนะใน 19 นัดหลังของ Champions League รอบหลัก ส่วน Lens ไม่ชนะเกมเยือนยุโรปมา 16 นัด ผมให้น้ำหนักสถิติชุดนี้น้อยลง เพราะคู่แข่งที่ Slavia เจอในรอบลีกฤดูกาลก่อนแรงกว่า Lens อย่างชัดเจน",
+    "verdict": "Slavia Praha ชนะ 2-1 เจ้าบ้านสดกว่า มีตัวครบกว่า และ Eden Arena เป็นสนามที่ทีมฝรั่งเศสไม่เคยเล่นได้ง่าย ผมคาดว่า Lens จะยิงได้อย่างน้อยหนึ่งลูก เพราะไม่มีเกมรอบแบ่งกลุ่มของพวกเขาสักนัดใน 18 นัดที่จบแบบไม่มีประตูเกิดขึ้นเลย"
+  },
+  "btts": true,
+  "confidence": "low",
+  "factpackHash": "f35b57d7f68a9ea9409022f0ccb8041ef5459e0be4471dc2e0eb1bd6fd4211d1",
+  "guruId": "claude-opus-5",
+  "harness": "claude-code-routine",
+  "keyFactor": "Lens ขาดผู้เล่นถึงเจ็ดคนและแพ้สองนัดติดใน Ligue 1 ขณะที่ Slavia ยิงได้ต่อเนื่อง 14 นัดติดต่อกันและเพิ่งชนะดาร์บี้เหนือ Sparta Praha 3-0",
+  "kickoffUtc": "2026-09-10T19:00:00.000Z",
+  "lockedAt": "2026-09-08T03:16:19.462Z",
+  "matchId": "ucl-2627-r01-sla-len",
+  "model": {
+    "displayName": "Claude Opus 5",
+    "id": "claude-opus-5"
+  },
+  "over25": true,
+  "pick": "H",
+  "probs": {
+    "A": 0.28,
+    "D": 0.32,
+    "H": 0.4
+  },
+  "runId": "predict-20260908T030249Z-claude-opus-5",
+  "schemaVersion": 1,
+  "scoreline": {
+    "away": 1,
+    "home": 2
+  },
+  "sources": [
+    {
+      "accessedAt": "2026-09-08T03:04:00Z",
+      "title": "Champions League Matchday 1: Slavia Praha vs Lens facts (UEFA.com)",
+      "url": "https://www.uefa.com/uefachampionsleague/news/02a9-218375432a2e-1b4d397e430b-1000--champions-league-matchday-1-slavia-praha-vs-lens-facts/"
+    },
+    {
+      "accessedAt": "2026-09-08T03:05:00Z",
+      "title": "Slavia Prague vs Lens: live score, predicted lineups and H2H stats (FotMob)",
+      "url": "https://www.fotmob.com/matches/slavia-prague-vs-lens/27ty9c"
+    },
+    {
+      "accessedAt": "2026-09-08T03:06:00Z",
+      "title": "Form and head to head stats: Slavia Prague vs RC Lens (Sky Sports)",
+      "url": "https://www.skysports.com/football/slavia-prague-vs-rc-lens/577614"
+    },
+    {
+      "accessedAt": "2026-09-08T03:07:00Z",
+      "title": "Slavia Praha vs Lens, UEFA Champions League 2026/27 League phase (UEFA.com)",
+      "url": "https://www.uefa.com/uefachampionsleague/match/2049569--slavia-praha-vs-lens/"
+    }
+  ],
+  "wordCount": 543
+}
