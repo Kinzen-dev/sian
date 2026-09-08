@@ -1,0 +1,61 @@
+{
+  "analysis": {
+    "form": "PSV เปิดฤดูกาลได้ดุดัน เก็บ 13 แต้มจากห้านัดใน Eredivisie ชนะสี่เสมอหนึ่ง รวมถึงบุกชนะ Ajax 3-1 ถล่ม Utrecht 6-1 และ Groningen 5-1 ก่อนหน้านั้นเสมอ Fortuna Sittard 2-2 ฝั่ง Shakhtar มีฟอร์มชนะต่อเนื่องในลีกยูเครนและผ่านรอบคัดเลือกเข้ามาได้ แต่ระดับคู่แข่งที่เจอมาต่างจากที่กำลังจะเจอที่ Philips Stadion อย่างมีนัยสำคัญ",
+    "headToHead": "สองทีมเคยพบกันครั้งเดียวในถ้วยยุโรป เดือนพฤศจิกายน 2024 ที่ Philips Stadion โดย PSV ตามหลังสองประตูจาก Danylo Sikan และ Oleksandr Zubkov ก่อนพลิกกลับมาชนะ 3-2 ในช่วงท้าย เกมนั้นบอกสองอย่างที่ยังใช้ได้ Shakhtar ทำประตูในสนามนี้ได้จริง และ PSV ไล่ตามได้เมื่อเปิดเกมบุกเต็มที่ในครึ่งหลัง",
+    "market": "ไม่มีค่าความน่าจะเป็นของตลาดในแฟกต์แพ็ก ผมจึงตั้งเอง โดยยกเจ้าบ้านขึ้นจากค่าฐาน 0.48 ไปที่ 0.60 เพราะช่องว่างของฟอร์ม คุณภาพเกมรุก และสนาม สิ่งที่ทำให้ผมไม่ดันไปถึง 0.70 คือ Shakhtar ยิงประตูได้แทบทุกนัด และตัว PSV เองก็เสียประตูง่ายเมื่อดันแนวรับสูง",
+    "personnel": "Mauro Junior ติดโทษแบนและพลาดนัดเปิดสนามตามข้อมูลของ UEFA ส่วนรายชื่อเจ็บที่เหลือของ PSV แหล่งข่าวแต่ละแห่งให้ข้อมูลไม่ตรงกัน ผมจึงไม่ยืนยันตัวจริงสิบเอ็ดคน ฝั่ง Shakhtar มีรายงานว่าขาดผู้เล่นหลายราย รวมถึง Tymur Puzankov ที่เจ็บเข่า ผมประเมินว่าแนวรุกของทั้งสองทีมยังใช้งานได้ครบพอสมควร",
+    "risk": "ความเสี่ยงคือ PSV เพิ่งเจอ Ajax มาห้าวันก่อนและอาจหมุนตัวผู้เล่น ถ้า Bosz พักตัวหลักหลายคนพร้อมกัน คุณภาพการจบสกอร์จะลดลงและ Shakhtar เก่งพอจะลากเกมไปถึงผลเสมอ อีกข้อคือรายชื่อเจ็บของ PSV ที่ผมยืนยันไม่ได้ ถ้าหนักกว่าที่ประเมิน ค่า 0.60 คือสูงเกินไป",
+    "tactical": "Peter Bosz เล่น 4-3-3 ครองบอลสูง ดันฟูลแบ็กเข้าใน และเติมเกมรุกด้วยปีกที่เล่นแคบ จุดปะทะคือพื้นที่หลังแนวรับสูงของ PSV ซึ่งเป็นทางเดียวที่ Shakhtar จะทำเจ็บได้จริง ทีมของ Arda Turan เก่งเรื่องเปลี่ยนเกมเร็วผ่านตัวเทคนิคริมเส้น แต่ต้องทนรับแรงกดดันในแดนตัวเองยาวนาน ซึ่งเป็นสิ่งที่ทำได้ยากเมื่อครองบอลไม่ได้",
+    "trends": "PSV ยิงได้ทุกนัดของฤดูกาลนี้และมีสถิติไม่แพ้ในบ้านในถ้วยยุโรปต่อเนื่องยาวนานตามที่พรีวิวหลายแห่งอ้างถึง ขณะที่ Shakhtar ยังต้องเล่นเกมเหย้าห่างจากยูเครน ทำให้บรรยากาศเจ้าบ้านไม่ใช่ทรัพย์สินของทีมเหมือนสโมสรอื่น สถิติเกมเยือนในรายการนี้ของพวกเขาจึงอ่อนกว่าฟอร์มในลีกยูเครนอย่างชัดเจน",
+    "verdict": "PSV ชนะ 3-1 เจ้าบ้านจะครองบอลและสร้างโอกาสมากกว่าอย่างชัดเจนตลอดเกม ผมเชื่อว่า Shakhtar จะได้ประตูจากการสวนกลับหนึ่งครั้ง แต่ไม่พอจะเปลี่ยนผล เกมนี้ควรจบด้วยประตูรวมเกิน 2.5 ลูก และทั้งสองทีมยิงได้"
+  },
+  "btts": true,
+  "confidence": "mid",
+  "factpackHash": "aff48bf1cc1acb5ba2c6ea9ba3657e06e15d954b93a95a2d0aad16f31b9239fd",
+  "guruId": "claude-opus-5",
+  "harness": "claude-code-routine",
+  "keyFactor": "PSV เก็บ 13 แต้มจากห้านัดแรกของ Eredivisie และยิงหนักทุกนัด ขณะที่ Shakhtar ต้องเล่นเกมเยือนจริงโดยไม่มีฐานเหย้าในยูเครนรองรับ",
+  "kickoffUtc": "2026-09-10T16:45:00.000Z",
+  "lockedAt": "2026-09-08T03:16:15.630Z",
+  "matchId": "ucl-2627-r01-psv-shk",
+  "model": {
+    "displayName": "Claude Opus 5",
+    "id": "claude-opus-5"
+  },
+  "over25": true,
+  "pick": "H",
+  "probs": {
+    "A": 0.18,
+    "D": 0.22,
+    "H": 0.6
+  },
+  "runId": "predict-20260908T030249Z-claude-opus-5",
+  "schemaVersion": 1,
+  "scoreline": {
+    "away": 1,
+    "home": 3
+  },
+  "sources": [
+    {
+      "accessedAt": "2026-09-08T03:04:00Z",
+      "title": "Preview: PSV Eindhoven vs Shakhtar Donetsk, prediction, team news, lineups (Sports Mole)",
+      "url": "https://www.sportsmole.co.uk/football/psv-eindhoven/champions-league/preview/psv-vs-shakhtar-prediction-team-news-lineups_559035.html"
+    },
+    {
+      "accessedAt": "2026-09-08T03:03:00Z",
+      "title": "PSV vs Shakhtar Donetsk Preview: Team News and Prediction (The Stats Zone)",
+      "url": "https://www.thestatszone.com/psv-vs-shakhtar-donetsk-preview-team-news-prediction-103053"
+    },
+    {
+      "accessedAt": "2026-09-08T03:07:00Z",
+      "title": "PSV vs Shakhtar, UEFA Champions League 2026/27 League phase (UEFA.com)",
+      "url": "https://www.uefa.com/uefachampionsleague/match/2049567--psv-vs-shakhtar/"
+    },
+    {
+      "accessedAt": "2026-09-08T03:09:00Z",
+      "title": "PSV Eindhoven fixtures, team info and top players (FotMob)",
+      "url": "https://www.fotmob.com/teams/8640/overview/psv-eindhoven"
+    }
+  ],
+  "wordCount": 553
+}

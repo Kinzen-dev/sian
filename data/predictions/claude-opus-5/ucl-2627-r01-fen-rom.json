@@ -1,0 +1,61 @@
+{
+  "analysis": {
+    "form": "Roma เปิดฤดูกาลได้ร้อนแรงที่สุดในบรรดาหกทีมที่ลงเล่นวันเดียวกัน ชนะรวดสามนัดแรกใน Serie A ด้วยสกอร์รวม 10-1 ทั้งบุกชนะ Lecce 4-0 ถล่ม Fiorentina 4-0 และเฉือน Atalanta 2-1 เมื่อ 5 กันยายน ส่วน Fenerbahce ฟอร์มสวิงหนัก แพ้ Genclerbirligi 1-2 ชนะ Konyaspor 4-2 บุกชนะ Lyon 2-1 ในรอบเพลย์ออฟ แล้วกลับมาแพ้ Besiktas คาบ้าน 1-2 ในนัดล่าสุด",
+    "headToHead": "สองสโมสรไม่เคยพบกันในรายการนี้มาก่อน จึงไม่มีสถิติตรงให้ยึด สิ่งที่มีคือบริบทกว้างกว่า Fenerbahce แพ้ห้าจากหกนัดที่เจอทีมอิตาลีใน Champions League แต่ในทางกลับกัน ทีมจากอิตาลีชนะไม่ได้เลยในห้าครั้งหลังสุดที่มาเยือนตุรกีในรายการนี้ สองสถิติหักล้างกันเอง ผมจึงให้น้ำหนักกับฟอร์มปัจจุบันและกำลังพลมากกว่าประวัติศาสตร์",
+    "market": "แฟกต์แพ็กระบุว่าไม่มีสแนปช็อตความน่าจะเป็นของตลาดในนัดนี้ ผมจึงตั้งราคาเอง โดยเริ่มจากค่าฐานของรายการที่ให้เจ้าบ้าน 0.48 แล้วปรับลงมาเหลือ 0.30 เพราะฟอร์มและกำลังพลต่างกันชัด บวกกับการเสีย Guendouzi กลางสนาม ผมให้ Roma เป็นต่อที่ 0.42 แต่ไม่ถึงกับขาด เพราะบรรยากาศ Sukru Saracoglu มีค่าจริงในเชิงตัวเลข",
+    "personnel": "Fenerbahce เสียหนักที่ Matteo Guendouzi ติดโทษแบนสองนัดในรายการนี้ บวกกับ Marco Asensio, Jayden Oosterwolde และ Mert Gunok ที่มีปัญหาบาดเจ็บ แนวรุกยังมี Vedat Muriqi, Mason Greenwood และ Irfan Kahveci ฝั่ง Roma ขาด Lorenzo Pellegrini จากอาการเจ็บต้นขาระยะยาว และ Muhammed Bah เจ็บเข่า คาดใช้ Svilar เฝ้าเสา โดยมี Dybala กับ Soule เล่นหลัง Malen",
+    "risk": "ความเสี่ยงคือ Roma เพิ่งกลับมาเล่นรายการนี้ครั้งแรกตั้งแต่ 2018/19 และเกมเยือนตุรกีคือสนามที่ทีมอิตาลีสะดุดมาห้าครั้งติด ถ้า Gasperini หมุนตัวผู้เล่นเพราะเพิ่งเจอ Atalanta มาห้าวันก่อน เกมนี้จบเสมอได้ไม่ยาก ผมจึงตั้งค่าเสมอไว้ที่ 0.28 ซึ่งไม่ใช่ตัวเลขทิ้ง",
+    "tactical": "Gasperini วางเกมกดดันสูงแบบประกบตัวต่อตัว และดันวิงแบ็กขึ้นสูงสองข้างโดยมี Wesley กับ Molina เป็นแหล่งความกว้างหลัก จุดปะทะอยู่ที่แดนกลาง Kone และ Cristante ต้องคุมพื้นที่หน้ากองหลังสามคน ถ้า Fenerbahce เล่นบอลยาวหา Muriqi และเก็บบอลสองจังหวะได้ เกมจะเปิด แต่ถ้าโดนไล่บี้ตั้งแต่แดนตัวเอง เจ้าบ้านจะเสียบอลในโซนอันตรายบ่อยครั้ง",
+    "trends": "Roma ชนะหกนัดรวดทุกรายการ ยิง 17 เสีย 3 ตัวเลขเกมรับชุดนี้คือจุดแข็งจริง ไม่ใช่ผลบังเอิญจากสองนัด ขณะที่ Fenerbahce เสียประตูในสี่จากหกนัดหลังและแพ้คาบ้านในนัดล่าสุด แฟกต์แพ็กของคู่นี้ว่างเปล่าทั้งฟอร์มและ xG เพราะเป็นนัดแรกของรอบลีก ผมจึงอ้างอิงผลจริงและข่าวทีมแทนตัวเลข xG ที่ไม่มีแหล่งอ้างอิงสำหรับรายการนี้",
+    "verdict": "Roma ชนะ 2-1 คุณภาพตัวผู้เล่นและความนิ่งของเกมรับเหนือกว่า และการที่ Fenerbahce ขาดตัวคุมจังหวะกลางสนามทำให้ตั้งเกมรับลึกได้ยากตลอด 90 นาที ผมคาดว่าเจ้าบ้านจะได้ประตูจากลูกตั้งเตะหรือจังหวะสวนกลับหนึ่งครั้ง แต่ไม่พอจะเปลี่ยนผล"
+  },
+  "btts": true,
+  "confidence": "low",
+  "factpackHash": "6db4244978a449a8606498f471a56b5fcb17beac84797cdd5eb94b008b53b814",
+  "guruId": "claude-opus-5",
+  "harness": "claude-code-routine",
+  "keyFactor": "Roma เข้าสู่นัดนี้ด้วยฟอร์มชนะรวดหกนัดและเกมรับที่เสียเพียงสามประตู ขณะที่ Fenerbahce ขาด Matteo Guendouzi ตัวคุมจังหวะกลางสนามจากโทษแบน",
+  "kickoffUtc": "2026-09-10T16:45:00.000Z",
+  "lockedAt": "2026-09-08T03:16:14.370Z",
+  "matchId": "ucl-2627-r01-fen-rom",
+  "model": {
+    "displayName": "Claude Opus 5",
+    "id": "claude-opus-5"
+  },
+  "over25": true,
+  "pick": "A",
+  "probs": {
+    "A": 0.42,
+    "D": 0.28,
+    "H": 0.3
+  },
+  "runId": "predict-20260908T030249Z-claude-opus-5",
+  "schemaVersion": 1,
+  "scoreline": {
+    "away": 2,
+    "home": 1
+  },
+  "sources": [
+    {
+      "accessedAt": "2026-09-08T03:05:00Z",
+      "title": "Form and head to head stats: Fenerbahce vs Roma (Sky Sports)",
+      "url": "https://www.skysports.com/football/fenerbahce-vs-roma/577611"
+    },
+    {
+      "accessedAt": "2026-09-08T03:08:00Z",
+      "title": "Fenerbahce vs Roma, UEFA Champions League 2026/27 League phase (UEFA.com)",
+      "url": "https://www.uefa.com/uefachampionsleague/match/2049568--fenerbahce-vs-roma/"
+    },
+    {
+      "accessedAt": "2026-09-08T03:10:00Z",
+      "title": "Fenerbahce vs AS Roma: injury news and match preview (Bleacher Report)",
+      "url": "https://bleacherreport.com/game/fenerbahce-vs-as-roma-2026-9-10-18-45"
+    },
+    {
+      "accessedAt": "2026-09-08T03:10:00Z",
+      "title": "Fenerbahce-Roma, Champions League 2026/2027 Statistical Preview (WhoScored)",
+      "url": "https://www.whoscored.com/matches/2029201/preview/europe-champions-league-2026-2027-fenerbahce-roma"
+    }
+  ],
+  "wordCount": 584
+}
