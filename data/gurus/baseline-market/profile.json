@@ -1,0 +1,13 @@
+{
+  "active": true,
+  "automation": "bot",
+  "descriptionTh": "ไม่ใช่ AI: เลือกทีมที่ตลาดให้เป็นตัวเต็ง จากราคาต่อรองเฉลี่ย แสดงเป็นเปอร์เซ็นต์",
+  "displayName": "สูตรตามตลาด",
+  "guruId": "baseline-market",
+  "harnesses": [
+    "bot"
+  ],
+  "kind": "baseline",
+  "modelId": "baseline-market",
+  "since": "2026-09-09T15:28:55.007Z"
+}

@@ -1,0 +1,19 @@
+{
+  "btts": true,
+  "factpackHash": "34c6249f1309420debefb8713d3e6cdf93d8baec5150843d8b535737b3813de0",
+  "guruId": "baseline-home",
+  "kickoffUtc": "2026-09-12T14:00:00.000Z",
+  "kind": "baseline",
+  "lockedAt": "2026-09-09T15:28:55.007Z",
+  "matchId": "epl-2627-r04-bou-bre",
+  "note": "always home, league base rates",
+  "over25": true,
+  "pick": "H",
+  "probs": {
+    "A": 0.31,
+    "D": 0.24,
+    "H": 0.45
+  },
+  "schemaVersion": 1,
+  "scoreline": null
+}

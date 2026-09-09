@@ -1,0 +1,19 @@
+{
+  "btts": true,
+  "factpackHash": "305c4b3e334c5672505bb553a9da0768437f27ce6ecdee36b8d35c355787c542",
+  "guruId": "baseline-home",
+  "kickoffUtc": "2026-09-12T14:00:00.000Z",
+  "kind": "baseline",
+  "lockedAt": "2026-09-09T15:28:55.007Z",
+  "matchId": "epl-2627-r04-che-hul",
+  "note": "always home, league base rates",
+  "over25": true,
+  "pick": "H",
+  "probs": {
+    "A": 0.31,
+    "D": 0.24,
+    "H": 0.45
+  },
+  "schemaVersion": 1,
+  "scoreline": null
+}

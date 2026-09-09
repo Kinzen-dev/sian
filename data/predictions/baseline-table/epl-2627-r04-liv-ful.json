@@ -1,0 +1,19 @@
+{
+  "btts": true,
+  "factpackHash": "5eb4878dbfeb99b6970646aa14b773460e93148c81fb0a6cf0a16f8656052530",
+  "guruId": "baseline-table",
+  "kickoffUtc": "2026-09-12T14:00:00.000Z",
+  "kind": "baseline",
+  "lockedAt": "2026-09-09T15:28:55.007Z",
+  "matchId": "epl-2627-r04-liv-ful",
+  "note": "table positions 6 v 19",
+  "over25": true,
+  "pick": "H",
+  "probs": {
+    "A": 0.24,
+    "D": 0.26,
+    "H": 0.5
+  },
+  "schemaVersion": 1,
+  "scoreline": null
+}
