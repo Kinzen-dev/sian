@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-09T01:57:15.767Z",
-  "lastRefreshAt": "2026-09-09T01:57:12.433Z",
+  "generatedAt": "2026-09-09T10:17:59.901Z",
+  "lastRefreshAt": "2026-09-09T10:17:55.990Z",
   "lastScoreAt": null,
   "pending": {
     "factpacks": 0,
@@ -9,27 +9,28 @@
   },
   "sources": {
     "football-data.co.uk": {
-      "at": "2026-09-09T01:57:12.433Z",
+      "at": "2026-09-09T10:17:55.990Z",
       "note": "Error: HTTP 503",
       "ok": false
     },
     "football-data.org:epl": {
-      "at": "2026-09-09T01:57:12.433Z",
+      "at": "2026-09-09T10:17:55.990Z",
       "note": "380 matches",
       "ok": true
     },
     "football-data.org:ucl": {
-      "at": "2026-09-09T01:57:12.433Z",
+      "at": "2026-09-09T10:17:55.990Z",
       "note": "144 matches",
       "ok": true
     },
     "manual-uefa-release": {
-      "at": "2026-09-09T01:57:12.433Z",
+      "at": "2026-09-09T10:17:55.990Z",
       "ok": true
     },
     "openfootball": {
-      "at": "2026-09-09T01:57:12.433Z",
-      "ok": true
+      "at": "2026-09-09T10:17:55.990Z",
+      "note": "[\n  {\n    \"expected\": \"object\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"matches\",\n      22,\n      \"score\"\n    ],\n    \"message\": \"Invalid input: expected object, received array\"\n  },\n  {\n    \"expected\": \"object\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"matches\",\n      27,\n      \"score\"\n    ],\n    \"message\": \"Invalid input: expected object, received array\"\n  }\n]",
+      "ok": false
     }
   }
 }
