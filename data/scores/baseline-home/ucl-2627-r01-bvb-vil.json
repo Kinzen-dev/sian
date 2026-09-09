@@ -4,21 +4,21 @@
   "late": false,
   "logLoss": 0.7339691750802004,
   "marketFavourite": null,
-  "matchId": "ucl-2627-r01-aek-las",
+  "matchId": "ucl-2627-r01-bvb-vil",
   "points": {
-    "btts": 0,
+    "btts": 0.5,
     "exact": 0,
-    "ou": 0,
+    "ou": 0.5,
     "outcome": 1,
-    "total": 1,
+    "total": 2,
     "upset": 0
   },
   "result": {
-    "away": 0,
-    "home": 1,
+    "away": 2,
+    "home": 3,
     "outcome": "H"
   },
-  "resultHash": "a302da3294ef556ab933c9b09a7fdebf7ca7bb51868dee1cc24b35dc4e68cf97",
+  "resultHash": "cd7da774aa7f1d6b5a15c22c2d655f2cd3dc5d977367dc9e17afb5682153dd1f",
   "schemaVersion": 1,
   "scoredAt": "2026-09-09T01:57:15.359Z",
   "void": null

@@ -1,0 +1,25 @@
+{
+  "brier": 0.7687999999999999,
+  "guruId": "baseline-home",
+  "late": false,
+  "logLoss": 1.2039728043259361,
+  "marketFavourite": null,
+  "matchId": "ucl-2627-r01-por-mci",
+  "points": {
+    "btts": 0,
+    "exact": 0,
+    "ou": 0,
+    "outcome": 0,
+    "total": 0,
+    "upset": 0
+  },
+  "result": {
+    "away": 2,
+    "home": 0,
+    "outcome": "A"
+  },
+  "resultHash": "27e955333e6884ebeb33044da141167a02359c621c4ecdc8eb2f0eadbf8cf61e",
+  "schemaVersion": 1,
+  "scoredAt": "2026-09-09T01:57:15.359Z",
+  "void": null
+}

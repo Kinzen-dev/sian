@@ -1,0 +1,25 @@
+{
+  "brier": 0.5048000000000001,
+  "guruId": "claude-opus-5",
+  "late": false,
+  "logLoss": 0.8675005677047232,
+  "marketFavourite": null,
+  "matchId": "ucl-2627-r01-rma-int",
+  "points": {
+    "btts": 0.5,
+    "exact": 2,
+    "ou": 0.5,
+    "outcome": 1,
+    "total": 4,
+    "upset": 0
+  },
+  "result": {
+    "away": 1,
+    "home": 2,
+    "outcome": "H"
+  },
+  "resultHash": "e2433ac3278279ac90b51abed3d4dd9057d9e1f66541ad9cdfd13762a30e5a43",
+  "schemaVersion": 1,
+  "scoredAt": "2026-09-09T01:57:15.359Z",
+  "void": null
+}
