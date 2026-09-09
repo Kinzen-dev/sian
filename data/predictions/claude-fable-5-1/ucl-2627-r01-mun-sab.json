@@ -1,0 +1,71 @@
+{
+  "analysis": {
+    "form": "Man Utd เก็บ 4 แต้มจาก 3 นัดลีก แพ้ Hull 0-2 ถล่ม Ipswich 5-2 และเสมอ Everton 2-2 หลังนำสองครั้ง โดยที่ Everton ทำ xG 1.01 ต่อ 0.69 ทีมเสียสองลูกทุกนัดในลีกและไม่มีคลีนชีตใน 7 นัดแข่งขัน Sabah ชนะ 3 จาก 3 ในลีก Azerbaijan ล่าสุดถล่ม Zira 5-0 จากแฮตทริกของ Mickels ผ่านรอบคัดเลือกสี่รอบด้วยชัย 6 จาก 8 นัดและคลีนชีต 4 ครั้ง รวมถึงพลิกกลับมาชนะ Hapoel Be'er Sheva 5-2 ในช่วงต่อเวลา แฟกต์แพ็กไม่มีฟอร์ม Sabah ผมอ้างจากการค้นเพิ่ม และไม่มี xG ของ Sabah",
+    "headToHead": "ไม่เคยพบกัน United ไม่เคยเจอสโมสรจาก Azerbaijan และ Sabah ไม่เคยเจอสโมสรอังกฤษ นี่คือ league phase นัดแรกในประวัติศาสตร์ของ Sabah และ Dambrauskas เป็นโค้ชจากบอลติกคนแรกในรอบนี้",
+    "market": "ไม่มีข้อมูลตลาดในแฟกต์แพ็ก จากการค้นเพิ่ม ตลาดให้ United ราว 86 เปอร์เซ็นต์ เสมอ 10 Sabah 4 ผมให้ 78 ต่ำกว่าตลาดเพราะการหมุนตัวหนัก แนวรับที่เสียทุกนัด และ Sabah ที่ผ่านรอบคัดเลือกโดยพลิกเกมได้จริง แต่ช่องว่างคุณภาพยังกว้างพอให้ United เป็นต่อชัด",
+    "personnel": "United ขาด de Ligt Ugarte Baleba Diallo และ Heaton Rashford ออกนาที 70 ที่ Everton เพราะรู้สึกไม่ดีและอาจต้องทดสอบความฟิต Maguire ไม่อยู่ในรายชื่อเจ็บ Mount กลับมาพร้อม เนื่องจากมี Man City วันอาทิตย์ คาดหมุนตัวหนัก Yoro Mazraoui Santos และ Sesko น่าเป็นตัวจริงนัดแรก Sabah มีตัวครบ คาดตัวจริง Pokatilov Solvet Dashdamirov Puchacz Zedadka Rakhmonaliev Isaev Lepinjica Parris Mickels Simic ยังไม่มีรายชื่อยืนยัน",
+    "risk": "ถ้าตัวหมุนอย่าง Santos Yoro และ Sesko เข้าขาช้า และ Sabah ถอยลึกแบบที่ Hull ทำ United อาจได้ xG แค่ราว 1 เหมือนที่ Everton แล้วเกมจบ 1-0 หรือ 1-1 ผมเคยพลาดจากการประเมินเกมรุก United สูงเกินมาแล้วและนี่คือความเสี่ยงหลักของสกอร์ที่เลือก",
+    "tactical": "Carrick ยืน 4-2-3-1 ใช้สิบเอ็ดตัวเดิมสองนัดติดจนถึง Everton สร้างเกมจากปีกตรงๆ ผ่าน Mbeumo และ Rashford โดยมี Fernandes เชื่อม แต่เสียประตูจากลูกครอสด้านกว้างและช่วงท้ายเกมเมื่อถอยรับ ทั้งสองประตูที่ Everton มาหลังนาที 83 Sabah ยืน 4-2-3-1 พึ่งลูกครอสและความสูง Simic กับ Mickels ยิงรวม 15 ประตูฤดูกาลนี้ Isayev สร้างจากสำรองได้ จุดปะทะคือแบ็กของ United ที่หมุนตัวเข้ามาใหม่ต้องรับลูกครอสจากปีก Sabah และแนวรับ Sabah ที่ต้องรับความเร็วของ Mbeumo กับ Sesko ในพื้นที่กว้าง",
+    "trends": "United ยิง 7 เสีย 6 ในสามนัดลีก และ xG ของ United เมื่อเจอบล็อกที่ตั้งรับดีอยู่แค่ 0.7 ถึง 1.8 ไม่ใช่ 4.5 อย่างเกม Ipswich Sabah เสียประตูใน 4 จาก 8 นัดคัดเลือก เดินทางไกลจาก Baku วันพัก United 4 วันและมีดาร์บี้ใน 72 ชั่วโมง",
+    "verdict": "United ชนะ 2-1 ความเร็วของ Mbeumo และ Sesko ในพื้นที่กว้างจะได้สองประตูภายในชั่วโมงแรก แต่ United จะเสียจากลูกครอสหรือลูกตั้งเตะให้ Mickels หรือ Simic ตามแบบที่เสียมาทุกนัด ประตูรวมเกิน 2.5 และทั้งสองทีมยิงเข้า"
+  },
+  "btts": true,
+  "confidence": "high",
+  "factpackHash": "9a8cb5b7f177effd062a5efc270421a51140260c72cf80138be934cc750a908d",
+  "guruId": "claude-fable-5-1",
+  "harness": "claude-code-routine",
+  "keyFactor": "Man Utd มีคุณภาพเหนือกว่าหลายชั้นแต่ไม่มีคลีนชีตมา 7 นัดและจะหมุนตัวก่อนดาร์บี้ ขณะที่ Sabah ผ่าน 8 นัดคัดเลือกด้วยลูกครอสและความสูงที่ United เสียประตูให้บ่อยที่สุด",
+  "kickoffUtc": "2026-09-10T19:00:00.000Z",
+  "lockedAt": "2026-09-09T03:24:03.759Z",
+  "matchId": "ucl-2627-r01-mun-sab",
+  "model": {
+    "displayName": "Claude Fable 5.1",
+    "id": "claude-fable-5-1"
+  },
+  "over25": true,
+  "pick": "H",
+  "probs": {
+    "A": 0.09,
+    "D": 0.13,
+    "H": 0.78
+  },
+  "runId": "predict-20260909T030502Z-claude-fable-5-1",
+  "schemaVersion": 1,
+  "scoreline": {
+    "away": 1,
+    "home": 2
+  },
+  "sources": [
+    {
+      "accessedAt": "2026-09-09T03:06:00Z",
+      "title": "Preview: Manchester United vs Sabah - prediction, team news, lineups - Sports Mole (8 Sep 2026)",
+      "url": "https://www.sportsmole.co.uk/football/man-utd/champions-league/preview/man-utd-vs-sabah-prediction-team-news-lineups_604712.html"
+    },
+    {
+      "accessedAt": "2026-09-09T03:07:00Z",
+      "title": "Man Utd v Sabah: Prediction, team news, lineups and odds - Football365 (8 Sep 2026)",
+      "url": "https://www.football365.com/match-preview/man-utd-v-sabah-prediction-preview"
+    },
+    {
+      "accessedAt": "2026-09-09T03:06:00Z",
+      "title": "Man United injury, suspension list and return dates vs. Sabah - Sports Mole (7 Sep 2026)",
+      "url": "https://www.sportsmole.co.uk/football/man-utd/injury-news/injuries-and-suspensions/rashford-baleba-amad-de-ligt-latest-man-united-injury-suspension-list-vs-sabah_604645.html"
+    },
+    {
+      "accessedAt": "2026-09-09T03:07:00Z",
+      "title": "Michael Carrick delivers worrying Marcus Rashford update after Everton draw: Press Conference - The Peoples Person (6 Sep 2026)",
+      "url": "https://thepeoplesperson.com/2026/09/06/michael-carrick-delivers-worrying-marcus-rashford-update-after-everton-draw-press-conference-315171/"
+    },
+    {
+      "accessedAt": "2026-09-09T03:08:00Z",
+      "title": "Match Report: Everton 2-2 Manchester United - The Toffee Blues (8 Sep 2026)",
+      "url": "https://www.thetoffeeblues.com/match-report/everton-2-2-manchester-united-2/"
+    },
+    {
+      "accessedAt": "2026-09-09T03:07:00Z",
+      "title": "Mickels hat-trick powers Sabah to resounding 5-0 victory over Zira - OffsidePlus (5 Sep 2026)",
+      "url": "https://offsideplus.az/en/category/misli-premier-league/32855/mickels-hat-trick-powers-sabah-to-resounding-5-0-victory-over-zira"
+    }
+  ],
+  "wordCount": 584
+}

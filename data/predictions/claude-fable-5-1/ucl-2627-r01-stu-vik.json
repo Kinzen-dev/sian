@@ -1,0 +1,76 @@
+{
+  "analysis": {
+    "form": "Stuttgart เปิดฤดูกาลด้วยชัย 4-0 ที่ Rostock ในบอลถ้วย ก่อนแพ้ Bayern 1-5 นอกบ้าน แล้วกลับมาถล่ม Koln 4-1 ที่บ้าน โดยครึ่งแรกสร้าง xG 1.72 ต่อ 0.12 ประตูเดียวที่เสียคือ Hendriks ทำเข้าประตูตัวเอง Viking อยู่อันดับ 2 Eliteserien ตามหลัง Bodo/Glimt 3 แต้ม ไม่แพ้ 5 นัดติด ผ่าน Dinamo Zagreb ด้วยสกอร์รวม 5-3 และนัดล่าสุดเสมอ Sandefjord 1-1 หลังเหลือสิบคนตั้งแต่นาที 50 แฟกต์แพ็กไม่มีฟอร์มของทั้งสองทีม ผมอ้างจากการค้นเพิ่ม",
+    "headToHead": "ไม่เคยพบกันมาก่อน นี่คือรอบแบ่งกลุ่มหรือ league phase ครั้งแรกของ Viking นับตั้งแต่ปี 1992 ส่วน Stuttgart กลับมาเล่น Champions League ผ่านตำแหน่งในลีกและมี Undav เป็นกัปตันที่ Hoeness ออกตัวปกป้องเต็มที่",
+    "market": "ไม่มีข้อมูลตลาดในแฟกต์แพ็ก จากการค้นเพิ่ม ตลาดให้ Stuttgart ราว 77 เปอร์เซ็นต์ เสมอ 14 Viking 9 ผมให้ 72 ต่ำกว่าตลาดเพราะ Stuttgart เสียประตูในทุกนัดยกเว้น Rostock และ Viking พิสูจน์แล้วว่าลงโทษทีมที่ปล่อยให้ยิงในกรอบได้ แต่ทิศทางเกมชัด",
+    "personnel": "Stuttgart ขาด Seimen Zagadou Tiago Tomas Diehl Nartey Jaquez และ Arevalo แต่ตัวจริงจากเกม Koln ครบ Undav มีปัญหาเอ็นร้อยหวายแต่ซ้อมเต็มและลง 90 นาที คาดตัวจริง Bredlow Vagnoman Jeltsch Chabot Mittelstadt Promel Stiller Fuhrich El Khannouss Undav Pejcinovic Viking ขาด Berisha และ Roseth เจ็บเข่ายาว ใบแดงของ Daland ในลีกไม่มีผลกับ UEFA คาดสิบเอ็ดตัวเดิมจากเกม Sandefjord ยังไม่มีรายชื่อยืนยัน",
+    "risk": "Viking เคยเสมอ Dinamo นอกบ้านโดยยิงในกรอบได้ดีทั้งที่โดนยิงมากกว่า ถ้า Stuttgart ประมาทเหมือนครึ่งหลังกับ Koln หรือแนวรับที่พังที่ Bayern กลับมาอีก เกมอาจจบ 2-2 และความกดดันของนัดประวัติศาสตร์ตกอยู่กับเจ้าบ้านมากกว่าทีมเยือนที่ไม่มีอะไรจะเสีย",
+    "tactical": "Hoeness ยืน 4-2-3-1 กดดันสูงตั้งแต่ต้นเกม Stiller กับ Promel คุมกลาง El Khannouss เลี้ยงเดี่ยวทำประตูได้และ Fuhrich กับ Vagnoman ให้ความกว้าง Viking ยืน 4-3-3 ยอมเสียการครองบอลและเล่นในกรอบอย่างมีประสิทธิภาพ 9 จาก 13 ช็อตกับ Dinamo อยู่ในเขตโทษ Tripic เป็นแหล่งลูกตั้งเตะและลูกทุ่มยาว จุดปะทะคือแนวรับ Stuttgart ที่โดน Bayern เจาะ 5 ลูกและยังเปิดหลังแบ็กเมื่อดันสูง กับความเร็วในการเปลี่ยนจังหวะของ Christiansen",
+    "trends": "หกจากเจ็ดนัดหลังของ Stuttgart มีประตูรวมตั้งแต่ 4 ลูกขึ้นไป ทีมยิง 9 และเสีย 6 ในสามนัดแข่งขัน Viking เก็บชัยนอกบ้าน 6 จาก 11 นัดในลีก และ Christiansen ยิง 9 Tripic ยิง 6 ทำ 15 แอสซิสต์ ทีมเยือนอยู่กลางฤดูกาลและมีจังหวะจาก 19 นัด ขณะที่ Stuttgart เพิ่งเล่นได้สามเกม ซึ่ง Wohlgemuth ยกเป็นเหตุผลว่าไม่มีอะไรง่าย",
+    "verdict": "Stuttgart ชนะ 3-1 การกดดันสูงและคุณภาพของ El Khannouss กับ Undav จะสร้างโอกาสมากกว่าที่ Viking รับไหว แต่ Viking จะได้ประตูจากลูกตั้งเตะหรือจังหวะสวนหนึ่งครั้งตามรูปแบบเกมของ Stuttgart ที่ประตูรวมสูง"
+  },
+  "btts": true,
+  "confidence": "high",
+  "factpackHash": "31c0c1d078dbee483d6161c707fd9b359018c24b444c26c55c7aede94cc154d1",
+  "guruId": "claude-fable-5-1",
+  "harness": "claude-code-routine",
+  "keyFactor": "เกมรุก Stuttgart ที่สร้าง xG 1.72 ในครึ่งแรกเดียวกับ Koln เจอ Viking ที่ปล่อยให้คู่แข่งยิงได้ 20 ครั้งในนัดที่ผ่านเข้ามา แต่แนวรับ Stuttgart ที่เสีย 5 ที่ Bayern ก็ยังเปิดช่องให้ Tripic กับ Christiansen",
+  "kickoffUtc": "2026-09-09T16:45:00.000Z",
+  "lockedAt": "2026-09-09T03:23:57.843Z",
+  "matchId": "ucl-2627-r01-stu-vik",
+  "model": {
+    "displayName": "Claude Fable 5.1",
+    "id": "claude-fable-5-1"
+  },
+  "over25": true,
+  "pick": "H",
+  "probs": {
+    "A": 0.12,
+    "D": 0.16,
+    "H": 0.72
+  },
+  "runId": "predict-20260909T030502Z-claude-fable-5-1",
+  "schemaVersion": 1,
+  "scoreline": {
+    "away": 1,
+    "home": 3
+  },
+  "sources": [
+    {
+      "accessedAt": "2026-09-09T02:58:00Z",
+      "title": "Preview: Stuttgart vs Viking FK - prediction, team news, lineups - Sports Mole (8 Sep 2026)",
+      "url": "https://www.sportsmole.co.uk/football/stuttgart/champions-league/preview/stuttgart-vs-viking-fk-prediction-team-news-lineups_604675.html"
+    },
+    {
+      "accessedAt": "2026-09-09T03:05:00Z",
+      "title": "Stuttgart-trenaren hyllar norsk fotball: Viking ville klart seg i Bundesliga - NRK (8 Sep 2026)",
+      "url": "https://www.nrk.no/rogaland/stuttgart-trenaren-hyllar-norsk-fotball_-_-viking-ville-klart-seg-i-bundesliga-1.18018242"
+    },
+    {
+      "accessedAt": "2026-09-09T03:05:00Z",
+      "title": "Satt ut av skoletysk - Dagbladet (8 Sep 2026)",
+      "url": "https://www.dagbladet.no/sport/satt-ut-av-skoletysk/85124478"
+    },
+    {
+      "accessedAt": "2026-09-09T03:01:00Z",
+      "title": "Hoeness slams Undav critics! Stuttgart boss fiercely backs skipper ahead of Champions League opener - Yardbarker (8 Sep 2026)",
+      "url": "https://www.yardbarker.com/soccer/articles/hoeness_slams_undav_critics_stuttgart_boss_fiercely_backs_skipper_ahead_of_champions_league_opener/s1_17790_44277553"
+    },
+    {
+      "accessedAt": "2026-09-09T02:58:00Z",
+      "title": "Champions League: Viking Stavanger im Gegnercheck - Sportschau (8 Sep 2026)",
+      "url": "https://www.sportschau.de/regional/swr/swr-viking-stavanger-im-gegnercheck-zwei-trainer-ein-klub--das-erwartet-den-vfb-stuttgart-102.html"
+    },
+    {
+      "accessedAt": "2026-09-09T03:03:00Z",
+      "title": "Sandefjord Fotball - Viking 04.09.2026 - fotball.no",
+      "url": "https://www.fotball.no/fotballdata/kamp/?fiksId=8986286"
+    },
+    {
+      "accessedAt": "2026-09-09T03:01:00Z",
+      "title": "VfB Stuttgart vs Viking Prediction, Odds and Betting Tips 09.09.2026 - MightyTips (7 Sep 2026)",
+      "url": "https://www.mightytips.com/football-predictions/vfb-stuttgart-vs-viking-prediction-09-09-2026/"
+    }
+  ],
+  "wordCount": 548
+}
