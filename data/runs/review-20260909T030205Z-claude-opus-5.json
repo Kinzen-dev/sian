@@ -1,0 +1,14 @@
+{
+  "errors": [],
+  "finishedAt": "2026-09-09T03:05:11.862Z",
+  "guruId": "claude-opus-5",
+  "harness": "claude-code-routine",
+  "mode": "review",
+  "runId": "review-20260909T030205Z-claude-opus-5",
+  "skipped": [],
+  "startedAt": "2026-09-09T03:02:05.900Z",
+  "submitted": [
+    "ucl-2627-r01-clb-avl",
+    "ucl-2627-r01-lil-bet"
+  ]
+}
