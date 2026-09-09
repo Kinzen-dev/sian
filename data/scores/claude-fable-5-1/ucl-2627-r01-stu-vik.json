@@ -1,0 +1,25 @@
+{
+  "brier": 0.1184,
+  "guruId": "claude-fable-5-1",
+  "late": false,
+  "logLoss": 0.3285040669720361,
+  "marketFavourite": null,
+  "matchId": "ucl-2627-r01-stu-vik",
+  "points": {
+    "btts": 0.5,
+    "exact": 2,
+    "ou": 0.5,
+    "outcome": 1,
+    "total": 4,
+    "upset": 0
+  },
+  "result": {
+    "away": 1,
+    "home": 3,
+    "outcome": "H"
+  },
+  "resultHash": "73e23b443f02b5eeecab79cce1271719db43827879e7baf0849233db8742a240",
+  "schemaVersion": 1,
+  "scoredAt": "2026-09-09T20:09:29.804Z",
+  "void": null
+}
