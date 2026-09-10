@@ -1,0 +1,25 @@
+{
+  "brier": 0.7687999999999999,
+  "guruId": "baseline-home",
+  "late": false,
+  "logLoss": 1.2039728043259361,
+  "marketFavourite": null,
+  "matchId": "ucl-2627-r01-nap-ars",
+  "points": {
+    "btts": 0,
+    "exact": 0,
+    "ou": 0,
+    "outcome": 0,
+    "total": 0,
+    "upset": 0
+  },
+  "result": {
+    "away": 1,
+    "home": 0,
+    "outcome": "A"
+  },
+  "resultHash": "389f7fbc8e058d61efa91d591e1dc5c5ad418fec3fb2d4aa68ec49ae4e7b784e",
+  "schemaVersion": 1,
+  "scoredAt": "2026-09-10T01:54:05.066Z",
+  "void": null
+}

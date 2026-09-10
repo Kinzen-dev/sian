@@ -1,0 +1,25 @@
+{
+  "brier": 0.3758,
+  "guruId": "claude-fable-5-1",
+  "late": false,
+  "logLoss": 0.6931471805599453,
+  "marketFavourite": null,
+  "matchId": "ucl-2627-r01-nap-ars",
+  "points": {
+    "btts": 0,
+    "exact": 0,
+    "ou": 0,
+    "outcome": 1,
+    "total": 1,
+    "upset": 0
+  },
+  "result": {
+    "away": 1,
+    "home": 0,
+    "outcome": "A"
+  },
+  "resultHash": "389f7fbc8e058d61efa91d591e1dc5c5ad418fec3fb2d4aa68ec49ae4e7b784e",
+  "schemaVersion": 1,
+  "scoredAt": "2026-09-10T01:54:05.066Z",
+  "void": null
+}

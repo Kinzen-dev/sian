@@ -1,0 +1,25 @@
+{
+  "brier": 0.030200000000000005,
+  "guruId": "claude-opus-5",
+  "late": false,
+  "logLoss": 0.15082288973458366,
+  "marketFavourite": null,
+  "matchId": "ucl-2627-r01-psg-slb",
+  "points": {
+    "btts": 0,
+    "exact": 0,
+    "ou": 0.5,
+    "outcome": 1,
+    "total": 1.5,
+    "upset": 0
+  },
+  "result": {
+    "away": 1,
+    "home": 6,
+    "outcome": "H"
+  },
+  "resultHash": "c19f98d87a551217e84c7ab02e6579c1e75f4cffbbbd55f52f8ef6e0164b8b71",
+  "schemaVersion": 1,
+  "scoredAt": "2026-09-10T01:54:05.066Z",
+  "void": null
+}
