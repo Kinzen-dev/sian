@@ -1,0 +1,19 @@
+{
+  "btts": true,
+  "factpackHash": "d0e14a13161edfbdabb20d7e397c9f72844a3d49aceab94edce16518e32c31fc",
+  "guruId": "baseline-table",
+  "kickoffUtc": "2026-09-13T15:30:00.000Z",
+  "kind": "baseline",
+  "lockedAt": "2026-09-10T20:11:20.371Z",
+  "matchId": "epl-2627-r04-mun-mci",
+  "note": "table positions 11 v 1",
+  "over25": true,
+  "pick": "A",
+  "probs": {
+    "A": 0.5,
+    "D": 0.26,
+    "H": 0.24
+  },
+  "schemaVersion": 1,
+  "scoreline": null
+}
