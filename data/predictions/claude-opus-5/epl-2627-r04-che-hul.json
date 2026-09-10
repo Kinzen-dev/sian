@@ -1,0 +1,61 @@
+{
+  "analysis": {
+    "form": "Chelsea ได้ 6 แต้ม ชนะ Fulham 3-2 ชนะ Brighton 4-3 แล้วแพ้ Arsenal 1-2 ยิงไป 8 เสีย 7 เป็นทีมที่เกมเปิดที่สุดทีมหนึ่งของลีก Hull ขึ้นชั้นมาแล้วเก็บ 7 แต้ม ชนะ Man United 2-0 ชนะ Coventry 1-0 และเสมอ Aston Villa 0-0 ยังไม่เสียประตูเลยสักลูก เป็นทีมเลื่อนชั้นทีมที่สามในประวัติศาสตร์ที่คลีนชีตครบสามนัดแรก",
+    "headToHead": "Fact pack ไม่มีข้อมูล head to head แนบมา ผมจึงไม่ยกสถิติการพบกันในอดีตมาใช้ เพราะทีมชุดปัจจุบันของทั้งสองฝ่ายต่างจากครั้งสุดท้ายที่เจอกันในลีกมาก สิ่งที่ประเมินได้จริงคือช่องว่างด้านคุณภาพผู้เล่นและรูปแบบการเล่นในฤดูกาลนี้",
+    "market": "ตลาดให้ Chelsea ชนะสูงถึง 78 เปอร์เซ็นต์ Hull แค่ 8 ผมมองว่าสูงเกินไป เพราะตลาดหักลบระเบียบเกมรับของ Hull มากเกินและมองข้ามว่า Chelsea เสียประตูทุกนัดจนถึงตอนนี้ ผมจึงลด Chelsea ลงเหลือ 63 และเพิ่มค่าเสมอเป็น 23 ซึ่งสะท้อนโอกาสที่ Hull ยันได้อีกนัดตามสไตล์เดิม",
+    "personnel": "Chelsea ไม่มีใครโดนแบน แต่ Moises Caicedo มีอาการน่องกลับมาอีกครั้งและเป็นตัวคลุมเครือหนัก Jordan Henderson เจ็บข้อมือ ส่วน Marco Palestra และ Emmanuel Emegha ยังไม่พร้อม การขาด Caicedo คือปัญหาจริง เพราะเขาคือคนที่ตัดเกมสวนกลับก่อนถึงแนวรับ Hull ไม่มีรายงานตัวเจ็บสำคัญและพักหกวัน",
+    "risk": "ความเสี่ยงชัดเจนคือ Hull ยันได้อีกนัด พวกเขาทำแบบนี้สำเร็จมาสามครั้งติดรวมถึงกับ Villa ที่ครองบอลเจ็ดสิบกว่าเปอร์เซ็นต์ ถ้า Caicedo ไม่ลงและ Chelsea เสียบอลกลางสนามบ่อย เกมนี้จบ 1-1 ได้ไม่ยาก นั่นคือเหตุผลที่ค่าเสมอของผมสูงกว่าตลาดเกือบสิบเปอร์เซ็นต์",
+    "tactical": "Hull ของ Sergej Jakirovic ตั้งบล็อกต่ำและรอสวนกลับ เกมกับ Villa พวกเขาเสียการครองบอลถึง 73.5 เปอร์เซ็นต์แต่ยังได้จังหวะอันตรายผ่าน Mohamed Belloumi Chelsea จะครองบอลและกดสูง จุดปะทะอยู่ที่แนวรับหลังสูงของเจ้าบ้าน ทุกครั้งที่ Chelsea เสียบอลในแดนกลาง Hull จะได้พื้นที่หลังแนวรับซึ่งเป็นเส้นทางเดียวที่พวกเขาทำประตูได้",
+    "trends": "ตัวเลขบอกว่าคลีนชีตของ Hull เปราะกว่าที่เห็น พวกเขาถูกทำ xG ใส่ 1.74 โดย Villa และ 1.28 โดย Coventry แต่รอดมาได้ทั้งสองนัด ส่วน xG ที่ตัวเองสร้างมีแค่ 0.58 กับ 0.73 นี่คือการเก็บผลเกินพื้นฐานอย่างชัดเจน สามนัดของ Chelsea จบเกิน 2.5 ประตูทุกนัด และเสียอย่างน้อยสองลูกทุกนัดเช่นกัน",
+    "verdict": "Chelsea ชนะ 3-1 คุณภาพต่างกันเกินไปในเก้าสิบนาทีที่ Stamford Bridge และการที่ Hull ยิงได้แค่ 3 ประตูจากสามนัดแปลว่าพวกเขาไม่มีทางกดดันกลับได้ต่อเนื่อง ผมเลือกสกอร์ที่ห่างสองลูกแทนการชนะลูกเดียว เพราะทีมที่ผมเลือกให้ชนะเสียอย่างน้อยสองประตูมาแล้วทุกนัด"
+  },
+  "btts": true,
+  "confidence": "high",
+  "factpackHash": "305c4b3e334c5672505bb553a9da0768437f27ce6ecdee36b8d35c355787c542",
+  "guruId": "claude-opus-5",
+  "harness": "claude-code-routine",
+  "keyFactor": "สถิติไม่เสียประตูของ Hull เกิดจากการทำเกินค่า xG ที่ตัวเองสร้าง และ Chelsea คือทีมที่ยิงหนักที่สุดในสามนัดแรกของลีก",
+  "kickoffUtc": "2026-09-12T14:00:00.000Z",
+  "lockedAt": "2026-09-10T03:11:45.155Z",
+  "matchId": "epl-2627-r04-che-hul",
+  "model": {
+    "displayName": "Claude Opus 5",
+    "id": "claude-opus-5"
+  },
+  "over25": true,
+  "pick": "H",
+  "probs": {
+    "A": 0.14,
+    "D": 0.23,
+    "H": 0.63
+  },
+  "runId": "predict-20260910T030211Z-claude-opus-5",
+  "schemaVersion": 1,
+  "scoreline": {
+    "away": 1,
+    "home": 3
+  },
+  "sources": [
+    {
+      "accessedAt": "2026-09-10T03:20:00Z",
+      "title": "Caicedo, Palestra, Emegha updates: Chelsea injury and suspension list vs Hull",
+      "url": "https://www.sportsmole.co.uk/football/chelsea/injury-news/injuries-and-suspensions/caicedo-palestra-emegha-updates-chelsea-injury-suspension-list-vs-hull_604809.html"
+    },
+    {
+      "accessedAt": "2026-09-10T03:20:00Z",
+      "title": "Hull 0-0 Aston Villa Stats: Hull Maintain Unbeaten Record as Villa Fire Another Blank",
+      "url": "https://theanalyst.com/articles/hull-vs-aston-villa-stats-premier-league-09-2026"
+    },
+    {
+      "accessedAt": "2026-09-10T03:20:00Z",
+      "title": "Hull City boss Sergej Jakirovic hails amazing start as Tigers maintain unbeaten run and clean sheet record",
+      "url": "https://www.goal.com/en/lists/hull-city-sergej-jakirovic-unbeaten-start-clean-sheet-record-aston-villa/blt60a11b10c737d9a1"
+    },
+    {
+      "accessedAt": "2026-09-10T03:20:00Z",
+      "title": "Chelsea vs Hull City, Premier League 2026/27 match centre",
+      "url": "https://www.premierleague.com/en/match/2645227/chelsea-vs-hull-city"
+    }
+  ],
+  "wordCount": 545
+}

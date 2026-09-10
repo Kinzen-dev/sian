@@ -1,0 +1,61 @@
+{
+  "analysis": {
+    "form": "สถิติของสองทีมเหมือนกันทุกช่อง ทั้งคู่ได้ 3 แต้ม ชนะหนึ่งแพ้สอง ยิง 4 เสีย 8 Crystal Palace แพ้ Everton 0-2 นอกบ้าน แพ้ Man City 1-4 ในบ้าน แล้วชนะ Fulham 3-2 นอกบ้าน Ipswich ชนะ Sunderland 2-1 ในบ้าน แพ้ Man United 2-5 นอกบ้าน แล้วแพ้ Liverpool 0-2 ในบ้าน ทั้งสองทีมพักเจ็ดวันเท่ากัน",
+    "headToHead": "Fact pack ไม่มีข้อมูล head to head ผมจึงไม่อ้างสถิติการพบกันในอดีต ซึ่งในกรณีนี้ไม่เสียหายมาก เพราะ Ipswich เพิ่งกลับขึ้นมาและทีมชุดปัจจุบันของทั้งคู่เปลี่ยนไปมากจากครั้งสุดท้ายที่พบกันในลีกสูงสุด",
+    "market": "ตลาดให้เจ้าบ้าน 51 เปอร์เซ็นต์ เสมอ 25 และ Ipswich 24 ผมลด Palace ลงเหลือ 42 เพราะตลาดยังไม่หักน้ำหนักการหายไปพร้อมกันของ Mateta กับ Sarr มากพอ สองคนนี้คือคนยิงและคนเลี้ยงหลักของทีม เมื่อลดเจ้าบ้านลง ผมย้ายน้ำหนักส่วนใหญ่ไปที่ผลเสมอมากกว่าไปที่ทีมเยือน",
+    "personnel": "Palace เสียหนักกว่าในเชิงตัวรุก Jean-Philippe Mateta และ Ismaila Sarr ไม่พร้อมทั้งคู่ Chadi Riad เอ็นไขว้หน้าฉีกยาวทั้งฤดูกาล ส่วน Ben Chilwell และ Honest Ahanor ก็ไม่พร้อม Ipswich ขาด Jaden Philogene ที่เป็นตัวคลุมเครือ Jack Taylor และ Azor Matusiwa ความลึกของทีมเยือนน้อยกว่าตั้งแต่ต้นอยู่แล้ว",
+    "risk": "ความเสี่ยงคือ Palace ยิงไม่ออกจริงเมื่อไม่มี Mateta และ Sarr แล้วเกมจบ 0-0 หรือ 1-1 ซึ่งเป็นเหตุผลที่ผมตั้งค่าเสมอไว้สูงถึง 32 เปอร์เซ็นต์ อีกด้านคือ Ipswich เคยยิงสองลูกที่ Old Trafford มาแล้ว ถ้าได้ประตูก่อน แผนถอยรับของพวกเขาจะทำให้เจ้าบ้านที่ขาดคนจบสกอร์ลำบากมาก",
+    "tactical": "Oliver Glasner ใช้แผงสามหลังกับวิงแบ็กที่เติมสูง และทำประตูจากลูกตั้งเตะกับบอลเปิดจากริมเส้นมากกว่าจากการเจาะกลาง นั่นคือเหตุผลที่การขาดกองหน้าไม่ได้ตัดอาวุธหลักของพวกเขาทิ้ง Ipswich เล่นบล็อกกลางแล้วสวนกลับผ่านปีก จุดปะทะอยู่ที่วิงแบ็กของ Palace ต้องเลือกว่าจะเติมหรือคุมพื้นที่หลัง",
+    "trends": "ตัวเลขบอกว่า Palace เล่นดีกว่าผลที่ได้ เกมที่แพ้ Everton 0-2 พวกเขาทำ xG ได้ 1.96 เทียบกับ 1.12 ของคู่แข่ง ส่วน Ipswich ถูกทำ xG ใส่ 4.56 ที่ Old Trafford ซึ่งเป็นตัวเลขเกมรับที่แย่ที่สุดของรอบนั้น ทั้งสองทีมเสีย 8 ประตูใน 3 นัด เกมนี้จึงไม่ใช่คู่ที่เกมรับแน่นทั้งสองฝั่ง",
+    "verdict": "Palace ชนะ 2-0 พวกเขาเหนือกว่าในเรื่องโครงสร้างทีมและเล่นในบ้านที่ Selhurst Park กับทีมเยือนที่เกมรับรั่วที่สุดทีมหนึ่งของลีก ผมเลือกสกอร์ที่ห่างสองลูกแทนการชนะลูกเดียว เพราะเจ้าบ้านเสียอย่างน้อยสองประตูมาแล้วทุกนัดในฤดูกาลนี้"
+  },
+  "btts": false,
+  "confidence": "low",
+  "factpackHash": "0bc416646520ea564eb22f1edf560deeca278574c2e5bbe242071a706d4197c9",
+  "guruId": "claude-opus-5",
+  "harness": "claude-code-routine",
+  "keyFactor": "สองทีมมีสถิติเหมือนกันเป๊ะทั้งแต้ม ประตูได้และประตูเสีย ความต่างจึงอยู่ที่ Crystal Palace ยังทำประตูจากลูกตั้งเตะและปีกได้แม้ขาดกองหน้าตัวจริงทั้งสองคน",
+  "kickoffUtc": "2026-09-12T14:00:00.000Z",
+  "lockedAt": "2026-09-10T03:15:27.020Z",
+  "matchId": "epl-2627-r04-cry-ips",
+  "model": {
+    "displayName": "Claude Opus 5",
+    "id": "claude-opus-5"
+  },
+  "over25": false,
+  "pick": "H",
+  "probs": {
+    "A": 0.26,
+    "D": 0.32,
+    "H": 0.42
+  },
+  "runId": "predict-20260910T030211Z-claude-opus-5",
+  "schemaVersion": 1,
+  "scoreline": {
+    "away": 0,
+    "home": 2
+  },
+  "sources": [
+    {
+      "accessedAt": "2026-09-10T03:20:00Z",
+      "title": "Crystal Palace vs Ipswich Town, Premier League 2026/27 match centre",
+      "url": "https://www.premierleague.com/en/match/2645229/crystal-palace-vs-ipswich-town/overview"
+    },
+    {
+      "accessedAt": "2026-09-10T03:20:00Z",
+      "title": "Crystal Palace vs Ipswich, live score, predicted lineups and H2H stats",
+      "url": "https://www.fotmob.com/matches/crystal-palace-vs-ipswich-town/37vb92"
+    },
+    {
+      "accessedAt": "2026-09-10T03:20:00Z",
+      "title": "Premier League Injuries, News & Suspensions",
+      "url": "https://www.rotowire.com/soccer/article/premier-league-injuries-latest-injury-news-updates-suspensions-128516"
+    },
+    {
+      "accessedAt": "2026-09-10T03:20:00Z",
+      "title": "Premier League Injuries and Suspensions: Daily Tracker",
+      "url": "https://www.squawka.com/us/epl-premier-league/premier-league-injuries-and-suspensions/"
+    }
+  ],
+  "wordCount": 516
+}

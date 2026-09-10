@@ -1,0 +1,61 @@
+{
+  "analysis": {
+    "form": "Liverpool ยังไม่แพ้ เก็บ 5 แต้มจาก 3 นัด เสมอ Newcastle 2-2 นอกบ้าน เสมอ Nottingham Forest 2-2 ในบ้าน แล้วชนะ Ipswich 2-0 นอกบ้าน ยิง 6 เสีย 4 Fulham เป็นทีมเดียวในลีกที่ยังไม่มีแต้มเลย แพ้ Chelsea 2-3 แพ้ Sunderland 0-1 และแพ้ Crystal Palace 2-3 ในบ้าน อยู่อันดับ 19 ยิง 4 เสีย 7",
+    "headToHead": "Fact pack ไม่แนบสถิติการพบกันมาให้ ผมจึงไม่นำผลการเจอกันครั้งก่อนมาถ่วงน้ำหนัก และเลือกใช้ฟอร์มปัจจุบันกับสถานะของทั้งสองสโมสรแทน จุดที่ต้องระวังคือ Fulham มักเล่นกับ Liverpool ได้ดีกว่าที่อันดับบอก แต่ผมไม่มีแหล่งข้อมูลลงวันที่ปัจจุบันมายืนยัน จึงไม่ให้น้ำหนักกับมัน",
+    "market": "ตลาดให้ Liverpool ชนะ 66 เปอร์เซ็นต์ เสมอ 19 และ Fulham 15 ผมเห็นด้วยเกือบทั้งหมดและขยับเจ้าบ้านขึ้นเล็กน้อยเป็น 67 เหตุผลคือการเปลี่ยนกุนซือกลางฤดูกาลเริ่มต้นทำให้ทีมเยือนยังไม่มีรูปแบบที่มั่นคงพอจะไปเก็บแต้มที่ Anfield ผมไม่ขยับมากกว่านี้เพราะเกมรับของ Liverpool เองก็ยังรั่ว",
+    "personnel": "Liverpool ขาด Conor Bradley ที่เจ็บเข่ายาวถึงต้นปีหน้า Federico Chiesa และ Giovanni Leoni กลับปลายเดือนตุลาคม ส่วน Hugo Ekitike กับ Joe Gomez ยังไม่พร้อม Bradley Barcola ที่เพิ่งย้ายมาคาดว่าจะได้ลงตัวจริงนัดแรกในลีก ความลึกของทีมยังพอรับมือได้ ฝั่ง Fulham ไม่มีรายงานตัวเจ็บระดับเปลี่ยนเกมเพิ่มเติม",
+    "risk": "ความเสี่ยงคือ Liverpool ถูกสวนกลับซ้ำรอยเกมกับ Forest ที่พวกเขาครองบอลแล้วเสียสองประตูในบ้าน ถ้า Fulham ได้ประตูก่อนแล้วถอยลงต่ำ เกมนี้จบเสมอได้ อีกความเสี่ยงคือ Barcola ที่ลงตัวจริงนัดแรกอาจยังเข้ากับจังหวะทีมไม่ได้ ทำให้แนวรุกเจ้าบ้านฝืดกว่าที่ตัวเลขคาด",
+    "tactical": "Liverpool เล่นเกมกดสูงและใช้ฟูลแบ็กเติมเข้าใน เกมกับ Forest พวกเขาถูกสวนกลับจนเสียสองประตูซึ่งเป็นจุดอ่อนที่ยังแก้ไม่จบ Fulham ภายใต้ Alvaro Arbeloa ยังหารูปแบบไม่ลงตัว แต่พวกเขายิงได้สองลูกในสองจากสามนัด จุดปะทะอยู่ที่พื้นที่หลังฟูลแบ็กของเจ้าบ้านเมื่อเสียบอลในแดนบน",
+    "trends": "Liverpool ทำ xG ได้ 2.98 ที่ St James Park แต่ถูก Forest ทำใส่ 2.3 ในบ้าน เกมรับจึงเป็นจุดที่ยังต้องจับตา ที่สำคัญคือพวกเขายิงได้สองประตูทุกนัดในสามนัดแรก ส่วน Fulham ทำ xG ได้แค่ 0.95 ที่ Sunderland และ 1.35 กับ Chelsea แนวรุกยังพอทำงานได้แต่เกมรับเสียสามลูกถึงสองนัด",
+    "verdict": "Liverpool ชนะ 2-1 เจ้าบ้านมีคุณภาพในการจบสกอร์เหนือกว่าชัดเจนและได้พักเต็มสัปดาห์เท่ากับคู่แข่ง Fulham จะได้ประตูจากจังหวะสวนกลับหรือลูกตั้งเตะเพราะแนวรับเจ้าบ้านยังเปิดช่องให้เห็นทุกนัด แต่ไม่พอจะเปลี่ยนผลเกม"
+  },
+  "btts": true,
+  "confidence": "high",
+  "factpackHash": "5eb4878dbfeb99b6970646aa14b773460e93148c81fb0a6cf0a16f8656052530",
+  "guruId": "claude-opus-5",
+  "harness": "claude-code-routine",
+  "keyFactor": "Fulham ยังไม่มีแต้มและอยู่ระหว่างเปลี่ยนกุนซือใหม่ ขณะที่ Liverpool ยิงได้สองประตูทุกนัดในลีกฤดูกาลนี้",
+  "kickoffUtc": "2026-09-12T14:00:00.000Z",
+  "lockedAt": "2026-09-10T03:15:27.914Z",
+  "matchId": "epl-2627-r04-liv-ful",
+  "model": {
+    "displayName": "Claude Opus 5",
+    "id": "claude-opus-5"
+  },
+  "over25": true,
+  "pick": "H",
+  "probs": {
+    "A": 0.14,
+    "D": 0.19,
+    "H": 0.67
+  },
+  "runId": "predict-20260910T030211Z-claude-opus-5",
+  "schemaVersion": 1,
+  "scoreline": {
+    "away": 1,
+    "home": 2
+  },
+  "sources": [
+    {
+      "accessedAt": "2026-09-10T03:20:00Z",
+      "title": "Premier League Injuries, News & Suspensions",
+      "url": "https://www.rotowire.com/soccer/article/premier-league-injuries-latest-injury-news-updates-suspensions-128516"
+    },
+    {
+      "accessedAt": "2026-09-10T03:20:00Z",
+      "title": "English Premier League previews and team news",
+      "url": "https://www.thestatszone.com/football/english-premier-league"
+    },
+    {
+      "accessedAt": "2026-09-10T03:20:00Z",
+      "title": "2026-27 Fulham F.C. season",
+      "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Fulham_F.C._season"
+    },
+    {
+      "accessedAt": "2026-09-10T03:20:00Z",
+      "title": "Liverpool vs Fulham, live score, predicted lineups and H2H stats",
+      "url": "https://www.fotmob.com/matches/liverpool-vs-fulham/2u7pyg"
+    }
+  ],
+  "wordCount": 528
+}

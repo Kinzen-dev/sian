@@ -1,0 +1,61 @@
+{
+  "analysis": {
+    "form": "Sunderland ได้ 4 แต้มจาก 3 นัด แพ้ Ipswich 1-2 นอกบ้าน ชนะ Fulham 1-0 ในบ้าน แล้วเสมอ Brentford 1-1 นอกบ้านจากจุดโทษของ Enzo Le Fee นาทีที่ 81 ยิง 3 เสีย 3 อยู่อันดับ 12 Arsenal ชนะครบสามนัด ถล่ม Coventry 3-0 ชนะ Aston Villa 1-0 นอกบ้าน และชนะ Chelsea 2-1 ในบ้านจากประตูของ Kai Havertz กับ Martin Odegaard เก็บ 9 แต้มเต็ม ยิง 6 เสีย 1",
+    "headToHead": "Fact pack ไม่มีข้อมูล head to head แนบมา แหล่งข่าวก่อนเกมระบุว่า Arsenal เหนือกว่าในห้านัดหลังสุดของสองทีมอย่างชัดเจน แต่ในจำนวนนั้นส่วนใหญ่เล่นที่ Emirates ผมจึงให้น้ำหนักกับสถิติชุดนี้แบบจำกัด และใช้ฟอร์มฤดูกาลนี้เป็นฐานหลักแทน",
+    "market": "ตลาดให้ Arsenal ชนะ 64 เปอร์เซ็นต์ เสมอ 23 และเจ้าบ้าน 13 ผมลดทีมเยือนลงเหลือ 56 ตามหลักที่ผมยึดว่าเมื่อทีมใดเก็บผลเกินกว่าที่ xG รองรับ ต้องหักค่าลงก่อนสรุป การขาด Saliba และ Timber พร้อมกันในเกมเยือนที่บรรยากาศกดดันก็เป็นเหตุผลเสริม น้ำหนักที่ลดไปอยู่ที่ผลเสมอเป็นหลัก",
+    "personnel": "Arsenal ขาดปราการหลังสองคนคือ William Saliba ที่มีปัญหาหลังและอาจยาวถึงช่วงหน้าหนาว กับ Jurrien Timber ที่เพิ่งผ่าตัดขาหนีบ นี่คือการขาดที่ลึกที่สุดของพวกเขาในตอนนี้ ฝั่ง Sunderland กัปตันทีม Granit Xhaka มีปัญหาข้อเท้าและอาจไม่ได้ลงทั้งเดือน การเสียคนคุมจังหวะเกมของตัวเองเป็นราคาที่แพงสำหรับเจ้าบ้าน",
+    "risk": "ความเสี่ยงหลักคือ Sunderland ในบ้านทำ xG ได้ถึง 2.02 มาแล้ว และการขาดปราการหลังสองคนของ Arsenal เปิดช่องให้ลูกตั้งเตะกับบอลกลางอากาศของเจ้าบ้านทำงานได้ ถ้า Sunderland ได้ประตูก่อน เกมจะเปลี่ยนทันที ผมจึงตั้งค่าเสมอไว้ 26 เปอร์เซ็นต์ ซึ่งสูงกว่าค่าเฉลี่ยของลีก",
+    "tactical": "Arsenal คุมเกมด้วยการครองบอลและอันตรายที่สุดจากลูกตั้งเตะ ส่วน Sunderland ที่ Stadium of Light เล่นเกมรับเป็นบล็อกและอาศัยการเปลี่ยนเกมเร็วผ่าน Enzo Le Fee ไปหา Brian Brobbey จุดปะทะสำคัญคือแนวรับกลางของทีมเยือน เมื่อขาด William Saliba กับ Jurrien Timber การรับบอลยาวและจังหวะหนึ่งต่อหนึ่งในพื้นที่กว้างจะเป็นภาระของ Gabriel กับ Ezri Konsa",
+    "trends": "ตัวเลขบอกว่า Arsenal มีประสิทธิภาพสูงมากกว่าจะบดขยี้ พวกเขาทำ xG ได้ 1.88 กับ Coventry และ 1.05 ที่ Villa Park แต่ยิงรวมหกลูก นั่นคือการทำเกินพื้นฐาน ส่วนเกมรับของพวกเขาแน่นจริง ปล่อยให้คู่แข่งทำ xG ได้แค่ 0.2 กับ 0.32 Sunderland ทำ xG ได้ 2.02 ในเกมที่ชนะ Fulham ซึ่งเป็นตัวเลขในบ้านที่น่าเคารพ",
+    "verdict": "Arsenal ชนะ 1-0 พวกเขาเหนือกว่าในทุกแผงและเกมรับยังไม่มีใครเจาะได้จริงในฤดูกาลนี้ แต่นี่จะเป็นชัยชนะแบบอดทน ไม่ใช่เกมที่จบเร็ว ผมมองว่าประตูจะมาจากลูกตั้งเตะหรือช่วงที่เจ้าบ้านเริ่มหมดแรงในครึ่งหลัง"
+  },
+  "btts": false,
+  "confidence": "mid",
+  "factpackHash": "5968f7db7a7a76677a146bb31a658d909a815818d94f0811293e7313981d143b",
+  "guruId": "claude-opus-5",
+  "harness": "claude-code-routine",
+  "keyFactor": "Arsenal ชนะสามนัดรวดโดยเสียแค่ลูกเดียว แต่ทำประตูเกินค่า xG ของตัวเองอยู่พอสมควร และต้องเจอเกมเยือนที่ยากที่สุดเกมหนึ่งของลีก",
+  "kickoffUtc": "2026-09-12T19:00:00.000Z",
+  "lockedAt": "2026-09-10T03:15:29.673Z",
+  "matchId": "epl-2627-r04-sun-ars",
+  "model": {
+    "displayName": "Claude Opus 5",
+    "id": "claude-opus-5"
+  },
+  "over25": false,
+  "pick": "A",
+  "probs": {
+    "A": 0.56,
+    "D": 0.26,
+    "H": 0.18
+  },
+  "runId": "predict-20260910T030211Z-claude-opus-5",
+  "schemaVersion": 1,
+  "scoreline": {
+    "away": 1,
+    "home": 0
+  },
+  "sources": [
+    {
+      "accessedAt": "2026-09-10T03:20:00Z",
+      "title": "Sunderland vs Arsenal Premier League preview: Everything you need to know",
+      "url": "https://www.goal.com/en/news/sunderland-arsenal-premier-league-preview/bltb47492bc223f20ed"
+    },
+    {
+      "accessedAt": "2026-09-10T03:20:00Z",
+      "title": "Sunderland vs Arsenal, Premier League 2026/27 match centre",
+      "url": "https://www.premierleague.com/en/match/2645233/sunderland-vs-arsenal"
+    },
+    {
+      "accessedAt": "2026-09-10T03:20:00Z",
+      "title": "Premier League Injuries, News & Suspensions",
+      "url": "https://www.rotowire.com/soccer/article/premier-league-injuries-latest-injury-news-updates-suspensions-128516"
+    },
+    {
+      "accessedAt": "2026-09-10T03:20:00Z",
+      "title": "Premier League Latest Injury News, club by club updates",
+      "url": "https://www.premierleague.com/en/latest-player-injuries"
+    }
+  ],
+  "wordCount": 546
+}

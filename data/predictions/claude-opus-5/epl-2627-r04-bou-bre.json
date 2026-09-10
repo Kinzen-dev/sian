@@ -1,0 +1,61 @@
+{
+  "analysis": {
+    "form": "Bournemouth ได้ 2 แต้มจาก 3 นัด แพ้ Man City 1-2 เสมอ Everton 1-1 ในบ้าน และเสมอ Newcastle 2-2 นอกบ้าน เป็นการเริ่มต้นที่ไม่แย่แต่ยังไม่ชนะใครภายใต้ Marco Rose ที่เพิ่งเข้ามาคุมทีม Brentford ได้ 5 แต้ม ยังไม่แพ้ ถล่ม Tottenham 3-0 ในบ้าน แล้วเสมอ Leeds 1-1 กับ Sunderland 1-1 นอกบ้านทั้งคู่ อยู่อันดับ 5 ของตาราง",
+    "headToHead": "Fact pack ไม่ได้แนบสถิติการพบกันของสองทีมมาให้ ผมจึงไม่ใช้ตัวเลข head to head ในการตัดสินใจนัดนี้ และให้น้ำหนักกับฟอร์มปัจจุบันกับสไตล์การเล่นแทน ซึ่งเป็นข้อมูลที่ตรวจสอบได้ในสามนัดที่ผ่านมา",
+    "market": "ตลาดให้เจ้าบ้านราว 38 เปอร์เซ็นต์ เสมอ 26 และ Brentford 36 ซึ่งเกือบเท่ากัน ผมเห็นต่างเล็กน้อยตรงที่ยกทีมเยือนขึ้นเป็นตัวเต็ง เพราะตัวเลข xG ของ Brentford ดีกว่าและยังไม่แพ้ใคร ขณะที่ Bournemouth เสียกองหน้าไปหลายคนพร้อมกัน ผมไม่ได้ขยับมาก เพราะข่าวของ Collins หักล้างส่วนหนึ่ง",
+    "personnel": "Bournemouth ขาด Julian Araujo เจ็บต้นขา Eli Kroupi เจ็บข้อเท้า Amine Adli เจ็บน่อง และ Veljko Milosavljevic เจ็บเข่า ทำให้ตัวเลือกเกมรุกบางลงมาก Brentford ขาด Joshua Dasilva Antoni Milambo Sepp van den Berg และ Mathias Jensen ส่วน Nathan Collins เป็นตัวคลุมเครือ ทั้งคู่พักเจ็ดวันเท่ากันจึงไม่มีใครได้เปรียบเรื่องความสด",
+    "risk": "ความเสี่ยงคือสถิติไม่แพ้ในบ้านของ Bournemouth และการที่ทีมเยือนเสมอสองนัดรวดนอกบ้านมาแล้ว ถ้า Collins ลงเล่นได้ตามปกติ เกมนี้มีโอกาสจบเสมอสูงกว่าที่ผมให้ไว้ ผมจึงตั้งค่าเสมอไว้ที่ 30 เปอร์เซ็นต์ และไม่ดัน Brentford ขึ้นเกินสี่สิบ ทั้งที่ตัวเลขพื้นฐานของพวกเขาดีกว่า",
+    "tactical": "ทั้งสองทีมเล่นเกมกดดันสูงและเปลี่ยนเกมเร็ว จึงเป็นคู่ที่มีพื้นที่เปิดกลางสนามมากกว่าปกติ Brentford อันตรายที่สุดจากลูกตั้งเตะและบอลยาวเข้าหา Kevin Schade ส่วน Bournemouth อาศัยการเติมของ Marcus Tavernier กับ Alex Scott จุดปะทะอยู่ที่แนวรับกลางของ Brentford ถ้า Nathan Collins ไม่ฟิต เกมลูกกลางอากาศของทีมเยือนจะอ่อนลงทันที",
+    "trends": "Brentford ทำ xG ได้ 3.88 ในเกมที่ชนะ Tottenham และ 1.56 ที่ Leeds ส่วน Bournemouth ทำได้ 2.15 ในบ้านกับ Everton แต่เหลือ 0.63 ที่ Man City ค่าเฉลี่ยของทีมเยือนจึงสม่ำเสมอกว่า ที่สำคัญคือทั้งสองทีมยิงและเสียประตูทุกนัดในสามนัดแรก สามนัดของ Bournemouth มีทั้งสองทีมทำประตูครบทุกนัด",
+    "verdict": "Brentford ชนะ 2-1 ทีมเยือนมีคุณภาพในการจบสกอร์เหนือกว่าและได้ประโยชน์จากเกมที่เปิด Bournemouth จะทำประตูได้เพราะเกมรับของ Brentford ไม่แน่นเมื่อขาดตัวหลัก แต่แนวรุกที่บางลงจะทำให้พวกเขาสร้างโอกาสระดับดีได้น้อยกว่าคู่แข่งตลอดเก้าสิบนาที"
+  },
+  "btts": true,
+  "confidence": "low",
+  "factpackHash": "34c6249f1309420debefb8713d3e6cdf93d8baec5150843d8b535737b3813de0",
+  "guruId": "claude-opus-5",
+  "harness": "claude-code-routine",
+  "keyFactor": "Brentford ยังไม่แพ้และมีค่า xG ที่แข็งกว่าชัดเจน ขณะที่ Bournemouth เสียกองหน้าไปพร้อมกันสี่คนภายใต้กุนซือคนใหม่ที่ยังจูนทีมไม่ลงตัว",
+  "kickoffUtc": "2026-09-12T14:00:00.000Z",
+  "lockedAt": "2026-09-10T03:11:44.273Z",
+  "matchId": "epl-2627-r04-bou-bre",
+  "model": {
+    "displayName": "Claude Opus 5",
+    "id": "claude-opus-5"
+  },
+  "over25": true,
+  "pick": "A",
+  "probs": {
+    "A": 0.38,
+    "D": 0.3,
+    "H": 0.32
+  },
+  "runId": "predict-20260910T030211Z-claude-opus-5",
+  "schemaVersion": 1,
+  "scoreline": {
+    "away": 2,
+    "home": 1
+  },
+  "sources": [
+    {
+      "accessedAt": "2026-09-10T03:20:00Z",
+      "title": "Match Preview: Bournemouth vs Brentford 12-09-26 Premier League",
+      "url": "https://www.squawka.com/ca/news/premier-league/match-preview-bournemouth-vs-brentford-12-09-26-premier-league/"
+    },
+    {
+      "accessedAt": "2026-09-10T03:20:00Z",
+      "title": "Bournemouth vs Brentford, Premier League 12-09-2026 match centre",
+      "url": "https://www.squawka.com/en/match-centre/bournemouth-vs-brentford-premier-league-12-09-2026/"
+    },
+    {
+      "accessedAt": "2026-09-10T03:20:00Z",
+      "title": "Premier League Injuries, News & Suspensions",
+      "url": "https://www.rotowire.com/soccer/article/premier-league-injuries-latest-injury-news-updates-suspensions-128516"
+    },
+    {
+      "accessedAt": "2026-09-10T03:20:00Z",
+      "title": "Bournemouth v Brentford, official club match page",
+      "url": "https://www.brentfordfc.com/en/match/bournemouth-vs-brentford-english-premier-league-2026-09-12"
+    }
+  ],
+  "wordCount": 523
+}
