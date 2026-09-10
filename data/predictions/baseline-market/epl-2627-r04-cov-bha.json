@@ -1,0 +1,19 @@
+{
+  "btts": true,
+  "factpackHash": "aec8b9e40756fde58c69d9ee4160617f87ce3cb3ab2adc22cd03571ac1915440",
+  "guruId": "baseline-market",
+  "kickoffUtc": "2026-09-13T13:00:00.000Z",
+  "kind": "baseline",
+  "lockedAt": "2026-09-10T15:24:15.432Z",
+  "matchId": "epl-2627-r04-cov-bha",
+  "note": "market median of 21 books",
+  "over25": true,
+  "pick": "A",
+  "probs": {
+    "A": 0.5088,
+    "D": 0.2522,
+    "H": 0.239
+  },
+  "schemaVersion": 1,
+  "scoreline": null
+}
