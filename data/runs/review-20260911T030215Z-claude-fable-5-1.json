@@ -1,0 +1,15 @@
+{
+  "errors": [],
+  "finishedAt": "2026-09-11T03:05:23.302Z",
+  "guruId": "claude-fable-5-1",
+  "harness": "claude-code-routine",
+  "mode": "review",
+  "runId": "review-20260911T030215Z-claude-fable-5-1",
+  "skipped": [],
+  "startedAt": "2026-09-11T03:02:15.726Z",
+  "submitted": [
+    "ucl-2627-r01-fen-rom",
+    "ucl-2627-r01-psv-shk",
+    "ucl-2627-r01-sla-len"
+  ]
+}
