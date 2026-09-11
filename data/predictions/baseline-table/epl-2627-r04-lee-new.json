@@ -1,0 +1,19 @@
+{
+  "btts": true,
+  "factpackHash": "d50237464b08e610edccae628d21f4b449043967afbc446aa62b4124a06d0358",
+  "guruId": "baseline-table",
+  "kickoffUtc": "2026-09-14T19:00:00.000Z",
+  "kind": "baseline",
+  "lockedAt": "2026-09-11T20:10:12.327Z",
+  "matchId": "epl-2627-r04-lee-new",
+  "note": "table positions 9 v 7",
+  "over25": true,
+  "pick": "A",
+  "probs": {
+    "A": 0.5,
+    "D": 0.26,
+    "H": 0.24
+  },
+  "schemaVersion": 1,
+  "scoreline": null
+}
