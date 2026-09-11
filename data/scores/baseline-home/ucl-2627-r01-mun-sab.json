@@ -1,0 +1,25 @@
+{
+  "brier": 0.40880000000000005,
+  "guruId": "baseline-home",
+  "late": false,
+  "logLoss": 0.7339691750802004,
+  "marketFavourite": null,
+  "matchId": "ucl-2627-r01-mun-sab",
+  "points": {
+    "btts": 0,
+    "exact": 0,
+    "ou": 0.5,
+    "outcome": 1,
+    "total": 1.5,
+    "upset": 0
+  },
+  "result": {
+    "away": 0,
+    "home": 4,
+    "outcome": "H"
+  },
+  "resultHash": "702e6c947d8c621fe76a7a4476671240c95bb15d661c0f0950d04974e0d09f17",
+  "schemaVersion": 1,
+  "scoredAt": "2026-09-11T01:52:26.339Z",
+  "void": null
+}
