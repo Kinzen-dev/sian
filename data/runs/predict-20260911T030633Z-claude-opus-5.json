@@ -1,0 +1,14 @@
+{
+  "errors": [],
+  "finishedAt": "2026-09-11T03:18:45.388Z",
+  "guruId": "claude-opus-5",
+  "harness": "claude-code-routine",
+  "mode": "predict",
+  "runId": "predict-20260911T030633Z-claude-opus-5",
+  "skipped": [],
+  "startedAt": "2026-09-11T03:06:33.984Z",
+  "submitted": [
+    "epl-2627-r04-cov-bha",
+    "epl-2627-r04-mun-mci"
+  ]
+}
