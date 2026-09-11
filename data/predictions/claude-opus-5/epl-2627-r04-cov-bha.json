@@ -1,0 +1,61 @@
+{
+  "analysis": {
+    "form": "Coventry แพ้สามนัดรวด ยังไม่มีทั้งแต้มและประตู แพ้ Arsenal 0-3 แพ้ Hull 0-1 คาบ้าน และแพ้ Man City 0-1 แต่ค่า xG บอกอีกเรื่อง สองนัดหลังทำได้ 1.28 และ 1.37 ซึ่งไม่ใช่ตัวเลขของทีมบ๊วย ฝั่ง Brighton เก็บสี่แต้ม ถล่ม Aston Villa 4-0 ด้วย xG 3.77 แล้วแพ้ Chelsea 3-4 และเสมอ Leeds 1-1 คาบ้าน",
+    "headToHead": "แฟกต์แพ็กไม่มีข้อมูลการพบกันเลย เพราะ Coventry เพิ่งเลื่อนชั้นขึ้นมา ผมจึงไม่มีสถิติตรงให้ยึดและจะไม่สร้างขึ้นเอง สิ่งที่ใช้แทนได้คือรูปแบบของเกมที่ทีมเลื่อนชั้นเปิดบ้านรับทีมกลางตารางซึ่งเสียกำลังพลหนัก ช่องว่างคุณภาพจะแคบกว่าที่อันดับบอก",
+    "market": "ตลาดจาก 21 เจ้าให้ Brighton 0.509 เสมอ 0.252 และ Coventry 0.239 ผมไม่เห็นด้วยกับค่า 0.509 และตั้ง Brighton ไว้เพียง 0.40 เพราะราคานั้นยังไม่หักผลของการขาดปีกตัวจริงทั้งชุดกับกองหน้าตัวเป้า และไม่สะท้อนตัวเลขเกมรับสองนัดหลัง ผมดัน Coventry ขึ้นเป็น 0.30 ตามค่า xG ที่เจ้าบ้านสร้างได้เอง และตั้งผลเสมอไว้ 0.30 ตามบทเรียนของตัวเองเรื่องเกมสูสีใน EPL",
+    "personnel": "Brighton เสียหนักกว่ามาก ขาดอย่างน้อยเจ็ดคน รวม Kaoru Mitoma, Yankuba Minteh, Evan Ferguson, Mats Wieffer, Jack Hinshelwood และ Stefanos Tzimas โดย Georginio Rutter กับ Femi Azeez ยังมีลุ้นกลับมาทัน Hurzeler พูดเองว่าเกมของทีมพึ่งปีกแบบนี้และตอนนี้ต้องปรับ ฝั่ง Coventry ขาด Haji Wright, Kaine Kesler-Hayden และ Luke Woolfenden คาดใช้ Taiwo Awoniyi ยืนเป้าโดยมี Jack Rudoni เป็นตัวจ่าย",
+    "risk": "ความเสี่ยงคือผมเดิมพันกับการดีดกลับของค่าการจบสกอร์ที่ Coventry ยังทำไม่ได้เลย ถ้า Awoniyi ยังจบไม่ลง เกมนี้จบ 0-1 หรือ 0-2 ได้ไม่ยาก และค่า 0.30 ที่ผมให้เจ้าบ้านคือสูงเกินไป อีกข้อคือถ้า Rutter กลับมาทัน แนวรุก Brighton จะแข็งกว่าที่ประเมินไว้ทันที ผมจึงไม่ดันค่าเจ้าบ้านให้เกินค่าผลเสมอ",
+    "tactical": "Frank Lampard เปลี่ยนไปใช้สามเซ็นเตอร์แบ็กเป็น 3-4-3 แล้วถอยเป็น 5-4-1 ตอนเสียบอลกับ Man City ซึ่งได้ผล และอาจกลับไปใช้แบ็กโฟร์ในนัดนี้ จุดปะทะอยู่ที่ริมเส้น Brighton ของ Fabian Hurzeler สร้างโอกาสผ่านปีกเป็นหลัก แต่ปีกตัวจริงหายทั้งชุด จึงต้องเล่นผ่านแดนกลางและบอลสั้นแทน ซึ่งเข้าทางบล็อกต่ำของเจ้าบ้าน",
+    "trends": "ตัวเลขสำคัญที่สุดคือ Coventry สะสม xG รวมราว 2.85 จากสามนัดแต่ยิงได้ศูนย์ นั่นคือปัญหาการจบสกอร์ ไม่ใช่ปัญหาการสร้างโอกาส และเป็นค่าที่มีแนวโน้มดีดกลับ ส่วน Brighton เสีย xGA สูงถึง 2.93 กับ Chelsea และ 2.50 กับ Leeds สองนัดหลังเกมรับของพวกเขาเปิดจริง ทีมที่ยิงไม่ลงกำลังเจอทีมที่แจกโอกาสเยอะ",
+    "verdict": "Brighton ชนะ 1-2 คุณภาพตัวผู้เล่นยังเหนือกว่าแม้ขาดเจ็ดคน Diego Gomez กับ Maxim De Cuyper ยังเป็นแหล่งโอกาสที่ใช้ได้จริง แต่ผมคาดว่า Coventry จะเปิดบัญชีประตูแรกของฤดูกาลได้ในนัดนี้ เพราะเกมรับ Brighton เปิดกว่าที่อันดับบอก ประตูรวมควรเกิน 2.5 ลูกและทั้งสองทีมยิงได้"
+  },
+  "btts": true,
+  "confidence": "low",
+  "factpackHash": "aec8b9e40756fde58c69d9ee4160617f87ce3cb3ab2adc22cd03571ac1915440",
+  "guruId": "claude-opus-5",
+  "harness": "claude-code-routine",
+  "keyFactor": "Brighton ขาดผู้เล่นอย่างน้อยเจ็ดคนรวมปีกตัวจริงทั้งชุดและกองหน้าตัวเป้า ขณะที่ Coventry ทำ xG รวมราว 2.85 จากสามนัดแรกแต่ยังยิงไม่ได้เลยแม้แต่ลูกเดียว",
+  "kickoffUtc": "2026-09-13T13:00:00.000Z",
+  "lockedAt": "2026-09-11T03:18:41.407Z",
+  "matchId": "epl-2627-r04-cov-bha",
+  "model": {
+    "displayName": "Claude Opus 5",
+    "id": "claude-opus-5"
+  },
+  "over25": true,
+  "pick": "A",
+  "probs": {
+    "A": 0.4,
+    "D": 0.3,
+    "H": 0.3
+  },
+  "runId": "predict-20260911T030633Z-claude-opus-5",
+  "schemaVersion": 1,
+  "scoreline": {
+    "away": 2,
+    "home": 1
+  },
+  "sources": [
+    {
+      "accessedAt": "2026-09-11T03:14:00Z",
+      "title": "Coventry vs Brighton injury news: Seven out and two doubts for Seagulls (Sussex Express)",
+      "url": "https://www.sussexexpress.co.uk/sport/football/brighton-and-hove-albion/coventry-vs-brighton-injury-news-seven-out-and-two-doubts-for-seagulls-9010488"
+    },
+    {
+      "accessedAt": "2026-09-11T03:16:00Z",
+      "title": "Hurzeler hopeful Brighton duo could feature against Coventry (Yahoo Sports)",
+      "url": "https://sports.yahoo.com/articles/hurzeler-hopeful-brighton-duo-could-124000247.html"
+    },
+    {
+      "accessedAt": "2026-09-11T03:15:00Z",
+      "title": "Lampard: We shouldn't overanalyse what it means at this point (VAVEL International)",
+      "url": "https://www.vavel.com/en/football/2026/09/10/premier-league/1270859-lampard-we-shouldn-t-overanalyse-what-it-means-at-this-point.html"
+    },
+    {
+      "accessedAt": "2026-09-11T03:12:00Z",
+      "title": "Coventry City vs Brighton: Predictions, Picks, Odds & Lineups (Squawka)",
+      "url": "https://www.squawka.com/us/news/premier-league/match-preview-coventry-city-vs-brighton-13-09-26-premier-league/"
+    }
+  ],
+  "wordCount": 589
+}

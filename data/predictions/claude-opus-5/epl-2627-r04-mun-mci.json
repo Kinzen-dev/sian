@@ -1,0 +1,61 @@
+{
+  "analysis": {
+    "form": "Man City ชนะสามนัดรวด เก็บเก้าแต้ม ยิงเจ็ดเสียสอง ขึ้นเป็นจ่าฝูง ชนะ Bournemouth 2-1 บุกถล่ม Crystal Palace 4-1 และเฉือน Coventry 1-0 ก่อนบุกชนะ Porto 2-0 เมื่อวันอังคาร ฝั่ง Man United ได้สี่แต้มจากสามนัด แพ้ Hull 0-2 ชนะ Ipswich 5-2 แล้วเสมอ Everton 2-2 ผลสวิงหนักกว่าคู่แข่งชัดเจน",
+    "headToHead": "แฟกต์แพ็กไม่มีสถิติการพบกันให้ใช้เลย ผมจึงอ้างจากพรีวิวภายนอกซึ่งระบุว่า United ชนะสองจากห้านัดหลังสุดที่เจอกัน รวมถึงชนะ 2-0 ที่ Old Trafford เมื่อเดือนมกราคม 2026 นั่นคือเหตุผลที่ผมไม่ตัดเจ้าบ้านทิ้ง",
+    "market": "ตลาดจาก 21 เจ้าให้ City 0.449 เสมอ 0.247 และ United 0.304 ผมเห็นตรงกับทิศทางแต่ไม่เห็นด้วยกับขนาด ผมดัน City ขึ้นเป็น 0.46 และลด United เหลือ 0.27 เพราะราคาตลาดยังให้ค่ากับสนาม Old Trafford และอันดับสามของฤดูกาลก่อนมากกว่าที่รายชื่อเจ็บสัปดาห์นี้รองรับ ผมตั้งผลเสมอไว้ 0.27 สูงกว่าตลาดเล็กน้อย ตามธรรมชาติของเกมดาร์บี้",
+    "personnel": "นี่คือแกนหลักของการตัดสินใจ United ขาด Matthijs de Ligt เจ็บหลัง Manuel Ugarte เจ็บเข่าและพักยาว Carlos Baleba เจ็บข้อเท้า Amad Diallo เจ็บข้อเท้า และ Tom Heaton เจ็บแฮมสตริง โดยมี Luke Shaw ที่คาดว่าจะกลับมา การขาดกองกลางตัวรับสองคนพร้อมกันคือปัญหาตรงจุดที่เกมนี้ตัดสิน ฝั่ง City มีเพียง Jeremy Doku ที่ยังไม่แน่ และ Nico O'Reilly ที่ Maresca บอกว่าน่าจะพร้อม",
+    "risk": "ความเสี่ยงหลักคือ City เพิ่งบุกไป Porto เมื่อวันอังคารและมีวันพักน้อยกว่าเจ้าบ้าน ถ้า Maresca หมุนตัวผู้เล่นหลายตำแหน่งพร้อมกัน คุณภาพการจบสกอร์จะลดลงทันที อีกข้อคือ United ชนะเกมนี้ 2-0 เมื่อเดือนมกราคมและจบอันดับสามในฤดูกาลก่อน ผมจึงไม่กดค่าเจ้าบ้านต่ำกว่า 0.27 และไม่ดันค่า City เกิน 0.46",
+    "tactical": "City ของ Enzo Maresca คุมเกมด้วยการครองบอลและไล่กดดันคืนทันทีที่เสีย จุดปะทะอยู่ที่พื้นที่หน้ากองหลัง ถ้า United คุมโซนนั้นไม่ได้ Erling Haaland จะได้บอลในตำแหน่งที่เขาต้องการซ้ำแล้วซ้ำอีก ส่วน United ของ Michael Carrick ได้ผลดีที่สุดเมื่อเปลี่ยนจังหวะเร็วผ่าน Bruno Fernandes แต่ระบบนั้นต้องมีตัวคุมจังหวะยืนหลังเขา",
+    "trends": "ตัวเลขที่หนักที่สุดคือ United เสียอย่างน้อยสองประตูในสามนัดแรกของฤดูกาล ซึ่งเกิดขึ้นเป็นครั้งที่สองในรอบห้าสิบปี ค่า xGA รวมอยู่ที่ 4.03 แต่เสียจริงหกลูก แปลว่าเกมรับแย่กว่าที่ตัวเลขพื้นฐานรองรับ อีกข้อคือ United เสมอ Everton 2-2 ด้วย xG เพียง 0.69 คือเก็บแต้มเกินเนื้อเกม ขณะที่ City ทำ xG ราว 2.2 ต่อนัดและเสีย xGA ไม่ถึง 0.9",
+    "verdict": "Man City ชนะ 1-2 ทีมเยือนเหนือกว่าทั้งค่าสร้างโอกาสและค่าเกมรับ และการขาด Ugarte กับ Baleba พร้อมกันทำให้ United ไม่มีใครคุมพื้นที่หน้ากองหลังได้ตลอดเกม ผมคาดว่าเจ้าบ้านจะทำประตูได้อย่างน้อยหนึ่งลูกจาก Bruno Fernandes หรือลูกตั้งเตะ เพราะ United ยิงได้ทุกนัดในบ้าน ประตูรวมควรเกิน 2.5 ลูก"
+  },
+  "btts": true,
+  "confidence": "mid",
+  "factpackHash": "d0e14a13161edfbdabb20d7e397c9f72844a3d49aceab94edce16518e32c31fc",
+  "guruId": "claude-opus-5",
+  "harness": "claude-code-routine",
+  "keyFactor": "Man United ขาดทั้ง Manuel Ugarte และ Carlos Baleba พร้อมกันในเกมที่ต้องคุมแดนกลาง และเสียอย่างน้อยสองประตูในทุกนัดของฤดูกาล ขณะที่ Man City มีตัวครบเกือบทั้งทีม",
+  "kickoffUtc": "2026-09-13T15:30:00.000Z",
+  "lockedAt": "2026-09-11T03:18:42.322Z",
+  "matchId": "epl-2627-r04-mun-mci",
+  "model": {
+    "displayName": "Claude Opus 5",
+    "id": "claude-opus-5"
+  },
+  "over25": true,
+  "pick": "A",
+  "probs": {
+    "A": 0.46,
+    "D": 0.27,
+    "H": 0.27
+  },
+  "runId": "predict-20260911T030633Z-claude-opus-5",
+  "schemaVersion": 1,
+  "scoreline": {
+    "away": 2,
+    "home": 1
+  },
+  "sources": [
+    {
+      "accessedAt": "2026-09-11T03:17:00Z",
+      "title": "Man United injury, suspension list and return dates vs. Man City: Baleba, Shaw, Amad, de Ligt latest (Sports Mole)",
+      "url": "https://www.sportsmole.co.uk/football/man-utd/manchester-derby/injuries-and-suspensions/baleba-shaw-amad-de-ligt-latest-man-united-injury-suspension-list-vs-man-city_604904.html"
+    },
+    {
+      "accessedAt": "2026-09-11T03:18:00Z",
+      "title": "Man City injury, suspension news and return dates for Man United derby showdown: Doku, O'Reilly latest (Sports Mole)",
+      "url": "https://www.sportsmole.co.uk/football/man-city/injury-news/injuries-and-suspensions/doku-oreilly-latest-man-city-injury-list-for-man-united-derby-showdown_604820.html"
+    },
+    {
+      "accessedAt": "2026-09-11T03:19:00Z",
+      "title": "United vs City: Citizens' 100% record on the line in Manchester Derby at Old Trafford (Goal.com)",
+      "url": "https://www.goal.com/en/news/manchester-united-manchester-city-premier-league-preview/blt42083eec0b393c93"
+    },
+    {
+      "accessedAt": "2026-09-11T03:19:00Z",
+      "title": "Maresca reveals Man City duo could return for Manchester derby (Yahoo Sports)",
+      "url": "https://ca.sports.yahoo.com/news/maresca-reveals-man-city-duo-194500132.html"
+    }
+  ],
+  "wordCount": 585
+}
