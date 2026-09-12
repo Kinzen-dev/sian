@@ -1,0 +1,66 @@
+{
+  "analysis": {
+    "form": "แต้มเท่ากันที่ 5 จาก 3 นัด ยังไม่แพ้ทั้งคู่ Leeds ชนะ Nottingham Forest 1-0 แล้วเสมอ Brentford และ Brighton อย่างละ 1-1 ยิง 3 ประตูจาก xG 4.40 คือน้อยกว่าโอกาสที่สร้าง Newcastle เสมอ Liverpool 2-2 ชนะ Tottenham 2-0 เสมอ Bournemouth 2-2 ยิง 6 ประตูจาก xG เพียง 3.03 และเสีย 4 จาก xGAgainst 5.39 แฟกต์แพ็กไม่นับเกม EFL Cup กลางสัปดาห์ ซึ่ง Leeds แพ้ Chelsea 6-3 โดยเปลี่ยนตัวจริงแปดคน ทั้งคู่จึงพักขาหลักมาเท่ากัน",
+    "headToHead": "แฟกต์แพ็กระบุประวัติการพบกันเป็นค่าว่าง เพราะ Leeds เพิ่งกลับขึ้นมา ผมจึงให้ค่ากับฟอร์ม ตัวผู้เล่น และรูปแบบการเล่นแทน สิ่งที่ใช้ได้จริงคือ Elland Road คืนวันจันทร์กดดันทีมเยือนสูงกว่าค่าเฉลี่ย",
+    "market": "ตลาดจาก 20 เจ้าแบบ median de-vig ให้ H 0.41, D 0.27 และ A 0.32 คือยก Leeds เป็นต่อ แต่ต่ำกว่าค่าเฉลี่ยเจ้าบ้านของลีกที่ 0.45 ผมเห็นด้วยกับค่าเจ้าบ้าน แต่ย้ายน้ำหนักจากทีมเยือนไปที่ผลเสมอ เพราะ Newcastle ไม่มีตัวเลขรองรับค่า 0.32",
+    "personnel": "Leeds เสีย Joe Rodon ยาว 8 ถึง 10 สัปดาห์ และ Ilia Gruev ต้องเทสต์ความฟิต Farke ยืนยันว่าไม่มีเคสเจ็บใหม่ ฝั่ง Newcastle หนักกว่า Joelinton, Dan Burn และ William Osula กลับกลางเดือนตุลาคม ส่วน Amar Dedic เจ็บแฮมสตริงและคลางแคลงหนัก ผมไม่นับหัวคนเจ็บแต่ดูตำแหน่ง Leeds ขาดเซ็นเตอร์แบ็กหนึ่งคน Newcastle ขาดทั้งกองกลางตัวปะทะและตัวแนวรับ",
+    "risk": "รูปแบบเกมเข้าทาง Newcastle ทีมสวนกลับที่คมเจอเจ้าบ้านที่ต้องดันขึ้นคือสูตรที่โดนสวนสองครั้งได้ง่าย และ Farke ยอมรับเองว่า Okafor ยังเล่นเต็มเกมไม่ได้ อีกข้อคือ Leeds ยิงได้แค่นัดละลูกสามนัดติด การวางสกอร์ให้ยิงสองลูกจึงเรียกร้องสิ่งที่ยังไม่เกิด ผมสะท้อนความเสี่ยงนี้ในราคาแล้ว ด้วยการตั้ง H เพียง 0.42 และผลเสมอ 0.31",
+    "tactical": "Farke วาง 3-4-2-1 ให้ Okafor กับ Stach ยืนในช่องระหว่างแนวรับกับแดนกลางของ Newcastle จุดที่ Gonzalez กับ Miley เพิ่งจับคู่กันไม่กี่สัปดาห์ ส่วน Jaissle เล่น 4-2-3-1 แนวรับสูง กดดันสูงทันทีที่เสียบอล และจ่ายขึ้นหน้าเร็ว จุดปะทะคือพื้นที่หลังไลน์กดดัน ซึ่งวิงแบ็ก Bogle และ Gudmundsson ใช้ประโยชน์ได้ แต่เกมสวนกลับของ Jaissle ก็เข้าทางทีมเยือน",
+    "trends": "Newcastle ทำประตูเกินค่า xG ราว 2.97 ลูก และเสียน้อยกว่า xGAgainst อีกราว 1.39 ลูก รวมเป็นความได้เปรียบเชิงดวงราว 4.4 ประตูในสามนัด ขณะที่ Leeds มี xG ต่างประตูเกือบเป็นศูนย์ สองทีมที่แต้มเท่ากันจึงมีคุณภาพเบื้องหลังไม่เท่ากัน และฝั่งที่ดีกว่าคือเจ้าบ้าน ทั้งคู่ยังเสมอ 2 จาก 3 นัด Newcastle ยิง 2 ลูกพอดีทุกนัด Leeds ยิง 1 ลูกพอดีทุกนัด ปัญหาของ Leeds คือการจบสกอร์ ไม่ใช่การสร้างโอกาส",
+    "verdict": "Leeds ชนะ 2-1 เจ้าบ้านสร้างโอกาสได้ดีกว่าที่ผลลัพธ์บอกมาสามนัดติด มีปัญหาตัวผู้เล่นน้อยกว่า และเจอทีมที่กำลังถูกตัวเลขจริงตามทัน Calvert-Lewin กับ Okafor จะได้พื้นที่หลังแนวรับสูง ส่วน Newcastle ยังได้ประตูจากสวนกลับหรือลูกตั้งเตะตามที่ทำได้ทุกนัด"
+  },
+  "btts": true,
+  "confidence": "low",
+  "factpackHash": "d50237464b08e610edccae628d21f4b449043967afbc446aa62b4124a06d0358",
+  "guruId": "claude-opus-5",
+  "harness": "claude-code-routine",
+  "keyFactor": "Newcastle เก็บ 5 แต้มด้วยตัวเลข xG ที่แย่กว่า Leeds ชัดเจน และการปรับเข้าหาค่าจริงมักมาถึงในเกมเยือน",
+  "kickoffUtc": "2026-09-14T19:00:00.000Z",
+  "lockedAt": "2026-09-12T03:09:43.069Z",
+  "matchId": "epl-2627-r04-lee-new",
+  "model": {
+    "displayName": "Claude Opus 5",
+    "id": "claude-opus-5"
+  },
+  "over25": true,
+  "pick": "H",
+  "probs": {
+    "A": 0.27,
+    "D": 0.31,
+    "H": 0.42
+  },
+  "runId": "predict-20260912T030249Z-claude-opus-5",
+  "schemaVersion": 1,
+  "scoreline": {
+    "away": 1,
+    "home": 2
+  },
+  "sources": [
+    {
+      "accessedAt": "2026-09-12T03:05:00.000Z",
+      "title": "Newcastle injury, suspension list and return dates for Leeds clash: Amar Dedic, Joelinton, Dan Burn latest",
+      "url": "https://www.sportsmole.co.uk/football/newcastle-united/injury-news/injuries-and-suspensions/dedic-joelinton-burn-latest-newcastle-injury-suspension-list-vs-leeds_604928.html"
+    },
+    {
+      "accessedAt": "2026-09-12T03:06:00.000Z",
+      "title": "Leeds United vs Newcastle injury latest as seven could miss out at Elland Road",
+      "url": "https://uk.sports.yahoo.com/news/leeds-united-vs-newcastle-injury-174000296.html"
+    },
+    {
+      "accessedAt": "2026-09-12T03:06:00.000Z",
+      "title": "Leeds vs Newcastle Prediction, Lineups & Team News",
+      "url": "https://www.rotowire.com/soccer/article/leeds-vs-newcastle-prediction-predicted-lineups-team-news-133582"
+    },
+    {
+      "accessedAt": "2026-09-12T03:07:00.000Z",
+      "title": "Farke on Okafor, 'crazy' Chelsea loss and Newcastle",
+      "url": "https://sports.yahoo.com/articles/farke-okafor-crazy-chelsea-loss-154802631.html"
+    },
+    {
+      "accessedAt": "2026-09-12T03:08:00.000Z",
+      "title": "Matthias Jaissle, Newcastle United, Tactical Analysis",
+      "url": "https://themastermindsite.com/2026/09/10/mathias-jaissle-newcastle-united-tactical-analysis/"
+    }
+  ],
+  "wordCount": 596
+}
