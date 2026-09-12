@@ -1,0 +1,25 @@
+{
+  "brier": 0.8264,
+  "guruId": "claude-opus-5",
+  "late": false,
+  "logLoss": 1.3470736479666092,
+  "marketFavourite": "H",
+  "matchId": "epl-2627-r04-cry-ips",
+  "points": {
+    "btts": 0,
+    "exact": 0,
+    "ou": 0,
+    "outcome": 0,
+    "total": 0,
+    "upset": 0
+  },
+  "result": {
+    "away": 3,
+    "home": 2,
+    "outcome": "A"
+  },
+  "resultHash": "66bb78e8a32c003913284de62ad9ed06132c3f1884bea454c1e0cf9534ddd63a",
+  "schemaVersion": 1,
+  "scoredAt": "2026-09-12T19:48:48.775Z",
+  "void": null
+}
