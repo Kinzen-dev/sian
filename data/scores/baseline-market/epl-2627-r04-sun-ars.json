@@ -1,0 +1,25 @@
+{
+  "brier": 0.20032538,
+  "guruId": "baseline-market",
+  "late": false,
+  "logLoss": 0.4481638626412796,
+  "marketFavourite": "A",
+  "matchId": "epl-2627-r04-sun-ars",
+  "points": {
+    "btts": 0,
+    "exact": 0,
+    "ou": 0,
+    "outcome": 1,
+    "total": 1,
+    "upset": 0
+  },
+  "result": {
+    "away": 2,
+    "home": 0,
+    "outcome": "A"
+  },
+  "resultHash": "27e955333e6884ebeb33044da141167a02359c621c4ecdc8eb2f0eadbf8cf61e",
+  "schemaVersion": 1,
+  "scoredAt": "2026-09-13T01:51:08.914Z",
+  "void": null
+}
