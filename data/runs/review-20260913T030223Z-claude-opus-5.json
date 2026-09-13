@@ -1,0 +1,18 @@
+{
+  "errors": [],
+  "finishedAt": "2026-09-13T03:07:44.202Z",
+  "guruId": "claude-opus-5",
+  "harness": "claude-code-routine",
+  "mode": "review",
+  "runId": "review-20260913T030223Z-claude-opus-5",
+  "skipped": [],
+  "startedAt": "2026-09-13T03:02:23.253Z",
+  "submitted": [
+    "epl-2627-r04-avl-nfo",
+    "epl-2627-r04-bou-bre",
+    "epl-2627-r04-che-hul",
+    "epl-2627-r04-cry-ips",
+    "epl-2627-r04-liv-ful",
+    "epl-2627-r04-tot-eve"
+  ]
+}
