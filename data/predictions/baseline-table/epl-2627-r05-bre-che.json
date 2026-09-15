@@ -1,0 +1,19 @@
+{
+  "btts": true,
+  "factpackHash": "2c05b9a14e33868a8e35546a001d4555f305aa995b7f7f85d38434992451716e",
+  "guruId": "baseline-table",
+  "kickoffUtc": "2026-09-18T19:00:00.000Z",
+  "kind": "baseline",
+  "lockedAt": "2026-09-15T20:35:12.285Z",
+  "matchId": "epl-2627-r05-bre-che",
+  "note": "table positions 7 v 6",
+  "over25": true,
+  "pick": "A",
+  "probs": {
+    "A": 0.5,
+    "D": 0.26,
+    "H": 0.24
+  },
+  "schemaVersion": 1,
+  "scoreline": null
+}
