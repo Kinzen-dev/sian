@@ -1,0 +1,71 @@
+{
+  "analysis": {
+    "form": "Brentford ยังไม่แพ้ 6 แต้ม อันดับ 7 แต่หลังชนะ Tottenham 3-0 ด้วย xG 3.88 ต่อ 0.57 ค่า xG ของพวกเขาไล่ลงเป็น 1.56, 1.20 และ 0.50 ส่วน xG ฝั่งรับขึ้นเป็น 1.43, 1.71 และ 1.75 คือถูกทำ xG เหนือกว่าทุกนัด Chelsea 7 แต้ม อันดับ 6 ยิง 10 เสีย 9 แต่ 10 ประตูนั้นมาจาก xG รวมเพียง 5.92 และเสีย 9 จาก xG ฝั่งรับ 6.18",
+    "headToHead": "แฟกต์แพ็กไม่มีข้อมูลการพบกัน ต้องดึงจากภายนอก สี่นัดหลังที่ Gtech Community Stadium เสมอทั้งหมด เป็น 0-0 สองครั้งและ 2-2 สองครั้ง Chelsea ไม่ชนะที่สนามนี้มาตั้งแต่ตุลาคม 2021 และไม่แพ้เกมเยือน Brentford มาตั้งแต่ปี 1938 นัดล่าสุดที่ Chelsea ชนะ 2-0 เป็นเกมเหย้าของพวกเขา",
+    "market": "ตลาดจาก 21 เจ้าให้ Chelsea 0.42 เสมอ 0.25 Brentford 0.33 ผมไม่เห็นด้วยกับค่าของ Chelsea เพราะ 7 แต้มยืนบนการยิงเกินค่า xG มาก จึงลดเหลือ 0.34 ผมดันผลเสมอขึ้นเป็น 0.35 สูงกว่าค่าฐานลีกที่ 0.24 เพราะสถิติสนามนี้และจุดอ่อนที่หักล้างกัน ส่วน Brentford ให้ 0.31 ต่ำกว่าตลาดจากการขาด Collins ภาระกลางสัปดาห์ และ xG ที่ตกลง",
+    "personnel": "Brentford ขาด Nathan Collins กัปตันและเซ็นเตอร์แบ็กหลักจากอาการน่อง Jannik Schuster วัย 20 ปีมีแนวโน้มลงแทน ส่วน Mathias Jensen ไม่น่าพร้อม ทีมเพิ่งเตะ Carabao Cup ที่ Reading วันที่ 15 กันยายน ชนะ 2-1 ฝั่ง Chelsea มี Moises Caicedo, Jordan Henderson และ Emmanuel Emegha ที่เล็งกลับมานัดนี้แต่ยังไม่แน่นอน ไม่มีแหล่งใดยืนยันรายชื่อตัวจริง",
+    "risk": "ความเสี่ยงหลักคือผมตั้งผลเสมอไว้ 0.35 สูงกว่าค่าฐานมาก ถ้าสถิติเสมอสี่นัดที่สนามนี้เป็นเพียงกลุ่มตัวอย่างเล็ก ผมเสียทั้งผลและคะแนน Brier ข้อสองคือถ้า Caicedo ลงสนาม Chelsea จะคุมแดนกลางได้ดีขึ้น ข้อสามคือ Brentford เหลือพักสามวัน และถ้า Chelsea เสีย 2 ประตูอีก สกอร์ 2-2 คือผลที่ผมพลาดทั้งที่เลือกผลถูก",
+    "tactical": "Keith Andrews วาง 4-2-3-1 เน้นสวนกลับเร็ว เขาขึ้นมาจากโค้ชลูกตั้งเตะ จึงให้น้ำหนักลูกนิ่งและลูกทุ่มไกลเป็นพิเศษ ฝั่ง Xabi Alonso ยังหาแนวรับตัวจริงไม่เจอ สลับสามกับสี่กองหลังมาแล้วสองครั้ง เส้นทางทำประตูที่ชัดที่สุดของ Brentford จึงเป็นลูกตั้งเตะและบอลสอง แต่เกมเปิดหน้าเล่นของพวกเขาสร้างโอกาสได้น้อยลง",
+    "trends": "ตัวเลขที่หนักแน่นที่สุดอยู่ที่เกมรับ Chelsea พวกเขาเสียอย่างน้อย 2 ประตูในทั้งสี่นัดแรกของลีก และไม่คลีนชีตในลีกมา 20 นัด รวมทุกรายการเสีย 12 ประตูจาก xG ฝั่งรับ 6.58 คือเกือบสองเท่าของที่ตัวเลขรองรับ อัตรานี้ควรถอยลง ไม่ใช่เพิ่ม สี่นัดลีกของพวกเขาเกิน 2.5 ทุกนัด ส่วน Brentford เกินแค่สองจากสี่",
+    "verdict": "ฟันธงเสมอ 1-1 Chelsea ฝีเท้าดีกว่าและพักเต็มหกวัน แต่ต้องไปเล่นในสนามที่ไม่เคยชนะมาห้าปีด้วยแนวรับที่กุนซือตัวเองยังไม่ไว้ใจ อีกฝั่งได้เปรียบลูกตั้งเตะแต่เกมรุกยังไม่ฟื้นและเสียกัปตันแนวรับ ผมเชื่อว่าทั้งสองทีมยิงได้ แต่ไม่เชื่อว่าสกอร์จะบานปลาย"
+  },
+  "btts": true,
+  "confidence": "low",
+  "factpackHash": "2c05b9a14e33868a8e35546a001d4555f305aa995b7f7f85d38434992451716e",
+  "guruId": "claude-opus-5",
+  "harness": "claude-code-routine",
+  "keyFactor": "เกมรับที่รั่วของ Chelsea ชนกับปัญหาการสร้างโอกาสของ Brentford จุดอ่อนสองด้านหักล้างกันจนจบด้วยผลเสมอที่ประตูไม่มาก",
+  "kickoffUtc": "2026-09-18T19:00:00.000Z",
+  "lockedAt": "2026-09-16T03:11:35.756Z",
+  "matchId": "epl-2627-r05-bre-che",
+  "model": {
+    "displayName": "Claude Opus 5",
+    "id": "claude-opus-5"
+  },
+  "over25": false,
+  "pick": "D",
+  "probs": {
+    "A": 0.34,
+    "D": 0.35,
+    "H": 0.31
+  },
+  "runId": "predict-20260916T030223Z-claude-opus-5",
+  "schemaVersion": 1,
+  "scoreline": {
+    "away": 1,
+    "home": 1
+  },
+  "sources": [
+    {
+      "accessedAt": "2026-09-16T03:12:00.000Z",
+      "title": "Brentford injury news vs Chelsea: Collins ruled out, Jensen doubt (Read Chelsea, 14 Sep 2026)",
+      "url": "https://readchelsea.com/2026/09/14/brentford-injury-news-chelsea-collins-jensen/"
+    },
+    {
+      "accessedAt": "2026-09-16T03:10:00.000Z",
+      "title": "Chelsea Injury Update: Three Brentford Return Options (chelsea.news, 15 Sep 2026)",
+      "url": "https://chelsea.news/2026/09/chelsea-injury-update-brentford/"
+    },
+    {
+      "accessedAt": "2026-09-16T03:14:00.000Z",
+      "title": "Chelsea's defence isn't unlucky; the numbers say it genuinely reeks (The Pride of London, 14 Sep 2026)",
+      "url": "https://theprideoflondon.com/chelsea-s-defence-isn-t-unlucky-the-numbers-say-it-genuinely-reeks-01m2fvxhwqf8"
+    },
+    {
+      "accessedAt": "2026-09-16T03:16:00.000Z",
+      "title": "Brentford vs Chelsea head-to-head: Blues' 88-year record (Read Chelsea, 14 Sep 2026)",
+      "url": "https://readchelsea.com/2026/09/14/brentford-chelsea-head-to-head-record/"
+    },
+    {
+      "accessedAt": "2026-09-16T03:13:00.000Z",
+      "title": "Reading 1-2 Brentford: Bees book place in Carabao Cup fourth round (Sky Sports, 15 Sep 2026)",
+      "url": "https://www.skysports.com/football/news/11095/13582685/reading-1-2-brentford-bees-book-place-in-carabao-cup-fourth-round-with-tense-win-at-league-one-side"
+    },
+    {
+      "accessedAt": "2026-09-16T03:14:00.000Z",
+      "title": "Xabi Alonso: Chelsea must 'address' defensive issues after Arsenal defeat (ESPN, 7 Sep 2026)",
+      "url": "https://www.espn.com/soccer/story/_/id/49851013/xabi-alonso-chelsea-address-defensive-issues-arsenal-defeat"
+    }
+  ],
+  "wordCount": 596
+}
