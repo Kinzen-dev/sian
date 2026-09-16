@@ -1,34 +1,34 @@
 {
-  "generatedAt": "2026-09-16T15:42:24.359Z",
-  "lastRefreshAt": "2026-09-16T15:42:19.643Z",
+  "generatedAt": "2026-09-16T20:34:48.792Z",
+  "lastRefreshAt": "2026-09-16T20:34:43.256Z",
   "lastScoreAt": null,
   "pending": {
     "factpacks": 0,
-    "predictions": 5,
+    "predictions": 6,
     "scores": 0
   },
   "sources": {
     "football-data.co.uk": {
-      "at": "2026-09-16T15:42:19.643Z",
+      "at": "2026-09-16T20:34:43.256Z",
       "note": "40 matches with xG",
       "ok": true
     },
     "football-data.org:epl": {
-      "at": "2026-09-16T15:42:19.643Z",
+      "at": "2026-09-16T20:34:43.256Z",
       "note": "380 matches",
       "ok": true
     },
     "football-data.org:ucl": {
-      "at": "2026-09-16T15:42:19.643Z",
+      "at": "2026-09-16T20:34:43.256Z",
       "note": "144 matches",
       "ok": true
     },
     "manual-uefa-release": {
-      "at": "2026-09-16T15:42:19.643Z",
+      "at": "2026-09-16T20:34:43.256Z",
       "ok": true
     },
     "openfootball": {
-      "at": "2026-09-16T15:42:19.643Z",
+      "at": "2026-09-16T20:34:43.256Z",
       "note": "[\n  {\n    \"expected\": \"object\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"matches\",\n      22,\n      \"score\"\n    ],\n    \"message\": \"Invalid input: expected object, received array\"\n  },\n  {\n    \"expected\": \"object\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"matches\",\n      27,\n      \"score\"\n    ],\n    \"message\": \"Invalid input: expected object, received array\"\n  }\n]",
       "ok": false
     }
