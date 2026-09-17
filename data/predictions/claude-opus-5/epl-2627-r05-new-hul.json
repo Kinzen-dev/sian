@@ -1,0 +1,61 @@
+{
+  "analysis": {
+    "form": "Newcastle มี 5 แต้มจากสี่นัด อันดับ 12 ยิง 7 เสีย 8 และเพิ่งพ่ายยับ 1-4 ที่ Leeds ในเกมคืนวันจันทร์ ค่า xG ในเกมรุกลดลงต่อเนื่องเหลือ 0.75 0.71 และ 0.85 ในสามนัดหลัง ฝั่ง Hull ยังไม่แพ้ใคร มี 8 แต้ม อันดับ 4 ยิง 5 เสียเพียง 2 ล่าสุดบุกไปเสมอ Chelsea 2-2 ทั้งสองทีมไม่มีเกมกลางสัปดาห์ เพราะตกรอบถ้วยไปตั้งแต่ต้นเดือน",
+    "headToHead": "แฟกต์แพ็กไม่มีข้อมูล h2h ผมจึงไม่ใช้เป็นตัวขับหลัก สื่อท้องถิ่นระบุว่า Newcastle ยังไม่เคยชนะ Hull ที่ St James Park นับตั้งแต่ปี 2008 ผมบันทึกไว้เป็นบริบท แต่กลุ่มตัวอย่างเก่าและเล็กเกินกว่าจะเปลี่ยนความน่าจะเป็น",
+    "market": "ตลาดจาก 21 เจ้าให้เจ้าบ้าน 0.595 เสมอ 0.221 ทีมเยือน 0.184 ผมเห็นด้วยกับทิศทางแต่ลดค่าเจ้าบ้านมาที่ 0.52 เพราะเกมรุกของ Newcastle อ่อนลงชัดเจนสามนัดหลัง และเพิ่งเดินทางกลับจากเกมคืนวันจันทร์ เหลือเวลาพักสี่วันเทียบกับเจ็ดวันของทีมเยือน",
+    "personnel": "Newcastle ไม่มี Joelinton Dan Burn และ William Osula ส่วน Ewen Jaouen กับ Amar Dedic เป็นข้อสงสัย รายงานบางแหล่งระบุชื่อ Elanga ด้วยแต่ขัดกับแหล่งอื่น ผมจึงไม่ยืนยันรายชื่อตัวจริง ฝั่ง Hull รายชื่อยาวกว่าและสำคัญกว่า Jack Butland เจ็บยาวหลังผ่าตัดข้อศอก Charlie Hughes มีปัญหาขาหนีบ และยังขาด Hidemasa Morita Eliot Matazo Darko Gyabi ทีมที่ขาดผู้รักษาประตูมือหนึ่งและเซ็นเตอร์แบ็กพร้อมกันเสียเปรียบมากกว่าการนับหัวจำนวนคน",
+    "risk": "ความเสี่ยงที่มีตัวเลขรองรับคือเกมรุกของ Newcastle สร้าง xG ได้เฉลี่ยราว 0.77 ในสามนัดหลัง ถ้านั่นคือระดับจริง เกมนี้จบ 1-1 ได้ง่าย และ Hull เก็บคลีนชีตมาแล้วสองนัด อีกด้านคือความล้าสี่วันหลังแพ้ยับอาจลามไปถึงเกมรับ ผมสะท้อนความเสี่ยงด้วยการกดค่าเจ้าบ้านจาก 0.595 ของตลาดมาที่ 0.52 และไม่ตั้งสกอร์ที่ให้ Hull ยิงไม่ได้เลย",
+    "tactical": "Newcastle เล่นเกมเร็วผ่านปีกและใช้ Harvey Barnes เจาะพื้นที่หลังแบ็ก ส่วน Hull ตั้งบล็อกต่ำแล้วรอสวนกลับ ซึ่งทำให้ค่า xG ของพวกเขาต่ำโดยธรรมชาติ ไม่ใช่สัญญาณว่าเกมรุกไร้พิษสง จุดปะทะอยู่ที่ลูกกลางอากาศและลูกตั้งเตะ เพราะ Hull ขาดเซ็นเตอร์แบ็กตัวหลักและผู้รักษาประตูมือหนึ่ง ขณะที่ Newcastle ก็ขาด Dan Burn ซึ่งเป็นตัวคุมกรอบ",
+    "trends": "นี่คือตัวเลขที่ชี้ขาด Hull ยิงได้ 5 จากค่า xG สะสมราว 3.7 และเสียเพียง 2 จากค่า xGA สะสมราว 5.9 คือเก็บแต้มเกินพื้นฐานทั้งสองฝั่ง ตามกฎของผมเอง ทีมที่เก็บแต้มเกินกว่าที่ xG รองรับต้องถูกลดค่าลง ไม่ใช่ยกขึ้นเป็นตัวเต็ง ส่วน Newcastle เสีย 8 จาก xGA ราว 7.1 ถือว่าใกล้เคียงกัน คือรั่วจริงแต่ไม่ได้โชคร้ายเกินเหตุ และยังทำประตูได้ในทุกนัดยกเว้นนัดเดียว",
+    "verdict": "Newcastle ชนะ 2-1 ผมเลือกเจ้าบ้านเพราะการถดถอยเข้าหาค่ากลางของ Hull มีแรงกดดันจากทั้งสองด้านพร้อมกัน บวกกับรายชื่อเจ็บที่กระทบตำแหน่งสำคัญที่สุดสองตำแหน่ง ค่าที่ผมใช้คือเจ้าบ้าน 0.52 เสมอ 0.26 ทีมเยือน 0.22 over 2.5 เป็นใช่ และ both teams to score เป็นใช่"
+  },
+  "btts": true,
+  "confidence": "mid",
+  "factpackHash": "ba647d54612bdf9d92dbcfeb2973054e37b37ad2915e122268552ceb453c8cde",
+  "guruId": "claude-opus-5",
+  "harness": "claude-code-routine",
+  "keyFactor": "Hull เก็บแต้มเกินค่า xG ทั้งสองฝั่งอย่างมาก และมาเจอเจ้าบ้านที่ยังยิงได้แม้เกมรับจะรั่ว",
+  "kickoffUtc": "2026-09-19T14:00:00.000Z",
+  "lockedAt": "2026-09-17T03:14:16.466Z",
+  "matchId": "epl-2627-r05-new-hul",
+  "model": {
+    "displayName": "Claude Opus 5",
+    "id": "claude-opus-5"
+  },
+  "over25": true,
+  "pick": "H",
+  "probs": {
+    "A": 0.22,
+    "D": 0.26,
+    "H": 0.52
+  },
+  "runId": "predict-20260917T030213Z-claude-opus-5",
+  "schemaVersion": 1,
+  "scoreline": {
+    "away": 1,
+    "home": 2
+  },
+  "sources": [
+    {
+      "accessedAt": "2026-09-17T03:03:40Z",
+      "title": "Newcastle vs Hull City: Predictions, Picks, Odds and Lineups",
+      "url": "https://www.squawka.com/us/news/premier-league/match-preview-newcastle-vs-hull-city-19-09-26-premier-league/"
+    },
+    {
+      "accessedAt": "2026-09-17T03:04:00Z",
+      "title": "Latest Premier League player injuries: club by club news",
+      "url": "https://www.premierleague.com/en/news/4450606/latest-premier-league-player-injuries-club-by-club-news"
+    },
+    {
+      "accessedAt": "2026-09-17T03:04:50Z",
+      "title": "Newcastle United v Hull City, Premier League, 19 September 2026",
+      "url": "https://www.newcastleunited.com/en/matches/mens-team/newcastle-united-v-hull-city-english-premier-league-20260919"
+    },
+    {
+      "accessedAt": "2026-09-17T03:06:10Z",
+      "title": "Carabao Cup third round full schedule as Tuesday kicks it off",
+      "url": "https://www.themag.co.uk/2026/09/carabao-cup-third-round-full-schedule-as-tuesday-kicks-it-off/"
+    }
+  ],
+  "wordCount": 600
+}

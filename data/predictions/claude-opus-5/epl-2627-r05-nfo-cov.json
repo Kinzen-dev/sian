@@ -1,0 +1,61 @@
+{
+  "analysis": {
+    "form": "Nottingham Forest มี 5 แต้มจากสี่นัด อันดับ 11 ยิง 4 เสีย 4 ล่าสุดบุกชนะ Aston Villa 2-1 ด้วยค่า xG 2.28 ต่อ 0.82 ซึ่งเป็นเกมที่คุมได้จริง ก่อนหน้านั้นเสมอ Tottenham 0-0 และเสมอ Liverpool 2-2 พวกเขาตกรอบถ้วยตั้งแต่รอบสองจึงไม่มีเกมกลางสัปดาห์ ฝั่ง Coventry แพ้รวดสี่นัด ไม่มีแต้ม ไม่มีประตู อยู่บ๊วย และกลางสัปดาห์ยังแพ้ Aston Villa 1-3 คาบ้านในถ้วย",
+    "headToHead": "ช่อง h2h ในแฟกต์แพ็กว่างเปล่า สองทีมนี้ไม่ได้พบกันในลีกสูงสุดมานาน ผมจึงไม่มีฐานให้ถ่วงน้ำหนักและจะไม่เดาจากความจำ ใช้ได้เพียงบริบทฤดูกาลนี้ คือทีมอันดับ 11 เปิดบ้านรับทีมอันดับ 20 ที่ยังไม่เก็บแต้มและยังไม่ทำประตูในลีก",
+    "market": "ตลาดจาก 21 เจ้าเก็บราคาหลังเกมถ้วยคืนวันพุธจบ ให้เจ้าบ้าน 0.576 เสมอ 0.238 ทีมเยือน 0.186 ผมอยู่ใกล้ตลาดที่ 0.56 เพราะราคานี้สะท้อนทั้งโทษแบนและภาระเกมกลางสัปดาห์ไปแล้ว ผมไม่เห็นเหตุผลที่จะสวน",
+    "personnel": "Coventry เสีย Taiwo Awoniyi จากใบแดงนัดเจอ Brighton ซึ่งกินโทษแบนสามนัดเริ่มจากเกมนี้ และยังขาด Haji Wright Kaine Kesler-Hayden Josh Eccles Luke Woolfenden ส่วน Frank Onyeka มีปัญหาข้อมือ แปลว่ากองหน้าตัวหลักสองคนหายพร้อมกัน ฝั่ง Forest ขาด Nikola Milenkovic Nicolo Savona และ Jair Cunha ซึ่งเป็นแนวรับล้วน แต่แกนเกมรุกครบ และได้พักเจ็ดวันเทียบกับสามวันของทีมเยือน",
+    "risk": "ความเสี่ยงที่มีตัวเลขรองรับมีสองข้อ หนึ่งคือ Coventry สร้าง xG ได้เกิน 1.25 สามนัดติด และเพิ่งยิงประตูแรกของฤดูกาลจากลูกฟรีคิกของ Victor Torp ในเกมถ้วย สองคือ Forest ขาดเซ็นเตอร์แบ็กสามคนพร้อมกัน ถ้าแนวรับที่จัดใหม่ยังไม่เข้าที่ both teams to score จะเป็นใช่และผมเสียสองส่วนย่อย ผมสะท้อนความเสี่ยงนี้ด้วยการเว้นน้ำหนักให้ผลที่ไม่ใช่ชัยชนะเจ้าบ้านรวมกันถึง 0.44 และไม่ตั้งสกอร์ที่ห่างเกินสองลูก",
+    "tactical": "Forest เล่นบล็อกกลางแล้วเปลี่ยนเกมเร็วผ่าน Morgan Gibbs-White ไปหา Liam Delap และ Igor Jesus ซึ่งทั้งสามคนทำประตูแล้วในฤดูกาลนี้ ส่วน Coventry ของ Frank Lampard ครองบอลได้และเข้าเขตอันตรายได้พอสมควร แต่ขาดคนจบสกอร์ จุดปะทะอยู่ที่แนวรับ Forest ที่ต้องจัดใหม่ เพราะเสียเซ็นเตอร์แบ็กไปสามคน ถ้า Coventry เปิดบอลเข้ากรอบได้บ่อย เกมจะไม่ขาดอย่างที่ตารางบอก",
+    "trends": "ตัวเลขที่ต้องระวังคือ Coventry ไม่ได้สร้างโอกาสไม่เป็น สามนัดหลังทำ xG ได้ 1.28 1.37 และ 1.34 ใกล้เคียงค่าเฉลี่ยทีมกลางตาราง ปัญหาคือการจบสกอร์ล้วนๆ และตอนนี้คนจบสกอร์ถูกแบน ส่วน Forest มีค่า xGA เฉลี่ยราว 1.03 ต่อนัด ถือว่าคุมได้",
+    "verdict": "Forest ชนะ 2-0 กลไกชัดเจนพอที่จะให้เจ้าบ้านเป็นค่าสูงสุด ฝ่ายที่พักเจ็ดวันและมีตัวจบสกอร์ครบเจอฝ่ายที่พักสามวันและเพิ่งเสียกองหน้าตัวหลักจากโทษแบน ค่าที่ผมใช้คือเจ้าบ้าน 0.56 เสมอ 0.25 ทีมเยือน 0.19 over 2.5 เป็นไม่ใช่ และ both teams to score เป็นไม่ใช่"
+  },
+  "btts": false,
+  "confidence": "mid",
+  "factpackHash": "f49af20b4d35277b70cf34fac152ea6b2b6c7e5bc699e53e4d93a5d74ca25620",
+  "guruId": "claude-opus-5",
+  "harness": "claude-code-routine",
+  "keyFactor": "Coventry เสีย Taiwo Awoniyi จากโทษแบนสามนัดและเพิ่งเตะถ้วยคืนวันพุธ ขณะที่ Nottingham Forest พักเต็มเจ็ดวัน",
+  "kickoffUtc": "2026-09-19T16:30:00.000Z",
+  "lockedAt": "2026-09-17T03:15:44.601Z",
+  "matchId": "epl-2627-r05-nfo-cov",
+  "model": {
+    "displayName": "Claude Opus 5",
+    "id": "claude-opus-5"
+  },
+  "over25": false,
+  "pick": "H",
+  "probs": {
+    "A": 0.19,
+    "D": 0.25,
+    "H": 0.56
+  },
+  "runId": "predict-20260917T030213Z-claude-opus-5",
+  "schemaVersion": 1,
+  "scoreline": {
+    "away": 0,
+    "home": 2
+  },
+  "sources": [
+    {
+      "accessedAt": "2026-09-17T03:04:10Z",
+      "title": "Nottingham Forest vs Coventry City: Predictions, Picks, Odds and Lineups",
+      "url": "https://www.squawka.com/us/news/premier-league/match-preview-nottingham-forest-vs-coventry-city-19-09-26-premier-league/"
+    },
+    {
+      "accessedAt": "2026-09-17T03:04:40Z",
+      "title": "Awoniyi faces three-match ban after Coventry red card",
+      "url": "https://www.brandiconimage.com/2026/09/awoniyi-faces-three-match-ban-after.html"
+    },
+    {
+      "accessedAt": "2026-09-17T03:06:20Z",
+      "title": "Coventry 1-3 Aston Villa (Sep 16, 2026) Final Score",
+      "url": "https://www.espn.com/soccer/match/_/gameId/401914258/aston-villa-coventry-city"
+    },
+    {
+      "accessedAt": "2026-09-17T03:04:45Z",
+      "title": "Awoniyi sees red as Coventry remain without goal, point after four games",
+      "url": "https://pmnewsnigeria.com/2026/09/13/awoniyi-sees-red-as-coventry-remain-without-goal-point-after-four-games/"
+    }
+  ],
+  "wordCount": 579
+}
