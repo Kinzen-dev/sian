@@ -1,0 +1,61 @@
+{
+  "analysis": {
+    "form": "Everton ยังไม่แพ้ใครในลีก เก็บ 6 แต้มจากสี่นัด อันดับ 9 แต่เป็นเสมอสามนัดติด ล่าสุดเสมอ Tottenham 0-0 ยิงไป 5 เสีย 3 กลางสัปดาห์ชนะ Wolves 1-0 ในถ้วยจากประตูช่วงท้ายของ Charly Alcaraz ฝั่ง Ipswich มี 6 แต้มเท่ากัน อันดับ 10 แต่รูปแบบสุดขั้วกว่ามาก ชนะสองแพ้สอง ยิง 7 เสียถึง 10 ล่าสุดบุกชนะ Crystal Palace 3-2 ก่อนจะแพ้ Arsenal 2-4 ในถ้วยคืนวันอังคาร",
+    "headToHead": "ช่อง h2h ในแฟกต์แพ็กว่างเปล่า ผมจึงไม่มีฐานการพบกันให้ถ่วงน้ำหนักและจะไม่เดาจากความจำ บริบทที่ใช้ได้คือสองทีมนี้มีแต้มเท่ากัน อยู่ติดกันในตาราง และต่างกันที่วิธีเก็บแต้มมากกว่าคุณภาพรวม",
+    "market": "ตลาดจาก 21 เจ้าให้เจ้าบ้าน 0.535 เสมอ 0.250 ทีมเยือน 0.215 ผมลดค่าเจ้าบ้านลงมาที่ 0.45 เพราะราคานั้นไม่ได้หักภาระเกมถ้วยคืนวันพุธของ Everton และไม่ได้สะท้อนว่าเจ้าบ้านเสมอสามนัดติดด้วยเพดานเกมรุกที่จำกัด น้ำหนักที่ลดไปผมใส่ในผลเสมอเป็นหลัก",
+    "personnel": "Everton ขาด Christian Norgaard และมี Merlin Rohl เป็นข้อสงสัย ประเด็นใหญ่กว่าคือ Moyes ส่ง Jordan Pickford Jack Grealish Dewsbury-Hall และ Thierno Barry ลงตั้งแต่ต้นในเกมถ้วยคืนวันพุธ แปลว่าแกนหลักเหลือเวลาพักเพียงสามวัน ฝั่ง Ipswich ขาด Jack Taylor และมี Azor Matusiwa เป็นข้อสงสัยจากอาการต้นขา แต่เกมถ้วยของพวกเขาเตะคืนวันอังคารและเจอ Arsenal ชุดสำรอง จึงมีเวลาฟื้นมากกว่าหนึ่งวัน",
+    "risk": "ความเสี่ยงที่มีตัวเลขรองรับคือความล้าสามวันของแกนหลัก Everton และสถิติเสมอสามนัดติดที่บอกว่าพวกเขาจบเกมไม่ขาด ถ้าเกมจบ 1-1 ผมเสียทั้งผลและ exact score อีกด้านคือ Ipswich บุกชนะ Palace มาแล้วด้วย xG 1.68 ต่อ 0.61 ซึ่งเป็นเกมเยือนที่คุมได้จริง ผมสะท้อนทั้งสองอย่างด้วยการดันผลเสมอขึ้นเป็น 0.31 และไม่ให้เจ้าบ้านแตะ 0.50",
+    "tactical": "Everton ของ David Moyes ตั้งบล็อกแน่นแล้วออกบอลผ่าน Kiernan Dewsbury-Hall ซึ่งเป็นตัวสร้างโอกาสหลัก สองนัดหลังกดค่า xGA เหลือ 0.69 เท่ากันทั้งคู่ ส่วน Ipswich เปิดเกมสูงและยอมเปิดพื้นที่หลังแนวรับ ซึ่งได้ผลที่ Selhurst Park แต่โดนลงโทษหนักที่ Old Trafford จุดปะทะอยู่ที่ว่า Everton จะเปลี่ยนการครองบอลเป็นโอกาสจริงได้หรือไม่ เพราะนั่นคือปัญหาของพวกเขามาสามนัด",
+    "trends": "Ipswich เสียไป 10 ประตูจากค่า xGA สะสมราว 6.5 คือเสียมากกว่าที่คุณภาพโอกาสของคู่แข่งรองรับ นั่นคือจุดที่ Everton ควรได้ประโยชน์ ขณะเดียวกัน Everton ยิงได้ 5 จาก xG ราว 5.1 ถือว่าพอดีกับที่สร้าง ไม่ใช่ปัญหาการจบสกอร์ แต่เป็นเพดานการสร้างโอกาสที่ราว 1.27 ต่อนัด Ipswich ทำประตูได้ในสามจากสี่นัดลีก",
+    "verdict": "Everton ชนะ 2-1 ผมยังเลือกเจ้าบ้านเพราะแนวรับที่นิ่งขึ้นสองนัดหลังเจอกับทีมเยือนที่เสียประตูเกินค่า xGA อย่างต่อเนื่อง แต่ผมไม่ให้ราคาสูงเท่าตลาด ค่าที่ผมใช้คือเจ้าบ้าน 0.45 เสมอ 0.31 ทีมเยือน 0.24 over 2.5 เป็นใช่ และ both teams to score เป็นใช่ เพราะ Ipswich ยิงได้ในเกือบทุกนัด"
+  },
+  "btts": true,
+  "confidence": "mid",
+  "factpackHash": "7869fb570d8f9d037b21be4a7a6c60874d8cac74410e3c257ffcb804fdafefa4",
+  "guruId": "claude-opus-5",
+  "harness": "claude-code-routine",
+  "keyFactor": "Everton ลงเกมถ้วยคืนวันพุธด้วยชุดใกล้ตัวจริง ทำให้ข้อได้เปรียบเรื่องความสดหายไป แต่แนวรับที่นิ่งขึ้นสองนัดหลังยังพอรับมือ Ipswich ที่เสียประตูมากกว่าที่ xGA รองรับ",
+  "kickoffUtc": "2026-09-19T14:00:00.000Z",
+  "lockedAt": "2026-09-17T03:12:20.028Z",
+  "matchId": "epl-2627-r05-eve-ips",
+  "model": {
+    "displayName": "Claude Opus 5",
+    "id": "claude-opus-5"
+  },
+  "over25": true,
+  "pick": "H",
+  "probs": {
+    "A": 0.24,
+    "D": 0.31,
+    "H": 0.45
+  },
+  "runId": "predict-20260917T030213Z-claude-opus-5",
+  "schemaVersion": 1,
+  "scoreline": {
+    "away": 1,
+    "home": 2
+  },
+  "sources": [
+    {
+      "accessedAt": "2026-09-17T03:05:40Z",
+      "title": "Everton 1-0 Wolves: Charly Alcaraz hits late winner to send Toffees through",
+      "url": "https://www.skysports.com/football/everton-vs-wolverhampton-wanderers/577575"
+    },
+    {
+      "accessedAt": "2026-09-17T03:05:50Z",
+      "title": "Everton vs Wolves Carabao Cup: Team News and Confirmed Lineups",
+      "url": "https://lastwordonsports.com/football/2026/09/16/everton-vs-wolves-carabao-cup-confirmed-lineups/"
+    },
+    {
+      "accessedAt": "2026-09-17T03:03:20Z",
+      "title": "Everton vs Ipswich Town: Predictions, Picks, Odds and Stats",
+      "url": "https://www.squawka.com/us/news/premier-league/match-preview-everton-vs-ipswich-town-19-09-26-premier-league/"
+    },
+    {
+      "accessedAt": "2026-09-17T03:05:30Z",
+      "title": "Carabao Cup third round: Match schedule and results",
+      "url": "https://sports.yahoo.com/articles/carabao-cup-third-round-draw-185316414.html"
+    }
+  ],
+  "wordCount": 596
+}

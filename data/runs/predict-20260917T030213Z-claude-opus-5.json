@@ -1,0 +1,19 @@
+{
+  "errors": [
+    "epl-2627-r05-nfo-cov: analysis is 603 words; must be 250-600"
+  ],
+  "finishedAt": "2026-09-17T03:15:49.094Z",
+  "guruId": "claude-opus-5",
+  "harness": "claude-code-routine",
+  "mode": "predict",
+  "runId": "predict-20260917T030213Z-claude-opus-5",
+  "skipped": [],
+  "startedAt": "2026-09-17T03:02:13.920Z",
+  "submitted": [
+    "epl-2627-r05-tot-avl",
+    "epl-2627-r05-bha-ars",
+    "epl-2627-r05-eve-ips",
+    "epl-2627-r05-new-hul",
+    "epl-2627-r05-nfo-cov"
+  ]
+}
