@@ -1,0 +1,19 @@
+{
+  "btts": true,
+  "factpackHash": "f53fd90559cf90cab1321ada090957bc019fa485121311345a1b33318312cd6d",
+  "guruId": "baseline-table",
+  "kickoffUtc": "2026-09-20T13:00:00.000Z",
+  "kind": "baseline",
+  "lockedAt": "2026-09-17T15:48:46.409Z",
+  "matchId": "epl-2627-r05-bou-liv",
+  "note": "table positions 15 v 8",
+  "over25": true,
+  "pick": "A",
+  "probs": {
+    "A": 0.5,
+    "D": 0.26,
+    "H": 0.24
+  },
+  "schemaVersion": 1,
+  "scoreline": null
+}
