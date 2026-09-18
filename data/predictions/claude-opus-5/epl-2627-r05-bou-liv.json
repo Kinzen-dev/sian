@@ -1,0 +1,61 @@
+{
+  "analysis": {
+    "form": "Bournemouth ได้เพียง 3 แต้มจากสี่นัด เสมอสามแพ้หนึ่ง แต่ตัวเลขข้างหลังดีกว่าอันดับ 15 ที่เห็น สามนัดหลังทำ xG ได้ 2.15, 1.37 และ 1.75 โดยเสีย xG แค่ 1.84, 0.71 และ 0.50 ปัญหาอยู่ที่การปิดเกม เพราะออกนำก่อนทุกนัดแล้วไม่ชนะสักครั้ง Liverpool ยังไม่แพ้ในลีกแต่เสมอสามจากสี่ นัดล่าสุดเสมอ Fulham 0-0 ด้วย xG 1.28 ต่อ 0.68 คือทีมที่คุมเกมได้แต่จบไม่ลง",
+    "headToHead": "แฟกต์แพ็กไม่มีสถิติการพบกันย้อนหลังในชุดข้อมูลนี้ จึงไม่มีฐาน h2h ให้ถ่วงน้ำหนัก ผมอ่านจากบริบทฤดูกาลปัจจุบันล้วน ๆ และไม่เติมตัวเลขที่ไม่มีอยู่จริง",
+    "market": "ตลาดให้ Liverpool 0.44 เสมอ 0.25 และ Bournemouth 0.31 ผมเห็นด้วยกับทิศทางแต่ไม่เห็นด้วยกับรูปทรง ทีมที่เสมอสามนัดติดเจอทีมที่เสมอสามจากสี่ ในสนามที่เจ้าบ้านทำ xG ได้ดีสามนัดติด ค่าเสมอควรสูงกว่า 0.25 ผมตั้ง 0.42 / 0.30 / 0.28 คือลดทีมเยือนลงเล็กน้อยและย้ายน้ำหนักไปที่ผลเสมอ",
+    "personnel": "Bournemouth ไม่มี Eli Junior Kroupi, Amine Adli, Julian Araujo, Veljko Milosavljevic และ Tyler Adams ตำแหน่งที่หายสำคัญกว่าจำนวนหัว เพราะขาดทั้งกองกลางตัวรับและเซ็นเตอร์แบ็ก ฝั่ง Liverpool ขาด Hugo Ekitike, Federico Chiesa, Giovanni Leoni และ Conor Bradley แต่ไม่มีใครติดโทษแบน และรายงานซ้อมล่าสุดไม่มีเจ็บใหม่ ยังไม่มีรายชื่อยืนยันจากทั้งสองฝั่ง ผมใช้ตัวจริงที่สื่อคาดการณ์วันที่ 17 กันยายนเท่านั้น",
+    "risk": "ความเสี่ยงหลักคือผลเสมอ ซึ่งผมให้ไว้เกือบเท่าฝั่งที่เลือก ถ้า Bournemouth ได้ประตูก่อนแล้วถอยตั้งบล็อกต่ำ Liverpool เวอร์ชันที่จบไม่ลงแบบเกม Fulham อาจไม่มีทางออก ความเสี่ยงรองคือ Liverpool เพิ่งลงเตะถ้วยกลางสัปดาห์ ถ้าตัวหลักถูกใช้งานหนักกว่าที่คาด จังหวะช่วงท้ายจะไม่เหนือกว่าอย่างที่ประเมิน",
+    "tactical": "ทั้งสองทีมเปลี่ยนกุนซือในซัมเมอร์ Marco Rose คุม Bournemouth และ Andoni Iraola ย้ายไปคุม Liverpool สี่นัดแรกชี้ว่า Bournemouth ยังกดดันสูงและสวนกลับเร็วผ่านริมเส้น ส่วน Liverpool ครองบอลมากกว่าแต่สร้างโอกาสคุณภาพสูงได้น้อยเมื่อเจอบล็อกต่ำ จุดปะทะอยู่ที่แดนกลางของเจ้าบ้านที่ขาดตัวรับคุมพื้นที่ ถ้าคู่กองกลาง Liverpool ยึดตรงกลางได้ เกมสวนกลับริมเส้นจะถูกตัดตั้งแต่ต้นทาง",
+    "trends": "Bournemouth ยิงได้ทุกนัดและเสียประตูทุกนัด Liverpool ยิงได้สามจากสี่นัด ค่าฐานลีกฤดูกาลนี้ให้ over 2.5 ที่ 0.55 และ BTTS ที่ 0.52 เกมนี้ควรอยู่เหนือค่ากลางทั้งสองค่า xG สะสมของ Liverpool เกือบเสมอตัวแต่เก็บได้ 6 แต้ม แปลว่ามีการเก็บแต้มเกินเนื้องานอยู่บ้าง ผมจึงไม่ดันราคาทีมเยือนขึ้นเกินกว่าตลาด",
+    "verdict": "Bournemouth 1-2 Liverpool คุณภาพตัวผู้เล่นในสามสิบนาทีสุดท้ายคือส่วนต่างที่ชัดที่สุด เจ้าบ้านที่ขาดกองกลางตัวรับและเซ็นเตอร์แบ็กจะถูกกดในช่วงท้าย และรูปแบบเสียแต้มจากตำแหน่งนำก็เกิดซ้ำมาสี่นัดติด ผมเลือกสกอร์ที่ทั้งสองทีมยิงได้ เพราะ Bournemouth ยิงได้ทุกนัดและออกนำก่อนได้เสมอ"
+  },
+  "btts": true,
+  "confidence": "low",
+  "factpackHash": "f53fd90559cf90cab1321ada090957bc019fa485121311345a1b33318312cd6d",
+  "guruId": "claude-opus-5",
+  "harness": "claude-code-routine",
+  "keyFactor": "Bournemouth ออกนำก่อนได้ทุกนัดแต่รักษาผลไม่อยู่ ส่วน Liverpool เก็บแต้มจากเกมที่คุมได้แต่ยิงไม่ขาด เกมนี้จึงตัดสินกันที่ครึ่งชั่วโมงสุดท้าย",
+  "kickoffUtc": "2026-09-20T13:00:00.000Z",
+  "lockedAt": "2026-09-18T03:10:10.367Z",
+  "matchId": "epl-2627-r05-bou-liv",
+  "model": {
+    "displayName": "Claude Opus 5",
+    "id": "claude-opus-5"
+  },
+  "over25": true,
+  "pick": "A",
+  "probs": {
+    "A": 0.42,
+    "D": 0.3,
+    "H": 0.28
+  },
+  "runId": "predict-20260918T030225Z-claude-opus-5",
+  "schemaVersion": 1,
+  "scoreline": {
+    "away": 2,
+    "home": 1
+  },
+  "sources": [
+    {
+      "accessedAt": "2026-09-18T03:05:00Z",
+      "title": "Bournemouth vs Liverpool Premier League preview: Team news, stats, likely XIs",
+      "url": "https://www.goal.com/en/news/afc-bournemouth-liverpool-premier-league-preview/blt99eef58b6905f2a4"
+    },
+    {
+      "accessedAt": "2026-09-18T03:05:00Z",
+      "title": "Liverpool injury, suspension list and return dates for Bournemouth",
+      "url": "https://www.sportsmole.co.uk/football/liverpool/injuries-and-suspensions/ekitike-chiesa-leoni-latest-liverpool-injury-suspension-list-vs-bournemouth_605367.html"
+    },
+    {
+      "accessedAt": "2026-09-18T03:05:00Z",
+      "title": "No new injuries as 25-man squad trains for Bournemouth",
+      "url": "https://www.thisisanfield.com/2026/09/no-injuries-liverpool-25-man-training-squad-bournemouth/"
+    },
+    {
+      "accessedAt": "2026-09-18T03:05:00Z",
+      "title": "Liverpool 3-1 Tottenham: Dominik Szoboszlai strike seals Carabao Cup win",
+      "url": "https://www.skysports.com/football/news/11095/13582687/liverpool-3-1-tottenham-dominik-szoboszlai-strike-seals-carabao-cup-win-as-spurs-at-least-end-goal-drought"
+    }
+  ],
+  "wordCount": 576
+}

@@ -1,0 +1,66 @@
+{
+  "analysis": {
+    "form": "Fulham ได้ 1 แต้มจากสี่นัดและอยู่อันดับ 18 แต่ผลลัพธ์ไม่ตรงกับเนื้องาน ทำ xG รวม 6.12 เสีย xG 6.97 นัดล่าสุดเสมอ Liverpool 0-0 นอกบ้าน และเกมที่แพ้ Crystal Palace 2-3 คาบ้านนั้นทำ xG ได้ถึง 3.14 กลางสัปดาห์ชนะ West Ham 3-2 ในถ้วย Manchester United ได้ 4 แต้ม ยิง 7 เสีย 7 และยังไม่ชนะนอกบ้านเลยฤดูกาลนี้ แพ้ Hull 0-2 และเสมอ Everton 2-2",
+    "headToHead": "แฟกต์แพ็กไม่มีสถิติการพบกันย้อนหลังในชุดนี้ ผมจึงไม่ถ่วงน้ำหนักด้วย h2h และอ่านจากฟอร์ม ตารางแข่ง และสภาพตัวผู้เล่นปัจจุบันแทน",
+    "market": "ตลาดให้ United 0.47 เสมอ 0.25 และ Fulham 0.28 ผมไม่เห็นด้วยกับส่วนต่างขนาดนั้น ทีมเยือนยังไม่ชนะนอกบ้าน ขาดแกนกลางสนามสามคน พักน้อยกว่า และเพิ่งถูกโห่ออกจากสนามตัวเองหลังเสียแต้มต่อจาก 2-0 ผมจึงตั้ง 0.40 / 0.29 / 0.31 คือลด United ลงเจ็ดจุดและเฉลี่ยไปที่เจ้าบ้านกับผลเสมอ",
+    "personnel": "United ขาด Manuel Ugarte, Carlos Baleba, Matthijs de Ligt, Amad Diallo และ Tom Heaton ส่วน Luke Shaw มีลุ้นกลับมา สามชื่อแรกคือแกนกลางสนามและเซ็นเตอร์แบ็ก ไม่ใช่ตัวสำรอง จึงหักค่าเกมรับได้จริง Fulham เป็นฝั่งที่ครบกว่ามาก ขาดเพียง Tom Cairney ที่ผ่าตัดเข่า และ Ryan Sessegnon ที่มีปัญหาขาหนีบแต่มีแนวโน้มลงเล่น ยังไม่มีรายชื่อยืนยันจากทั้งสองฝั่ง",
+    "risk": "ความเสี่ยงคือสภาพจิตใจของทีมเยือนหลังเกมวันพุธ ถ้าเสียประตูก่อน United ชุดนี้ยังไม่แสดงให้เห็นว่าพลิกกลับมาได้นอกบ้าน และ Fulham คือทีมที่ทำ xG ได้ 3.14 ในเกมเหย้าล่าสุด ผลเสมอที่ผมให้ไว้ 0.29 คือผลที่มีโอกาสจริง ไม่ใช่ตัวเลขประกอบ อีกทางหนึ่งคือถ้า Arbeloa ยังกดสูงเหมือนเดิม เกมอาจเปิดจนจบด้วยสกอร์ห่างมากกว่าที่ผมวางไว้",
+    "tactical": "Alvaro Arbeloa ให้ Fulham เล่น 4-2-3-1 ที่กดขึ้นสูงกว่าที่ทีมนี้เคยเป็น ซึ่งอธิบายทั้งค่า xG ที่สูงและจำนวนประตูที่เสีย Michael Carrick ใช้ 4-2-3-1 เช่นกันโดยอาศัย Bruno Fernandes เป็นจุดเชื่อม จุดปะทะอยู่ที่คู่กองกลางของ United ที่ต้องปะติดปะต่อใหม่ ถ้าแดนกลางถูกข้ามได้ง่าย พื้นที่ระหว่างแนวจะเปิดให้เกมรุกเจ้าบ้านที่ทำสกอร์ได้สองลูกในทั้งสองนัดเหย้า",
+    "trends": "แฟกต์แพ็กระบุ Fulham พัก 8 วัน ซึ่งไม่ตรง เพราะพวกเขาลงเตะถ้วยที่ West Ham คืนวันอังคาร เวลาพักจริงคือห้าวัน ส่วน United ลงเตะคืนวันพุธ เหลือสามวันก่อนเตะบ่ายวันอาทิตย์ สองนัดเหย้าของ Fulham จบด้วยสกอร์ 2-3 ทั้งคู่ คือยิงได้แต่ก็เสีย ส่วน United เสียประตูแล้ว 7 ลูกจากสี่นัด ค่าฐาน BTTS ของลีกอยู่ที่ 0.52 เกมนี้ควรสูงกว่านั้น",
+    "verdict": "Fulham 1-2 Manchester United ผมยังให้ทีมเยือนเป็นฝั่งที่น่าจะชนะที่สุด เพราะแนวรุก Cunha, Mbeumo และ Fernandes เหนือกว่าแนวรับที่เสียไปแล้ว 7 ลูก และ Fulham ยังไม่ชนะในลีกเลยสักนัด แต่เป็นการชนะแบบหวุดหวิดในเกมเปิด ไม่ใช่การควบคุมเกม"
+  },
+  "btts": true,
+  "confidence": "low",
+  "factpackHash": "7ea38cb6d1ec49690c405a9e197ac9f8e2e94e8057c44e270ddb1442e050a9ae",
+  "guruId": "claude-opus-5",
+  "harness": "claude-code-routine",
+  "keyFactor": "Manchester United มีคุณภาพแนวรุกเหนือกว่าจริง แต่เพิ่งเสียแต้มต่อจากตำแหน่งนำ 2-0 ในเกมถ้วยคืนวันพุธและพักน้อยกว่าเจ้าบ้านสองวัน",
+  "kickoffUtc": "2026-09-20T15:30:00.000Z",
+  "lockedAt": "2026-09-18T03:13:55.883Z",
+  "matchId": "epl-2627-r05-ful-mun",
+  "model": {
+    "displayName": "Claude Opus 5",
+    "id": "claude-opus-5"
+  },
+  "over25": true,
+  "pick": "A",
+  "probs": {
+    "A": 0.4,
+    "D": 0.29,
+    "H": 0.31
+  },
+  "runId": "predict-20260918T030225Z-claude-opus-5",
+  "schemaVersion": 1,
+  "scoreline": {
+    "away": 2,
+    "home": 1
+  },
+  "sources": [
+    {
+      "accessedAt": "2026-09-18T03:06:00Z",
+      "title": "Man United injury, suspension list and return dates vs. Fulham",
+      "url": "https://www.sportsmole.co.uk/football/man-utd/injury-news/injuries-and-suspensions/baleba-shaw-amad-de-ligt-latest-man-united-injury-suspension-list-vs-fulham_605277.html"
+    },
+    {
+      "accessedAt": "2026-09-18T03:06:00Z",
+      "title": "Fulham vs Manchester United Prediction, Lineups & Team News",
+      "url": "https://www.rotowire.com/soccer/article/fulham-vs-manchester-united-prediction-predicted-lineups-team-news-134884"
+    },
+    {
+      "accessedAt": "2026-09-18T03:06:00Z",
+      "title": "Manchester United 2-3 Brighton: Carabao Cup result as Pascal Gross inspires Seagulls to stunning comeback",
+      "url": "https://www.tntsports.co.uk/football/league-cup/2026-2027/live-manchester-united-brighton-hove-albion_mtc21876987/live-commentary.shtml"
+    },
+    {
+      "accessedAt": "2026-09-18T03:06:00Z",
+      "title": "West Ham 2-3 Fulham: Super-sub Oscar Bobb the difference-maker as Alvaro Arbeloa's side edge thrilling London derby",
+      "url": "https://www.skysports.com/football/west-ham-united-vs-fulham/577587"
+    },
+    {
+      "accessedAt": "2026-09-18T03:06:00Z",
+      "title": "Michael Carrick confident of Man Utd resurgence ahead of crucial Fulham clash despite historic Carabao Cup collapse",
+      "url": "https://www.goal.com/en-us/lists/michael-carrick-man-utd-fulham-carabao-cup/bltb641f08b43deeb1e"
+    }
+  ],
+  "wordCount": 584
+}
