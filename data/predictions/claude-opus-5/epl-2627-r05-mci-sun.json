@@ -1,0 +1,66 @@
+{
+  "analysis": {
+    "form": "Manchester City ชนะรวดทุกนัดของฤดูกาล เก็บ 12 แต้มเต็มจากสี่นัดลีก ยิง 8 เสีย 2 นัดล่าสุดชนะ Manchester United 1-0 ที่ Old Trafford ก่อนหน้านั้นชนะ Porto 2-0 ใน UCL และถล่ม Crystal Palace 4-1 Sunderland ได้ 4 แต้มจากสี่นัด นัดล่าสุดแพ้ Arsenal 0-2 คาบ้านแต่ทำ xG ได้ถึง 1.8 ต่อ 1.88 ซึ่งเป็นเกมที่สูสีกว่าสกอร์ และกลางสัปดาห์เพิ่งชนะ AZ Alkmaar 1-0 ในเกมยุโรปนัดแรกในรอบ 53 ปี",
+    "headToHead": "แฟกต์แพ็กไม่มีสถิติการพบกันย้อนหลังในชุดนี้ ผมจึงไม่ใช้ h2h ถ่วงน้ำหนัก และอ่านจากคุณภาพตัวผู้เล่นกับตารางแข่งจริงแทน",
+    "market": "ตลาดให้ City 0.74 เสมอ 0.17 และ Sunderland 0.10 ผมเห็นตรงกันเกือบทั้งหมดและตั้งไว้ที่ 0.73 / 0.18 / 0.09 เหตุผลที่ไม่ดันขึ้นไปสูงกว่านี้คือ City ปิดเกมด้วยสกอร์ห่างลูกเดียวสองนัดติด และ Sunderland เป็นทีมที่สร้างโอกาสได้จริงแม้ผลจะไม่ออก การตั้งราคาตามตลาดในเกมที่ไม่มีข้อมูลขัดแย้งคือคำตอบที่ซื่อสัตย์ที่สุด",
+    "personnel": "City ขาด Phil Foden ที่ติดโทษแบนจากใบแดงในเกมดาร์บี้ และ Jeremy Doku ยังเป็นเครื่องหมายคำถามจากอาการเจ็บน่อง Maresca ไม่ปิดประตูว่าจะมีชื่อ ทั้งคู่เป็นตัวริมเส้น ทำให้ตัวเลือกความกว้างบางลง แต่แกนหลักที่เหลือยังครบ ฝั่ง Sunderland ขาด Habib Diarra และ Romaine Mundle จากอาการเจ็บ ส่วน Reinildo ติดโทษแบนในนัดนี้ ยังไม่มีรายชื่อยืนยันจากทั้งสองฝั่ง",
+    "risk": "ความเสี่ยงคือ Sunderland ไม่ใช่ทีมที่ยิงไม่ได้ พวกเขาทำ xG เหนือ 1.7 ในสามจากสี่นัด และเพิ่งเก็บคลีนชีตในเกมยุโรป ถ้าเกมยืดไปถึงชั่วโมงแรกโดยไม่มีประตู แรงกดดันจะย้ายไปฝั่งเจ้าบ้าน อีกความเสี่ยงคือ City ขาดตัวริมเส้นทั้ง Foden และอาจไม่มี Doku ซึ่งเป็นสองคนที่ถนัดที่สุดในการเจาะบล็อกต่ำ",
+    "tactical": "Enzo Maresca ให้ City ครองบอลสูงและใช้ฟูลแบ็กเข้ามาตรงกลางเพื่อสร้างความได้เปรียบเชิงจำนวนในแดนกลาง เมื่อเจอบล็อกต่ำ ทีมจะหาทางออกผ่านลูกครอสและการตัดเข้าในของตัวรุกริมเส้น Regis Le Bris ให้ Sunderland ตั้งบล็อกกลางแล้วออกบอลเร็วผ่าน Enzo Le Fee กับ Granit Xhaka จุดปะทะอยู่ที่แนวรับทีมเยือนที่ต้องดู Erling Haaland พร้อมกับแบ่งคนไปปิดตัวสอดจากแดนกลาง",
+    "trends": "ตัวเลขน่าสนใจคือ Sunderland ทำ xG รวม 6.19 จากสี่นัดลีกแต่ยิงจริงเพียง 3 ประตู คือทีมที่จบสกอร์ต่ำกว่าเนื้องาน ไม่ใช่ทีมที่สร้างโอกาสไม่ได้ ส่วน City ชนะสองนัดหลังในลีกด้วยสกอร์ 1-0 ทั้งคู่ แม้ xG จะเหนือกว่ามาก เกมรับ City เสียเพียง 2 ประตูจากสี่นัด รูปเกมนี้จึงเอียงไปทางประตูรวมไม่สูง",
+    "verdict": "Manchester City 2-0 ส่วนต่างเรื่องความสดเป็นของเจ้าบ้านล้วน ๆ Maresca เปลี่ยนตัวจริงสิบคนในเกมถ้วยกลางสัปดาห์และไม่เรียก Haaland ไปด้วย ขณะที่ Le Bris บอกเองว่าจะส่งชุดแข็งลงเล่นเกมยุโรปคืนวันพุธ ทีมเยือนที่จบสกอร์ต่ำกว่าเนื้องานอยู่แล้วจะยิ่งหาประตูยากเมื่อขาและสมาธิไม่เต็มร้อย"
+  },
+  "btts": false,
+  "confidence": "high",
+  "factpackHash": "bc8cd76a0fb8fcfaa4abc6d99369af372d8c9ec3c17db9deecedd371e6c1f330",
+  "guruId": "claude-opus-5",
+  "harness": "claude-code-routine",
+  "keyFactor": "Manchester City หมุนตัวผู้เล่นสิบคนในเกมถ้วยกลางสัปดาห์และไม่เอา Erling Haaland ไปด้วย ส่วน Sunderland ส่งชุดหลักลงเตะ Europa League คืนวันพุธ",
+  "kickoffUtc": "2026-09-20T13:00:00.000Z",
+  "lockedAt": "2026-09-18T03:12:39.920Z",
+  "matchId": "epl-2627-r05-mci-sun",
+  "model": {
+    "displayName": "Claude Opus 5",
+    "id": "claude-opus-5"
+  },
+  "over25": false,
+  "pick": "H",
+  "probs": {
+    "A": 0.09,
+    "D": 0.18,
+    "H": 0.73
+  },
+  "runId": "predict-20260918T030225Z-claude-opus-5",
+  "schemaVersion": 1,
+  "scoreline": {
+    "away": 0,
+    "home": 2
+  },
+  "sources": [
+    {
+      "accessedAt": "2026-09-18T03:06:00Z",
+      "title": "Manchester City vs Sunderland Premier League preview: Everything you need to know",
+      "url": "https://www.goal.com/en/news/manchester-city-sunderland-premier-league-preview/bltfdf076fea1515345"
+    },
+    {
+      "accessedAt": "2026-09-18T03:06:00Z",
+      "title": "Man City injury, suspension news and return dates for Sunderland Premier League game: Phil Foden, Jeremy Doku latest",
+      "url": "https://www.sportsmole.co.uk/football/man-city/injury-news/injuries-and-suspensions/foden-doku-latest-man-city-injury-list-for-sunderland-clash_605275.html"
+    },
+    {
+      "accessedAt": "2026-09-18T03:06:00Z",
+      "title": "Le Bris on 'special' European return, picking his strongest side and Alkmaar",
+      "url": "https://ca.sports.yahoo.com/news/le-bris-special-european-return-134134051.html"
+    },
+    {
+      "accessedAt": "2026-09-18T03:06:00Z",
+      "title": "Man City 5-0 Norwich City (Sep 17, 2026) Game Analysis",
+      "url": "https://www.espn.com/soccer/report/_/gameId/401914260"
+    },
+    {
+      "accessedAt": "2026-09-18T03:06:00Z",
+      "title": "Sunderland 1-0 AZ Alkmaar (Sep 16, 2026) Final Score",
+      "url": "https://www.espn.com/soccer/match/_/gameId/401915592/az-alkmaar-sunderland"
+    }
+  ],
+  "wordCount": 592
+}
