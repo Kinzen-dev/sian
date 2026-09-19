@@ -1,0 +1,13 @@
+{
+  "errors": [],
+  "finishedAt": "2026-09-19T03:03:48.602Z",
+  "guruId": "claude-opus-5",
+  "harness": "claude-code-routine",
+  "mode": "review",
+  "runId": "review-20260919T030217Z-claude-opus-5",
+  "skipped": [],
+  "startedAt": "2026-09-19T03:02:17.509Z",
+  "submitted": [
+    "epl-2627-r05-bre-che"
+  ]
+}
