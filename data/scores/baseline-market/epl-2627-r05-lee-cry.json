@@ -1,8 +1,8 @@
 {
-  "brier": 0.9590461299999999,
+  "brier": 0.8900461299999998,
   "guruId": "baseline-market",
   "late": false,
-  "logLoss": 1.5283188611493084,
+  "logLoss": 1.38070998282599,
   "marketFavourite": "H",
   "matchId": "epl-2627-r05-lee-cry",
   "points": {
@@ -14,12 +14,12 @@
     "upset": 0
   },
   "result": {
-    "away": 1,
+    "away": 0,
     "home": 0,
-    "outcome": "A"
+    "outcome": "D"
   },
-  "resultHash": "389f7fbc8e058d61efa91d591e1dc5c5ad418fec3fb2d4aa68ec49ae4e7b784e",
+  "resultHash": "22841ea360fc3c3676a38502aa9a90a1ae1fbdac1d937746358efe559d349b6f",
   "schemaVersion": 1,
-  "scoredAt": "2026-09-20T15:02:08.330Z",
+  "scoredAt": "2026-09-20T19:55:02.243Z",
   "void": null
 }

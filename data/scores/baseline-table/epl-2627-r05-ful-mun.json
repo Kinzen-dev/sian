@@ -3,22 +3,22 @@
   "guruId": "baseline-table",
   "late": false,
   "logLoss": 1.3470736479666092,
-  "marketFavourite": "H",
-  "matchId": "epl-2627-r05-lee-cry",
+  "marketFavourite": "A",
+  "matchId": "epl-2627-r05-ful-mun",
   "points": {
-    "btts": 0,
+    "btts": 0.5,
     "exact": 0,
     "ou": 0,
     "outcome": 0,
-    "total": 0,
+    "total": 0.5,
     "upset": 0
   },
   "result": {
-    "away": 0,
-    "home": 0,
+    "away": 1,
+    "home": 1,
     "outcome": "D"
   },
-  "resultHash": "22841ea360fc3c3676a38502aa9a90a1ae1fbdac1d937746358efe559d349b6f",
+  "resultHash": "59510d91a04a1af467946ec474bb7593d71a8af45f3dc1911dd5b3cbf62478a2",
   "schemaVersion": 1,
   "scoredAt": "2026-09-20T19:55:02.243Z",
   "void": null

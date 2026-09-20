@@ -7,7 +7,7 @@
       "externalIds": {
         "footballData": 560542
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "arsenal",
       "kickoffUtc": "2026-08-21T19:00:00.000Z",
       "matchId": "epl-2627-r01-ars-cov",
@@ -30,7 +30,7 @@
       "externalIds": {
         "footballData": 560543
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "hull",
       "kickoffUtc": "2026-08-22T11:30:00.000Z",
       "matchId": "epl-2627-r01-hul-mun",
@@ -53,7 +53,7 @@
       "externalIds": {
         "footballData": 560546
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "everton",
       "kickoffUtc": "2026-08-22T14:00:00.000Z",
       "matchId": "epl-2627-r01-eve-cry",
@@ -76,7 +76,7 @@
       "externalIds": {
         "footballData": 560544
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "ipswich",
       "kickoffUtc": "2026-08-22T14:00:00.000Z",
       "matchId": "epl-2627-r01-ips-sun",
@@ -99,7 +99,7 @@
       "externalIds": {
         "footballData": 560545
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "nottm-forest",
       "kickoffUtc": "2026-08-22T14:00:00.000Z",
       "matchId": "epl-2627-r01-nfo-lee",
@@ -122,7 +122,7 @@
       "externalIds": {
         "footballData": 560547
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "brentford",
       "kickoffUtc": "2026-08-22T16:30:00.000Z",
       "matchId": "epl-2627-r01-bre-tot",
@@ -145,7 +145,7 @@
       "externalIds": {
         "footballData": 560549
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "brighton",
       "kickoffUtc": "2026-08-23T13:00:00.000Z",
       "matchId": "epl-2627-r01-bha-avl",
@@ -168,7 +168,7 @@
       "externalIds": {
         "footballData": 560548
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "man-city",
       "kickoffUtc": "2026-08-23T13:00:00.000Z",
       "matchId": "epl-2627-r01-mci-bou",
@@ -191,7 +191,7 @@
       "externalIds": {
         "footballData": 560550
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "newcastle",
       "kickoffUtc": "2026-08-23T15:30:00.000Z",
       "matchId": "epl-2627-r01-new-liv",
@@ -214,7 +214,7 @@
       "externalIds": {
         "footballData": 560551
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "fulham",
       "kickoffUtc": "2026-08-24T19:00:00.000Z",
       "matchId": "epl-2627-r01-ful-che",
@@ -237,7 +237,7 @@
       "externalIds": {
         "footballData": 560555
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "crystal-palace",
       "kickoffUtc": "2026-08-28T19:00:00.000Z",
       "matchId": "epl-2627-r02-cry-mci",
@@ -260,7 +260,7 @@
       "externalIds": {
         "footballData": 560552
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "liverpool",
       "kickoffUtc": "2026-08-29T11:30:00.000Z",
       "matchId": "epl-2627-r02-liv-nfo",
@@ -283,7 +283,7 @@
       "externalIds": {
         "footballData": 560560
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "bournemouth",
       "kickoffUtc": "2026-08-29T14:00:00.000Z",
       "matchId": "epl-2627-r02-bou-eve",
@@ -306,7 +306,7 @@
       "externalIds": {
         "footballData": 560561
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "coventry",
       "kickoffUtc": "2026-08-29T14:00:00.000Z",
       "matchId": "epl-2627-r02-cov-hul",
@@ -329,7 +329,7 @@
       "externalIds": {
         "footballData": 560558
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "tottenham",
       "kickoffUtc": "2026-08-29T16:30:00.000Z",
       "matchId": "epl-2627-r02-tot-new",
@@ -352,7 +352,7 @@
       "externalIds": {
         "footballData": 560556
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "chelsea",
       "kickoffUtc": "2026-08-30T13:00:00.000Z",
       "matchId": "epl-2627-r02-che-bha",
@@ -375,7 +375,7 @@
       "externalIds": {
         "footballData": 560559
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "leeds",
       "kickoffUtc": "2026-08-30T13:00:00.000Z",
       "matchId": "epl-2627-r02-lee-bre",
@@ -398,7 +398,7 @@
       "externalIds": {
         "footballData": 560554
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "sunderland",
       "kickoffUtc": "2026-08-30T13:00:00.000Z",
       "matchId": "epl-2627-r02-sun-ful",
@@ -421,7 +421,7 @@
       "externalIds": {
         "footballData": 560553
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "man-utd",
       "kickoffUtc": "2026-08-30T15:30:00.000Z",
       "matchId": "epl-2627-r02-mun-ips",
@@ -444,7 +444,7 @@
       "externalIds": {
         "footballData": 560557
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "aston-villa",
       "kickoffUtc": "2026-08-31T19:00:00.000Z",
       "matchId": "epl-2627-r02-avl-ars",
@@ -467,7 +467,7 @@
       "externalIds": {
         "footballData": 560566
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "ipswich",
       "kickoffUtc": "2026-09-04T19:00:00.000Z",
       "matchId": "epl-2627-r03-ips-liv",
@@ -490,7 +490,7 @@
       "externalIds": {
         "footballData": 560571
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "newcastle",
       "kickoffUtc": "2026-09-05T11:30:00.000Z",
       "matchId": "epl-2627-r03-new-bou",
@@ -513,7 +513,7 @@
       "externalIds": {
         "footballData": 560564
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "brighton",
       "kickoffUtc": "2026-09-05T14:00:00.000Z",
       "matchId": "epl-2627-r03-bha-lee",
@@ -536,7 +536,7 @@
       "externalIds": {
         "footballData": 560565
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "brentford",
       "kickoffUtc": "2026-09-05T14:00:00.000Z",
       "matchId": "epl-2627-r03-bre-sun",
@@ -559,7 +559,7 @@
       "externalIds": {
         "footballData": 560568
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "fulham",
       "kickoffUtc": "2026-09-05T14:00:00.000Z",
       "matchId": "epl-2627-r03-ful-cry",
@@ -582,7 +582,7 @@
       "externalIds": {
         "footballData": 560563
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "man-city",
       "kickoffUtc": "2026-09-05T14:00:00.000Z",
       "matchId": "epl-2627-r03-mci-cov",
@@ -605,7 +605,7 @@
       "externalIds": {
         "footballData": 560562
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "nottm-forest",
       "kickoffUtc": "2026-09-05T14:00:00.000Z",
       "matchId": "epl-2627-r03-nfo-tot",
@@ -628,7 +628,7 @@
       "externalIds": {
         "footballData": 560569
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "hull",
       "kickoffUtc": "2026-09-05T16:30:00.000Z",
       "matchId": "epl-2627-r03-hul-avl",
@@ -651,7 +651,7 @@
       "externalIds": {
         "footballData": 560567
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "everton",
       "kickoffUtc": "2026-09-06T13:00:00.000Z",
       "matchId": "epl-2627-r03-eve-mun",
@@ -674,7 +674,7 @@
       "externalIds": {
         "footballData": 560570
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "arsenal",
       "kickoffUtc": "2026-09-06T15:30:00.000Z",
       "matchId": "epl-2627-r03-ars-che",
@@ -697,7 +697,7 @@
       "externalIds": {
         "footballData": 560574
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "aston-villa",
       "kickoffUtc": "2026-09-12T14:00:00.000Z",
       "matchId": "epl-2627-r04-avl-nfo",
@@ -720,7 +720,7 @@
       "externalIds": {
         "footballData": 560576
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "bournemouth",
       "kickoffUtc": "2026-09-12T14:00:00.000Z",
       "matchId": "epl-2627-r04-bou-bre",
@@ -743,7 +743,7 @@
       "externalIds": {
         "footballData": 560581
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "chelsea",
       "kickoffUtc": "2026-09-12T14:00:00.000Z",
       "matchId": "epl-2627-r04-che-hul",
@@ -766,7 +766,7 @@
       "externalIds": {
         "footballData": 560572
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "crystal-palace",
       "kickoffUtc": "2026-09-12T14:00:00.000Z",
       "matchId": "epl-2627-r04-cry-ips",
@@ -789,7 +789,7 @@
       "externalIds": {
         "footballData": 560573
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "liverpool",
       "kickoffUtc": "2026-09-12T14:00:00.000Z",
       "matchId": "epl-2627-r04-liv-ful",
@@ -812,7 +812,7 @@
       "externalIds": {
         "footballData": 560575
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "tottenham",
       "kickoffUtc": "2026-09-12T16:30:00.000Z",
       "matchId": "epl-2627-r04-tot-eve",
@@ -835,7 +835,7 @@
       "externalIds": {
         "footballData": 560577
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "sunderland",
       "kickoffUtc": "2026-09-12T19:00:00.000Z",
       "matchId": "epl-2627-r04-sun-ars",
@@ -858,7 +858,7 @@
       "externalIds": {
         "footballData": 560578
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "coventry",
       "kickoffUtc": "2026-09-13T13:00:00.000Z",
       "matchId": "epl-2627-r04-cov-bha",
@@ -881,7 +881,7 @@
       "externalIds": {
         "footballData": 560580
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "man-utd",
       "kickoffUtc": "2026-09-13T15:30:00.000Z",
       "matchId": "epl-2627-r04-mun-mci",
@@ -904,7 +904,7 @@
       "externalIds": {
         "footballData": 560579
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "leeds",
       "kickoffUtc": "2026-09-14T19:00:00.000Z",
       "matchId": "epl-2627-r04-lee-new",
@@ -927,7 +927,7 @@
       "externalIds": {
         "footballData": 560591
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "brentford",
       "kickoffUtc": "2026-09-18T19:00:00.000Z",
       "matchId": "epl-2627-r05-bre-che",
@@ -947,7 +947,7 @@
       "externalIds": {
         "footballData": 560587
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "tottenham",
       "kickoffUtc": "2026-09-19T11:30:00.000Z",
       "matchId": "epl-2627-r05-tot-avl",
@@ -967,7 +967,7 @@
       "externalIds": {
         "footballData": 560586
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "brighton",
       "kickoffUtc": "2026-09-19T14:00:00.000Z",
       "matchId": "epl-2627-r05-bha-ars",
@@ -987,7 +987,7 @@
       "externalIds": {
         "footballData": 560584
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "everton",
       "kickoffUtc": "2026-09-19T14:00:00.000Z",
       "matchId": "epl-2627-r05-eve-ips",
@@ -1007,7 +1007,7 @@
       "externalIds": {
         "footballData": 560588
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "newcastle",
       "kickoffUtc": "2026-09-19T14:00:00.000Z",
       "matchId": "epl-2627-r05-new-hul",
@@ -1027,7 +1027,7 @@
       "externalIds": {
         "footballData": 560589
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "nottm-forest",
       "kickoffUtc": "2026-09-19T16:30:00.000Z",
       "matchId": "epl-2627-r05-nfo-cov",
@@ -1047,7 +1047,7 @@
       "externalIds": {
         "footballData": 560582
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "bournemouth",
       "kickoffUtc": "2026-09-20T13:00:00.000Z",
       "matchId": "epl-2627-r05-bou-liv",
@@ -1067,14 +1067,14 @@
       "externalIds": {
         "footballData": 560585
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "leeds",
       "kickoffUtc": "2026-09-20T13:00:00.000Z",
       "matchId": "epl-2627-r05-lee-cry",
       "provenance": "football-data.org",
       "round": 5,
       "score": {
-        "away": 1,
+        "away": 0,
         "home": 0
       },
       "season": "2627",
@@ -1087,15 +1087,18 @@
       "externalIds": {
         "footballData": 560590
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "man-city",
       "kickoffUtc": "2026-09-20T13:00:00.000Z",
       "matchId": "epl-2627-r05-mci-sun",
       "provenance": "football-data.org",
       "round": 5,
-      "score": null,
+      "score": {
+        "away": 3,
+        "home": 5
+      },
       "season": "2627",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "xg": null
     },
     {
@@ -1104,15 +1107,18 @@
       "externalIds": {
         "footballData": 560583
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "fulham",
       "kickoffUtc": "2026-09-20T15:30:00.000Z",
       "matchId": "epl-2627-r05-ful-mun",
       "provenance": "football-data.org",
       "round": 5,
-      "score": null,
+      "score": {
+        "away": 1,
+        "home": 1
+      },
       "season": "2627",
-      "status": "TIMED",
+      "status": "FINISHED",
       "xg": null
     },
     {
@@ -1121,7 +1127,7 @@
       "externalIds": {
         "footballData": 560593
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "arsenal",
       "kickoffUtc": "2026-10-10T11:30:00.000Z",
       "matchId": "epl-2627-r06-ars-lee",
@@ -1138,7 +1144,7 @@
       "externalIds": {
         "footballData": 560601
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "aston-villa",
       "kickoffUtc": "2026-10-10T14:00:00.000Z",
       "matchId": "epl-2627-r06-avl-bre",
@@ -1155,7 +1161,7 @@
       "externalIds": {
         "footballData": 560595
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "chelsea",
       "kickoffUtc": "2026-10-10T14:00:00.000Z",
       "matchId": "epl-2627-r06-che-bou",
@@ -1172,7 +1178,7 @@
       "externalIds": {
         "footballData": 560599
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "ipswich",
       "kickoffUtc": "2026-10-10T14:00:00.000Z",
       "matchId": "epl-2627-r06-ips-ful",
@@ -1189,7 +1195,7 @@
       "externalIds": {
         "footballData": 560592
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "sunderland",
       "kickoffUtc": "2026-10-10T14:00:00.000Z",
       "matchId": "epl-2627-r06-sun-bha",
@@ -1206,7 +1212,7 @@
       "externalIds": {
         "footballData": 560600
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "man-utd",
       "kickoffUtc": "2026-10-10T16:30:00.000Z",
       "matchId": "epl-2627-r06-mun-tot",
@@ -1223,7 +1229,7 @@
       "externalIds": {
         "footballData": 560596
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "crystal-palace",
       "kickoffUtc": "2026-10-11T13:00:00.000Z",
       "matchId": "epl-2627-r06-cry-nfo",
@@ -1240,7 +1246,7 @@
       "externalIds": {
         "footballData": 560594
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "hull",
       "kickoffUtc": "2026-10-11T13:00:00.000Z",
       "matchId": "epl-2627-r06-hul-eve",
@@ -1257,7 +1263,7 @@
       "externalIds": {
         "footballData": 560598
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "liverpool",
       "kickoffUtc": "2026-10-11T15:30:00.000Z",
       "matchId": "epl-2627-r06-liv-mci",
@@ -1274,7 +1280,7 @@
       "externalIds": {
         "footballData": 560597
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "coventry",
       "kickoffUtc": "2026-10-12T19:00:00.000Z",
       "matchId": "epl-2627-r06-cov-new",
@@ -1291,7 +1297,7 @@
       "externalIds": {
         "footballData": 560603
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "everton",
       "kickoffUtc": "2026-10-17T11:30:00.000Z",
       "matchId": "epl-2627-r07-eve-che",
@@ -1308,7 +1314,7 @@
       "externalIds": {
         "footballData": 560611
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "brentford",
       "kickoffUtc": "2026-10-17T14:00:00.000Z",
       "matchId": "epl-2627-r07-bre-liv",
@@ -1325,7 +1331,7 @@
       "externalIds": {
         "footballData": 560602
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "fulham",
       "kickoffUtc": "2026-10-17T14:00:00.000Z",
       "matchId": "epl-2627-r07-ful-hul",
@@ -1342,7 +1348,7 @@
       "externalIds": {
         "footballData": 560610
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "man-city",
       "kickoffUtc": "2026-10-17T14:00:00.000Z",
       "matchId": "epl-2627-r07-mci-ips",
@@ -1359,7 +1365,7 @@
       "externalIds": {
         "footballData": 560607
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "newcastle",
       "kickoffUtc": "2026-10-17T16:30:00.000Z",
       "matchId": "epl-2627-r07-new-avl",
@@ -1376,7 +1382,7 @@
       "externalIds": {
         "footballData": 560609
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "brighton",
       "kickoffUtc": "2026-10-18T13:00:00.000Z",
       "matchId": "epl-2627-r07-bha-cry",
@@ -1393,7 +1399,7 @@
       "externalIds": {
         "footballData": 560604
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "bournemouth",
       "kickoffUtc": "2026-10-18T13:00:00.000Z",
       "matchId": "epl-2627-r07-bou-sun",
@@ -1410,7 +1416,7 @@
       "externalIds": {
         "footballData": 560605
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "leeds",
       "kickoffUtc": "2026-10-18T13:00:00.000Z",
       "matchId": "epl-2627-r07-lee-mun",
@@ -1427,7 +1433,7 @@
       "externalIds": {
         "footballData": 560608
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "nottm-forest",
       "kickoffUtc": "2026-10-18T15:30:00.000Z",
       "matchId": "epl-2627-r07-nfo-ars",
@@ -1444,7 +1450,7 @@
       "externalIds": {
         "footballData": 560606
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "tottenham",
       "kickoffUtc": "2026-10-19T19:00:00.000Z",
       "matchId": "epl-2627-r07-tot-cov",
@@ -1461,7 +1467,7 @@
       "externalIds": {
         "footballData": 560620
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "ipswich",
       "kickoffUtc": "2026-10-23T19:00:00.000Z",
       "matchId": "epl-2627-r08-ips-nfo",
@@ -1478,7 +1484,7 @@
       "externalIds": {
         "footballData": 560614
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "aston-villa",
       "kickoffUtc": "2026-10-24T11:30:00.000Z",
       "matchId": "epl-2627-r08-avl-mci",
@@ -1495,7 +1501,7 @@
       "externalIds": {
         "footballData": 560616
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "arsenal",
       "kickoffUtc": "2026-10-24T14:00:00.000Z",
       "matchId": "epl-2627-r08-ars-eve",
@@ -1512,7 +1518,7 @@
       "externalIds": {
         "footballData": 560618
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "coventry",
       "kickoffUtc": "2026-10-24T14:00:00.000Z",
       "matchId": "epl-2627-r08-cov-ful",
@@ -1529,7 +1535,7 @@
       "externalIds": {
         "footballData": 560617
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "chelsea",
       "kickoffUtc": "2026-10-24T16:30:00.000Z",
       "matchId": "epl-2627-r08-che-tot",
@@ -1546,7 +1552,7 @@
       "externalIds": {
         "footballData": 560613
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "crystal-palace",
       "kickoffUtc": "2026-10-25T14:00:00.000Z",
       "matchId": "epl-2627-r08-cry-new",
@@ -1563,7 +1569,7 @@
       "externalIds": {
         "footballData": 560619
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "hull",
       "kickoffUtc": "2026-10-25T14:00:00.000Z",
       "matchId": "epl-2627-r08-hul-bre",
@@ -1580,7 +1586,7 @@
       "externalIds": {
         "footballData": 560612
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "liverpool",
       "kickoffUtc": "2026-10-25T14:00:00.000Z",
       "matchId": "epl-2627-r08-liv-bha",
@@ -1597,7 +1603,7 @@
       "externalIds": {
         "footballData": 560615
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "man-utd",
       "kickoffUtc": "2026-10-25T14:00:00.000Z",
       "matchId": "epl-2627-r08-mun-bou",
@@ -1614,7 +1620,7 @@
       "externalIds": {
         "footballData": 560621
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "sunderland",
       "kickoffUtc": "2026-10-25T16:30:00.000Z",
       "matchId": "epl-2627-r08-sun-lee",
@@ -1631,7 +1637,7 @@
       "externalIds": {
         "footballData": 560626
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "chelsea",
       "kickoffUtc": "2026-10-31T12:30:00.000Z",
       "matchId": "epl-2627-r09-che-mun",
@@ -1648,7 +1654,7 @@
       "externalIds": {
         "footballData": 560624
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "bournemouth",
       "kickoffUtc": "2026-10-31T15:00:00.000Z",
       "matchId": "epl-2627-r09-bou-lee",
@@ -1665,7 +1671,7 @@
       "externalIds": {
         "footballData": 560630
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "brentford",
       "kickoffUtc": "2026-10-31T15:00:00.000Z",
       "matchId": "epl-2627-r09-bre-nfo",
@@ -1682,7 +1688,7 @@
       "externalIds": {
         "footballData": 560625
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "coventry",
       "kickoffUtc": "2026-10-31T15:00:00.000Z",
       "matchId": "epl-2627-r09-cov-sun",
@@ -1699,7 +1705,7 @@
       "externalIds": {
         "footballData": 560629
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "hull",
       "kickoffUtc": "2026-10-31T15:00:00.000Z",
       "matchId": "epl-2627-r09-hul-ips",
@@ -1716,7 +1722,7 @@
       "externalIds": {
         "footballData": 560623
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "man-city",
       "kickoffUtc": "2026-10-31T15:00:00.000Z",
       "matchId": "epl-2627-r09-mci-bha",
@@ -1733,7 +1739,7 @@
       "externalIds": {
         "footballData": 560627
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "tottenham",
       "kickoffUtc": "2026-10-31T17:30:00.000Z",
       "matchId": "epl-2627-r09-tot-cry",
@@ -1750,7 +1756,7 @@
       "externalIds": {
         "footballData": 560628
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "aston-villa",
       "kickoffUtc": "2026-10-31T20:00:00.000Z",
       "matchId": "epl-2627-r09-avl-ful",
@@ -1767,7 +1773,7 @@
       "externalIds": {
         "footballData": 560631
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "liverpool",
       "kickoffUtc": "2026-11-01T16:30:00.000Z",
       "matchId": "epl-2627-r09-liv-ars",
@@ -1784,7 +1790,7 @@
       "externalIds": {
         "footballData": 560622
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "newcastle",
       "kickoffUtc": "2026-11-02T20:00:00.000Z",
       "matchId": "epl-2627-r09-new-eve",
@@ -1801,7 +1807,7 @@
       "externalIds": {
         "footballData": 560640
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "arsenal",
       "kickoffUtc": "2026-11-07T15:00:00.000Z",
       "matchId": "epl-2627-r10-ars-hul",
@@ -1818,7 +1824,7 @@
       "externalIds": {
         "footballData": 560638
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "brighton",
       "kickoffUtc": "2026-11-07T15:00:00.000Z",
       "matchId": "epl-2627-r10-bha-bre",
@@ -1835,7 +1841,7 @@
       "externalIds": {
         "footballData": 560635
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "crystal-palace",
       "kickoffUtc": "2026-11-07T15:00:00.000Z",
       "matchId": "epl-2627-r10-cry-liv",
@@ -1852,7 +1858,7 @@
       "externalIds": {
         "footballData": 560634
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "everton",
       "kickoffUtc": "2026-11-07T15:00:00.000Z",
       "matchId": "epl-2627-r10-eve-cov",
@@ -1869,7 +1875,7 @@
       "externalIds": {
         "footballData": 560633
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "fulham",
       "kickoffUtc": "2026-11-07T15:00:00.000Z",
       "matchId": "epl-2627-r10-ful-new",
@@ -1886,7 +1892,7 @@
       "externalIds": {
         "footballData": 560637
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "ipswich",
       "kickoffUtc": "2026-11-07T15:00:00.000Z",
       "matchId": "epl-2627-r10-ips-bou",
@@ -1903,7 +1909,7 @@
       "externalIds": {
         "footballData": 560632
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "leeds",
       "kickoffUtc": "2026-11-07T15:00:00.000Z",
       "matchId": "epl-2627-r10-lee-tot",
@@ -1920,7 +1926,7 @@
       "externalIds": {
         "footballData": 560639
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "man-utd",
       "kickoffUtc": "2026-11-07T15:00:00.000Z",
       "matchId": "epl-2627-r10-mun-avl",
@@ -1937,7 +1943,7 @@
       "externalIds": {
         "footballData": 560641
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "nottm-forest",
       "kickoffUtc": "2026-11-07T15:00:00.000Z",
       "matchId": "epl-2627-r10-nfo-mci",
@@ -1954,7 +1960,7 @@
       "externalIds": {
         "footballData": 560636
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "sunderland",
       "kickoffUtc": "2026-11-07T15:00:00.000Z",
       "matchId": "epl-2627-r10-sun-che",
@@ -1971,7 +1977,7 @@
       "externalIds": {
         "footballData": 560644
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "aston-villa",
       "kickoffUtc": "2026-11-21T15:00:00.000Z",
       "matchId": "epl-2627-r11-avl-sun",
@@ -1988,7 +1994,7 @@
       "externalIds": {
         "footballData": 560647
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "bournemouth",
       "kickoffUtc": "2026-11-21T15:00:00.000Z",
       "matchId": "epl-2627-r11-bou-nfo",
@@ -2005,7 +2011,7 @@
       "externalIds": {
         "footballData": 560649
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "brentford",
       "kickoffUtc": "2026-11-21T15:00:00.000Z",
       "matchId": "epl-2627-r11-bre-eve",
@@ -2022,7 +2028,7 @@
       "externalIds": {
         "footballData": 560642
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "chelsea",
       "kickoffUtc": "2026-11-21T15:00:00.000Z",
       "matchId": "epl-2627-r11-che-lee",
@@ -2039,7 +2045,7 @@
       "externalIds": {
         "footballData": 560650
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "coventry",
       "kickoffUtc": "2026-11-21T15:00:00.000Z",
       "matchId": "epl-2627-r11-cov-cry",
@@ -2056,7 +2062,7 @@
       "externalIds": {
         "footballData": 560646
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "hull",
       "kickoffUtc": "2026-11-21T15:00:00.000Z",
       "matchId": "epl-2627-r11-hul-bha",
@@ -2073,7 +2079,7 @@
       "externalIds": {
         "footballData": 560645
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "liverpool",
       "kickoffUtc": "2026-11-21T15:00:00.000Z",
       "matchId": "epl-2627-r11-liv-mun",
@@ -2090,7 +2096,7 @@
       "externalIds": {
         "footballData": 560643
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "man-city",
       "kickoffUtc": "2026-11-21T15:00:00.000Z",
       "matchId": "epl-2627-r11-mci-ful",
@@ -2107,7 +2113,7 @@
       "externalIds": {
         "footballData": 560651
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "newcastle",
       "kickoffUtc": "2026-11-21T15:00:00.000Z",
       "matchId": "epl-2627-r11-new-ars",
@@ -2124,7 +2130,7 @@
       "externalIds": {
         "footballData": 560648
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "tottenham",
       "kickoffUtc": "2026-11-21T15:00:00.000Z",
       "matchId": "epl-2627-r11-tot-ips",
@@ -2141,7 +2147,7 @@
       "externalIds": {
         "footballData": 560654
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "arsenal",
       "kickoffUtc": "2026-11-28T15:00:00.000Z",
       "matchId": "epl-2627-r12-ars-mci",
@@ -2158,7 +2164,7 @@
       "externalIds": {
         "footballData": 560659
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "brighton",
       "kickoffUtc": "2026-11-28T15:00:00.000Z",
       "matchId": "epl-2627-r12-bha-new",
@@ -2175,7 +2181,7 @@
       "externalIds": {
         "footballData": 560661
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "crystal-palace",
       "kickoffUtc": "2026-11-28T15:00:00.000Z",
       "matchId": "epl-2627-r12-cry-hul",
@@ -2192,7 +2198,7 @@
       "externalIds": {
         "footballData": 560656
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "everton",
       "kickoffUtc": "2026-11-28T15:00:00.000Z",
       "matchId": "epl-2627-r12-eve-liv",
@@ -2209,7 +2215,7 @@
       "externalIds": {
         "footballData": 560657
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "fulham",
       "kickoffUtc": "2026-11-28T15:00:00.000Z",
       "matchId": "epl-2627-r12-ful-bou",
@@ -2226,7 +2232,7 @@
       "externalIds": {
         "footballData": 560653
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "ipswich",
       "kickoffUtc": "2026-11-28T15:00:00.000Z",
       "matchId": "epl-2627-r12-ips-avl",
@@ -2243,7 +2249,7 @@
       "externalIds": {
         "footballData": 560652
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "leeds",
       "kickoffUtc": "2026-11-28T15:00:00.000Z",
       "matchId": "epl-2627-r12-lee-cov",
@@ -2260,7 +2266,7 @@
       "externalIds": {
         "footballData": 560655
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "man-utd",
       "kickoffUtc": "2026-11-28T15:00:00.000Z",
       "matchId": "epl-2627-r12-mun-bre",
@@ -2277,7 +2283,7 @@
       "externalIds": {
         "footballData": 560658
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "nottm-forest",
       "kickoffUtc": "2026-11-28T15:00:00.000Z",
       "matchId": "epl-2627-r12-nfo-che",
@@ -2294,7 +2300,7 @@
       "externalIds": {
         "footballData": 560660
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "sunderland",
       "kickoffUtc": "2026-11-28T15:00:00.000Z",
       "matchId": "epl-2627-r12-sun-tot",
@@ -2311,7 +2317,7 @@
       "externalIds": {
         "footballData": 560666
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "aston-villa",
       "kickoffUtc": "2026-12-02T20:00:00.000Z",
       "matchId": "epl-2627-r13-avl-eve",
@@ -2328,7 +2334,7 @@
       "externalIds": {
         "footballData": 560671
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "bournemouth",
       "kickoffUtc": "2026-12-02T20:00:00.000Z",
       "matchId": "epl-2627-r13-bou-bha",
@@ -2345,7 +2351,7 @@
       "externalIds": {
         "footballData": 560667
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "brentford",
       "kickoffUtc": "2026-12-02T20:00:00.000Z",
       "matchId": "epl-2627-r13-bre-ars",
@@ -2362,7 +2368,7 @@
       "externalIds": {
         "footballData": 560665
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "chelsea",
       "kickoffUtc": "2026-12-02T20:00:00.000Z",
       "matchId": "epl-2627-r13-che-cry",
@@ -2379,7 +2385,7 @@
       "externalIds": {
         "footballData": 560668
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "coventry",
       "kickoffUtc": "2026-12-02T20:00:00.000Z",
       "matchId": "epl-2627-r13-cov-ips",
@@ -2396,7 +2402,7 @@
       "externalIds": {
         "footballData": 560664
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "hull",
       "kickoffUtc": "2026-12-02T20:00:00.000Z",
       "matchId": "epl-2627-r13-hul-nfo",
@@ -2413,7 +2419,7 @@
       "externalIds": {
         "footballData": 560663
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "liverpool",
       "kickoffUtc": "2026-12-02T20:00:00.000Z",
       "matchId": "epl-2627-r13-liv-sun",
@@ -2430,7 +2436,7 @@
       "externalIds": {
         "footballData": 560669
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "man-city",
       "kickoffUtc": "2026-12-02T20:00:00.000Z",
       "matchId": "epl-2627-r13-mci-lee",
@@ -2447,7 +2453,7 @@
       "externalIds": {
         "footballData": 560670
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "newcastle",
       "kickoffUtc": "2026-12-02T20:00:00.000Z",
       "matchId": "epl-2627-r13-new-mun",
@@ -2464,7 +2470,7 @@
       "externalIds": {
         "footballData": 560662
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "tottenham",
       "kickoffUtc": "2026-12-02T20:00:00.000Z",
       "matchId": "epl-2627-r13-tot-ful",
@@ -2481,7 +2487,7 @@
       "externalIds": {
         "footballData": 560679
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "aston-villa",
       "kickoffUtc": "2026-12-05T15:00:00.000Z",
       "matchId": "epl-2627-r14-avl-cry",
@@ -2498,7 +2504,7 @@
       "externalIds": {
         "footballData": 560678
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "bournemouth",
       "kickoffUtc": "2026-12-05T15:00:00.000Z",
       "matchId": "epl-2627-r14-bou-hul",
@@ -2515,7 +2521,7 @@
       "externalIds": {
         "footballData": 560677
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "brentford",
       "kickoffUtc": "2026-12-05T15:00:00.000Z",
       "matchId": "epl-2627-r14-bre-mci",
@@ -2532,7 +2538,7 @@
       "externalIds": {
         "footballData": 560676
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "chelsea",
       "kickoffUtc": "2026-12-05T15:00:00.000Z",
       "matchId": "epl-2627-r14-che-liv",
@@ -2549,7 +2555,7 @@
       "externalIds": {
         "footballData": 560681
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "everton",
       "kickoffUtc": "2026-12-05T15:00:00.000Z",
       "matchId": "epl-2627-r14-eve-ful",
@@ -2566,7 +2572,7 @@
       "externalIds": {
         "footballData": 560674
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "leeds",
       "kickoffUtc": "2026-12-05T15:00:00.000Z",
       "matchId": "epl-2627-r14-lee-ips",
@@ -2583,7 +2589,7 @@
       "externalIds": {
         "footballData": 560673
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "man-utd",
       "kickoffUtc": "2026-12-05T15:00:00.000Z",
       "matchId": "epl-2627-r14-mun-cov",
@@ -2600,7 +2606,7 @@
       "externalIds": {
         "footballData": 560675
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "newcastle",
       "kickoffUtc": "2026-12-05T15:00:00.000Z",
       "matchId": "epl-2627-r14-new-sun",
@@ -2617,7 +2623,7 @@
       "externalIds": {
         "footballData": 560680
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "nottm-forest",
       "kickoffUtc": "2026-12-05T15:00:00.000Z",
       "matchId": "epl-2627-r14-nfo-bha",
@@ -2634,7 +2640,7 @@
       "externalIds": {
         "footballData": 560672
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "tottenham",
       "kickoffUtc": "2026-12-05T15:00:00.000Z",
       "matchId": "epl-2627-r14-tot-ars",
@@ -2651,7 +2657,7 @@
       "externalIds": {
         "footballData": 560688
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "arsenal",
       "kickoffUtc": "2026-12-12T15:00:00.000Z",
       "matchId": "epl-2627-r15-ars-bou",
@@ -2668,7 +2674,7 @@
       "externalIds": {
         "footballData": 560685
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "brighton",
       "kickoffUtc": "2026-12-12T15:00:00.000Z",
       "matchId": "epl-2627-r15-bha-eve",
@@ -2685,7 +2691,7 @@
       "externalIds": {
         "footballData": 560687
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "coventry",
       "kickoffUtc": "2026-12-12T15:00:00.000Z",
       "matchId": "epl-2627-r15-cov-avl",
@@ -2702,7 +2708,7 @@
       "externalIds": {
         "footballData": 560683
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "crystal-palace",
       "kickoffUtc": "2026-12-12T15:00:00.000Z",
       "matchId": "epl-2627-r15-cry-mun",
@@ -2719,7 +2725,7 @@
       "externalIds": {
         "footballData": 560691
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "fulham",
       "kickoffUtc": "2026-12-12T15:00:00.000Z",
       "matchId": "epl-2627-r15-ful-bre",
@@ -2736,7 +2742,7 @@
       "externalIds": {
         "footballData": 560684
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "hull",
       "kickoffUtc": "2026-12-12T15:00:00.000Z",
       "matchId": "epl-2627-r15-hul-tot",
@@ -2753,7 +2759,7 @@
       "externalIds": {
         "footballData": 560686
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "ipswich",
       "kickoffUtc": "2026-12-12T15:00:00.000Z",
       "matchId": "epl-2627-r15-ips-new",
@@ -2770,7 +2776,7 @@
       "externalIds": {
         "footballData": 560690
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "liverpool",
       "kickoffUtc": "2026-12-12T15:00:00.000Z",
       "matchId": "epl-2627-r15-liv-lee",
@@ -2787,7 +2793,7 @@
       "externalIds": {
         "footballData": 560689
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "man-city",
       "kickoffUtc": "2026-12-12T15:00:00.000Z",
       "matchId": "epl-2627-r15-mci-che",
@@ -2804,7 +2810,7 @@
       "externalIds": {
         "footballData": 560682
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "sunderland",
       "kickoffUtc": "2026-12-12T15:00:00.000Z",
       "matchId": "epl-2627-r15-sun-nfo",
@@ -2821,7 +2827,7 @@
       "externalIds": {
         "footballData": 560699
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "arsenal",
       "kickoffUtc": "2026-12-19T15:00:00.000Z",
       "matchId": "epl-2627-r16-ars-mun",
@@ -2838,7 +2844,7 @@
       "externalIds": {
         "footballData": 560693
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "brighton",
       "kickoffUtc": "2026-12-19T15:00:00.000Z",
       "matchId": "epl-2627-r16-bha-ips",
@@ -2855,7 +2861,7 @@
       "externalIds": {
         "footballData": 560698
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "bournemouth",
       "kickoffUtc": "2026-12-19T15:00:00.000Z",
       "matchId": "epl-2627-r16-bou-cov",
@@ -2872,7 +2878,7 @@
       "externalIds": {
         "footballData": 560695
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "brentford",
       "kickoffUtc": "2026-12-19T15:00:00.000Z",
       "matchId": "epl-2627-r16-bre-new",
@@ -2889,7 +2895,7 @@
       "externalIds": {
         "footballData": 560701
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "chelsea",
       "kickoffUtc": "2026-12-19T15:00:00.000Z",
       "matchId": "epl-2627-r16-che-avl",
@@ -2906,7 +2912,7 @@
       "externalIds": {
         "footballData": 560692
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "leeds",
       "kickoffUtc": "2026-12-19T15:00:00.000Z",
       "matchId": "epl-2627-r16-lee-ful",
@@ -2923,7 +2929,7 @@
       "externalIds": {
         "footballData": 560700
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "liverpool",
       "kickoffUtc": "2026-12-19T15:00:00.000Z",
       "matchId": "epl-2627-r16-liv-tot",
@@ -2940,7 +2946,7 @@
       "externalIds": {
         "footballData": 560696
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "man-city",
       "kickoffUtc": "2026-12-19T15:00:00.000Z",
       "matchId": "epl-2627-r16-mci-hul",
@@ -2957,7 +2963,7 @@
       "externalIds": {
         "footballData": 560694
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "nottm-forest",
       "kickoffUtc": "2026-12-19T15:00:00.000Z",
       "matchId": "epl-2627-r16-nfo-eve",
@@ -2974,7 +2980,7 @@
       "externalIds": {
         "footballData": 560697
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "sunderland",
       "kickoffUtc": "2026-12-19T15:00:00.000Z",
       "matchId": "epl-2627-r16-sun-cry",
@@ -2991,7 +2997,7 @@
       "externalIds": {
         "footballData": 560702
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "aston-villa",
       "kickoffUtc": "2026-12-26T12:30:00.000Z",
       "matchId": "epl-2627-r17-avl-lee",
@@ -3008,7 +3014,7 @@
       "externalIds": {
         "footballData": 560705
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "everton",
       "kickoffUtc": "2026-12-26T15:00:00.000Z",
       "matchId": "epl-2627-r17-eve-sun",
@@ -3025,7 +3031,7 @@
       "externalIds": {
         "footballData": 560708
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "fulham",
       "kickoffUtc": "2026-12-26T15:00:00.000Z",
       "matchId": "epl-2627-r17-ful-bha",
@@ -3042,7 +3048,7 @@
       "externalIds": {
         "footballData": 560711
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "ipswich",
       "kickoffUtc": "2026-12-26T15:00:00.000Z",
       "matchId": "epl-2627-r17-ips-bre",
@@ -3059,7 +3065,7 @@
       "externalIds": {
         "footballData": 560709
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "tottenham",
       "kickoffUtc": "2026-12-26T15:00:00.000Z",
       "matchId": "epl-2627-r17-tot-bou",
@@ -3076,7 +3082,7 @@
       "externalIds": {
         "footballData": 560710
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "hull",
       "kickoffUtc": "2026-12-26T17:30:00.000Z",
       "matchId": "epl-2627-r17-hul-liv",
@@ -3093,7 +3099,7 @@
       "externalIds": {
         "footballData": 560707
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "newcastle",
       "kickoffUtc": "2026-12-26T20:00:00.000Z",
       "matchId": "epl-2627-r17-new-mci",
@@ -3110,7 +3116,7 @@
       "externalIds": {
         "footballData": 560706
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "coventry",
       "kickoffUtc": "2026-12-27T14:00:00.000Z",
       "matchId": "epl-2627-r17-cov-che",
@@ -3127,7 +3133,7 @@
       "externalIds": {
         "footballData": 560703
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "man-utd",
       "kickoffUtc": "2026-12-27T16:30:00.000Z",
       "matchId": "epl-2627-r17-mun-nfo",
@@ -3144,7 +3150,7 @@
       "externalIds": {
         "footballData": 560704
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "crystal-palace",
       "kickoffUtc": "2026-12-27T19:00:00.000Z",
       "matchId": "epl-2627-r17-cry-ars",
@@ -3161,7 +3167,7 @@
       "externalIds": {
         "footballData": 560716
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "hull",
       "kickoffUtc": "2026-12-29T19:30:00.000Z",
       "matchId": "epl-2627-r18-hul-lee",
@@ -3178,7 +3184,7 @@
       "externalIds": {
         "footballData": 560719
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "tottenham",
       "kickoffUtc": "2026-12-29T19:30:00.000Z",
       "matchId": "epl-2627-r18-tot-bha",
@@ -3195,7 +3201,7 @@
       "externalIds": {
         "footballData": 560720
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "everton",
       "kickoffUtc": "2026-12-29T20:15:00.000Z",
       "matchId": "epl-2627-r18-eve-mci",
@@ -3212,7 +3218,7 @@
       "externalIds": {
         "footballData": 560713
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "coventry",
       "kickoffUtc": "2026-12-30T19:30:00.000Z",
       "matchId": "epl-2627-r18-cov-bre",
@@ -3229,7 +3235,7 @@
       "externalIds": {
         "footballData": 560721
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "crystal-palace",
       "kickoffUtc": "2026-12-30T19:30:00.000Z",
       "matchId": "epl-2627-r18-cry-bou",
@@ -3246,7 +3252,7 @@
       "externalIds": {
         "footballData": 560712
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "fulham",
       "kickoffUtc": "2026-12-30T19:30:00.000Z",
       "matchId": "epl-2627-r18-ful-ars",
@@ -3263,7 +3269,7 @@
       "externalIds": {
         "footballData": 560717
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "man-utd",
       "kickoffUtc": "2026-12-30T19:30:00.000Z",
       "matchId": "epl-2627-r18-mun-sun",
@@ -3280,7 +3286,7 @@
       "externalIds": {
         "footballData": 560715
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "newcastle",
       "kickoffUtc": "2026-12-30T19:30:00.000Z",
       "matchId": "epl-2627-r18-new-nfo",
@@ -3297,7 +3303,7 @@
       "externalIds": {
         "footballData": 560714
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "aston-villa",
       "kickoffUtc": "2026-12-30T20:15:00.000Z",
       "matchId": "epl-2627-r18-avl-liv",
@@ -3314,7 +3320,7 @@
       "externalIds": {
         "footballData": 560718
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "ipswich",
       "kickoffUtc": "2026-12-30T20:15:00.000Z",
       "matchId": "epl-2627-r18-ips-che",
@@ -3331,7 +3337,7 @@
       "externalIds": {
         "footballData": 560724
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "leeds",
       "kickoffUtc": "2027-01-01T20:00:00.000Z",
       "matchId": "epl-2627-r19-lee-eve",
@@ -3348,7 +3354,7 @@
       "externalIds": {
         "footballData": 560730
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "brighton",
       "kickoffUtc": "2027-01-02T12:30:00.000Z",
       "matchId": "epl-2627-r19-bha-mun",
@@ -3365,7 +3371,7 @@
       "externalIds": {
         "footballData": 560725
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "arsenal",
       "kickoffUtc": "2027-01-02T15:00:00.000Z",
       "matchId": "epl-2627-r19-ars-ips",
@@ -3382,7 +3388,7 @@
       "externalIds": {
         "footballData": 560723
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "brentford",
       "kickoffUtc": "2027-01-02T15:00:00.000Z",
       "matchId": "epl-2627-r19-bre-cry",
@@ -3399,7 +3405,7 @@
       "externalIds": {
         "footballData": 560727
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "liverpool",
       "kickoffUtc": "2027-01-02T15:00:00.000Z",
       "matchId": "epl-2627-r19-liv-cov",
@@ -3416,7 +3422,7 @@
       "externalIds": {
         "footballData": 560729
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "nottm-forest",
       "kickoffUtc": "2027-01-02T15:00:00.000Z",
       "matchId": "epl-2627-r19-nfo-ful",
@@ -3433,7 +3439,7 @@
       "externalIds": {
         "footballData": 560726
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "sunderland",
       "kickoffUtc": "2027-01-02T15:00:00.000Z",
       "matchId": "epl-2627-r19-sun-hul",
@@ -3450,7 +3456,7 @@
       "externalIds": {
         "footballData": 560722
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "bournemouth",
       "kickoffUtc": "2027-01-02T17:30:00.000Z",
       "matchId": "epl-2627-r19-bou-avl",
@@ -3467,7 +3473,7 @@
       "externalIds": {
         "footballData": 560728
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "chelsea",
       "kickoffUtc": "2027-01-03T14:00:00.000Z",
       "matchId": "epl-2627-r19-che-new",
@@ -3484,7 +3490,7 @@
       "externalIds": {
         "footballData": 560731
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "man-city",
       "kickoffUtc": "2027-01-03T16:30:00.000Z",
       "matchId": "epl-2627-r19-mci-tot",
@@ -3501,7 +3507,7 @@
       "externalIds": {
         "footballData": 560732
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "arsenal",
       "kickoffUtc": "2027-01-05T19:30:00.000Z",
       "matchId": "epl-2627-r20-ars-bre",
@@ -3518,7 +3524,7 @@
       "externalIds": {
         "footballData": 560735
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "brighton",
       "kickoffUtc": "2027-01-05T19:30:00.000Z",
       "matchId": "epl-2627-r20-bha-bou",
@@ -3535,7 +3541,7 @@
       "externalIds": {
         "footballData": 560738
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "everton",
       "kickoffUtc": "2027-01-05T19:30:00.000Z",
       "matchId": "epl-2627-r20-eve-avl",
@@ -3552,7 +3558,7 @@
       "externalIds": {
         "footballData": 560736
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "nottm-forest",
       "kickoffUtc": "2027-01-05T19:30:00.000Z",
       "matchId": "epl-2627-r20-nfo-hul",
@@ -3569,7 +3575,7 @@
       "externalIds": {
         "footballData": 560739
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "sunderland",
       "kickoffUtc": "2027-01-05T20:15:00.000Z",
       "matchId": "epl-2627-r20-sun-liv",
@@ -3586,7 +3592,7 @@
       "externalIds": {
         "footballData": 560740
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "crystal-palace",
       "kickoffUtc": "2027-01-06T19:30:00.000Z",
       "matchId": "epl-2627-r20-cry-che",
@@ -3603,7 +3609,7 @@
       "externalIds": {
         "footballData": 560737
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "fulham",
       "kickoffUtc": "2027-01-06T19:30:00.000Z",
       "matchId": "epl-2627-r20-ful-tot",
@@ -3620,7 +3626,7 @@
       "externalIds": {
         "footballData": 560741
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "ipswich",
       "kickoffUtc": "2027-01-06T19:30:00.000Z",
       "matchId": "epl-2627-r20-ips-cov",
@@ -3637,7 +3643,7 @@
       "externalIds": {
         "footballData": 560733
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "leeds",
       "kickoffUtc": "2027-01-06T20:15:00.000Z",
       "matchId": "epl-2627-r20-lee-mci",
@@ -3654,7 +3660,7 @@
       "externalIds": {
         "footballData": 560734
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "man-utd",
       "kickoffUtc": "2027-01-07T20:00:00.000Z",
       "matchId": "epl-2627-r20-mun-new",
@@ -3671,7 +3677,7 @@
       "externalIds": {
         "footballData": 560746
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "aston-villa",
       "kickoffUtc": "2027-01-16T15:00:00.000Z",
       "matchId": "epl-2627-r21-avl-mun",
@@ -3688,7 +3694,7 @@
       "externalIds": {
         "footballData": 560742
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "bournemouth",
       "kickoffUtc": "2027-01-16T15:00:00.000Z",
       "matchId": "epl-2627-r21-bou-ips",
@@ -3705,7 +3711,7 @@
       "externalIds": {
         "footballData": 560745
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "brentford",
       "kickoffUtc": "2027-01-16T15:00:00.000Z",
       "matchId": "epl-2627-r21-bre-bha",
@@ -3722,7 +3728,7 @@
       "externalIds": {
         "footballData": 560744
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "chelsea",
       "kickoffUtc": "2027-01-16T15:00:00.000Z",
       "matchId": "epl-2627-r21-che-sun",
@@ -3739,7 +3745,7 @@
       "externalIds": {
         "footballData": 560748
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "coventry",
       "kickoffUtc": "2027-01-16T15:00:00.000Z",
       "matchId": "epl-2627-r21-cov-eve",
@@ -3756,7 +3762,7 @@
       "externalIds": {
         "footballData": 560750
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "hull",
       "kickoffUtc": "2027-01-16T15:00:00.000Z",
       "matchId": "epl-2627-r21-hul-ars",
@@ -3773,7 +3779,7 @@
       "externalIds": {
         "footballData": 560749
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "liverpool",
       "kickoffUtc": "2027-01-16T15:00:00.000Z",
       "matchId": "epl-2627-r21-liv-cry",
@@ -3790,7 +3796,7 @@
       "externalIds": {
         "footballData": 560743
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "man-city",
       "kickoffUtc": "2027-01-16T15:00:00.000Z",
       "matchId": "epl-2627-r21-mci-nfo",
@@ -3807,7 +3813,7 @@
       "externalIds": {
         "footballData": 560751
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "newcastle",
       "kickoffUtc": "2027-01-16T15:00:00.000Z",
       "matchId": "epl-2627-r21-new-ful",
@@ -3824,7 +3830,7 @@
       "externalIds": {
         "footballData": 560747
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "tottenham",
       "kickoffUtc": "2027-01-16T15:00:00.000Z",
       "matchId": "epl-2627-r21-tot-lee",
@@ -3841,7 +3847,7 @@
       "externalIds": {
         "footballData": 560756
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "arsenal",
       "kickoffUtc": "2027-01-23T15:00:00.000Z",
       "matchId": "epl-2627-r22-ars-new",
@@ -3858,7 +3864,7 @@
       "externalIds": {
         "footballData": 560760
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "brighton",
       "kickoffUtc": "2027-01-23T15:00:00.000Z",
       "matchId": "epl-2627-r22-bha-mci",
@@ -3875,7 +3881,7 @@
       "externalIds": {
         "footballData": 560761
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "crystal-palace",
       "kickoffUtc": "2027-01-23T15:00:00.000Z",
       "matchId": "epl-2627-r22-cry-tot",
@@ -3892,7 +3898,7 @@
       "externalIds": {
         "footballData": 560753
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "everton",
       "kickoffUtc": "2027-01-23T15:00:00.000Z",
       "matchId": "epl-2627-r22-eve-bre",
@@ -3909,7 +3915,7 @@
       "externalIds": {
         "footballData": 560758
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "fulham",
       "kickoffUtc": "2027-01-23T15:00:00.000Z",
       "matchId": "epl-2627-r22-ful-avl",
@@ -3926,7 +3932,7 @@
       "externalIds": {
         "footballData": 560752
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "ipswich",
       "kickoffUtc": "2027-01-23T15:00:00.000Z",
       "matchId": "epl-2627-r22-ips-hul",
@@ -3943,7 +3949,7 @@
       "externalIds": {
         "footballData": 560757
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "leeds",
       "kickoffUtc": "2027-01-23T15:00:00.000Z",
       "matchId": "epl-2627-r22-lee-che",
@@ -3960,7 +3966,7 @@
       "externalIds": {
         "footballData": 560759
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "man-utd",
       "kickoffUtc": "2027-01-23T15:00:00.000Z",
       "matchId": "epl-2627-r22-mun-liv",
@@ -3977,7 +3983,7 @@
       "externalIds": {
         "footballData": 560755
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "nottm-forest",
       "kickoffUtc": "2027-01-23T15:00:00.000Z",
       "matchId": "epl-2627-r22-nfo-bou",
@@ -3994,7 +4000,7 @@
       "externalIds": {
         "footballData": 560754
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "sunderland",
       "kickoffUtc": "2027-01-23T15:00:00.000Z",
       "matchId": "epl-2627-r22-sun-cov",
@@ -4011,7 +4017,7 @@
       "externalIds": {
         "footballData": 560771
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "aston-villa",
       "kickoffUtc": "2027-01-30T15:00:00.000Z",
       "matchId": "epl-2627-r23-avl-ips",
@@ -4028,7 +4034,7 @@
       "externalIds": {
         "footballData": 560767
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "bournemouth",
       "kickoffUtc": "2027-01-30T15:00:00.000Z",
       "matchId": "epl-2627-r23-bou-ful",
@@ -4045,7 +4051,7 @@
       "externalIds": {
         "footballData": 560763
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "brentford",
       "kickoffUtc": "2027-01-30T15:00:00.000Z",
       "matchId": "epl-2627-r23-bre-mun",
@@ -4062,7 +4068,7 @@
       "externalIds": {
         "footballData": 560768
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "chelsea",
       "kickoffUtc": "2027-01-30T15:00:00.000Z",
       "matchId": "epl-2627-r23-che-nfo",
@@ -4079,7 +4085,7 @@
       "externalIds": {
         "footballData": 560766
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "coventry",
       "kickoffUtc": "2027-01-30T15:00:00.000Z",
       "matchId": "epl-2627-r23-cov-lee",
@@ -4096,7 +4102,7 @@
       "externalIds": {
         "footballData": 560765
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "hull",
       "kickoffUtc": "2027-01-30T15:00:00.000Z",
       "matchId": "epl-2627-r23-hul-cry",
@@ -4113,7 +4119,7 @@
       "externalIds": {
         "footballData": 560769
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "liverpool",
       "kickoffUtc": "2027-01-30T15:00:00.000Z",
       "matchId": "epl-2627-r23-liv-eve",
@@ -4130,7 +4136,7 @@
       "externalIds": {
         "footballData": 560770
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "man-city",
       "kickoffUtc": "2027-01-30T15:00:00.000Z",
       "matchId": "epl-2627-r23-mci-ars",
@@ -4147,7 +4153,7 @@
       "externalIds": {
         "footballData": 560764
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "newcastle",
       "kickoffUtc": "2027-01-30T15:00:00.000Z",
       "matchId": "epl-2627-r23-new-bha",
@@ -4164,7 +4170,7 @@
       "externalIds": {
         "footballData": 560762
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "tottenham",
       "kickoffUtc": "2027-01-30T15:00:00.000Z",
       "matchId": "epl-2627-r23-tot-sun",
@@ -4181,7 +4187,7 @@
       "externalIds": {
         "footballData": 560772
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "arsenal",
       "kickoffUtc": "2027-02-06T15:00:00.000Z",
       "matchId": "epl-2627-r24-ars-liv",
@@ -4198,7 +4204,7 @@
       "externalIds": {
         "footballData": 560773
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "brighton",
       "kickoffUtc": "2027-02-06T15:00:00.000Z",
       "matchId": "epl-2627-r24-bha-hul",
@@ -4215,7 +4221,7 @@
       "externalIds": {
         "footballData": 560775
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "crystal-palace",
       "kickoffUtc": "2027-02-06T15:00:00.000Z",
       "matchId": "epl-2627-r24-cry-cov",
@@ -4232,7 +4238,7 @@
       "externalIds": {
         "footballData": 560777
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "everton",
       "kickoffUtc": "2027-02-06T15:00:00.000Z",
       "matchId": "epl-2627-r24-eve-new",
@@ -4249,7 +4255,7 @@
       "externalIds": {
         "footballData": 560778
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "fulham",
       "kickoffUtc": "2027-02-06T15:00:00.000Z",
       "matchId": "epl-2627-r24-ful-mci",
@@ -4266,7 +4272,7 @@
       "externalIds": {
         "footballData": 560776
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "ipswich",
       "kickoffUtc": "2027-02-06T15:00:00.000Z",
       "matchId": "epl-2627-r24-ips-tot",
@@ -4283,7 +4289,7 @@
       "externalIds": {
         "footballData": 560779
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "leeds",
       "kickoffUtc": "2027-02-06T15:00:00.000Z",
       "matchId": "epl-2627-r24-lee-bou",
@@ -4300,7 +4306,7 @@
       "externalIds": {
         "footballData": 560780
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "man-utd",
       "kickoffUtc": "2027-02-06T15:00:00.000Z",
       "matchId": "epl-2627-r24-mun-che",
@@ -4317,7 +4323,7 @@
       "externalIds": {
         "footballData": 560781
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "nottm-forest",
       "kickoffUtc": "2027-02-06T15:00:00.000Z",
       "matchId": "epl-2627-r24-nfo-bre",
@@ -4334,7 +4340,7 @@
       "externalIds": {
         "footballData": 560774
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "sunderland",
       "kickoffUtc": "2027-02-06T15:00:00.000Z",
       "matchId": "epl-2627-r24-sun-avl",
@@ -4351,7 +4357,7 @@
       "externalIds": {
         "footballData": 560785
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "aston-villa",
       "kickoffUtc": "2027-02-10T20:00:00.000Z",
       "matchId": "epl-2627-r25-avl-bou",
@@ -4368,7 +4374,7 @@
       "externalIds": {
         "footballData": 560783
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "coventry",
       "kickoffUtc": "2027-02-10T20:00:00.000Z",
       "matchId": "epl-2627-r25-cov-liv",
@@ -4385,7 +4391,7 @@
       "externalIds": {
         "footballData": 560786
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "crystal-palace",
       "kickoffUtc": "2027-02-10T20:00:00.000Z",
       "matchId": "epl-2627-r25-cry-bre",
@@ -4402,7 +4408,7 @@
       "externalIds": {
         "footballData": 560782
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "everton",
       "kickoffUtc": "2027-02-10T20:00:00.000Z",
       "matchId": "epl-2627-r25-eve-lee",
@@ -4419,7 +4425,7 @@
       "externalIds": {
         "footballData": 560788
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "fulham",
       "kickoffUtc": "2027-02-10T20:00:00.000Z",
       "matchId": "epl-2627-r25-ful-nfo",
@@ -4436,7 +4442,7 @@
       "externalIds": {
         "footballData": 560784
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "hull",
       "kickoffUtc": "2027-02-10T20:00:00.000Z",
       "matchId": "epl-2627-r25-hul-sun",
@@ -4453,7 +4459,7 @@
       "externalIds": {
         "footballData": 560791
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "ipswich",
       "kickoffUtc": "2027-02-10T20:00:00.000Z",
       "matchId": "epl-2627-r25-ips-ars",
@@ -4470,7 +4476,7 @@
       "externalIds": {
         "footballData": 560790
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "man-utd",
       "kickoffUtc": "2027-02-10T20:00:00.000Z",
       "matchId": "epl-2627-r25-mun-bha",
@@ -4487,7 +4493,7 @@
       "externalIds": {
         "footballData": 560787
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "newcastle",
       "kickoffUtc": "2027-02-10T20:00:00.000Z",
       "matchId": "epl-2627-r25-new-che",
@@ -4504,7 +4510,7 @@
       "externalIds": {
         "footballData": 560789
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "tottenham",
       "kickoffUtc": "2027-02-10T20:00:00.000Z",
       "matchId": "epl-2627-r25-tot-mci",
@@ -4521,7 +4527,7 @@
       "externalIds": {
         "footballData": 560797
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "arsenal",
       "kickoffUtc": "2027-02-20T15:00:00.000Z",
       "matchId": "epl-2627-r26-ars-ful",
@@ -4538,7 +4544,7 @@
       "externalIds": {
         "footballData": 560799
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "brighton",
       "kickoffUtc": "2027-02-20T15:00:00.000Z",
       "matchId": "epl-2627-r26-bha-tot",
@@ -4555,7 +4561,7 @@
       "externalIds": {
         "footballData": 560793
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "bournemouth",
       "kickoffUtc": "2027-02-20T15:00:00.000Z",
       "matchId": "epl-2627-r26-bou-cry",
@@ -4572,7 +4578,7 @@
       "externalIds": {
         "footballData": 560794
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "brentford",
       "kickoffUtc": "2027-02-20T15:00:00.000Z",
       "matchId": "epl-2627-r26-bre-cov",
@@ -4589,7 +4595,7 @@
       "externalIds": {
         "footballData": 560795
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "chelsea",
       "kickoffUtc": "2027-02-20T15:00:00.000Z",
       "matchId": "epl-2627-r26-che-ips",
@@ -4606,7 +4612,7 @@
       "externalIds": {
         "footballData": 560801
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "leeds",
       "kickoffUtc": "2027-02-20T15:00:00.000Z",
       "matchId": "epl-2627-r26-lee-avl",
@@ -4623,7 +4629,7 @@
       "externalIds": {
         "footballData": 560796
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "liverpool",
       "kickoffUtc": "2027-02-20T15:00:00.000Z",
       "matchId": "epl-2627-r26-liv-hul",
@@ -4640,7 +4646,7 @@
       "externalIds": {
         "footballData": 560792
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "man-city",
       "kickoffUtc": "2027-02-20T15:00:00.000Z",
       "matchId": "epl-2627-r26-mci-new",
@@ -4657,7 +4663,7 @@
       "externalIds": {
         "footballData": 560798
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "nottm-forest",
       "kickoffUtc": "2027-02-20T15:00:00.000Z",
       "matchId": "epl-2627-r26-nfo-mun",
@@ -4674,7 +4680,7 @@
       "externalIds": {
         "footballData": 560800
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "sunderland",
       "kickoffUtc": "2027-02-20T15:00:00.000Z",
       "matchId": "epl-2627-r26-sun-eve",
@@ -4691,7 +4697,7 @@
       "externalIds": {
         "footballData": 560808
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "aston-villa",
       "kickoffUtc": "2027-02-27T15:00:00.000Z",
       "matchId": "epl-2627-r27-avl-che",
@@ -4708,7 +4714,7 @@
       "externalIds": {
         "footballData": 560805
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "coventry",
       "kickoffUtc": "2027-02-27T15:00:00.000Z",
       "matchId": "epl-2627-r27-cov-bou",
@@ -4725,7 +4731,7 @@
       "externalIds": {
         "footballData": 560802
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "crystal-palace",
       "kickoffUtc": "2027-02-27T15:00:00.000Z",
       "matchId": "epl-2627-r27-cry-sun",
@@ -4742,7 +4748,7 @@
       "externalIds": {
         "footballData": 560806
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "everton",
       "kickoffUtc": "2027-02-27T15:00:00.000Z",
       "matchId": "epl-2627-r27-eve-nfo",
@@ -4759,7 +4765,7 @@
       "externalIds": {
         "footballData": 560807
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "fulham",
       "kickoffUtc": "2027-02-27T15:00:00.000Z",
       "matchId": "epl-2627-r27-ful-lee",
@@ -4776,7 +4782,7 @@
       "externalIds": {
         "footballData": 560811
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "hull",
       "kickoffUtc": "2027-02-27T15:00:00.000Z",
       "matchId": "epl-2627-r27-hul-mci",
@@ -4793,7 +4799,7 @@
       "externalIds": {
         "footballData": 560804
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "ipswich",
       "kickoffUtc": "2027-02-27T15:00:00.000Z",
       "matchId": "epl-2627-r27-ips-bha",
@@ -4810,7 +4816,7 @@
       "externalIds": {
         "footballData": 560803
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "man-utd",
       "kickoffUtc": "2027-02-27T15:00:00.000Z",
       "matchId": "epl-2627-r27-mun-ars",
@@ -4827,7 +4833,7 @@
       "externalIds": {
         "footballData": 560810
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "newcastle",
       "kickoffUtc": "2027-02-27T15:00:00.000Z",
       "matchId": "epl-2627-r27-new-bre",
@@ -4844,7 +4850,7 @@
       "externalIds": {
         "footballData": 560809
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "tottenham",
       "kickoffUtc": "2027-02-27T15:00:00.000Z",
       "matchId": "epl-2627-r27-tot-liv",
@@ -4861,7 +4867,7 @@
       "externalIds": {
         "footballData": 560815
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "arsenal",
       "kickoffUtc": "2027-03-03T20:00:00.000Z",
       "matchId": "epl-2627-r28-ars-cry",
@@ -4878,7 +4884,7 @@
       "externalIds": {
         "footballData": 560819
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "brighton",
       "kickoffUtc": "2027-03-03T20:00:00.000Z",
       "matchId": "epl-2627-r28-bha-ful",
@@ -4895,7 +4901,7 @@
       "externalIds": {
         "footballData": 560813
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "bournemouth",
       "kickoffUtc": "2027-03-03T20:00:00.000Z",
       "matchId": "epl-2627-r28-bou-tot",
@@ -4912,7 +4918,7 @@
       "externalIds": {
         "footballData": 560820
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "brentford",
       "kickoffUtc": "2027-03-03T20:00:00.000Z",
       "matchId": "epl-2627-r28-bre-ips",
@@ -4929,7 +4935,7 @@
       "externalIds": {
         "footballData": 560821
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "chelsea",
       "kickoffUtc": "2027-03-03T20:00:00.000Z",
       "matchId": "epl-2627-r28-che-cov",
@@ -4946,7 +4952,7 @@
       "externalIds": {
         "footballData": 560816
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "leeds",
       "kickoffUtc": "2027-03-03T20:00:00.000Z",
       "matchId": "epl-2627-r28-lee-hul",
@@ -4963,7 +4969,7 @@
       "externalIds": {
         "footballData": 560818
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "liverpool",
       "kickoffUtc": "2027-03-03T20:00:00.000Z",
       "matchId": "epl-2627-r28-liv-avl",
@@ -4980,7 +4986,7 @@
       "externalIds": {
         "footballData": 560814
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "man-city",
       "kickoffUtc": "2027-03-03T20:00:00.000Z",
       "matchId": "epl-2627-r28-mci-eve",
@@ -4997,7 +5003,7 @@
       "externalIds": {
         "footballData": 560812
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "nottm-forest",
       "kickoffUtc": "2027-03-03T20:00:00.000Z",
       "matchId": "epl-2627-r28-nfo-new",
@@ -5014,7 +5020,7 @@
       "externalIds": {
         "footballData": 560817
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "sunderland",
       "kickoffUtc": "2027-03-03T20:00:00.000Z",
       "matchId": "epl-2627-r28-sun-mun",
@@ -5031,7 +5037,7 @@
       "externalIds": {
         "footballData": 560829
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "aston-villa",
       "kickoffUtc": "2027-03-13T15:00:00.000Z",
       "matchId": "epl-2627-r29-avl-hul",
@@ -5048,7 +5054,7 @@
       "externalIds": {
         "footballData": 560827
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "bournemouth",
       "kickoffUtc": "2027-03-13T15:00:00.000Z",
       "matchId": "epl-2627-r29-bou-new",
@@ -5065,7 +5071,7 @@
       "externalIds": {
         "footballData": 560828
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "chelsea",
       "kickoffUtc": "2027-03-13T15:00:00.000Z",
       "matchId": "epl-2627-r29-che-ars",
@@ -5082,7 +5088,7 @@
       "externalIds": {
         "footballData": 560826
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "coventry",
       "kickoffUtc": "2027-03-13T15:00:00.000Z",
       "matchId": "epl-2627-r29-cov-mci",
@@ -5099,7 +5105,7 @@
       "externalIds": {
         "footballData": 560824
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "crystal-palace",
       "kickoffUtc": "2027-03-13T15:00:00.000Z",
       "matchId": "epl-2627-r29-cry-ful",
@@ -5116,7 +5122,7 @@
       "externalIds": {
         "footballData": 560822
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "leeds",
       "kickoffUtc": "2027-03-13T15:00:00.000Z",
       "matchId": "epl-2627-r29-lee-bha",
@@ -5133,7 +5139,7 @@
       "externalIds": {
         "footballData": 560825
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "liverpool",
       "kickoffUtc": "2027-03-13T15:00:00.000Z",
       "matchId": "epl-2627-r29-liv-ips",
@@ -5150,7 +5156,7 @@
       "externalIds": {
         "footballData": 560830
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "man-utd",
       "kickoffUtc": "2027-03-13T15:00:00.000Z",
       "matchId": "epl-2627-r29-mun-eve",
@@ -5167,7 +5173,7 @@
       "externalIds": {
         "footballData": 560831
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "sunderland",
       "kickoffUtc": "2027-03-13T15:00:00.000Z",
       "matchId": "epl-2627-r29-sun-bre",
@@ -5184,7 +5190,7 @@
       "externalIds": {
         "footballData": 560823
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "tottenham",
       "kickoffUtc": "2027-03-13T15:00:00.000Z",
       "matchId": "epl-2627-r29-tot-nfo",
@@ -5201,7 +5207,7 @@
       "externalIds": {
         "footballData": 560836
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "arsenal",
       "kickoffUtc": "2027-03-20T15:00:00.000Z",
       "matchId": "epl-2627-r30-ars-sun",
@@ -5218,7 +5224,7 @@
       "externalIds": {
         "footballData": 560833
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "brighton",
       "kickoffUtc": "2027-03-20T15:00:00.000Z",
       "matchId": "epl-2627-r30-bha-cov",
@@ -5235,7 +5241,7 @@
       "externalIds": {
         "footballData": 560832
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "brentford",
       "kickoffUtc": "2027-03-20T15:00:00.000Z",
       "matchId": "epl-2627-r30-bre-bou",
@@ -5252,7 +5258,7 @@
       "externalIds": {
         "footballData": 560840
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "everton",
       "kickoffUtc": "2027-03-20T15:00:00.000Z",
       "matchId": "epl-2627-r30-eve-tot",
@@ -5269,7 +5275,7 @@
       "externalIds": {
         "footballData": 560837
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "fulham",
       "kickoffUtc": "2027-03-20T15:00:00.000Z",
       "matchId": "epl-2627-r30-ful-liv",
@@ -5286,7 +5292,7 @@
       "externalIds": {
         "footballData": 560838
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "hull",
       "kickoffUtc": "2027-03-20T15:00:00.000Z",
       "matchId": "epl-2627-r30-hul-che",
@@ -5303,7 +5309,7 @@
       "externalIds": {
         "footballData": 560835
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "ipswich",
       "kickoffUtc": "2027-03-20T15:00:00.000Z",
       "matchId": "epl-2627-r30-ips-cry",
@@ -5320,7 +5326,7 @@
       "externalIds": {
         "footballData": 560834
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "man-city",
       "kickoffUtc": "2027-03-20T15:00:00.000Z",
       "matchId": "epl-2627-r30-mci-mun",
@@ -5337,7 +5343,7 @@
       "externalIds": {
         "footballData": 560841
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "newcastle",
       "kickoffUtc": "2027-03-20T15:00:00.000Z",
       "matchId": "epl-2627-r30-new-lee",
@@ -5354,7 +5360,7 @@
       "externalIds": {
         "footballData": 560839
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "nottm-forest",
       "kickoffUtc": "2027-03-20T15:00:00.000Z",
       "matchId": "epl-2627-r30-nfo-avl",
@@ -5371,7 +5377,7 @@
       "externalIds": {
         "footballData": 560851
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "aston-villa",
       "kickoffUtc": "2027-04-10T14:00:00.000Z",
       "matchId": "epl-2627-r31-avl-bha",
@@ -5388,7 +5394,7 @@
       "externalIds": {
         "footballData": 560848
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "bournemouth",
       "kickoffUtc": "2027-04-10T14:00:00.000Z",
       "matchId": "epl-2627-r31-bou-mci",
@@ -5405,7 +5411,7 @@
       "externalIds": {
         "footballData": 560845
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "chelsea",
       "kickoffUtc": "2027-04-10T14:00:00.000Z",
       "matchId": "epl-2627-r31-che-ful",
@@ -5422,7 +5428,7 @@
       "externalIds": {
         "footballData": 560847
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "coventry",
       "kickoffUtc": "2027-04-10T14:00:00.000Z",
       "matchId": "epl-2627-r31-cov-ars",
@@ -5439,7 +5445,7 @@
       "externalIds": {
         "footballData": 560849
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "crystal-palace",
       "kickoffUtc": "2027-04-10T14:00:00.000Z",
       "matchId": "epl-2627-r31-cry-eve",
@@ -5456,7 +5462,7 @@
       "externalIds": {
         "footballData": 560843
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "leeds",
       "kickoffUtc": "2027-04-10T14:00:00.000Z",
       "matchId": "epl-2627-r31-lee-nfo",
@@ -5473,7 +5479,7 @@
       "externalIds": {
         "footballData": 560846
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "liverpool",
       "kickoffUtc": "2027-04-10T14:00:00.000Z",
       "matchId": "epl-2627-r31-liv-new",
@@ -5490,7 +5496,7 @@
       "externalIds": {
         "footballData": 560844
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "man-utd",
       "kickoffUtc": "2027-04-10T14:00:00.000Z",
       "matchId": "epl-2627-r31-mun-hul",
@@ -5507,7 +5513,7 @@
       "externalIds": {
         "footballData": 560842
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "sunderland",
       "kickoffUtc": "2027-04-10T14:00:00.000Z",
       "matchId": "epl-2627-r31-sun-ips",
@@ -5524,7 +5530,7 @@
       "externalIds": {
         "footballData": 560850
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "tottenham",
       "kickoffUtc": "2027-04-10T14:00:00.000Z",
       "matchId": "epl-2627-r31-tot-bre",
@@ -5541,7 +5547,7 @@
       "externalIds": {
         "footballData": 560857
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "arsenal",
       "kickoffUtc": "2027-04-17T14:00:00.000Z",
       "matchId": "epl-2627-r32-ars-avl",
@@ -5558,7 +5564,7 @@
       "externalIds": {
         "footballData": 560852
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "brighton",
       "kickoffUtc": "2027-04-17T14:00:00.000Z",
       "matchId": "epl-2627-r32-bha-che",
@@ -5575,7 +5581,7 @@
       "externalIds": {
         "footballData": 560854
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "brentford",
       "kickoffUtc": "2027-04-17T14:00:00.000Z",
       "matchId": "epl-2627-r32-bre-lee",
@@ -5592,7 +5598,7 @@
       "externalIds": {
         "footballData": 560861
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "everton",
       "kickoffUtc": "2027-04-17T14:00:00.000Z",
       "matchId": "epl-2627-r32-eve-bou",
@@ -5609,7 +5615,7 @@
       "externalIds": {
         "footballData": 560853
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "fulham",
       "kickoffUtc": "2027-04-17T14:00:00.000Z",
       "matchId": "epl-2627-r32-ful-sun",
@@ -5626,7 +5632,7 @@
       "externalIds": {
         "footballData": 560856
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "hull",
       "kickoffUtc": "2027-04-17T14:00:00.000Z",
       "matchId": "epl-2627-r32-hul-cov",
@@ -5643,7 +5649,7 @@
       "externalIds": {
         "footballData": 560858
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "ipswich",
       "kickoffUtc": "2027-04-17T14:00:00.000Z",
       "matchId": "epl-2627-r32-ips-mun",
@@ -5660,7 +5666,7 @@
       "externalIds": {
         "footballData": 560859
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "man-city",
       "kickoffUtc": "2027-04-17T14:00:00.000Z",
       "matchId": "epl-2627-r32-mci-cry",
@@ -5677,7 +5683,7 @@
       "externalIds": {
         "footballData": 560860
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "newcastle",
       "kickoffUtc": "2027-04-17T14:00:00.000Z",
       "matchId": "epl-2627-r32-new-tot",
@@ -5694,7 +5700,7 @@
       "externalIds": {
         "footballData": 560855
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "nottm-forest",
       "kickoffUtc": "2027-04-17T14:00:00.000Z",
       "matchId": "epl-2627-r32-nfo-liv",
@@ -5711,7 +5717,7 @@
       "externalIds": {
         "footballData": 560869
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "aston-villa",
       "kickoffUtc": "2027-04-24T14:00:00.000Z",
       "matchId": "epl-2627-r33-avl-cov",
@@ -5728,7 +5734,7 @@
       "externalIds": {
         "footballData": 560863
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "bournemouth",
       "kickoffUtc": "2027-04-24T14:00:00.000Z",
       "matchId": "epl-2627-r33-bou-ars",
@@ -5745,7 +5751,7 @@
       "externalIds": {
         "footballData": 560870
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "brentford",
       "kickoffUtc": "2027-04-24T14:00:00.000Z",
       "matchId": "epl-2627-r33-bre-ful",
@@ -5762,7 +5768,7 @@
       "externalIds": {
         "footballData": 560862
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "chelsea",
       "kickoffUtc": "2027-04-24T14:00:00.000Z",
       "matchId": "epl-2627-r33-che-mci",
@@ -5779,7 +5785,7 @@
       "externalIds": {
         "footballData": 560866
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "everton",
       "kickoffUtc": "2027-04-24T14:00:00.000Z",
       "matchId": "epl-2627-r33-eve-bha",
@@ -5796,7 +5802,7 @@
       "externalIds": {
         "footballData": 560871
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "leeds",
       "kickoffUtc": "2027-04-24T14:00:00.000Z",
       "matchId": "epl-2627-r33-lee-liv",
@@ -5813,7 +5819,7 @@
       "externalIds": {
         "footballData": 560865
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "man-utd",
       "kickoffUtc": "2027-04-24T14:00:00.000Z",
       "matchId": "epl-2627-r33-mun-cry",
@@ -5830,7 +5836,7 @@
       "externalIds": {
         "footballData": 560868
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "newcastle",
       "kickoffUtc": "2027-04-24T14:00:00.000Z",
       "matchId": "epl-2627-r33-new-ips",
@@ -5847,7 +5853,7 @@
       "externalIds": {
         "footballData": 560867
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "nottm-forest",
       "kickoffUtc": "2027-04-24T14:00:00.000Z",
       "matchId": "epl-2627-r33-nfo-sun",
@@ -5864,7 +5870,7 @@
       "externalIds": {
         "footballData": 560864
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "tottenham",
       "kickoffUtc": "2027-04-24T14:00:00.000Z",
       "matchId": "epl-2627-r33-tot-hul",
@@ -5881,7 +5887,7 @@
       "externalIds": {
         "footballData": 560879
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "arsenal",
       "kickoffUtc": "2027-05-01T14:00:00.000Z",
       "matchId": "epl-2627-r34-ars-tot",
@@ -5898,7 +5904,7 @@
       "externalIds": {
         "footballData": 560873
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "brighton",
       "kickoffUtc": "2027-05-01T14:00:00.000Z",
       "matchId": "epl-2627-r34-bha-nfo",
@@ -5915,7 +5921,7 @@
       "externalIds": {
         "footballData": 560874
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "coventry",
       "kickoffUtc": "2027-05-01T14:00:00.000Z",
       "matchId": "epl-2627-r34-cov-mun",
@@ -5932,7 +5938,7 @@
       "externalIds": {
         "footballData": 560880
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "crystal-palace",
       "kickoffUtc": "2027-05-01T14:00:00.000Z",
       "matchId": "epl-2627-r34-cry-avl",
@@ -5949,7 +5955,7 @@
       "externalIds": {
         "footballData": 560877
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "fulham",
       "kickoffUtc": "2027-05-01T14:00:00.000Z",
       "matchId": "epl-2627-r34-ful-eve",
@@ -5966,7 +5972,7 @@
       "externalIds": {
         "footballData": 560875
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "hull",
       "kickoffUtc": "2027-05-01T14:00:00.000Z",
       "matchId": "epl-2627-r34-hul-bou",
@@ -5983,7 +5989,7 @@
       "externalIds": {
         "footballData": 560881
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "ipswich",
       "kickoffUtc": "2027-05-01T14:00:00.000Z",
       "matchId": "epl-2627-r34-ips-lee",
@@ -6000,7 +6006,7 @@
       "externalIds": {
         "footballData": 560878
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "liverpool",
       "kickoffUtc": "2027-05-01T14:00:00.000Z",
       "matchId": "epl-2627-r34-liv-che",
@@ -6017,7 +6023,7 @@
       "externalIds": {
         "footballData": 560876
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "man-city",
       "kickoffUtc": "2027-05-01T14:00:00.000Z",
       "matchId": "epl-2627-r34-mci-bre",
@@ -6034,7 +6040,7 @@
       "externalIds": {
         "footballData": 560872
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "sunderland",
       "kickoffUtc": "2027-05-01T14:00:00.000Z",
       "matchId": "epl-2627-r34-sun-new",
@@ -6051,7 +6057,7 @@
       "externalIds": {
         "footballData": 560888
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "brighton",
       "kickoffUtc": "2027-05-08T14:00:00.000Z",
       "matchId": "epl-2627-r35-bha-sun",
@@ -6068,7 +6074,7 @@
       "externalIds": {
         "footballData": 560891
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "bournemouth",
       "kickoffUtc": "2027-05-08T14:00:00.000Z",
       "matchId": "epl-2627-r35-bou-mun",
@@ -6085,7 +6091,7 @@
       "externalIds": {
         "footballData": 560886
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "brentford",
       "kickoffUtc": "2027-05-08T14:00:00.000Z",
       "matchId": "epl-2627-r35-bre-avl",
@@ -6102,7 +6108,7 @@
       "externalIds": {
         "footballData": 560890
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "everton",
       "kickoffUtc": "2027-05-08T14:00:00.000Z",
       "matchId": "epl-2627-r35-eve-hul",
@@ -6119,7 +6125,7 @@
       "externalIds": {
         "footballData": 560884
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "fulham",
       "kickoffUtc": "2027-05-08T14:00:00.000Z",
       "matchId": "epl-2627-r35-ful-ips",
@@ -6136,7 +6142,7 @@
       "externalIds": {
         "footballData": 560883
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "leeds",
       "kickoffUtc": "2027-05-08T14:00:00.000Z",
       "matchId": "epl-2627-r35-lee-ars",
@@ -6153,7 +6159,7 @@
       "externalIds": {
         "footballData": 560882
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "man-city",
       "kickoffUtc": "2027-05-08T14:00:00.000Z",
       "matchId": "epl-2627-r35-mci-liv",
@@ -6170,7 +6176,7 @@
       "externalIds": {
         "footballData": 560887
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "newcastle",
       "kickoffUtc": "2027-05-08T14:00:00.000Z",
       "matchId": "epl-2627-r35-new-cov",
@@ -6187,7 +6193,7 @@
       "externalIds": {
         "footballData": 560885
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "nottm-forest",
       "kickoffUtc": "2027-05-08T14:00:00.000Z",
       "matchId": "epl-2627-r35-nfo-cry",
@@ -6204,7 +6210,7 @@
       "externalIds": {
         "footballData": 560889
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "tottenham",
       "kickoffUtc": "2027-05-08T14:00:00.000Z",
       "matchId": "epl-2627-r35-tot-che",
@@ -6221,7 +6227,7 @@
       "externalIds": {
         "footballData": 560895
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "arsenal",
       "kickoffUtc": "2027-05-15T14:00:00.000Z",
       "matchId": "epl-2627-r36-ars-nfo",
@@ -6238,7 +6244,7 @@
       "externalIds": {
         "footballData": 560899
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "aston-villa",
       "kickoffUtc": "2027-05-15T14:00:00.000Z",
       "matchId": "epl-2627-r36-avl-new",
@@ -6255,7 +6261,7 @@
       "externalIds": {
         "footballData": 560900
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "chelsea",
       "kickoffUtc": "2027-05-15T14:00:00.000Z",
       "matchId": "epl-2627-r36-che-eve",
@@ -6272,7 +6278,7 @@
       "externalIds": {
         "footballData": 560901
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "coventry",
       "kickoffUtc": "2027-05-15T14:00:00.000Z",
       "matchId": "epl-2627-r36-cov-tot",
@@ -6289,7 +6295,7 @@
       "externalIds": {
         "footballData": 560898
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "crystal-palace",
       "kickoffUtc": "2027-05-15T14:00:00.000Z",
       "matchId": "epl-2627-r36-cry-bha",
@@ -6306,7 +6312,7 @@
       "externalIds": {
         "footballData": 560896
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "hull",
       "kickoffUtc": "2027-05-15T14:00:00.000Z",
       "matchId": "epl-2627-r36-hul-ful",
@@ -6323,7 +6329,7 @@
       "externalIds": {
         "footballData": 560894
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "ipswich",
       "kickoffUtc": "2027-05-15T14:00:00.000Z",
       "matchId": "epl-2627-r36-ips-mci",
@@ -6340,7 +6346,7 @@
       "externalIds": {
         "footballData": 560893
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "liverpool",
       "kickoffUtc": "2027-05-15T14:00:00.000Z",
       "matchId": "epl-2627-r36-liv-bre",
@@ -6357,7 +6363,7 @@
       "externalIds": {
         "footballData": 560897
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "man-utd",
       "kickoffUtc": "2027-05-15T14:00:00.000Z",
       "matchId": "epl-2627-r36-mun-lee",
@@ -6374,7 +6380,7 @@
       "externalIds": {
         "footballData": 560892
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "sunderland",
       "kickoffUtc": "2027-05-15T14:00:00.000Z",
       "matchId": "epl-2627-r36-sun-bou",
@@ -6391,7 +6397,7 @@
       "externalIds": {
         "footballData": 560906
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "brighton",
       "kickoffUtc": "2027-05-23T14:00:00.000Z",
       "matchId": "epl-2627-r37-bha-liv",
@@ -6408,7 +6414,7 @@
       "externalIds": {
         "footballData": 560908
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "bournemouth",
       "kickoffUtc": "2027-05-23T14:00:00.000Z",
       "matchId": "epl-2627-r37-bou-che",
@@ -6425,7 +6431,7 @@
       "externalIds": {
         "footballData": 560902
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "brentford",
       "kickoffUtc": "2027-05-23T14:00:00.000Z",
       "matchId": "epl-2627-r37-bre-hul",
@@ -6442,7 +6448,7 @@
       "externalIds": {
         "footballData": 560910
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "everton",
       "kickoffUtc": "2027-05-23T14:00:00.000Z",
       "matchId": "epl-2627-r37-eve-ars",
@@ -6459,7 +6465,7 @@
       "externalIds": {
         "footballData": 560909
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "fulham",
       "kickoffUtc": "2027-05-23T14:00:00.000Z",
       "matchId": "epl-2627-r37-ful-cov",
@@ -6476,7 +6482,7 @@
       "externalIds": {
         "footballData": 560905
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "leeds",
       "kickoffUtc": "2027-05-23T14:00:00.000Z",
       "matchId": "epl-2627-r37-lee-sun",
@@ -6493,7 +6499,7 @@
       "externalIds": {
         "footballData": 560911
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "man-city",
       "kickoffUtc": "2027-05-23T14:00:00.000Z",
       "matchId": "epl-2627-r37-mci-avl",
@@ -6510,7 +6516,7 @@
       "externalIds": {
         "footballData": 560903
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "newcastle",
       "kickoffUtc": "2027-05-23T14:00:00.000Z",
       "matchId": "epl-2627-r37-new-cry",
@@ -6527,7 +6533,7 @@
       "externalIds": {
         "footballData": 560907
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "nottm-forest",
       "kickoffUtc": "2027-05-23T14:00:00.000Z",
       "matchId": "epl-2627-r37-nfo-ips",
@@ -6544,7 +6550,7 @@
       "externalIds": {
         "footballData": 560904
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "tottenham",
       "kickoffUtc": "2027-05-23T14:00:00.000Z",
       "matchId": "epl-2627-r37-tot-mun",
@@ -6561,7 +6567,7 @@
       "externalIds": {
         "footballData": 560913
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "arsenal",
       "kickoffUtc": "2027-05-30T15:00:00.000Z",
       "matchId": "epl-2627-r38-ars-bha",
@@ -6578,7 +6584,7 @@
       "externalIds": {
         "footballData": 560916
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "aston-villa",
       "kickoffUtc": "2027-05-30T15:00:00.000Z",
       "matchId": "epl-2627-r38-avl-tot",
@@ -6595,7 +6601,7 @@
       "externalIds": {
         "footballData": 560920
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "chelsea",
       "kickoffUtc": "2027-05-30T15:00:00.000Z",
       "matchId": "epl-2627-r38-che-bre",
@@ -6612,7 +6618,7 @@
       "externalIds": {
         "footballData": 560915
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "coventry",
       "kickoffUtc": "2027-05-30T15:00:00.000Z",
       "matchId": "epl-2627-r38-cov-nfo",
@@ -6629,7 +6635,7 @@
       "externalIds": {
         "footballData": 560921
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "crystal-palace",
       "kickoffUtc": "2027-05-30T15:00:00.000Z",
       "matchId": "epl-2627-r38-cry-lee",
@@ -6646,7 +6652,7 @@
       "externalIds": {
         "footballData": 560917
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "hull",
       "kickoffUtc": "2027-05-30T15:00:00.000Z",
       "matchId": "epl-2627-r38-hul-new",
@@ -6663,7 +6669,7 @@
       "externalIds": {
         "footballData": 560912
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "ipswich",
       "kickoffUtc": "2027-05-30T15:00:00.000Z",
       "matchId": "epl-2627-r38-ips-eve",
@@ -6680,7 +6686,7 @@
       "externalIds": {
         "footballData": 560914
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "liverpool",
       "kickoffUtc": "2027-05-30T15:00:00.000Z",
       "matchId": "epl-2627-r38-liv-bou",
@@ -6697,7 +6703,7 @@
       "externalIds": {
         "footballData": 560918
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "man-utd",
       "kickoffUtc": "2027-05-30T15:00:00.000Z",
       "matchId": "epl-2627-r38-mun-ful",
@@ -6714,7 +6720,7 @@
       "externalIds": {
         "footballData": 560919
       },
-      "fetchedAt": "2026-09-20T15:02:04.122Z",
+      "fetchedAt": "2026-09-20T19:54:59.244Z",
       "homeTeamId": "sunderland",
       "kickoffUtc": "2027-05-30T15:00:00.000Z",
       "matchId": "epl-2627-r38-sun-mci",
@@ -6727,5 +6733,5 @@
     }
   ],
   "season": "2627",
-  "updatedAt": "2026-09-20T15:02:04.122Z"
+  "updatedAt": "2026-09-20T19:54:59.244Z"
 }
