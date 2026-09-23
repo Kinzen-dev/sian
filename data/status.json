@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-23T15:42:52.025Z",
-  "lastRefreshAt": "2026-09-23T15:42:46.687Z",
+  "generatedAt": "2026-09-23T20:47:30.423Z",
+  "lastRefreshAt": "2026-09-23T20:47:25.822Z",
   "lastScoreAt": null,
   "pending": {
     "factpacks": 0,
@@ -9,26 +9,26 @@
   },
   "sources": {
     "football-data.co.uk": {
-      "at": "2026-09-23T15:42:46.687Z",
+      "at": "2026-09-23T20:47:25.822Z",
       "note": "50 matches with xG",
       "ok": true
     },
     "football-data.org:epl": {
-      "at": "2026-09-23T15:42:46.687Z",
+      "at": "2026-09-23T20:47:25.822Z",
       "note": "380 matches",
       "ok": true
     },
     "football-data.org:ucl": {
-      "at": "2026-09-23T15:42:46.687Z",
+      "at": "2026-09-23T20:47:25.822Z",
       "note": "144 matches",
       "ok": true
     },
     "manual-uefa-release": {
-      "at": "2026-09-23T15:42:46.687Z",
+      "at": "2026-09-23T20:47:25.822Z",
       "ok": true
     },
     "openfootball": {
-      "at": "2026-09-23T15:42:46.687Z",
+      "at": "2026-09-23T20:47:25.822Z",
       "note": "[\n  {\n    \"expected\": \"object\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"matches\",\n      22,\n      \"score\"\n    ],\n    \"message\": \"Invalid input: expected object, received array\"\n  },\n  {\n    \"expected\": \"object\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"matches\",\n      27,\n      \"score\"\n    ],\n    \"message\": \"Invalid input: expected object, received array\"\n  },\n  {\n    \"expected\": \"object\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"matches\",\n      31,\n      \"score\"\n    ],\n    \"message\": \"Invalid input: expected object, received array\"\n  },\n  {\n    \"expected\": \"object\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"matches\",\n      35,\n      \"score\"\n    ],\n    \"message\": \"Invalid input: expected object, received array\"\n  },\n  {\n    \"expected\": \"object\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"matches\",\n      47,\n      \"score\"\n    ],\n    \"message\": \"Invalid input: expected object, received array\"\n  }\n]",
       "ok": false
     }
