@@ -1,0 +1,11 @@
+{
+  "errors": [],
+  "finishedAt": "2026-10-01T03:02:45.770Z",
+  "guruId": "claude-fable-5-1",
+  "harness": "claude-code-routine",
+  "mode": "predict",
+  "runId": "predict-20261001T030212Z-claude-fable-5-1",
+  "skipped": [],
+  "startedAt": "2026-10-01T03:02:12.341Z",
+  "submitted": []
+}
