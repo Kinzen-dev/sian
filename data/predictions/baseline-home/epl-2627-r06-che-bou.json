@@ -1,0 +1,19 @@
+{
+  "btts": true,
+  "factpackHash": "bb9f343ad458532b1a24eb4a8309b8816788c21960d28526b18f26a10c36ade8",
+  "guruId": "baseline-home",
+  "kickoffUtc": "2026-10-10T14:00:00.000Z",
+  "kind": "baseline",
+  "lockedAt": "2026-10-07T22:23:36.878Z",
+  "matchId": "epl-2627-r06-che-bou",
+  "note": "always home, league base rates",
+  "over25": true,
+  "pick": "H",
+  "probs": {
+    "A": 0.31,
+    "D": 0.24,
+    "H": 0.45
+  },
+  "schemaVersion": 1,
+  "scoreline": null
+}
