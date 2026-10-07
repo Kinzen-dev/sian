@@ -1,0 +1,19 @@
+{
+  "btts": true,
+  "factpackHash": "7f6d944ddba8af0af521823534ffc662ce8655f334312f9cef12c9b4b79f54da",
+  "guruId": "baseline-home",
+  "kickoffUtc": "2026-10-10T11:30:00.000Z",
+  "kind": "baseline",
+  "lockedAt": "2026-10-07T12:14:03.966Z",
+  "matchId": "epl-2627-r06-ars-lee",
+  "note": "always home, league base rates",
+  "over25": true,
+  "pick": "H",
+  "probs": {
+    "A": 0.31,
+    "D": 0.24,
+    "H": 0.45
+  },
+  "schemaVersion": 1,
+  "scoreline": null
+}
