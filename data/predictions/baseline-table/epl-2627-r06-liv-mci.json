@@ -1,0 +1,19 @@
+{
+  "btts": true,
+  "factpackHash": "a7656c89a3a27ce7f0dbcd95bbc0466c1aa96d150e5df3030609cd5f4becb73b",
+  "guruId": "baseline-table",
+  "kickoffUtc": "2026-10-11T15:30:00.000Z",
+  "kind": "baseline",
+  "lockedAt": "2026-10-08T22:36:49.553Z",
+  "matchId": "epl-2627-r06-liv-mci",
+  "note": "table positions 6 v 1",
+  "over25": true,
+  "pick": "A",
+  "probs": {
+    "A": 0.5,
+    "D": 0.26,
+    "H": 0.24
+  },
+  "schemaVersion": 1,
+  "scoreline": null
+}

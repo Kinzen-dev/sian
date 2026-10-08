@@ -1,0 +1,19 @@
+{
+  "btts": true,
+  "factpackHash": "3a1fb3dfe793ca3e665bd2d9b69b3341fe1abb725d56e177de3f0672bb0f1793",
+  "guruId": "baseline-home",
+  "kickoffUtc": "2026-10-11T13:00:00.000Z",
+  "kind": "baseline",
+  "lockedAt": "2026-10-08T22:36:49.553Z",
+  "matchId": "epl-2627-r06-hul-eve",
+  "note": "always home, league base rates",
+  "over25": true,
+  "pick": "H",
+  "probs": {
+    "A": 0.31,
+    "D": 0.24,
+    "H": 0.45
+  },
+  "schemaVersion": 1,
+  "scoreline": null
+}
