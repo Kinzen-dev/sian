@@ -1,0 +1,25 @@
+{
+  "brier": 0.29482538,
+  "guruId": "baseline-market",
+  "late": false,
+  "logLoss": 0.585728783792675,
+  "marketFavourite": "H",
+  "matchId": "epl-2627-r06-che-bou",
+  "points": {
+    "btts": 0.5,
+    "exact": 0,
+    "ou": 0.5,
+    "outcome": 1,
+    "total": 2,
+    "upset": 0
+  },
+  "result": {
+    "away": 1,
+    "home": 5,
+    "outcome": "H"
+  },
+  "resultHash": "ae5dd0c8f5769cc5bb28016d788914ed7e32df42417bc9b336e56a5be61f473f",
+  "schemaVersion": 1,
+  "scoredAt": "2026-10-10T16:31:27.188Z",
+  "void": null
+}

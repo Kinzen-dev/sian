@@ -1,0 +1,25 @@
+{
+  "brier": 0.6625096800000001,
+  "guruId": "baseline-market",
+  "late": false,
+  "logLoss": 1.0817551716016867,
+  "marketFavourite": "A",
+  "matchId": "epl-2627-r06-ips-ful",
+  "points": {
+    "btts": 0.5,
+    "exact": 0,
+    "ou": 0.5,
+    "outcome": 0,
+    "total": 1,
+    "upset": 0
+  },
+  "result": {
+    "away": 1,
+    "home": 2,
+    "outcome": "H"
+  },
+  "resultHash": "e2433ac3278279ac90b51abed3d4dd9057d9e1f66541ad9cdfd13762a30e5a43",
+  "schemaVersion": 1,
+  "scoredAt": "2026-10-10T16:31:27.188Z",
+  "void": null
+}

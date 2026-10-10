@@ -1,0 +1,25 @@
+{
+  "brier": 0.7362,
+  "guruId": "baseline-home",
+  "late": false,
+  "logLoss": 1.171182981502945,
+  "marketFavourite": "A",
+  "matchId": "epl-2627-r06-sun-bha",
+  "points": {
+    "btts": 0,
+    "exact": 0,
+    "ou": 0,
+    "outcome": 0,
+    "total": 0,
+    "upset": 0
+  },
+  "result": {
+    "away": 2,
+    "home": 0,
+    "outcome": "A"
+  },
+  "resultHash": "27e955333e6884ebeb33044da141167a02359c621c4ecdc8eb2f0eadbf8cf61e",
+  "schemaVersion": 1,
+  "scoredAt": "2026-10-10T16:31:27.188Z",
+  "void": null
+}
