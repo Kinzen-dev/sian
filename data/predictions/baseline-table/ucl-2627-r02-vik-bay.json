@@ -1,0 +1,19 @@
+{
+  "btts": true,
+  "factpackHash": "37a0f292d3af3cbef99b5ce342fa5bac39ef17e8a1071905e9b2c26f24e48552",
+  "guruId": "baseline-table",
+  "kickoffUtc": "2026-10-13T19:00:00.000Z",
+  "kind": "baseline",
+  "lockedAt": "2026-10-10T20:49:33.559Z",
+  "matchId": "ucl-2627-r02-vik-bay",
+  "note": "table positions 30 v 2",
+  "over25": true,
+  "pick": "A",
+  "probs": {
+    "A": 0.5,
+    "D": 0.26,
+    "H": 0.24
+  },
+  "schemaVersion": 1,
+  "scoreline": null
+}

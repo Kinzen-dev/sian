@@ -1,0 +1,109 @@
+{
+  "away": {
+    "formAll": [
+      {
+        "competition": "ucl",
+        "date": "2026-09-10T16:45:00.000Z",
+        "goalsAgainst": 1,
+        "goalsFor": 1,
+        "matchId": "ucl-2627-r01-psv-shk",
+        "opponentId": "shakhtar",
+        "result": "D",
+        "venue": "H",
+        "xgAgainst": null,
+        "xgFor": null
+      }
+    ],
+    "formComp": [
+      {
+        "competition": "ucl",
+        "date": "2026-09-10T16:45:00.000Z",
+        "goalsAgainst": 1,
+        "goalsFor": 1,
+        "matchId": "ucl-2627-r01-psv-shk",
+        "opponentId": "shakhtar",
+        "result": "D",
+        "venue": "H",
+        "xgAgainst": null,
+        "xgFor": null
+      }
+    ],
+    "restDays": 33,
+    "standing": {
+      "drawn": 1,
+      "ga": 1,
+      "gd": 0,
+      "gf": 1,
+      "lost": 0,
+      "played": 1,
+      "pos": 18,
+      "pts": 1,
+      "won": 0
+    },
+    "teamId": "psv"
+  },
+  "baseRates": {
+    "A": 0.3,
+    "D": 0.22,
+    "H": 0.48,
+    "btts": 0.55,
+    "over25": 0.6
+  },
+  "builtAt": "2026-10-10T20:49:32.792Z",
+  "competition": "ucl",
+  "h2h": [],
+  "home": {
+    "formAll": [
+      {
+        "competition": "ucl",
+        "date": "2026-09-10T19:00:00.000Z",
+        "goalsAgainst": 4,
+        "goalsFor": 1,
+        "matchId": "ucl-2627-r01-com-rbl",
+        "opponentId": "como",
+        "result": "L",
+        "venue": "A",
+        "xgAgainst": null,
+        "xgFor": null
+      }
+    ],
+    "formComp": [
+      {
+        "competition": "ucl",
+        "date": "2026-09-10T19:00:00.000Z",
+        "goalsAgainst": 4,
+        "goalsFor": 1,
+        "matchId": "ucl-2627-r01-com-rbl",
+        "opponentId": "como",
+        "result": "L",
+        "venue": "A",
+        "xgAgainst": null,
+        "xgFor": null
+      }
+    ],
+    "restDays": 33,
+    "standing": {
+      "drawn": 0,
+      "ga": 4,
+      "gd": -3,
+      "gf": 1,
+      "lost": 1,
+      "played": 1,
+      "pos": 32,
+      "pts": 0,
+      "won": 0
+    },
+    "teamId": "rb-leipzig"
+  },
+  "kickoffUtc": "2026-10-13T19:00:00.000Z",
+  "market": null,
+  "matchId": "ucl-2627-r02-rbl-psv",
+  "notes": [
+    "market: unavailable (no odds key at build time)",
+    "xG: no structured source for UCL; cite from research"
+  ],
+  "round": 2,
+  "schemaVersion": 1,
+  "season": "2627",
+  "seedRank": null
+}

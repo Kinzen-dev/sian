@@ -1,0 +1,19 @@
+{
+  "btts": true,
+  "factpackHash": "3401a5e932923fd26e80c43ed2fce5cd0c7b3f9a91d21803601a8b7e4cd5fb66",
+  "guruId": "baseline-table",
+  "kickoffUtc": "2026-10-13T19:00:00.000Z",
+  "kind": "baseline",
+  "lockedAt": "2026-10-10T20:49:33.559Z",
+  "matchId": "ucl-2627-r02-atm-mun",
+  "note": "table positions 25 v 4",
+  "over25": true,
+  "pick": "A",
+  "probs": {
+    "A": 0.5,
+    "D": 0.26,
+    "H": 0.24
+  },
+  "schemaVersion": 1,
+  "scoreline": null
+}

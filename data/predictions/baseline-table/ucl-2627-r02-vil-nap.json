@@ -1,0 +1,19 @@
+{
+  "btts": true,
+  "factpackHash": "ffcff6074ec05d8eed6af57628fb17f94b915ee260275ecebedc14a85ce19e9d",
+  "guruId": "baseline-table",
+  "kickoffUtc": "2026-10-13T19:00:00.000Z",
+  "kind": "baseline",
+  "lockedAt": "2026-10-10T20:49:33.559Z",
+  "matchId": "ucl-2627-r02-vil-nap",
+  "note": "table positions 24 v 28",
+  "over25": true,
+  "pick": "H",
+  "probs": {
+    "A": 0.24,
+    "D": 0.26,
+    "H": 0.5
+  },
+  "schemaVersion": 1,
+  "scoreline": null
+}
