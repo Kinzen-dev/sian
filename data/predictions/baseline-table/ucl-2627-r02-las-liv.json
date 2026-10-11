@@ -1,0 +1,19 @@
+{
+  "btts": true,
+  "factpackHash": "ff15a1b863a3b23255c24c4f2d88d2d0405dc97625c88daf2e34835288ae0341",
+  "guruId": "baseline-table",
+  "kickoffUtc": "2026-10-14T16:45:00.000Z",
+  "kind": "baseline",
+  "lockedAt": "2026-10-11T16:56:19.136Z",
+  "matchId": "ucl-2627-r02-las-liv",
+  "note": "table positions 27 v 13",
+  "over25": true,
+  "pick": "A",
+  "probs": {
+    "A": 0.5,
+    "D": 0.26,
+    "H": 0.24
+  },
+  "schemaVersion": 1,
+  "scoreline": null
+}
