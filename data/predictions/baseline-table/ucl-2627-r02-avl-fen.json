@@ -1,0 +1,19 @@
+{
+  "btts": true,
+  "factpackHash": "18c3735d7d0b9945a5d339f540c687cac2ceba006867784be28c4f9ff98f301e",
+  "guruId": "baseline-table",
+  "kickoffUtc": "2026-10-14T19:00:00.000Z",
+  "kind": "baseline",
+  "lockedAt": "2026-10-12T00:08:23.837Z",
+  "matchId": "ucl-2627-r02-avl-fen",
+  "note": "table positions 9 v 17",
+  "over25": true,
+  "pick": "H",
+  "probs": {
+    "A": 0.24,
+    "D": 0.26,
+    "H": 0.5
+  },
+  "schemaVersion": 1,
+  "scoreline": null
+}

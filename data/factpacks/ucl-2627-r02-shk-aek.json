@@ -1,0 +1,109 @@
+{
+  "away": {
+    "formAll": [
+      {
+        "competition": "ucl",
+        "date": "2026-09-08T16:45:00.000Z",
+        "goalsAgainst": 0,
+        "goalsFor": 1,
+        "matchId": "ucl-2627-r01-aek-las",
+        "opponentId": "lask",
+        "result": "W",
+        "venue": "H",
+        "xgAgainst": null,
+        "xgFor": null
+      }
+    ],
+    "formComp": [
+      {
+        "competition": "ucl",
+        "date": "2026-09-08T16:45:00.000Z",
+        "goalsAgainst": 0,
+        "goalsFor": 1,
+        "matchId": "ucl-2627-r01-aek-las",
+        "opponentId": "lask",
+        "result": "W",
+        "venue": "H",
+        "xgAgainst": null,
+        "xgFor": null
+      }
+    ],
+    "restDays": 36,
+    "standing": {
+      "drawn": 0,
+      "ga": 0,
+      "gd": 1,
+      "gf": 1,
+      "lost": 0,
+      "played": 1,
+      "pos": 15,
+      "pts": 3,
+      "won": 1
+    },
+    "teamId": "aek-athens"
+  },
+  "baseRates": {
+    "A": 0.3,
+    "D": 0.22,
+    "H": 0.48,
+    "btts": 0.55,
+    "over25": 0.6
+  },
+  "builtAt": "2026-10-12T00:08:23.092Z",
+  "competition": "ucl",
+  "h2h": [],
+  "home": {
+    "formAll": [
+      {
+        "competition": "ucl",
+        "date": "2026-09-10T16:45:00.000Z",
+        "goalsAgainst": 1,
+        "goalsFor": 1,
+        "matchId": "ucl-2627-r01-psv-shk",
+        "opponentId": "psv",
+        "result": "D",
+        "venue": "A",
+        "xgAgainst": null,
+        "xgFor": null
+      }
+    ],
+    "formComp": [
+      {
+        "competition": "ucl",
+        "date": "2026-09-10T16:45:00.000Z",
+        "goalsAgainst": 1,
+        "goalsFor": 1,
+        "matchId": "ucl-2627-r01-psv-shk",
+        "opponentId": "psv",
+        "result": "D",
+        "venue": "A",
+        "xgAgainst": null,
+        "xgFor": null
+      }
+    ],
+    "restDays": 34,
+    "standing": {
+      "drawn": 1,
+      "ga": 1,
+      "gd": 0,
+      "gf": 1,
+      "lost": 0,
+      "played": 1,
+      "pos": 20,
+      "pts": 1,
+      "won": 0
+    },
+    "teamId": "shakhtar"
+  },
+  "kickoffUtc": "2026-10-14T19:00:00.000Z",
+  "market": null,
+  "matchId": "ucl-2627-r02-shk-aek",
+  "notes": [
+    "market: unavailable (no odds key at build time)",
+    "xG: no structured source for UCL; cite from research"
+  ],
+  "round": 2,
+  "schemaVersion": 1,
+  "season": "2627",
+  "seedRank": null
+}

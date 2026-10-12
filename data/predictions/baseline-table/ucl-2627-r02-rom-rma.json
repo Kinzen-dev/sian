@@ -1,0 +1,19 @@
+{
+  "btts": true,
+  "factpackHash": "49791a41ef39ba41a67d79a434d831fcb05bb9f9f2e95ccd445160001a6058df",
+  "guruId": "baseline-table",
+  "kickoffUtc": "2026-10-14T19:00:00.000Z",
+  "kind": "baseline",
+  "lockedAt": "2026-10-12T00:08:23.837Z",
+  "matchId": "ucl-2627-r02-rom-rma",
+  "note": "table positions 19 v 14",
+  "over25": true,
+  "pick": "A",
+  "probs": {
+    "A": 0.5,
+    "D": 0.26,
+    "H": 0.24
+  },
+  "schemaVersion": 1,
+  "scoreline": null
+}

@@ -1,0 +1,19 @@
+{
+  "btts": true,
+  "factpackHash": "8a6af31fdc5b938b3d5e49fc82cac0365ce9685df0e71338d49b5dbc296d4268",
+  "guruId": "baseline-table",
+  "kickoffUtc": "2026-10-14T19:00:00.000Z",
+  "kind": "baseline",
+  "lockedAt": "2026-10-12T00:08:23.837Z",
+  "matchId": "ucl-2627-r02-bet-por",
+  "note": "table positions 12 v 31",
+  "over25": true,
+  "pick": "H",
+  "probs": {
+    "A": 0.24,
+    "D": 0.26,
+    "H": 0.5
+  },
+  "schemaVersion": 1,
+  "scoreline": null
+}

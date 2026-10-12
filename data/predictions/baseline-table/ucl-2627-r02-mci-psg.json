@@ -1,0 +1,19 @@
+{
+  "btts": true,
+  "factpackHash": "d5c5fdff26565dd1d46e5088867256292cd860d243385a86c24cee04b05b20bf",
+  "guruId": "baseline-table",
+  "kickoffUtc": "2026-10-14T19:00:00.000Z",
+  "kind": "baseline",
+  "lockedAt": "2026-10-12T00:08:23.837Z",
+  "matchId": "ucl-2627-r02-mci-psg",
+  "note": "table positions 8 v 1",
+  "over25": true,
+  "pick": "A",
+  "probs": {
+    "A": 0.5,
+    "D": 0.26,
+    "H": 0.24
+  },
+  "schemaVersion": 1,
+  "scoreline": null
+}

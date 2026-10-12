@@ -1,0 +1,19 @@
+{
+  "btts": true,
+  "factpackHash": "e7a79d24503242e1baa924c1dd997be7e079c97af730f72f0f3e061a717ddbd3",
+  "guruId": "baseline-home",
+  "kickoffUtc": "2026-10-14T19:00:00.000Z",
+  "kind": "baseline",
+  "lockedAt": "2026-10-12T00:08:23.837Z",
+  "matchId": "ucl-2627-r02-shk-aek",
+  "note": "always home, league base rates",
+  "over25": true,
+  "pick": "H",
+  "probs": {
+    "A": 0.3,
+    "D": 0.22,
+    "H": 0.48
+  },
+  "schemaVersion": 1,
+  "scoreline": null
+}
