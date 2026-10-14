@@ -1,0 +1,25 @@
+{
+  "brier": 0.9288,
+  "guruId": "baseline-home",
+  "late": false,
+  "logLoss": 1.5141277326297755,
+  "marketFavourite": null,
+  "matchId": "ucl-2627-r02-vik-bay",
+  "points": {
+    "btts": 0.5,
+    "exact": 0,
+    "ou": 0.5,
+    "outcome": 0,
+    "total": 1,
+    "upset": 0
+  },
+  "result": {
+    "away": 3,
+    "home": 3,
+    "outcome": "D"
+  },
+  "resultHash": "2b51daa5c1d79aed74e685e0cac62185678b6be59c16b5c87996ac064d403635",
+  "schemaVersion": 1,
+  "scoredAt": "2026-10-14T00:07:04.044Z",
+  "void": null
+}
