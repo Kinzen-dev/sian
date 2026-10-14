@@ -1,0 +1,19 @@
+{
+  "btts": true,
+  "factpackHash": "b1ef5ef00b47d95650a2dadf5a92404c86a43c4007dc7ec3d64a9271313fc12e",
+  "guruId": "baseline-table",
+  "kickoffUtc": "2026-10-17T14:00:00.000Z",
+  "kind": "baseline",
+  "lockedAt": "2026-10-14T18:03:30.833Z",
+  "matchId": "epl-2627-r07-ful-hul",
+  "note": "table positions 20 v 8",
+  "over25": true,
+  "pick": "A",
+  "probs": {
+    "A": 0.5,
+    "D": 0.26,
+    "H": 0.24
+  },
+  "schemaVersion": 1,
+  "scoreline": null
+}
