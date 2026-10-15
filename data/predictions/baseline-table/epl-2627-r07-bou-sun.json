@@ -1,0 +1,19 @@
+{
+  "btts": true,
+  "factpackHash": "6585ca6cbb4c7511c23daf436fd9c99c1dffe94b9128b139195365e258ca608f",
+  "guruId": "baseline-table",
+  "kickoffUtc": "2026-10-18T13:00:00.000Z",
+  "kind": "baseline",
+  "lockedAt": "2026-10-15T18:04:01.470Z",
+  "matchId": "epl-2627-r07-bou-sun",
+  "note": "table positions 18 v 17",
+  "over25": true,
+  "pick": "A",
+  "probs": {
+    "A": 0.5,
+    "D": 0.26,
+    "H": 0.24
+  },
+  "schemaVersion": 1,
+  "scoreline": null
+}

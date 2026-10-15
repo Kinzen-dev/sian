@@ -1,0 +1,19 @@
+{
+  "btts": true,
+  "factpackHash": "a4c9e3ddfd25412cf90efce57e8383fb112a4e2d7376fae75af4894ae4ebbd71",
+  "guruId": "baseline-table",
+  "kickoffUtc": "2026-10-18T13:00:00.000Z",
+  "kind": "baseline",
+  "lockedAt": "2026-10-15T18:04:01.470Z",
+  "matchId": "epl-2627-r07-bha-cry",
+  "note": "table positions 3 v 12",
+  "over25": true,
+  "pick": "H",
+  "probs": {
+    "A": 0.24,
+    "D": 0.26,
+    "H": 0.5
+  },
+  "schemaVersion": 1,
+  "scoreline": null
+}

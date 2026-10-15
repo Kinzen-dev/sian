@@ -1,0 +1,19 @@
+{
+  "btts": true,
+  "factpackHash": "551a2445b7e40af2d753f624c76e48ec0cd6943c98d28b9850cccf76492f3378",
+  "guruId": "baseline-table",
+  "kickoffUtc": "2026-10-18T15:30:00.000Z",
+  "kind": "baseline",
+  "lockedAt": "2026-10-15T18:04:01.470Z",
+  "matchId": "epl-2627-r07-nfo-ars",
+  "note": "table positions 15 v 2",
+  "over25": true,
+  "pick": "A",
+  "probs": {
+    "A": 0.5,
+    "D": 0.26,
+    "H": 0.24
+  },
+  "schemaVersion": 1,
+  "scoreline": null
+}

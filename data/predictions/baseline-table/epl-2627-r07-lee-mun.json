@@ -1,0 +1,19 @@
+{
+  "btts": true,
+  "factpackHash": "b831c95914e14f94674fc1f90a8c5277f0c5b8cc1413c4b1f7ff211902e7cacc",
+  "guruId": "baseline-table",
+  "kickoffUtc": "2026-10-18T13:00:00.000Z",
+  "kind": "baseline",
+  "lockedAt": "2026-10-15T18:04:01.470Z",
+  "matchId": "epl-2627-r07-lee-mun",
+  "note": "table positions 7 v 13",
+  "over25": true,
+  "pick": "H",
+  "probs": {
+    "A": 0.24,
+    "D": 0.26,
+    "H": 0.5
+  },
+  "schemaVersion": 1,
+  "scoreline": null
+}
