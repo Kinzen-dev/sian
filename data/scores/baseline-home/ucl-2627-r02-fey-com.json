@@ -1,0 +1,25 @@
+{
+  "brier": 0.40880000000000005,
+  "guruId": "baseline-home",
+  "late": false,
+  "logLoss": 0.7339691750802004,
+  "marketFavourite": null,
+  "matchId": "ucl-2627-r02-fey-com",
+  "points": {
+    "btts": 0.5,
+    "exact": 0,
+    "ou": 0.5,
+    "outcome": 1,
+    "total": 2,
+    "upset": 0
+  },
+  "result": {
+    "away": 2,
+    "home": 3,
+    "outcome": "H"
+  },
+  "resultHash": "cd7da774aa7f1d6b5a15c22c2d655f2cd3dc5d977367dc9e17afb5682153dd1f",
+  "schemaVersion": 1,
+  "scoredAt": "2026-10-15T00:06:31.044Z",
+  "void": null
+}
