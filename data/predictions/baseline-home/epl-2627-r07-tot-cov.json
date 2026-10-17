@@ -1,0 +1,19 @@
+{
+  "btts": true,
+  "factpackHash": "0b1168067bc72bd1b81b7a0419a866de93b03b5f481bd86c7d5f95d5738bcc6b",
+  "guruId": "baseline-home",
+  "kickoffUtc": "2026-10-19T19:00:00.000Z",
+  "kind": "baseline",
+  "lockedAt": "2026-10-17T00:06:36.338Z",
+  "matchId": "epl-2627-r07-tot-cov",
+  "note": "always home, league base rates",
+  "over25": true,
+  "pick": "H",
+  "probs": {
+    "A": 0.31,
+    "D": 0.24,
+    "H": 0.45
+  },
+  "schemaVersion": 1,
+  "scoreline": null
+}
