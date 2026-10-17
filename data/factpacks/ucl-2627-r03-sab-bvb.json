@@ -1,0 +1,157 @@
+{
+  "away": {
+    "formAll": [
+      {
+        "competition": "ucl",
+        "date": "2026-10-14T19:00:00.000Z",
+        "goalsAgainst": 1,
+        "goalsFor": 0,
+        "matchId": "ucl-2627-r02-bod-bvb",
+        "opponentId": "bodo-glimt",
+        "result": "L",
+        "venue": "A",
+        "xgAgainst": null,
+        "xgFor": null
+      },
+      {
+        "competition": "ucl",
+        "date": "2026-09-08T19:00:00.000Z",
+        "goalsAgainst": 2,
+        "goalsFor": 3,
+        "matchId": "ucl-2627-r01-bvb-vil",
+        "opponentId": "villarreal",
+        "result": "W",
+        "venue": "H",
+        "xgAgainst": null,
+        "xgFor": null
+      }
+    ],
+    "formComp": [
+      {
+        "competition": "ucl",
+        "date": "2026-10-14T19:00:00.000Z",
+        "goalsAgainst": 1,
+        "goalsFor": 0,
+        "matchId": "ucl-2627-r02-bod-bvb",
+        "opponentId": "bodo-glimt",
+        "result": "L",
+        "venue": "A",
+        "xgAgainst": null,
+        "xgFor": null
+      },
+      {
+        "competition": "ucl",
+        "date": "2026-09-08T19:00:00.000Z",
+        "goalsAgainst": 2,
+        "goalsFor": 3,
+        "matchId": "ucl-2627-r01-bvb-vil",
+        "opponentId": "villarreal",
+        "result": "W",
+        "venue": "H",
+        "xgAgainst": null,
+        "xgFor": null
+      }
+    ],
+    "restDays": 5,
+    "standing": {
+      "drawn": 0,
+      "ga": 3,
+      "gd": 0,
+      "gf": 3,
+      "lost": 1,
+      "played": 2,
+      "pos": 18,
+      "pts": 3,
+      "won": 1
+    },
+    "teamId": "dortmund"
+  },
+  "baseRates": {
+    "A": 0.3,
+    "D": 0.22,
+    "H": 0.48,
+    "btts": 0.55,
+    "over25": 0.6
+  },
+  "builtAt": "2026-10-17T18:03:10.313Z",
+  "competition": "ucl",
+  "h2h": [],
+  "home": {
+    "formAll": [
+      {
+        "competition": "ucl",
+        "date": "2026-10-13T16:45:00.000Z",
+        "goalsAgainst": 0,
+        "goalsFor": 2,
+        "matchId": "ucl-2627-r02-sab-sla",
+        "opponentId": "slavia-praha",
+        "result": "W",
+        "venue": "H",
+        "xgAgainst": null,
+        "xgFor": null
+      },
+      {
+        "competition": "ucl",
+        "date": "2026-09-10T19:00:00.000Z",
+        "goalsAgainst": 4,
+        "goalsFor": 0,
+        "matchId": "ucl-2627-r01-mun-sab",
+        "opponentId": "man-utd",
+        "result": "L",
+        "venue": "A",
+        "xgAgainst": null,
+        "xgFor": null
+      }
+    ],
+    "formComp": [
+      {
+        "competition": "ucl",
+        "date": "2026-10-13T16:45:00.000Z",
+        "goalsAgainst": 0,
+        "goalsFor": 2,
+        "matchId": "ucl-2627-r02-sab-sla",
+        "opponentId": "slavia-praha",
+        "result": "W",
+        "venue": "H",
+        "xgAgainst": null,
+        "xgFor": null
+      },
+      {
+        "competition": "ucl",
+        "date": "2026-09-10T19:00:00.000Z",
+        "goalsAgainst": 4,
+        "goalsFor": 0,
+        "matchId": "ucl-2627-r01-mun-sab",
+        "opponentId": "man-utd",
+        "result": "L",
+        "venue": "A",
+        "xgAgainst": null,
+        "xgFor": null
+      }
+    ],
+    "restDays": 7,
+    "standing": {
+      "drawn": 0,
+      "ga": 4,
+      "gd": -2,
+      "gf": 2,
+      "lost": 1,
+      "played": 2,
+      "pos": 22,
+      "pts": 3,
+      "won": 1
+    },
+    "teamId": "sabah"
+  },
+  "kickoffUtc": "2026-10-20T16:45:00.000Z",
+  "market": null,
+  "matchId": "ucl-2627-r03-sab-bvb",
+  "notes": [
+    "market: unavailable (no odds key at build time)",
+    "xG: no structured source for UCL; cite from research"
+  ],
+  "round": 3,
+  "schemaVersion": 1,
+  "season": "2627",
+  "seedRank": null
+}

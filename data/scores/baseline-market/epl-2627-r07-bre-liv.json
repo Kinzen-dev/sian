@@ -1,0 +1,25 @@
+{
+  "brier": 0.66382496,
+  "guruId": "baseline-market",
+  "late": false,
+  "logLoss": 1.0799868245449447,
+  "marketFavourite": "H",
+  "matchId": "epl-2627-r07-bre-liv",
+  "points": {
+    "btts": 0.5,
+    "exact": 0,
+    "ou": 0.5,
+    "outcome": 0,
+    "total": 1,
+    "upset": 0
+  },
+  "result": {
+    "away": 2,
+    "home": 1,
+    "outcome": "A"
+  },
+  "resultHash": "412a4789b02cad19bacb029f5c8ec8e9b115375d82b97df1d6b15997a8e70e01",
+  "schemaVersion": 1,
+  "scoredAt": "2026-10-17T18:03:11.721Z",
+  "void": null
+}

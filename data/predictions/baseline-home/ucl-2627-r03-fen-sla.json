@@ -1,0 +1,19 @@
+{
+  "btts": true,
+  "factpackHash": "50c811aef9ced964e33170f54a707ea52622966de8f2b2888c8942e285b5b379",
+  "guruId": "baseline-home",
+  "kickoffUtc": "2026-10-20T16:45:00.000Z",
+  "kind": "baseline",
+  "lockedAt": "2026-10-17T18:03:10.909Z",
+  "matchId": "ucl-2627-r03-fen-sla",
+  "note": "always home, league base rates",
+  "over25": true,
+  "pick": "H",
+  "probs": {
+    "A": 0.3,
+    "D": 0.22,
+    "H": 0.48
+  },
+  "schemaVersion": 1,
+  "scoreline": null
+}
