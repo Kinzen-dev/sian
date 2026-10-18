@@ -1,0 +1,25 @@
+{
+  "brier": 0.22856529000000003,
+  "guruId": "baseline-market",
+  "late": false,
+  "logLoss": 0.4939685066995678,
+  "marketFavourite": "H",
+  "matchId": "epl-2627-r07-bha-cry",
+  "points": {
+    "btts": 0,
+    "exact": 0,
+    "ou": 0.5,
+    "outcome": 1,
+    "total": 1.5,
+    "upset": 0
+  },
+  "result": {
+    "away": 0,
+    "home": 5,
+    "outcome": "H"
+  },
+  "resultHash": "56a2ee1c11d337a73708901e7f100dd3b51631990f3347889e8d4bd482fc2489",
+  "schemaVersion": 1,
+  "scoredAt": "2026-10-18T18:02:55.119Z",
+  "void": null
+}
