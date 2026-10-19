@@ -1,0 +1,19 @@
+{
+  "btts": true,
+  "factpackHash": "0c11d870a54ee981c6d2e8cf41e78b12fd09cc438b3d13a1f98ac9d627e4fa8b",
+  "guruId": "baseline-table",
+  "kickoffUtc": "2026-10-21T19:00:00.000Z",
+  "kind": "baseline",
+  "lockedAt": "2026-10-19T00:07:47.320Z",
+  "matchId": "ucl-2627-r03-bet-fey",
+  "note": "table positions 8 v 23",
+  "over25": true,
+  "pick": "H",
+  "probs": {
+    "A": 0.24,
+    "D": 0.26,
+    "H": 0.5
+  },
+  "schemaVersion": 1,
+  "scoreline": null
+}

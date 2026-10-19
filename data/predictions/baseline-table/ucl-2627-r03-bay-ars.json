@@ -1,0 +1,19 @@
+{
+  "btts": true,
+  "factpackHash": "10776a72f18b66f9a09c2646b8483cfc054b56967603ed2c30ac89075470af06",
+  "guruId": "baseline-table",
+  "kickoffUtc": "2026-10-21T19:00:00.000Z",
+  "kind": "baseline",
+  "lockedAt": "2026-10-19T00:07:47.320Z",
+  "matchId": "ucl-2627-r03-bay-ars",
+  "note": "table positions 10 v 7",
+  "over25": true,
+  "pick": "A",
+  "probs": {
+    "A": 0.5,
+    "D": 0.26,
+    "H": 0.24
+  },
+  "schemaVersion": 1,
+  "scoreline": null
+}

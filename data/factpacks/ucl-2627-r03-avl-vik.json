@@ -1,0 +1,193 @@
+{
+  "away": {
+    "formAll": [
+      {
+        "competition": "ucl",
+        "date": "2026-10-13T19:00:00.000Z",
+        "goalsAgainst": 3,
+        "goalsFor": 3,
+        "matchId": "ucl-2627-r02-vik-bay",
+        "opponentId": "bayern",
+        "result": "D",
+        "venue": "H",
+        "xgAgainst": null,
+        "xgFor": null
+      },
+      {
+        "competition": "ucl",
+        "date": "2026-09-09T16:45:00.000Z",
+        "goalsAgainst": 3,
+        "goalsFor": 1,
+        "matchId": "ucl-2627-r01-stu-vik",
+        "opponentId": "stuttgart",
+        "result": "L",
+        "venue": "A",
+        "xgAgainst": null,
+        "xgFor": null
+      }
+    ],
+    "formComp": [
+      {
+        "competition": "ucl",
+        "date": "2026-10-13T19:00:00.000Z",
+        "goalsAgainst": 3,
+        "goalsFor": 3,
+        "matchId": "ucl-2627-r02-vik-bay",
+        "opponentId": "bayern",
+        "result": "D",
+        "venue": "H",
+        "xgAgainst": null,
+        "xgFor": null
+      },
+      {
+        "competition": "ucl",
+        "date": "2026-09-09T16:45:00.000Z",
+        "goalsAgainst": 3,
+        "goalsFor": 1,
+        "matchId": "ucl-2627-r01-stu-vik",
+        "opponentId": "stuttgart",
+        "result": "L",
+        "venue": "A",
+        "xgAgainst": null,
+        "xgFor": null
+      }
+    ],
+    "restDays": 8,
+    "standing": {
+      "drawn": 1,
+      "ga": 6,
+      "gd": -2,
+      "gf": 4,
+      "lost": 1,
+      "played": 2,
+      "pos": 27,
+      "pts": 1,
+      "won": 0
+    },
+    "teamId": "viking"
+  },
+  "baseRates": {
+    "A": 0.3,
+    "D": 0.22,
+    "H": 0.48,
+    "btts": 0.55,
+    "over25": 0.6
+  },
+  "builtAt": "2026-10-19T00:07:46.585Z",
+  "competition": "ucl",
+  "h2h": [],
+  "home": {
+    "formAll": [
+      {
+        "competition": "epl",
+        "date": "2026-10-17T16:30:00.000Z",
+        "goalsAgainst": 0,
+        "goalsFor": 1,
+        "matchId": "epl-2627-r07-new-avl",
+        "opponentId": "newcastle",
+        "result": "W",
+        "venue": "A",
+        "xgAgainst": null,
+        "xgFor": null
+      },
+      {
+        "competition": "ucl",
+        "date": "2026-10-14T19:00:00.000Z",
+        "goalsAgainst": 0,
+        "goalsFor": 6,
+        "matchId": "ucl-2627-r02-avl-fen",
+        "opponentId": "fenerbahce",
+        "result": "W",
+        "venue": "H",
+        "xgAgainst": null,
+        "xgFor": null
+      },
+      {
+        "competition": "epl",
+        "date": "2026-10-10T14:00:00.000Z",
+        "goalsAgainst": 2,
+        "goalsFor": 2,
+        "matchId": "epl-2627-r06-avl-bre",
+        "opponentId": "brentford",
+        "result": "D",
+        "venue": "H",
+        "xgAgainst": 1.06,
+        "xgFor": 2.28
+      },
+      {
+        "competition": "epl",
+        "date": "2026-09-19T11:30:00.000Z",
+        "goalsAgainst": 2,
+        "goalsFor": 3,
+        "matchId": "epl-2627-r05-tot-avl",
+        "opponentId": "tottenham",
+        "result": "W",
+        "venue": "A",
+        "xgAgainst": 1.56,
+        "xgFor": 1.16
+      },
+      {
+        "competition": "epl",
+        "date": "2026-09-12T14:00:00.000Z",
+        "goalsAgainst": 2,
+        "goalsFor": 1,
+        "matchId": "epl-2627-r04-avl-nfo",
+        "opponentId": "nottm-forest",
+        "result": "L",
+        "venue": "H",
+        "xgAgainst": 2.28,
+        "xgFor": 0.82
+      }
+    ],
+    "formComp": [
+      {
+        "competition": "ucl",
+        "date": "2026-10-14T19:00:00.000Z",
+        "goalsAgainst": 0,
+        "goalsFor": 6,
+        "matchId": "ucl-2627-r02-avl-fen",
+        "opponentId": "fenerbahce",
+        "result": "W",
+        "venue": "H",
+        "xgAgainst": null,
+        "xgFor": null
+      },
+      {
+        "competition": "ucl",
+        "date": "2026-09-08T16:45:00.000Z",
+        "goalsAgainst": 2,
+        "goalsFor": 3,
+        "matchId": "ucl-2627-r01-clb-avl",
+        "opponentId": "club-brugge",
+        "result": "W",
+        "venue": "A",
+        "xgAgainst": null,
+        "xgFor": null
+      }
+    ],
+    "restDays": 4,
+    "standing": {
+      "drawn": 0,
+      "ga": 2,
+      "gd": 7,
+      "gf": 9,
+      "lost": 0,
+      "played": 2,
+      "pos": 2,
+      "pts": 6,
+      "won": 2
+    },
+    "teamId": "aston-villa"
+  },
+  "kickoffUtc": "2026-10-21T19:00:00.000Z",
+  "market": null,
+  "matchId": "ucl-2627-r03-avl-vik",
+  "notes": [
+    "market: unavailable (no odds key at build time)",
+    "xG: no structured source for UCL; cite from research"
+  ],
+  "round": 3,
+  "schemaVersion": 1,
+  "season": "2627",
+  "seedRank": null
+}
