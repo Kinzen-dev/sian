@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-20T06:04:45.871Z",
-  "lastRefreshAt": "2026-10-20T06:04:40.609Z",
+  "generatedAt": "2026-10-20T12:04:14.296Z",
+  "lastRefreshAt": "2026-10-20T12:04:09.944Z",
   "lastScoreAt": null,
   "pending": {
     "factpacks": 0,
@@ -9,26 +9,26 @@
   },
   "sources": {
     "football-data.co.uk": {
-      "at": "2026-10-20T06:04:40.609Z",
-      "note": "60 matches with xG",
+      "at": "2026-10-20T12:04:09.944Z",
+      "note": "70 matches with xG",
       "ok": true
     },
     "football-data.org:epl": {
-      "at": "2026-10-20T06:04:40.609Z",
+      "at": "2026-10-20T12:04:09.944Z",
       "note": "380 matches",
       "ok": true
     },
     "football-data.org:ucl": {
-      "at": "2026-10-20T06:04:40.609Z",
-      "note": "144 matches",
-      "ok": true
+      "at": "2026-10-20T12:04:09.944Z",
+      "note": "Error: football-data.org: unknown status 2026-10-20 15:45:00Z",
+      "ok": false
     },
     "manual-uefa-release": {
-      "at": "2026-10-20T06:04:40.609Z",
+      "at": "2026-10-20T12:04:09.944Z",
       "ok": true
     },
     "openfootball": {
-      "at": "2026-10-20T06:04:40.609Z",
+      "at": "2026-10-20T12:04:09.944Z",
       "note": "[\n  {\n    \"expected\": \"object\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"matches\",\n      22,\n      \"score\"\n    ],\n    \"message\": \"Invalid input: expected object, received array\"\n  },\n  {\n    \"expected\": \"object\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"matches\",\n      27,\n      \"score\"\n    ],\n    \"message\": \"Invalid input: expected object, received array\"\n  },\n  {\n    \"expected\": \"object\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"matches\",\n      31,\n      \"score\"\n    ],\n    \"message\": \"Invalid input: expected object, received array\"\n  },\n  {\n    \"expected\": \"object\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"matches\",\n      35,\n      \"score\"\n    ],\n    \"message\": \"Invalid input: expected object, received array\"\n  },\n  {\n    \"expected\": \"object\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"matches\",\n      47,\n      \"score\"\n    ],\n    \"message\": \"Invalid input: expected object, received array\"\n  }\n]",
       "ok": false
     }
