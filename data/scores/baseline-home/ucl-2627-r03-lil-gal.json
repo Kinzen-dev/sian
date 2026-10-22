@@ -1,0 +1,25 @@
+{
+  "brier": 0.7687999999999999,
+  "guruId": "baseline-home",
+  "late": false,
+  "logLoss": 1.2039728043259361,
+  "marketFavourite": null,
+  "matchId": "ucl-2627-r03-lil-gal",
+  "points": {
+    "btts": 0.5,
+    "exact": 0,
+    "ou": 0.5,
+    "outcome": 0,
+    "total": 1,
+    "upset": 0
+  },
+  "result": {
+    "away": 4,
+    "home": 2,
+    "outcome": "A"
+  },
+  "resultHash": "673bf336fb633658248b3ea40f7991354bc2c07066ce85cfe00c1fd98513e6d7",
+  "schemaVersion": 1,
+  "scoredAt": "2026-10-22T00:06:32.260Z",
+  "void": null
+}

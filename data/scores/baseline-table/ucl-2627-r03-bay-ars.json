@@ -1,0 +1,25 @@
+{
+  "brier": 0.8552,
+  "guruId": "baseline-table",
+  "late": false,
+  "logLoss": 1.3470736479666092,
+  "marketFavourite": null,
+  "matchId": "ucl-2627-r03-bay-ars",
+  "points": {
+    "btts": 0.5,
+    "exact": 0,
+    "ou": 0.5,
+    "outcome": 0,
+    "total": 1,
+    "upset": 0
+  },
+  "result": {
+    "away": 2,
+    "home": 2,
+    "outcome": "D"
+  },
+  "resultHash": "c539cfa2416f3e93743c22d295f9bd996ee2ab65d2d0b55202586a0ac404b871",
+  "schemaVersion": 1,
+  "scoredAt": "2026-10-22T00:06:32.260Z",
+  "void": null
+}
