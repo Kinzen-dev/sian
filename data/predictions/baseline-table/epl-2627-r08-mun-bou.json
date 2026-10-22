@@ -1,0 +1,19 @@
+{
+  "btts": true,
+  "factpackHash": "4fb3879b3f00fdf9baa9a53d789a20f58044a71f83ff5b23020658d3ec3cc2b5",
+  "guruId": "baseline-table",
+  "kickoffUtc": "2026-10-25T14:00:00.000Z",
+  "kind": "baseline",
+  "lockedAt": "2026-10-22T18:03:42.839Z",
+  "matchId": "epl-2627-r08-mun-bou",
+  "note": "table positions 13 v 15",
+  "over25": true,
+  "pick": "H",
+  "probs": {
+    "A": 0.24,
+    "D": 0.26,
+    "H": 0.5
+  },
+  "schemaVersion": 1,
+  "scoreline": null
+}

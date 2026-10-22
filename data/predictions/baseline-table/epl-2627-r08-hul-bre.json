@@ -1,0 +1,19 @@
+{
+  "btts": true,
+  "factpackHash": "37226667cdaae93b9dde3fc24591363aa76222d9d3ecb2426562bff77ef44b98",
+  "guruId": "baseline-table",
+  "kickoffUtc": "2026-10-25T14:00:00.000Z",
+  "kind": "baseline",
+  "lockedAt": "2026-10-22T18:03:42.839Z",
+  "matchId": "epl-2627-r08-hul-bre",
+  "note": "table positions 9 v 6",
+  "over25": true,
+  "pick": "A",
+  "probs": {
+    "A": 0.5,
+    "D": 0.26,
+    "H": 0.24
+  },
+  "schemaVersion": 1,
+  "scoreline": null
+}

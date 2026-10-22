@@ -1,0 +1,19 @@
+{
+  "btts": true,
+  "factpackHash": "22859fbeffeb71b5bf1003c18da3c906cc12cc83d88bac243e7835b17c1e8baa",
+  "guruId": "baseline-market",
+  "kickoffUtc": "2026-10-25T16:30:00.000Z",
+  "kind": "baseline",
+  "lockedAt": "2026-10-22T18:03:42.839Z",
+  "matchId": "epl-2627-r08-sun-lee",
+  "note": "market median of 19 books",
+  "over25": true,
+  "pick": "A",
+  "probs": {
+    "A": 0.3922,
+    "D": 0.2959,
+    "H": 0.3119
+  },
+  "schemaVersion": 1,
+  "scoreline": null
+}

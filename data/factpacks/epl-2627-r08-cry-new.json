@@ -1,0 +1,311 @@
+{
+  "away": {
+    "formAll": [
+      {
+        "competition": "epl",
+        "date": "2026-10-17T16:30:00.000Z",
+        "goalsAgainst": 1,
+        "goalsFor": 0,
+        "matchId": "epl-2627-r07-new-avl",
+        "opponentId": "aston-villa",
+        "result": "L",
+        "venue": "H",
+        "xgAgainst": 1.57,
+        "xgFor": 0.99
+      },
+      {
+        "competition": "epl",
+        "date": "2026-10-12T19:00:00.000Z",
+        "goalsAgainst": 4,
+        "goalsFor": 1,
+        "matchId": "epl-2627-r06-cov-new",
+        "opponentId": "coventry",
+        "result": "L",
+        "venue": "A",
+        "xgAgainst": 1.43,
+        "xgFor": 1.84
+      },
+      {
+        "competition": "epl",
+        "date": "2026-09-19T14:00:00.000Z",
+        "goalsAgainst": 1,
+        "goalsFor": 2,
+        "matchId": "epl-2627-r05-new-hul",
+        "opponentId": "hull",
+        "result": "W",
+        "venue": "H",
+        "xgAgainst": 1.59,
+        "xgFor": 1.44
+      },
+      {
+        "competition": "epl",
+        "date": "2026-09-14T19:00:00.000Z",
+        "goalsAgainst": 4,
+        "goalsFor": 1,
+        "matchId": "epl-2627-r04-lee-new",
+        "opponentId": "leeds",
+        "result": "L",
+        "venue": "A",
+        "xgAgainst": 1.91,
+        "xgFor": 0.85
+      },
+      {
+        "competition": "epl",
+        "date": "2026-09-05T11:30:00.000Z",
+        "goalsAgainst": 2,
+        "goalsFor": 2,
+        "matchId": "epl-2627-r03-new-bou",
+        "opponentId": "bournemouth",
+        "result": "D",
+        "venue": "H",
+        "xgAgainst": 1.37,
+        "xgFor": 0.71
+      }
+    ],
+    "formComp": [
+      {
+        "competition": "epl",
+        "date": "2026-10-17T16:30:00.000Z",
+        "goalsAgainst": 1,
+        "goalsFor": 0,
+        "matchId": "epl-2627-r07-new-avl",
+        "opponentId": "aston-villa",
+        "result": "L",
+        "venue": "H",
+        "xgAgainst": 1.57,
+        "xgFor": 0.99
+      },
+      {
+        "competition": "epl",
+        "date": "2026-10-12T19:00:00.000Z",
+        "goalsAgainst": 4,
+        "goalsFor": 1,
+        "matchId": "epl-2627-r06-cov-new",
+        "opponentId": "coventry",
+        "result": "L",
+        "venue": "A",
+        "xgAgainst": 1.43,
+        "xgFor": 1.84
+      },
+      {
+        "competition": "epl",
+        "date": "2026-09-19T14:00:00.000Z",
+        "goalsAgainst": 1,
+        "goalsFor": 2,
+        "matchId": "epl-2627-r05-new-hul",
+        "opponentId": "hull",
+        "result": "W",
+        "venue": "H",
+        "xgAgainst": 1.59,
+        "xgFor": 1.44
+      },
+      {
+        "competition": "epl",
+        "date": "2026-09-14T19:00:00.000Z",
+        "goalsAgainst": 4,
+        "goalsFor": 1,
+        "matchId": "epl-2627-r04-lee-new",
+        "opponentId": "leeds",
+        "result": "L",
+        "venue": "A",
+        "xgAgainst": 1.91,
+        "xgFor": 0.85
+      },
+      {
+        "competition": "epl",
+        "date": "2026-09-05T11:30:00.000Z",
+        "goalsAgainst": 2,
+        "goalsFor": 2,
+        "matchId": "epl-2627-r03-new-bou",
+        "opponentId": "bournemouth",
+        "result": "D",
+        "venue": "H",
+        "xgAgainst": 1.37,
+        "xgFor": 0.71
+      }
+    ],
+    "restDays": 7,
+    "standing": {
+      "drawn": 2,
+      "ga": 14,
+      "gd": -4,
+      "gf": 10,
+      "lost": 3,
+      "played": 7,
+      "pos": 11,
+      "pts": 8,
+      "won": 2
+    },
+    "teamId": "newcastle"
+  },
+  "baseRates": {
+    "A": 0.31,
+    "D": 0.24,
+    "H": 0.45,
+    "btts": 0.52,
+    "over25": 0.55
+  },
+  "builtAt": "2026-10-22T18:03:42.170Z",
+  "competition": "epl",
+  "h2h": [],
+  "home": {
+    "formAll": [
+      {
+        "competition": "epl",
+        "date": "2026-10-18T13:00:00.000Z",
+        "goalsAgainst": 5,
+        "goalsFor": 0,
+        "matchId": "epl-2627-r07-bha-cry",
+        "opponentId": "brighton",
+        "result": "L",
+        "venue": "A",
+        "xgAgainst": 2,
+        "xgFor": 0.77
+      },
+      {
+        "competition": "epl",
+        "date": "2026-10-11T13:00:00.000Z",
+        "goalsAgainst": 1,
+        "goalsFor": 3,
+        "matchId": "epl-2627-r06-cry-nfo",
+        "opponentId": "nottm-forest",
+        "result": "W",
+        "venue": "H",
+        "xgAgainst": 3.34,
+        "xgFor": 2.41
+      },
+      {
+        "competition": "epl",
+        "date": "2026-09-20T13:00:00.000Z",
+        "goalsAgainst": 0,
+        "goalsFor": 0,
+        "matchId": "epl-2627-r05-lee-cry",
+        "opponentId": "leeds",
+        "result": "D",
+        "venue": "A",
+        "xgAgainst": 1.31,
+        "xgFor": 1.06
+      },
+      {
+        "competition": "epl",
+        "date": "2026-09-12T14:00:00.000Z",
+        "goalsAgainst": 3,
+        "goalsFor": 2,
+        "matchId": "epl-2627-r04-cry-ips",
+        "opponentId": "ipswich",
+        "result": "L",
+        "venue": "H",
+        "xgAgainst": 1.68,
+        "xgFor": 0.61
+      },
+      {
+        "competition": "epl",
+        "date": "2026-09-05T14:00:00.000Z",
+        "goalsAgainst": 2,
+        "goalsFor": 3,
+        "matchId": "epl-2627-r03-ful-cry",
+        "opponentId": "fulham",
+        "result": "W",
+        "venue": "A",
+        "xgAgainst": 3.14,
+        "xgFor": 1.97
+      }
+    ],
+    "formComp": [
+      {
+        "competition": "epl",
+        "date": "2026-10-18T13:00:00.000Z",
+        "goalsAgainst": 5,
+        "goalsFor": 0,
+        "matchId": "epl-2627-r07-bha-cry",
+        "opponentId": "brighton",
+        "result": "L",
+        "venue": "A",
+        "xgAgainst": 2,
+        "xgFor": 0.77
+      },
+      {
+        "competition": "epl",
+        "date": "2026-10-11T13:00:00.000Z",
+        "goalsAgainst": 1,
+        "goalsFor": 3,
+        "matchId": "epl-2627-r06-cry-nfo",
+        "opponentId": "nottm-forest",
+        "result": "W",
+        "venue": "H",
+        "xgAgainst": 3.34,
+        "xgFor": 2.41
+      },
+      {
+        "competition": "epl",
+        "date": "2026-09-20T13:00:00.000Z",
+        "goalsAgainst": 0,
+        "goalsFor": 0,
+        "matchId": "epl-2627-r05-lee-cry",
+        "opponentId": "leeds",
+        "result": "D",
+        "venue": "A",
+        "xgAgainst": 1.31,
+        "xgFor": 1.06
+      },
+      {
+        "competition": "epl",
+        "date": "2026-09-12T14:00:00.000Z",
+        "goalsAgainst": 3,
+        "goalsFor": 2,
+        "matchId": "epl-2627-r04-cry-ips",
+        "opponentId": "ipswich",
+        "result": "L",
+        "venue": "H",
+        "xgAgainst": 1.68,
+        "xgFor": 0.61
+      },
+      {
+        "competition": "epl",
+        "date": "2026-09-05T14:00:00.000Z",
+        "goalsAgainst": 2,
+        "goalsFor": 3,
+        "matchId": "epl-2627-r03-ful-cry",
+        "opponentId": "fulham",
+        "result": "W",
+        "venue": "A",
+        "xgAgainst": 3.14,
+        "xgFor": 1.97
+      }
+    ],
+    "restDays": 7,
+    "standing": {
+      "drawn": 1,
+      "ga": 17,
+      "gd": -8,
+      "gf": 9,
+      "lost": 4,
+      "played": 7,
+      "pos": 14,
+      "pts": 7,
+      "won": 2
+    },
+    "teamId": "crystal-palace"
+  },
+  "kickoffUtc": "2026-10-25T14:00:00.000Z",
+  "market": {
+    "capturedAt": "2026-10-22T18:03:42.170Z",
+    "favourite": "A",
+    "method": "median-devig",
+    "n": 20,
+    "probs": {
+      "A": 0.4081,
+      "D": 0.2639,
+      "H": 0.328
+    }
+  },
+  "matchId": "epl-2627-r08-cry-new",
+  "notes": [
+    "market: 20 bookmakers, median de-vig",
+    "xG: EPL post-match figures from football-data.co.uk where available"
+  ],
+  "round": 8,
+  "schemaVersion": 1,
+  "season": "2627",
+  "seedRank": null
+}
