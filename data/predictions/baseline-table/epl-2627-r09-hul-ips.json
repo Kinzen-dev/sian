@@ -1,0 +1,19 @@
+{
+  "btts": true,
+  "factpackHash": "237f40376d1e7cb39dea67324602296090a8c3623be326afd419aeb06d151baa",
+  "guruId": "baseline-table",
+  "kickoffUtc": "2026-10-31T15:00:00.000Z",
+  "kind": "baseline",
+  "lockedAt": "2026-10-28T18:03:25.365Z",
+  "matchId": "epl-2627-r09-hul-ips",
+  "note": "table positions 10 v 12",
+  "over25": true,
+  "pick": "H",
+  "probs": {
+    "A": 0.24,
+    "D": 0.26,
+    "H": 0.5
+  },
+  "schemaVersion": 1,
+  "scoreline": null
+}

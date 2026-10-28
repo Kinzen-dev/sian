@@ -1,0 +1,19 @@
+{
+  "btts": true,
+  "factpackHash": "da8e4a6208d33fbee66cfe3aa18bf7c4380e293111aafb321ccd4e1e27e32e91",
+  "guruId": "baseline-table",
+  "kickoffUtc": "2026-10-31T15:00:00.000Z",
+  "kind": "baseline",
+  "lockedAt": "2026-10-28T18:03:25.365Z",
+  "matchId": "epl-2627-r09-bou-lee",
+  "note": "table positions 13 v 7",
+  "over25": true,
+  "pick": "A",
+  "probs": {
+    "A": 0.5,
+    "D": 0.26,
+    "H": 0.24
+  },
+  "schemaVersion": 1,
+  "scoreline": null
+}

@@ -1,0 +1,19 @@
+{
+  "btts": true,
+  "factpackHash": "ca1b0603301143c9db8d2e80cda8a25687f1fa036a385d52ca10a9001012e107",
+  "guruId": "baseline-home",
+  "kickoffUtc": "2026-10-31T12:30:00.000Z",
+  "kind": "baseline",
+  "lockedAt": "2026-10-28T18:03:25.365Z",
+  "matchId": "epl-2627-r09-che-mun",
+  "note": "always home, league base rates",
+  "over25": true,
+  "pick": "H",
+  "probs": {
+    "A": 0.31,
+    "D": 0.24,
+    "H": 0.45
+  },
+  "schemaVersion": 1,
+  "scoreline": null
+}

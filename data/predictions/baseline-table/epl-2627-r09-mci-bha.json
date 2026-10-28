@@ -1,0 +1,19 @@
+{
+  "btts": true,
+  "factpackHash": "5e8958e4b2a514d39d8574cdf003103fee1436145b9d2ab2d7c22a54a90e4eb4",
+  "guruId": "baseline-table",
+  "kickoffUtc": "2026-10-31T15:00:00.000Z",
+  "kind": "baseline",
+  "lockedAt": "2026-10-28T18:03:25.365Z",
+  "matchId": "epl-2627-r09-mci-bha",
+  "note": "table positions 1 v 3",
+  "over25": true,
+  "pick": "H",
+  "probs": {
+    "A": 0.24,
+    "D": 0.26,
+    "H": 0.5
+  },
+  "schemaVersion": 1,
+  "scoreline": null
+}

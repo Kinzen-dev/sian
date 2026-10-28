@@ -1,0 +1,19 @@
+{
+  "btts": true,
+  "factpackHash": "74419eee3899dd343248b24e02e6c31f510f1e59f1a53f2fc7d5cd7b51dc6092",
+  "guruId": "baseline-table",
+  "kickoffUtc": "2026-10-31T17:30:00.000Z",
+  "kind": "baseline",
+  "lockedAt": "2026-10-28T18:03:25.365Z",
+  "matchId": "epl-2627-r09-tot-cry",
+  "note": "table positions 14 v 17",
+  "over25": true,
+  "pick": "H",
+  "probs": {
+    "A": 0.24,
+    "D": 0.26,
+    "H": 0.5
+  },
+  "schemaVersion": 1,
+  "scoreline": null
+}

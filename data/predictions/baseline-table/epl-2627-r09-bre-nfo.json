@@ -1,0 +1,19 @@
+{
+  "btts": true,
+  "factpackHash": "c123760a9195b3dd9ccec15697b670eca6a6bc69c07c9c96ec9a5536c9f7c651",
+  "guruId": "baseline-table",
+  "kickoffUtc": "2026-10-31T15:00:00.000Z",
+  "kind": "baseline",
+  "lockedAt": "2026-10-28T18:03:25.365Z",
+  "matchId": "epl-2627-r09-bre-nfo",
+  "note": "table positions 6 v 18",
+  "over25": true,
+  "pick": "H",
+  "probs": {
+    "A": 0.24,
+    "D": 0.26,
+    "H": 0.5
+  },
+  "schemaVersion": 1,
+  "scoreline": null
+}
