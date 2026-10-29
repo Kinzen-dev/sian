@@ -1,0 +1,19 @@
+{
+  "btts": true,
+  "factpackHash": "c9bd57b0ff71ed1b2d188e4e384aed992d9187feed2b81d036c507bcc1737efc",
+  "guruId": "baseline-home",
+  "kickoffUtc": "2026-11-01T16:30:00.000Z",
+  "kind": "baseline",
+  "lockedAt": "2026-10-29T18:03:34.279Z",
+  "matchId": "epl-2627-r09-liv-ars",
+  "note": "always home, league base rates",
+  "over25": true,
+  "pick": "H",
+  "probs": {
+    "A": 0.31,
+    "D": 0.24,
+    "H": 0.45
+  },
+  "schemaVersion": 1,
+  "scoreline": null
+}
