@@ -1,0 +1,19 @@
+{
+  "btts": true,
+  "factpackHash": "5322649a4df5e35605aaa628a8ec53a82916cf47778009ab63c0447a0dee7e3a",
+  "guruId": "baseline-home",
+  "kickoffUtc": "2026-11-02T20:00:00.000Z",
+  "kind": "baseline",
+  "lockedAt": "2026-10-31T00:04:23.247Z",
+  "matchId": "epl-2627-r09-new-eve",
+  "note": "always home, league base rates",
+  "over25": true,
+  "pick": "H",
+  "probs": {
+    "A": 0.31,
+    "D": 0.24,
+    "H": 0.45
+  },
+  "schemaVersion": 1,
+  "scoreline": null
+}
