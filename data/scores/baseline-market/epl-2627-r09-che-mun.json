@@ -1,0 +1,25 @@
+{
+  "brier": 0.34018664,
+  "guruId": "baseline-market",
+  "late": false,
+  "logLoss": 0.6466453469085255,
+  "marketFavourite": "H",
+  "matchId": "epl-2627-r09-che-mun",
+  "points": {
+    "btts": 0,
+    "exact": 0,
+    "ou": 0,
+    "outcome": 1,
+    "total": 1,
+    "upset": 0
+  },
+  "result": {
+    "away": 0,
+    "home": 2,
+    "outcome": "H"
+  },
+  "resultHash": "a9ce007250cb86d0c06768febff7187036bea371637af66e10ed3d8adc8270fe",
+  "schemaVersion": 1,
+  "scoredAt": "2026-10-31T18:02:54.301Z",
+  "void": null
+}

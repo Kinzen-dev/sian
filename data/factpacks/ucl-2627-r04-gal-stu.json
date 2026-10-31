@@ -1,0 +1,205 @@
+{
+  "away": {
+    "formAll": [
+      {
+        "competition": "ucl",
+        "date": "2026-10-20T19:00:00.000Z",
+        "goalsAgainst": 1,
+        "goalsFor": 1,
+        "matchId": "ucl-2627-r03-stu-atm",
+        "opponentId": "atletico-madrid",
+        "result": "D",
+        "venue": "H",
+        "xgAgainst": null,
+        "xgFor": null
+      },
+      {
+        "competition": "ucl",
+        "date": "2026-10-14T19:00:00.000Z",
+        "goalsAgainst": 0,
+        "goalsFor": 3,
+        "matchId": "ucl-2627-r02-slb-stu",
+        "opponentId": "slovan-bratislava",
+        "result": "W",
+        "venue": "A",
+        "xgAgainst": null,
+        "xgFor": null
+      },
+      {
+        "competition": "ucl",
+        "date": "2026-09-09T16:45:00.000Z",
+        "goalsAgainst": 1,
+        "goalsFor": 3,
+        "matchId": "ucl-2627-r01-stu-vik",
+        "opponentId": "viking",
+        "result": "W",
+        "venue": "H",
+        "xgAgainst": null,
+        "xgFor": null
+      }
+    ],
+    "formComp": [
+      {
+        "competition": "ucl",
+        "date": "2026-10-20T19:00:00.000Z",
+        "goalsAgainst": 1,
+        "goalsFor": 1,
+        "matchId": "ucl-2627-r03-stu-atm",
+        "opponentId": "atletico-madrid",
+        "result": "D",
+        "venue": "H",
+        "xgAgainst": null,
+        "xgFor": null
+      },
+      {
+        "competition": "ucl",
+        "date": "2026-10-14T19:00:00.000Z",
+        "goalsAgainst": 0,
+        "goalsFor": 3,
+        "matchId": "ucl-2627-r02-slb-stu",
+        "opponentId": "slovan-bratislava",
+        "result": "W",
+        "venue": "A",
+        "xgAgainst": null,
+        "xgFor": null
+      },
+      {
+        "competition": "ucl",
+        "date": "2026-09-09T16:45:00.000Z",
+        "goalsAgainst": 1,
+        "goalsFor": 3,
+        "matchId": "ucl-2627-r01-stu-vik",
+        "opponentId": "viking",
+        "result": "W",
+        "venue": "H",
+        "xgAgainst": null,
+        "xgFor": null
+      }
+    ],
+    "restDays": 13,
+    "standing": {
+      "drawn": 1,
+      "ga": 2,
+      "gd": 5,
+      "gf": 7,
+      "lost": 0,
+      "played": 3,
+      "pos": 6,
+      "pts": 7,
+      "won": 2
+    },
+    "teamId": "stuttgart"
+  },
+  "baseRates": {
+    "A": 0.3,
+    "D": 0.22,
+    "H": 0.48,
+    "btts": 0.55,
+    "over25": 0.6
+  },
+  "builtAt": "2026-10-31T18:02:52.972Z",
+  "competition": "ucl",
+  "h2h": [],
+  "home": {
+    "formAll": [
+      {
+        "competition": "ucl",
+        "date": "2026-10-21T16:45:00.000Z",
+        "goalsAgainst": 2,
+        "goalsFor": 4,
+        "matchId": "ucl-2627-r03-lil-gal",
+        "opponentId": "lille",
+        "result": "W",
+        "venue": "A",
+        "xgAgainst": null,
+        "xgFor": null
+      },
+      {
+        "competition": "ucl",
+        "date": "2026-10-13T19:00:00.000Z",
+        "goalsAgainst": 4,
+        "goalsFor": 1,
+        "matchId": "ucl-2627-r02-gal-bar",
+        "opponentId": "barcelona",
+        "result": "L",
+        "venue": "H",
+        "xgAgainst": null,
+        "xgFor": null
+      },
+      {
+        "competition": "ucl",
+        "date": "2026-09-09T19:00:00.000Z",
+        "goalsAgainst": 3,
+        "goalsFor": 1,
+        "matchId": "ucl-2627-r01-scp-gal",
+        "opponentId": "sporting-cp",
+        "result": "L",
+        "venue": "A",
+        "xgAgainst": null,
+        "xgFor": null
+      }
+    ],
+    "formComp": [
+      {
+        "competition": "ucl",
+        "date": "2026-10-21T16:45:00.000Z",
+        "goalsAgainst": 2,
+        "goalsFor": 4,
+        "matchId": "ucl-2627-r03-lil-gal",
+        "opponentId": "lille",
+        "result": "W",
+        "venue": "A",
+        "xgAgainst": null,
+        "xgFor": null
+      },
+      {
+        "competition": "ucl",
+        "date": "2026-10-13T19:00:00.000Z",
+        "goalsAgainst": 4,
+        "goalsFor": 1,
+        "matchId": "ucl-2627-r02-gal-bar",
+        "opponentId": "barcelona",
+        "result": "L",
+        "venue": "H",
+        "xgAgainst": null,
+        "xgFor": null
+      },
+      {
+        "competition": "ucl",
+        "date": "2026-09-09T19:00:00.000Z",
+        "goalsAgainst": 3,
+        "goalsFor": 1,
+        "matchId": "ucl-2627-r01-scp-gal",
+        "opponentId": "sporting-cp",
+        "result": "L",
+        "venue": "A",
+        "xgAgainst": null,
+        "xgFor": null
+      }
+    ],
+    "restDays": 13,
+    "standing": {
+      "drawn": 0,
+      "ga": 9,
+      "gd": -3,
+      "gf": 6,
+      "lost": 2,
+      "played": 3,
+      "pos": 23,
+      "pts": 3,
+      "won": 1
+    },
+    "teamId": "galatasaray"
+  },
+  "kickoffUtc": "2026-11-03T17:45:00.000Z",
+  "market": null,
+  "matchId": "ucl-2627-r04-gal-stu",
+  "notes": [
+    "market: unavailable (no odds key at build time)",
+    "xG: no structured source for UCL; cite from research"
+  ],
+  "round": 4,
+  "schemaVersion": 1,
+  "season": "2627",
+  "seedRank": null
+}
