@@ -1,0 +1,19 @@
+{
+  "btts": true,
+  "factpackHash": "1f639fbc6c19007d28f69e18f2fad6dcf65795f65dfd59452fe0dbc693f01189",
+  "guruId": "baseline-table",
+  "kickoffUtc": "2026-11-04T17:45:00.000Z",
+  "kind": "baseline",
+  "lockedAt": "2026-11-01T18:02:44.443Z",
+  "matchId": "ucl-2627-r04-fen-liv",
+  "note": "table positions 31 v 3",
+  "over25": true,
+  "pick": "A",
+  "probs": {
+    "A": 0.5,
+    "D": 0.26,
+    "H": 0.24
+  },
+  "schemaVersion": 1,
+  "scoreline": null
+}

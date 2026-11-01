@@ -1,0 +1,19 @@
+{
+  "btts": true,
+  "factpackHash": "861253a6c1a02a468b386721a77c818e6f5d4a51494244e0a0c84ddfc1f87642",
+  "guruId": "baseline-table",
+  "kickoffUtc": "2026-11-04T17:45:00.000Z",
+  "kind": "baseline",
+  "lockedAt": "2026-11-01T18:02:44.443Z",
+  "matchId": "ucl-2627-r04-aek-rma",
+  "note": "table positions 29 v 4",
+  "over25": true,
+  "pick": "A",
+  "probs": {
+    "A": 0.5,
+    "D": 0.26,
+    "H": 0.24
+  },
+  "schemaVersion": 1,
+  "scoreline": null
+}
