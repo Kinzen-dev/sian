@@ -1,0 +1,19 @@
+{
+  "btts": true,
+  "factpackHash": "5fa8fb1c457327e40db61ebb21dddb6938f0eede93329c5345cebd9ab29fb04e",
+  "guruId": "baseline-home",
+  "kickoffUtc": "2026-11-03T20:00:00.000Z",
+  "kind": "baseline",
+  "lockedAt": "2026-11-01T00:06:37.406Z",
+  "matchId": "ucl-2627-r04-atm-bay",
+  "note": "always home, league base rates",
+  "over25": true,
+  "pick": "H",
+  "probs": {
+    "A": 0.3,
+    "D": 0.22,
+    "H": 0.48
+  },
+  "schemaVersion": 1,
+  "scoreline": null
+}

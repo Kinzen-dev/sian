@@ -1,0 +1,19 @@
+{
+  "btts": true,
+  "factpackHash": "50203fa6e1354f15711b25d62a44cb3c7b452f0f3a03bdaa639f6a1ee61a7e20",
+  "guruId": "baseline-table",
+  "kickoffUtc": "2026-11-03T20:00:00.000Z",
+  "kind": "baseline",
+  "lockedAt": "2026-11-01T00:06:37.406Z",
+  "matchId": "ucl-2627-r04-las-slb",
+  "note": "table positions 24 v 36",
+  "over25": true,
+  "pick": "H",
+  "probs": {
+    "A": 0.24,
+    "D": 0.26,
+    "H": 0.5
+  },
+  "schemaVersion": 1,
+  "scoreline": null
+}

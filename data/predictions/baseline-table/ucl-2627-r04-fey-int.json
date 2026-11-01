@@ -1,0 +1,19 @@
+{
+  "btts": true,
+  "factpackHash": "80c31456b69ea16d9de396bc44416e32db66b16341c63a6539743ade73fadb18",
+  "guruId": "baseline-table",
+  "kickoffUtc": "2026-11-03T20:00:00.000Z",
+  "kind": "baseline",
+  "lockedAt": "2026-11-01T00:06:37.406Z",
+  "matchId": "ucl-2627-r04-fey-int",
+  "note": "table positions 26 v 20",
+  "over25": true,
+  "pick": "A",
+  "probs": {
+    "A": 0.5,
+    "D": 0.26,
+    "H": 0.24
+  },
+  "schemaVersion": 1,
+  "scoreline": null
+}

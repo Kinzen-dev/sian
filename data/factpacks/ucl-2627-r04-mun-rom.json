@@ -1,0 +1,229 @@
+{
+  "away": {
+    "formAll": [
+      {
+        "competition": "ucl",
+        "date": "2026-10-20T19:00:00.000Z",
+        "goalsAgainst": 0,
+        "goalsFor": 4,
+        "matchId": "ucl-2627-r03-rom-slb",
+        "opponentId": "slovan-bratislava",
+        "result": "W",
+        "venue": "H",
+        "xgAgainst": null,
+        "xgFor": null
+      },
+      {
+        "competition": "ucl",
+        "date": "2026-10-14T19:00:00.000Z",
+        "goalsAgainst": 4,
+        "goalsFor": 3,
+        "matchId": "ucl-2627-r02-rom-rma",
+        "opponentId": "real-madrid",
+        "result": "L",
+        "venue": "H",
+        "xgAgainst": null,
+        "xgFor": null
+      },
+      {
+        "competition": "ucl",
+        "date": "2026-09-10T16:45:00.000Z",
+        "goalsAgainst": 1,
+        "goalsFor": 1,
+        "matchId": "ucl-2627-r01-fen-rom",
+        "opponentId": "fenerbahce",
+        "result": "D",
+        "venue": "A",
+        "xgAgainst": null,
+        "xgFor": null
+      }
+    ],
+    "formComp": [
+      {
+        "competition": "ucl",
+        "date": "2026-10-20T19:00:00.000Z",
+        "goalsAgainst": 0,
+        "goalsFor": 4,
+        "matchId": "ucl-2627-r03-rom-slb",
+        "opponentId": "slovan-bratislava",
+        "result": "W",
+        "venue": "H",
+        "xgAgainst": null,
+        "xgFor": null
+      },
+      {
+        "competition": "ucl",
+        "date": "2026-10-14T19:00:00.000Z",
+        "goalsAgainst": 4,
+        "goalsFor": 3,
+        "matchId": "ucl-2627-r02-rom-rma",
+        "opponentId": "real-madrid",
+        "result": "L",
+        "venue": "H",
+        "xgAgainst": null,
+        "xgFor": null
+      },
+      {
+        "competition": "ucl",
+        "date": "2026-09-10T16:45:00.000Z",
+        "goalsAgainst": 1,
+        "goalsFor": 1,
+        "matchId": "ucl-2627-r01-fen-rom",
+        "opponentId": "fenerbahce",
+        "result": "D",
+        "venue": "A",
+        "xgAgainst": null,
+        "xgFor": null
+      }
+    ],
+    "restDays": 14,
+    "standing": {
+      "drawn": 1,
+      "ga": 5,
+      "gd": 3,
+      "gf": 8,
+      "lost": 1,
+      "played": 3,
+      "pos": 15,
+      "pts": 4,
+      "won": 1
+    },
+    "teamId": "roma"
+  },
+  "baseRates": {
+    "A": 0.3,
+    "D": 0.22,
+    "H": 0.48,
+    "btts": 0.55,
+    "over25": 0.6
+  },
+  "builtAt": "2026-11-01T00:06:36.743Z",
+  "competition": "ucl",
+  "h2h": [],
+  "home": {
+    "formAll": [
+      {
+        "competition": "epl",
+        "date": "2026-10-25T14:00:00.000Z",
+        "goalsAgainst": 3,
+        "goalsFor": 0,
+        "matchId": "epl-2627-r08-mun-bou",
+        "opponentId": "bournemouth",
+        "result": "L",
+        "venue": "H",
+        "xgAgainst": 2.15,
+        "xgFor": 1.17
+      },
+      {
+        "competition": "ucl",
+        "date": "2026-10-21T16:45:00.000Z",
+        "goalsAgainst": 4,
+        "goalsFor": 1,
+        "matchId": "ucl-2627-r03-com-mun",
+        "opponentId": "como",
+        "result": "L",
+        "venue": "A",
+        "xgAgainst": null,
+        "xgFor": null
+      },
+      {
+        "competition": "epl",
+        "date": "2026-10-18T13:00:00.000Z",
+        "goalsAgainst": 1,
+        "goalsFor": 1,
+        "matchId": "epl-2627-r07-lee-mun",
+        "opponentId": "leeds",
+        "result": "D",
+        "venue": "A",
+        "xgAgainst": 1.41,
+        "xgFor": 0.92
+      },
+      {
+        "competition": "ucl",
+        "date": "2026-10-13T19:00:00.000Z",
+        "goalsAgainst": 2,
+        "goalsFor": 0,
+        "matchId": "ucl-2627-r02-atm-mun",
+        "opponentId": "atletico-madrid",
+        "result": "L",
+        "venue": "A",
+        "xgAgainst": null,
+        "xgFor": null
+      },
+      {
+        "competition": "epl",
+        "date": "2026-10-10T16:30:00.000Z",
+        "goalsAgainst": 1,
+        "goalsFor": 1,
+        "matchId": "epl-2627-r06-mun-tot",
+        "opponentId": "tottenham",
+        "result": "D",
+        "venue": "H",
+        "xgAgainst": 1.62,
+        "xgFor": 0.8
+      }
+    ],
+    "formComp": [
+      {
+        "competition": "ucl",
+        "date": "2026-10-21T16:45:00.000Z",
+        "goalsAgainst": 4,
+        "goalsFor": 1,
+        "matchId": "ucl-2627-r03-com-mun",
+        "opponentId": "como",
+        "result": "L",
+        "venue": "A",
+        "xgAgainst": null,
+        "xgFor": null
+      },
+      {
+        "competition": "ucl",
+        "date": "2026-10-13T19:00:00.000Z",
+        "goalsAgainst": 2,
+        "goalsFor": 0,
+        "matchId": "ucl-2627-r02-atm-mun",
+        "opponentId": "atletico-madrid",
+        "result": "L",
+        "venue": "A",
+        "xgAgainst": null,
+        "xgFor": null
+      },
+      {
+        "competition": "ucl",
+        "date": "2026-09-10T19:00:00.000Z",
+        "goalsAgainst": 0,
+        "goalsFor": 4,
+        "matchId": "ucl-2627-r01-mun-sab",
+        "opponentId": "sabah",
+        "result": "W",
+        "venue": "H",
+        "xgAgainst": null,
+        "xgFor": null
+      }
+    ],
+    "restDays": 9,
+    "standing": {
+      "drawn": 0,
+      "ga": 6,
+      "gd": -1,
+      "gf": 5,
+      "lost": 2,
+      "played": 3,
+      "pos": 21,
+      "pts": 3,
+      "won": 1
+    },
+    "teamId": "man-utd"
+  },
+  "kickoffUtc": "2026-11-03T20:00:00.000Z",
+  "market": null,
+  "matchId": "ucl-2627-r04-mun-rom",
+  "notes": [
+    "market: unavailable (no odds key at build time)",
+    "xG: no structured source for UCL; cite from research"
+  ],
+  "round": 4,
+  "schemaVersion": 1,
+  "season": "2627",
+  "seedRank": null
+}

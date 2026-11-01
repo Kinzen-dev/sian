@@ -1,0 +1,19 @@
+{
+  "btts": true,
+  "factpackHash": "4cce824524635fef08515869336f6b86d1d0b4d3039905e1a1825a38811288e5",
+  "guruId": "baseline-table",
+  "kickoffUtc": "2026-11-03T20:00:00.000Z",
+  "kind": "baseline",
+  "lockedAt": "2026-11-01T00:06:37.406Z",
+  "matchId": "ucl-2627-r04-bod-lil",
+  "note": "table positions 28 v 35",
+  "over25": true,
+  "pick": "H",
+  "probs": {
+    "A": 0.24,
+    "D": 0.26,
+    "H": 0.5
+  },
+  "schemaVersion": 1,
+  "scoreline": null
+}
