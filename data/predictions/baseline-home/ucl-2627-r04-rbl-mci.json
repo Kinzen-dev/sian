@@ -1,0 +1,19 @@
+{
+  "btts": true,
+  "factpackHash": "b4db107210030762ced3fe2c115c3798db0e7001df8b6272f3e5c8b792f2843c",
+  "guruId": "baseline-home",
+  "kickoffUtc": "2026-11-04T20:00:00.000Z",
+  "kind": "baseline",
+  "lockedAt": "2026-11-02T00:05:34.195Z",
+  "matchId": "ucl-2627-r04-rbl-mci",
+  "note": "always home, league base rates",
+  "over25": true,
+  "pick": "H",
+  "probs": {
+    "A": 0.3,
+    "D": 0.22,
+    "H": 0.48
+  },
+  "schemaVersion": 1,
+  "scoreline": null
+}

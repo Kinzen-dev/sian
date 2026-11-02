@@ -1,0 +1,19 @@
+{
+  "btts": true,
+  "factpackHash": "c57de48a5c2bd1e5223f3974c90ff7d17e2786eee54fc8bc109317d96e4e71d3",
+  "guruId": "baseline-table",
+  "kickoffUtc": "2026-11-04T20:00:00.000Z",
+  "kind": "baseline",
+  "lockedAt": "2026-11-02T00:05:34.195Z",
+  "matchId": "ucl-2627-r04-por-nap",
+  "note": "table positions 34 v 22",
+  "over25": true,
+  "pick": "A",
+  "probs": {
+    "A": 0.5,
+    "D": 0.26,
+    "H": 0.24
+  },
+  "schemaVersion": 1,
+  "scoreline": null
+}

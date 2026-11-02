@@ -1,0 +1,19 @@
+{
+  "btts": true,
+  "factpackHash": "082be21211197ddf4ac0135425bd0d72d7ad4f0cb1f522734cc524194a09549b",
+  "guruId": "baseline-table",
+  "kickoffUtc": "2026-11-04T20:00:00.000Z",
+  "kind": "baseline",
+  "lockedAt": "2026-11-02T00:05:34.195Z",
+  "matchId": "ucl-2627-r04-vik-sab",
+  "note": "table positions 33 v 25",
+  "over25": true,
+  "pick": "A",
+  "probs": {
+    "A": 0.5,
+    "D": 0.26,
+    "H": 0.24
+  },
+  "schemaVersion": 1,
+  "scoreline": null
+}

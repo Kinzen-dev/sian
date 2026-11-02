@@ -1,0 +1,19 @@
+{
+  "btts": true,
+  "factpackHash": "9dcb2f51cadae1ed7ead5e23f7cff5d6ed9127488e769d97c8882a07c1f8f102",
+  "guruId": "baseline-home",
+  "kickoffUtc": "2026-11-04T20:00:00.000Z",
+  "kind": "baseline",
+  "lockedAt": "2026-11-02T00:05:34.195Z",
+  "matchId": "ucl-2627-r04-bvb-bet",
+  "note": "always home, league base rates",
+  "over25": true,
+  "pick": "H",
+  "probs": {
+    "A": 0.3,
+    "D": 0.22,
+    "H": 0.48
+  },
+  "schemaVersion": 1,
+  "scoreline": null
+}

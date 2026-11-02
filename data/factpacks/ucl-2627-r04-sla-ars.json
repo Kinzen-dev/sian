@@ -1,0 +1,229 @@
+{
+  "away": {
+    "formAll": [
+      {
+        "competition": "epl",
+        "date": "2026-11-01T16:30:00.000Z",
+        "goalsAgainst": 0,
+        "goalsFor": 1,
+        "matchId": "epl-2627-r09-liv-ars",
+        "opponentId": "liverpool",
+        "result": "W",
+        "venue": "A",
+        "xgAgainst": null,
+        "xgFor": null
+      },
+      {
+        "competition": "epl",
+        "date": "2026-10-24T14:00:00.000Z",
+        "goalsAgainst": 0,
+        "goalsFor": 2,
+        "matchId": "epl-2627-r08-ars-eve",
+        "opponentId": "everton",
+        "result": "W",
+        "venue": "H",
+        "xgAgainst": 0.63,
+        "xgFor": 1.96
+      },
+      {
+        "competition": "ucl",
+        "date": "2026-10-21T19:00:00.000Z",
+        "goalsAgainst": 2,
+        "goalsFor": 2,
+        "matchId": "ucl-2627-r03-bay-ars",
+        "opponentId": "bayern",
+        "result": "D",
+        "venue": "A",
+        "xgAgainst": null,
+        "xgFor": null
+      },
+      {
+        "competition": "epl",
+        "date": "2026-10-18T15:30:00.000Z",
+        "goalsAgainst": 0,
+        "goalsFor": 1,
+        "matchId": "epl-2627-r07-nfo-ars",
+        "opponentId": "nottm-forest",
+        "result": "W",
+        "venue": "A",
+        "xgAgainst": 0.9,
+        "xgFor": 1.14
+      },
+      {
+        "competition": "ucl",
+        "date": "2026-10-13T19:00:00.000Z",
+        "goalsAgainst": 0,
+        "goalsFor": 3,
+        "matchId": "ucl-2627-r02-ars-lil",
+        "opponentId": "lille",
+        "result": "W",
+        "venue": "H",
+        "xgAgainst": null,
+        "xgFor": null
+      }
+    ],
+    "formComp": [
+      {
+        "competition": "ucl",
+        "date": "2026-10-21T19:00:00.000Z",
+        "goalsAgainst": 2,
+        "goalsFor": 2,
+        "matchId": "ucl-2627-r03-bay-ars",
+        "opponentId": "bayern",
+        "result": "D",
+        "venue": "A",
+        "xgAgainst": null,
+        "xgFor": null
+      },
+      {
+        "competition": "ucl",
+        "date": "2026-10-13T19:00:00.000Z",
+        "goalsAgainst": 0,
+        "goalsFor": 3,
+        "matchId": "ucl-2627-r02-ars-lil",
+        "opponentId": "lille",
+        "result": "W",
+        "venue": "H",
+        "xgAgainst": null,
+        "xgFor": null
+      },
+      {
+        "competition": "ucl",
+        "date": "2026-09-09T19:00:00.000Z",
+        "goalsAgainst": 0,
+        "goalsFor": 1,
+        "matchId": "ucl-2627-r01-nap-ars",
+        "opponentId": "napoli",
+        "result": "W",
+        "venue": "A",
+        "xgAgainst": null,
+        "xgFor": null
+      }
+    ],
+    "restDays": 3,
+    "standing": {
+      "drawn": 1,
+      "ga": 2,
+      "gd": 4,
+      "gf": 6,
+      "lost": 0,
+      "played": 3,
+      "pos": 7,
+      "pts": 7,
+      "won": 2
+    },
+    "teamId": "arsenal"
+  },
+  "baseRates": {
+    "A": 0.3,
+    "D": 0.22,
+    "H": 0.48,
+    "btts": 0.55,
+    "over25": 0.6
+  },
+  "builtAt": "2026-11-02T00:05:33.527Z",
+  "competition": "ucl",
+  "h2h": [],
+  "home": {
+    "formAll": [
+      {
+        "competition": "ucl",
+        "date": "2026-10-20T16:45:00.000Z",
+        "goalsAgainst": 2,
+        "goalsFor": 2,
+        "matchId": "ucl-2627-r03-fen-sla",
+        "opponentId": "fenerbahce",
+        "result": "D",
+        "venue": "A",
+        "xgAgainst": null,
+        "xgFor": null
+      },
+      {
+        "competition": "ucl",
+        "date": "2026-10-13T16:45:00.000Z",
+        "goalsAgainst": 2,
+        "goalsFor": 0,
+        "matchId": "ucl-2627-r02-sab-sla",
+        "opponentId": "sabah",
+        "result": "L",
+        "venue": "A",
+        "xgAgainst": null,
+        "xgFor": null
+      },
+      {
+        "competition": "ucl",
+        "date": "2026-09-10T19:00:00.000Z",
+        "goalsAgainst": 3,
+        "goalsFor": 2,
+        "matchId": "ucl-2627-r01-sla-len",
+        "opponentId": "lens",
+        "result": "L",
+        "venue": "H",
+        "xgAgainst": null,
+        "xgFor": null
+      }
+    ],
+    "formComp": [
+      {
+        "competition": "ucl",
+        "date": "2026-10-20T16:45:00.000Z",
+        "goalsAgainst": 2,
+        "goalsFor": 2,
+        "matchId": "ucl-2627-r03-fen-sla",
+        "opponentId": "fenerbahce",
+        "result": "D",
+        "venue": "A",
+        "xgAgainst": null,
+        "xgFor": null
+      },
+      {
+        "competition": "ucl",
+        "date": "2026-10-13T16:45:00.000Z",
+        "goalsAgainst": 2,
+        "goalsFor": 0,
+        "matchId": "ucl-2627-r02-sab-sla",
+        "opponentId": "sabah",
+        "result": "L",
+        "venue": "A",
+        "xgAgainst": null,
+        "xgFor": null
+      },
+      {
+        "competition": "ucl",
+        "date": "2026-09-10T19:00:00.000Z",
+        "goalsAgainst": 3,
+        "goalsFor": 2,
+        "matchId": "ucl-2627-r01-sla-len",
+        "opponentId": "lens",
+        "result": "L",
+        "venue": "H",
+        "xgAgainst": null,
+        "xgFor": null
+      }
+    ],
+    "restDays": 15,
+    "standing": {
+      "drawn": 1,
+      "ga": 7,
+      "gd": -3,
+      "gf": 4,
+      "lost": 2,
+      "played": 3,
+      "pos": 32,
+      "pts": 1,
+      "won": 0
+    },
+    "teamId": "slavia-praha"
+  },
+  "kickoffUtc": "2026-11-04T20:00:00.000Z",
+  "market": null,
+  "matchId": "ucl-2627-r04-sla-ars",
+  "notes": [
+    "market: unavailable (no odds key at build time)",
+    "xG: no structured source for UCL; cite from research"
+  ],
+  "round": 4,
+  "schemaVersion": 1,
+  "season": "2627",
+  "seedRank": null
+}
