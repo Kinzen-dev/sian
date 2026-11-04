@@ -1,0 +1,25 @@
+{
+  "brier": 0.3752,
+  "guruId": "baseline-table",
+  "late": false,
+  "logLoss": 0.6931471805599453,
+  "marketFavourite": null,
+  "matchId": "ucl-2627-r04-vil-psg",
+  "points": {
+    "btts": 0,
+    "exact": 0,
+    "ou": 0.5,
+    "outcome": 1,
+    "total": 1.5,
+    "upset": 0
+  },
+  "result": {
+    "away": 6,
+    "home": 0,
+    "outcome": "A"
+  },
+  "resultHash": "700e6f908890c6146119447b5a7a674522e80add9f231f4c4c82ac8dab29a8e5",
+  "schemaVersion": 1,
+  "scoredAt": "2026-11-04T00:05:36.819Z",
+  "void": null
+}
