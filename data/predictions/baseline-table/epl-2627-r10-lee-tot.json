@@ -1,0 +1,19 @@
+{
+  "btts": true,
+  "factpackHash": "7ad7ce53ae8add9288a793ff12cc8e38cfff478029007764e69bd40a234f2b83",
+  "guruId": "baseline-table",
+  "kickoffUtc": "2026-11-07T12:30:00.000Z",
+  "kind": "baseline",
+  "lockedAt": "2026-11-04T18:03:08.844Z",
+  "matchId": "epl-2627-r10-lee-tot",
+  "note": "table positions 12 v 9",
+  "over25": true,
+  "pick": "A",
+  "probs": {
+    "A": 0.5,
+    "D": 0.26,
+    "H": 0.24
+  },
+  "schemaVersion": 1,
+  "scoreline": null
+}

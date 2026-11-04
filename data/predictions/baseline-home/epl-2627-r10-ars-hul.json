@@ -1,0 +1,19 @@
+{
+  "btts": true,
+  "factpackHash": "95d85df322f54296704f38df0eddab28fa72922a07a1f1dda6b05be8673c4911",
+  "guruId": "baseline-home",
+  "kickoffUtc": "2026-11-07T15:00:00.000Z",
+  "kind": "baseline",
+  "lockedAt": "2026-11-04T18:03:08.844Z",
+  "matchId": "epl-2627-r10-ars-hul",
+  "note": "always home, league base rates",
+  "over25": true,
+  "pick": "H",
+  "probs": {
+    "A": 0.31,
+    "D": 0.24,
+    "H": 0.45
+  },
+  "schemaVersion": 1,
+  "scoreline": null
+}
