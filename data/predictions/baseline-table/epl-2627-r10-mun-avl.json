@@ -1,0 +1,19 @@
+{
+  "btts": true,
+  "factpackHash": "2db973d657ec585ad977fd7c150c9b8ffe8d1ec3cf255c5fd5ad58155df74537",
+  "guruId": "baseline-table",
+  "kickoffUtc": "2026-11-08T16:30:00.000Z",
+  "kind": "baseline",
+  "lockedAt": "2026-11-05T18:02:38.322Z",
+  "matchId": "epl-2627-r10-mun-avl",
+  "note": "table positions 17 v 10",
+  "over25": true,
+  "pick": "A",
+  "probs": {
+    "A": 0.5,
+    "D": 0.26,
+    "H": 0.24
+  },
+  "schemaVersion": 1,
+  "scoreline": null
+}
