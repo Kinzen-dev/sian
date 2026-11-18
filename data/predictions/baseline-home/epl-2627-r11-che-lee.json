@@ -1,0 +1,19 @@
+{
+  "btts": true,
+  "factpackHash": "5bb87eb1f6bb7a6d1148743d8e61a5b16b533653b36be667750b3628d4446feb",
+  "guruId": "baseline-home",
+  "kickoffUtc": "2026-11-21T15:00:00.000Z",
+  "kind": "baseline",
+  "lockedAt": "2026-11-18T18:02:51.910Z",
+  "matchId": "epl-2627-r11-che-lee",
+  "note": "always home, league base rates",
+  "over25": true,
+  "pick": "H",
+  "probs": {
+    "A": 0.31,
+    "D": 0.24,
+    "H": 0.45
+  },
+  "schemaVersion": 1,
+  "scoreline": null
+}

@@ -1,0 +1,19 @@
+{
+  "btts": true,
+  "factpackHash": "a1e1a27e49b14ac75fa8f0cd1ba641810b4542c2270d0973e20db00342f8ad52",
+  "guruId": "baseline-home",
+  "kickoffUtc": "2026-11-21T17:30:00.000Z",
+  "kind": "baseline",
+  "lockedAt": "2026-11-18T18:02:51.910Z",
+  "matchId": "epl-2627-r11-new-ars",
+  "note": "always home, league base rates",
+  "over25": true,
+  "pick": "H",
+  "probs": {
+    "A": 0.31,
+    "D": 0.24,
+    "H": 0.45
+  },
+  "schemaVersion": 1,
+  "scoreline": null
+}

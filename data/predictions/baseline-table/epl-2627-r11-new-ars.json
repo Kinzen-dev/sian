@@ -1,0 +1,19 @@
+{
+  "btts": true,
+  "factpackHash": "a1e1a27e49b14ac75fa8f0cd1ba641810b4542c2270d0973e20db00342f8ad52",
+  "guruId": "baseline-table",
+  "kickoffUtc": "2026-11-21T17:30:00.000Z",
+  "kind": "baseline",
+  "lockedAt": "2026-11-18T18:02:51.910Z",
+  "matchId": "epl-2627-r11-new-ars",
+  "note": "table positions 12 v 1",
+  "over25": true,
+  "pick": "A",
+  "probs": {
+    "A": 0.5,
+    "D": 0.26,
+    "H": 0.24
+  },
+  "schemaVersion": 1,
+  "scoreline": null
+}
