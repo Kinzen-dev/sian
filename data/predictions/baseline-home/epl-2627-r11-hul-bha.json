@@ -1,0 +1,19 @@
+{
+  "btts": true,
+  "factpackHash": "4e3b49d98171b15f9ce97efe35c1059c9b89f04ed0a0ad8b23b54bab5fa7e662",
+  "guruId": "baseline-home",
+  "kickoffUtc": "2026-11-22T14:00:00.000Z",
+  "kind": "baseline",
+  "lockedAt": "2026-11-19T18:03:06.221Z",
+  "matchId": "epl-2627-r11-hul-bha",
+  "note": "always home, league base rates",
+  "over25": true,
+  "pick": "H",
+  "probs": {
+    "A": 0.31,
+    "D": 0.24,
+    "H": 0.45
+  },
+  "schemaVersion": 1,
+  "scoreline": null
+}
