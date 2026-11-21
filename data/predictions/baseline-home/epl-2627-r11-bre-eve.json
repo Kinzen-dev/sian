@@ -1,0 +1,19 @@
+{
+  "btts": true,
+  "factpackHash": "36a30fc5a3ce63595764dd89b52cd8ff2ec6b66081b23f1d1f64f4d9eaa072f7",
+  "guruId": "baseline-home",
+  "kickoffUtc": "2026-11-23T20:00:00.000Z",
+  "kind": "baseline",
+  "lockedAt": "2026-11-21T00:05:02.033Z",
+  "matchId": "epl-2627-r11-bre-eve",
+  "note": "always home, league base rates",
+  "over25": true,
+  "pick": "H",
+  "probs": {
+    "A": 0.31,
+    "D": 0.24,
+    "H": 0.45
+  },
+  "schemaVersion": 1,
+  "scoreline": null
+}
