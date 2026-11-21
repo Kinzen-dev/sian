@@ -1,0 +1,25 @@
+{
+  "brier": 0.90074073,
+  "guruId": "baseline-market",
+  "late": false,
+  "logLoss": 1.4296194858582643,
+  "marketFavourite": "H",
+  "matchId": "epl-2627-r11-che-lee",
+  "points": {
+    "btts": 0.5,
+    "exact": 0,
+    "ou": 0.5,
+    "outcome": 0,
+    "total": 1,
+    "upset": 0
+  },
+  "result": {
+    "away": 4,
+    "home": 1,
+    "outcome": "A"
+  },
+  "resultHash": "07d3d4d89d9a4c45ab50597543c0f0fec18337156083e53955b12a070482d202",
+  "schemaVersion": 1,
+  "scoredAt": "2026-11-21T22:32:22.680Z",
+  "void": null
+}

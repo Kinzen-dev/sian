@@ -1,0 +1,19 @@
+{
+  "btts": true,
+  "factpackHash": "471815c853f0a0879e11815a19122ef6be8c138441c7abdb09700ac8ab2326c3",
+  "guruId": "baseline-table",
+  "kickoffUtc": "2026-11-24T20:00:00.000Z",
+  "kind": "baseline",
+  "lockedAt": "2026-11-21T22:32:21.987Z",
+  "matchId": "ucl-2627-r05-slb-bet",
+  "note": "table positions 36 v 11",
+  "over25": true,
+  "pick": "A",
+  "probs": {
+    "A": 0.5,
+    "D": 0.26,
+    "H": 0.24
+  },
+  "schemaVersion": 1,
+  "scoreline": null
+}

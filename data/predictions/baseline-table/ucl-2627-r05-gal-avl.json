@@ -1,0 +1,19 @@
+{
+  "btts": true,
+  "factpackHash": "745da789b5ac09556235e08cb1786470500862644a62a99c9365e22282aae4b9",
+  "guruId": "baseline-table",
+  "kickoffUtc": "2026-11-24T17:45:00.000Z",
+  "kind": "baseline",
+  "lockedAt": "2026-11-21T22:32:21.987Z",
+  "matchId": "ucl-2627-r05-gal-avl",
+  "note": "table positions 18 v 6",
+  "over25": true,
+  "pick": "A",
+  "probs": {
+    "A": 0.5,
+    "D": 0.26,
+    "H": 0.24
+  },
+  "schemaVersion": 1,
+  "scoreline": null
+}
