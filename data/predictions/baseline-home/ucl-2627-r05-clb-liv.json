@@ -1,0 +1,19 @@
+{
+  "btts": true,
+  "factpackHash": "1d6522a5b8c0515fc8054d6363d021c0445959e92ba5fa3ed99ed83182b1b303",
+  "guruId": "baseline-home",
+  "kickoffUtc": "2026-11-25T20:00:00.000Z",
+  "kind": "baseline",
+  "lockedAt": "2026-11-22T22:55:41.338Z",
+  "matchId": "ucl-2627-r05-clb-liv",
+  "note": "always home, league base rates",
+  "over25": true,
+  "pick": "H",
+  "probs": {
+    "A": 0.3,
+    "D": 0.22,
+    "H": 0.48
+  },
+  "schemaVersion": 1,
+  "scoreline": null
+}

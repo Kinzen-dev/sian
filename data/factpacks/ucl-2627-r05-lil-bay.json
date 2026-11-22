@@ -1,0 +1,253 @@
+{
+  "away": {
+    "formAll": [
+      {
+        "competition": "ucl",
+        "date": "2026-11-03T20:00:00.000Z",
+        "goalsAgainst": 0,
+        "goalsFor": 2,
+        "matchId": "ucl-2627-r04-atm-bay",
+        "opponentId": "atletico-madrid",
+        "result": "W",
+        "venue": "A",
+        "xgAgainst": null,
+        "xgFor": null
+      },
+      {
+        "competition": "ucl",
+        "date": "2026-10-21T19:00:00.000Z",
+        "goalsAgainst": 2,
+        "goalsFor": 2,
+        "matchId": "ucl-2627-r03-bay-ars",
+        "opponentId": "arsenal",
+        "result": "D",
+        "venue": "H",
+        "xgAgainst": null,
+        "xgFor": null
+      },
+      {
+        "competition": "ucl",
+        "date": "2026-10-13T19:00:00.000Z",
+        "goalsAgainst": 3,
+        "goalsFor": 3,
+        "matchId": "ucl-2627-r02-vik-bay",
+        "opponentId": "viking",
+        "result": "D",
+        "venue": "A",
+        "xgAgainst": null,
+        "xgFor": null
+      },
+      {
+        "competition": "ucl",
+        "date": "2026-09-10T19:00:00.000Z",
+        "goalsAgainst": 0,
+        "goalsFor": 5,
+        "matchId": "ucl-2627-r01-bay-bod",
+        "opponentId": "bodo-glimt",
+        "result": "W",
+        "venue": "H",
+        "xgAgainst": null,
+        "xgFor": null
+      }
+    ],
+    "formComp": [
+      {
+        "competition": "ucl",
+        "date": "2026-11-03T20:00:00.000Z",
+        "goalsAgainst": 0,
+        "goalsFor": 2,
+        "matchId": "ucl-2627-r04-atm-bay",
+        "opponentId": "atletico-madrid",
+        "result": "W",
+        "venue": "A",
+        "xgAgainst": null,
+        "xgFor": null
+      },
+      {
+        "competition": "ucl",
+        "date": "2026-10-21T19:00:00.000Z",
+        "goalsAgainst": 2,
+        "goalsFor": 2,
+        "matchId": "ucl-2627-r03-bay-ars",
+        "opponentId": "arsenal",
+        "result": "D",
+        "venue": "H",
+        "xgAgainst": null,
+        "xgFor": null
+      },
+      {
+        "competition": "ucl",
+        "date": "2026-10-13T19:00:00.000Z",
+        "goalsAgainst": 3,
+        "goalsFor": 3,
+        "matchId": "ucl-2627-r02-vik-bay",
+        "opponentId": "viking",
+        "result": "D",
+        "venue": "A",
+        "xgAgainst": null,
+        "xgFor": null
+      },
+      {
+        "competition": "ucl",
+        "date": "2026-09-10T19:00:00.000Z",
+        "goalsAgainst": 0,
+        "goalsFor": 5,
+        "matchId": "ucl-2627-r01-bay-bod",
+        "opponentId": "bodo-glimt",
+        "result": "W",
+        "venue": "H",
+        "xgAgainst": null,
+        "xgFor": null
+      }
+    ],
+    "restDays": 22,
+    "standing": {
+      "drawn": 2,
+      "ga": 5,
+      "gd": 7,
+      "gf": 12,
+      "lost": 0,
+      "played": 4,
+      "pos": 13,
+      "pts": 8,
+      "won": 2
+    },
+    "teamId": "bayern"
+  },
+  "baseRates": {
+    "A": 0.3,
+    "D": 0.22,
+    "H": 0.48,
+    "btts": 0.55,
+    "over25": 0.6
+  },
+  "builtAt": "2026-11-22T22:55:40.797Z",
+  "competition": "ucl",
+  "h2h": [],
+  "home": {
+    "formAll": [
+      {
+        "competition": "ucl",
+        "date": "2026-11-03T20:00:00.000Z",
+        "goalsAgainst": 0,
+        "goalsFor": 0,
+        "matchId": "ucl-2627-r04-bod-lil",
+        "opponentId": "bodo-glimt",
+        "result": "D",
+        "venue": "A",
+        "xgAgainst": null,
+        "xgFor": null
+      },
+      {
+        "competition": "ucl",
+        "date": "2026-10-21T16:45:00.000Z",
+        "goalsAgainst": 4,
+        "goalsFor": 2,
+        "matchId": "ucl-2627-r03-lil-gal",
+        "opponentId": "galatasaray",
+        "result": "L",
+        "venue": "H",
+        "xgAgainst": null,
+        "xgFor": null
+      },
+      {
+        "competition": "ucl",
+        "date": "2026-10-13T19:00:00.000Z",
+        "goalsAgainst": 3,
+        "goalsFor": 0,
+        "matchId": "ucl-2627-r02-ars-lil",
+        "opponentId": "arsenal",
+        "result": "L",
+        "venue": "A",
+        "xgAgainst": null,
+        "xgFor": null
+      },
+      {
+        "competition": "ucl",
+        "date": "2026-09-08T19:00:00.000Z",
+        "goalsAgainst": 3,
+        "goalsFor": 2,
+        "matchId": "ucl-2627-r01-lil-bet",
+        "opponentId": "real-betis",
+        "result": "L",
+        "venue": "H",
+        "xgAgainst": null,
+        "xgFor": null
+      }
+    ],
+    "formComp": [
+      {
+        "competition": "ucl",
+        "date": "2026-11-03T20:00:00.000Z",
+        "goalsAgainst": 0,
+        "goalsFor": 0,
+        "matchId": "ucl-2627-r04-bod-lil",
+        "opponentId": "bodo-glimt",
+        "result": "D",
+        "venue": "A",
+        "xgAgainst": null,
+        "xgFor": null
+      },
+      {
+        "competition": "ucl",
+        "date": "2026-10-21T16:45:00.000Z",
+        "goalsAgainst": 4,
+        "goalsFor": 2,
+        "matchId": "ucl-2627-r03-lil-gal",
+        "opponentId": "galatasaray",
+        "result": "L",
+        "venue": "H",
+        "xgAgainst": null,
+        "xgFor": null
+      },
+      {
+        "competition": "ucl",
+        "date": "2026-10-13T19:00:00.000Z",
+        "goalsAgainst": 3,
+        "goalsFor": 0,
+        "matchId": "ucl-2627-r02-ars-lil",
+        "opponentId": "arsenal",
+        "result": "L",
+        "venue": "A",
+        "xgAgainst": null,
+        "xgFor": null
+      },
+      {
+        "competition": "ucl",
+        "date": "2026-09-08T19:00:00.000Z",
+        "goalsAgainst": 3,
+        "goalsFor": 2,
+        "matchId": "ucl-2627-r01-lil-bet",
+        "opponentId": "real-betis",
+        "result": "L",
+        "venue": "H",
+        "xgAgainst": null,
+        "xgFor": null
+      }
+    ],
+    "restDays": 22,
+    "standing": {
+      "drawn": 1,
+      "ga": 10,
+      "gd": -6,
+      "gf": 4,
+      "lost": 3,
+      "played": 4,
+      "pos": 35,
+      "pts": 1,
+      "won": 0
+    },
+    "teamId": "lille"
+  },
+  "kickoffUtc": "2026-11-25T20:00:00.000Z",
+  "market": null,
+  "matchId": "ucl-2627-r05-lil-bay",
+  "notes": [
+    "market: unavailable (no odds key at build time)",
+    "xG: no structured source for UCL; cite from research"
+  ],
+  "round": 5,
+  "schemaVersion": 1,
+  "season": "2627",
+  "seedRank": null
+}

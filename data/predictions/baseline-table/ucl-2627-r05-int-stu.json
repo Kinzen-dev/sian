@@ -1,0 +1,19 @@
+{
+  "btts": true,
+  "factpackHash": "f9f6a977e4f6742ada1b28727ea4c9392fed29f5a7cfbae6c70827254b6ade73",
+  "guruId": "baseline-table",
+  "kickoffUtc": "2026-11-25T20:00:00.000Z",
+  "kind": "baseline",
+  "lockedAt": "2026-11-22T22:55:41.338Z",
+  "matchId": "ucl-2627-r05-int-stu",
+  "note": "table positions 15 v 14",
+  "over25": true,
+  "pick": "A",
+  "probs": {
+    "A": 0.5,
+    "D": 0.26,
+    "H": 0.24
+  },
+  "schemaVersion": 1,
+  "scoreline": null
+}

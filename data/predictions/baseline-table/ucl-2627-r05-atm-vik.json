@@ -1,0 +1,19 @@
+{
+  "btts": true,
+  "factpackHash": "867d3a40631e0d839ecc75dd8967b24eb70e55c535e1dac98d39cba6d4660ba0",
+  "guruId": "baseline-table",
+  "kickoffUtc": "2026-11-25T20:00:00.000Z",
+  "kind": "baseline",
+  "lockedAt": "2026-11-22T22:55:41.338Z",
+  "matchId": "ucl-2627-r05-atm-vik",
+  "note": "table positions 23 v 22",
+  "over25": true,
+  "pick": "A",
+  "probs": {
+    "A": 0.5,
+    "D": 0.26,
+    "H": 0.24
+  },
+  "schemaVersion": 1,
+  "scoreline": null
+}

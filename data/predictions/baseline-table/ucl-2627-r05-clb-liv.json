@@ -1,0 +1,19 @@
+{
+  "btts": true,
+  "factpackHash": "1d6522a5b8c0515fc8054d6363d021c0445959e92ba5fa3ed99ed83182b1b303",
+  "guruId": "baseline-table",
+  "kickoffUtc": "2026-11-25T20:00:00.000Z",
+  "kind": "baseline",
+  "lockedAt": "2026-11-22T22:55:41.338Z",
+  "matchId": "ucl-2627-r05-clb-liv",
+  "note": "table positions 9 v 8",
+  "over25": true,
+  "pick": "A",
+  "probs": {
+    "A": 0.5,
+    "D": 0.26,
+    "H": 0.24
+  },
+  "schemaVersion": 1,
+  "scoreline": null
+}

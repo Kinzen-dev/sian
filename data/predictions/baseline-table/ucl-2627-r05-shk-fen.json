@@ -1,0 +1,19 @@
+{
+  "btts": true,
+  "factpackHash": "9740490e0e00ccb49473722c720550dcc3062c6a80d9b68764a49fee87f49c41",
+  "guruId": "baseline-table",
+  "kickoffUtc": "2026-11-25T20:00:00.000Z",
+  "kind": "baseline",
+  "lockedAt": "2026-11-22T22:55:41.338Z",
+  "matchId": "ucl-2627-r05-shk-fen",
+  "note": "table positions 21 v 19",
+  "over25": true,
+  "pick": "A",
+  "probs": {
+    "A": 0.5,
+    "D": 0.26,
+    "H": 0.24
+  },
+  "schemaVersion": 1,
+  "scoreline": null
+}

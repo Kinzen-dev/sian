@@ -1,0 +1,19 @@
+{
+  "btts": true,
+  "factpackHash": "540167bba093c9890ff715ec253e6b11266b55e9b1082be4274af0a61aff52ba",
+  "guruId": "baseline-table",
+  "kickoffUtc": "2026-11-25T17:45:00.000Z",
+  "kind": "baseline",
+  "lockedAt": "2026-11-22T22:55:41.338Z",
+  "matchId": "ucl-2627-r05-sla-vil",
+  "note": "table positions 34 v 28",
+  "over25": true,
+  "pick": "A",
+  "probs": {
+    "A": 0.5,
+    "D": 0.26,
+    "H": 0.24
+  },
+  "schemaVersion": 1,
+  "scoreline": null
+}
