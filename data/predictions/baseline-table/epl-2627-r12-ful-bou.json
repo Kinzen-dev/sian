@@ -1,0 +1,19 @@
+{
+  "btts": true,
+  "factpackHash": "ab52ae3216977d4bde25fe6da752d7723baf6f33d577add96593d263b8f58346",
+  "guruId": "baseline-table",
+  "kickoffUtc": "2026-11-29T14:05:00.000Z",
+  "kind": "baseline",
+  "lockedAt": "2026-11-26T15:57:53.642Z",
+  "matchId": "epl-2627-r12-ful-bou",
+  "note": "table positions 15 v 5",
+  "over25": true,
+  "pick": "A",
+  "probs": {
+    "A": 0.5,
+    "D": 0.26,
+    "H": 0.24
+  },
+  "schemaVersion": 1,
+  "scoreline": null
+}

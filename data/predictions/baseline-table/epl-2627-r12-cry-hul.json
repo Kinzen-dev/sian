@@ -1,0 +1,19 @@
+{
+  "btts": true,
+  "factpackHash": "7ec476cab4c63dc393b12b9b6164507a6027d30046f4d77fa94df66f1b17c28f",
+  "guruId": "baseline-table",
+  "kickoffUtc": "2026-11-29T14:05:00.000Z",
+  "kind": "baseline",
+  "lockedAt": "2026-11-26T15:57:53.642Z",
+  "matchId": "epl-2627-r12-cry-hul",
+  "note": "table positions 20 v 11",
+  "over25": true,
+  "pick": "A",
+  "probs": {
+    "A": 0.5,
+    "D": 0.26,
+    "H": 0.24
+  },
+  "schemaVersion": 1,
+  "scoreline": null
+}

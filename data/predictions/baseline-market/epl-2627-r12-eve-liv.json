@@ -1,0 +1,19 @@
+{
+  "btts": true,
+  "factpackHash": "8c950e3eb630d43751a86460f0d8ecbd72057b13c94b2d2b7b45448b33ed96f2",
+  "guruId": "baseline-market",
+  "kickoffUtc": "2026-11-29T12:00:00.000Z",
+  "kind": "baseline",
+  "lockedAt": "2026-11-26T15:57:53.642Z",
+  "matchId": "epl-2627-r12-eve-liv",
+  "note": "market median of 21 books",
+  "over25": true,
+  "pick": "A",
+  "probs": {
+    "A": 0.5318,
+    "D": 0.2496,
+    "H": 0.2186
+  },
+  "schemaVersion": 1,
+  "scoreline": null
+}
